@@ -36,8 +36,10 @@ h1 {
 }
 
 h2 {
-  font-size: $font-size-large;
-  line-height: 2.8rem;
+  font-size: $font-size-regular;
+  text-align: center;
+  margin-top: 1rem;
+  line-height: 2rem;
   margin-bottom: 0;
   @include breakpoint(medium) {
     margin-bottom: 2.5rem;
@@ -45,7 +47,9 @@ h2 {
 }
 
 h3 {
-  font-size: $font-size-regular;
+  font-size: 1.1rem;
+  font-weight: $font-weight-bold;
+  margin-top: 3rem;
 }
 
 h4 {
@@ -53,12 +57,17 @@ h4 {
 }
 
 p {
-  font-size: $font-size-small;
   line-height: 1.8rem;
-  text-align: center;
   margin: 1rem 0;
+  .index & {
+    text-align: center;
+    font-size: $font-size-small;
+  }
+  .coaching & {
+    font-size: 1.1rem;
+  }
 }
 
 strong {
-  font-weight: $font-weight-medium;
+  font-weight: $font-weight-light;
 }

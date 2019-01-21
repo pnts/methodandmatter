@@ -11,7 +11,9 @@
     <%= stylesheet_link_tag "mm" %>
     <%= javascript_include_tag "mm" %>
   </head>
-  <body>
-    <%= yield %>
-  </body>
+  <body class="<%= page_classes %>">
+
+  <%= yield %>
+
+</body>
 </html>
