@@ -5,10 +5,6 @@
 @import 'partials/normalize';
 
 body {
-  width: 100%;
-  height: 2000px;
-  margin: 0;
-  padding: 0;
   &.index {
     color: #f3f6f8;
     //background-color: #43404d;
@@ -16,13 +12,18 @@ body {
     background: rgb(48,44,58);
     background: linear-gradient(300deg, rgba(48,44,58,1) 5%, rgba(67,64,77,1) 62%, rgba(93,90,101,1) 100%);
   }
-  &.coaching {
+  &.coaching,
+  &.thanks {
     background-color: #f3f6f8;
   }
 }
 
 a {
   color: #707d4a;
+  border-bottom: 1px solid #707d4a;
+  &:hover {
+    border-bottom: 1px solid #707d4a;
+  }
 }
 
 .border {
@@ -37,7 +38,8 @@ a {
   .index & {
     border: 24px solid #f3f6f8;
   }
-  .coaching & {
+  .coaching &,
+  .thanks & {
     border: 24px solid #43404d;
   }
 }
@@ -45,18 +47,22 @@ a {
 .container {
   position: relative;
   z-index: 10;
+  margin: 0 auto;
   .index & {
     width: 20rem;
   }
-  .coaching & {
-    width: 35rem;
+  .coaching &,
+  .thanks & {
+    max-width: 41rem;
     padding-bottom: 10rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
   }
-  margin: 0 auto;
 }
 
 .mm {
-  .index & {
+  .index &,
+  .thanks & {
     width: 7rem;
     margin: 25vh auto 0 auto;
   }
