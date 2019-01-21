@@ -58,14 +58,13 @@ a {
 
 
 .container {
-  position: relative;
   margin: 0 auto;
   .index & {
-    width: 20rem;
+    max-width: calc(30rem - 40px);
   }
   .coaching &,
   .thanks & {
-    max-width: 41rem;
+    max-width: calc(41rem - 40px);
     padding-bottom: 5rem;
     padding-left: 3rem;
     padding-right: 3rem;
