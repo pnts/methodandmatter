@@ -4,20 +4,41 @@
 @import 'partials/scaffolding';
 @import 'partials/normalize';
 
-body {
-  width: 100%;
-  height: 2000px;
-  &.index {
-    color: #f3f6f8;
-    //background-color: #43404d;
-    background: rgb(48,44,58);
-    background: rgb(48,44,58);
-    background: linear-gradient(300deg, rgba(48,44,58,1) 5%, rgba(67,64,77,1) 62%, rgba(93,90,101,1) 100%);
-  }
+body, html {
+  height: 100%;
   &.coaching,
   &.thanks {
     background-color: #f3f6f8;
   }
+}
+
+.hero {
+  height: 100%;
+  color: #FFFFFF;
+
+  img {
+    width: 10rem;
+    display: block;
+    margin: 0 auto;
+    padding-top: 30vh;
+  }
+}
+
+.index {
+  background-image: image-url('jungle.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hello {
+  background-image: image-url('tropical.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact-form {
+  max-width: 40rem;
+  margin: 3rem auto;
 }
 
 a {
@@ -28,40 +49,9 @@ a {
   }
 }
 
-.top, .bottom, .left, .right {
-  .coaching &,
-  .thanks & {
-    background: #43404d;
-  }
-  .index & {
-    background: #f3f6f8;
-  }
-	position: fixed;
-  z-index: 10;
-}
-
-.left, .right {
-	top: 0; bottom: 0;
-	width: 20px;
-}
-
-.left { left: 0; }
-.right { right: 0; }
-
-.top, .bottom {
-  left: 0; right: 0;
-	height: 20px;
-}
-
-.top { top: 0; }
-.bottom { bottom: 0; }
-
-
 .container {
   margin: 0 auto;
-  .index & {
-    max-width: calc(30rem - 40px);
-  }
+
   .coaching &,
   .thanks & {
     max-width: calc(41rem - 40px);
@@ -71,20 +61,7 @@ a {
   }
 }
 
-.mm {
-  .index &,
-  .thanks & {
-    width: 7rem;
-    margin: 25vh auto 0 auto;
-  }
-  .thanks & {
-    margin-bottom: 2rem;
-  }
-  .coaching & {
-    width: 4.5rem;
-    margin: 8vh auto 0 auto;
-  }
-}
+
 
 .center {
   text-align: center;

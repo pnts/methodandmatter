@@ -32,6 +32,7 @@ GEM
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     kramdown (1.17.0)
+    libv8 (7.3.492.27.1)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -72,6 +73,8 @@ GEM
       uglifier (~> 3.0)
     middleman-gh-pages (0.4.1)
       rake (> 0.9.3)
+    mini_racer (0.2.8)
+      libv8 (>= 6.9.411)
     minitest (5.11.3)
     padrino-helpers (0.13.3.4)
       i18n (~> 0.6, >= 0.6.7)
@@ -106,6 +109,7 @@ DEPENDENCIES
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
   middleman-gh-pages
+  mini_racer
   tzinfo-data
   wdm (~> 0.1)
 
