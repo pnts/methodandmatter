@@ -128,8 +128,36 @@ em {
 }
 
 footer {
+  margin-top: 4rem;
   .container {
     border-top: 1px solid #CCC;
+    font-size: .85rem !important;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    li {
+      display: inline-block;
+    }
+  }
+  .tm {
+    text-align: right;
+    color: #999;
+  }
+}
+
+.sign-up .container {
+    text-align: center;
+}
+
+.button {
+  display: inline-block;
+  border: 3px solid #222;
+  padding: 1rem 3rem;
+  text-align: center;
+  margin: 0 auto;
+  &:hover {
+    border-width: 3px;
   }
 }
 
