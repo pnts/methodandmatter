@@ -12,22 +12,26 @@ body, html {
   }
 }
 
-.hero {
-  height: 100%;
-  color: #FFFFFF;
-
-  img {
-    width: 10rem;
-    display: block;
-    margin: 0 auto;
-    padding-top: 30vh;
-  }
+h2, h3 {
+  margin-bottom: 0;
 }
 
-.index {
+.hero {
+  color: #FFFFFF;
   background-image: image-url('jungle.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+
+  img {
+    width: 2.5rem;
+    display: block;
+    margin: 0 auto;
+    padding-top: 9vh;
+  }
+  p {
+    font-size: 1.2rem;
+    padding-bottom: 10vh;
+  }
 }
 
 .hello {
@@ -51,6 +55,9 @@ a {
 
 .container {
   margin: 0 auto;
+  max-width: 46rem;
+  padding: 2rem;
+  text-align: left;
 
   .coaching &,
   .thanks & {
@@ -59,12 +66,35 @@ a {
     padding-left: 3rem;
     padding-right: 3rem;
   }
+
+  .secondary & {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
 }
 
-
+.qualifications {
+  ul {
+    list-style-type: none;
+    margin: 1rem 0 0 0;
+    padding: 0;
+  }
+  p {
+    margin-top: 0;
+    font-size: .8rem;
+  }
+  li {
+    margin: 0;
+    padding: 0;
+  }
+}
 
 .center {
   text-align: center;
+}
+
+.alternative-stripe {
+  background: #EEE;
 }
 
 .contact-form {
@@ -86,15 +116,21 @@ ul {
 }
 
 blockquote {
-  font-size: 1.3rem;
+  //font-size: 1.3rem;
   line-height: 1.9rem;
   padding: 0;
-  margin: 0 !important;
-  font-weight: 300 !important;
+  margin-left: 0 !important;
+  //font-weight: 300 !important;
 }
 
 em {
   font-weight: 300;
+}
+
+footer {
+  .container {
+    border-top: 1px solid #CCC;
+  }
 }
 
 .contact-form {
