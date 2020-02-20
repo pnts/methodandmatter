@@ -16,11 +16,16 @@ h2, h3 {
   margin-bottom: 0;
 }
 
+
 .hero {
   color: #FFFFFF;
   background-image: image-url('jungle.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+
+  .container {
+    max-width: 50rem;
+  }
 
   img {
     width: 2.5rem;
@@ -29,7 +34,7 @@ h2, h3 {
     padding-top: 9vh;
   }
   p {
-    font-size: 1.2rem;
+    font-size: $font-size-regular;
     padding-bottom: 10vh;
   }
 }
@@ -75,17 +80,22 @@ a {
 
 .qualifications {
   ul {
-    list-style-type: none;
     margin: 1rem 0 0 0;
     padding: 0;
+    list-style-type: none;
+  }
+  h4 {
+    //font-weight: $font-weight-medium;
+    font-size: 1.4rem;
   }
   p {
     margin-top: 0;
-    font-size: .8rem;
+    font-size: 1rem;
+    line-height: 1.4rem;
   }
   li {
     margin: 0;
-    padding: 0;
+    padding: 0 0 .3rem 0;
   }
 }
 
@@ -150,9 +160,16 @@ footer {
     text-align: center;
 }
 
-.approach ul {
-  font-size: 1rem;
-  margin-right: 3rem;
+.approach {
+  ul {
+    font-size: 1.1rem;
+    margin-right: 3rem;
+    margin-left: 0;
+    margin-top: 1.7rem;
+    margin-bottom: 2rem;
+    background: #EEE;
+    padding: 1rem 3rem;
+  }
 }
 
 .button {

@@ -22,8 +22,8 @@ body {
 
 $font-size-x-large: 2.6rem;
 $font-size-large: 2rem;
-$font-size-regular: 1.6rem;
-$font-size-small: 1rem;
+$font-size-regular: 1.4rem;
+$font-size-small: 1.2rem;
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: $font-weight-light;
@@ -31,12 +31,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: $font-size-x-large;
   color: white;
 }
 
 h2 {
-  font-size: $font-size-regular;
+  font-size: $font-size-large;
   text-align: center;
   margin-top: 1rem;
   line-height: 2rem;
@@ -57,7 +57,7 @@ h4 {
 }
 
 p {
-  line-height: 1.8rem;
+  line-height: 1.9rem;
   margin: 1rem 0;
   .index & {
     //text-align: center;
