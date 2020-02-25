@@ -60,7 +60,7 @@ a {
 
 .container {
   margin: 0 auto;
-  max-width: 46rem;
+  max-width: 48rem;
   padding: 2rem;
   text-align: left;
 
@@ -75,6 +75,7 @@ a {
   .secondary & {
     padding-top: 5rem;
     padding-bottom: 5rem;
+    //max-width: 48rem;
   }
 }
 
@@ -97,6 +98,16 @@ a {
     margin: 0;
     padding: 0 0 .3rem 0;
   }
+}
+
+h2 {
+  font-weight: $font-weight-medium;
+}
+
+p.lead {
+  font-size: 1.6rem;
+  line-height: 2.2rem;
+  margin: 2rem 0;
 }
 
 .center {
@@ -162,7 +173,7 @@ footer {
 
 .approach {
   h3 {
-    margin-top: 0rem !important;
+    //margin-top: 0rem !important;
   }
   ul {
     font-size: 1.1rem;
@@ -183,6 +194,7 @@ footer {
   .source {
     font-size: 1rem;
     font-style: italic;
+    margin-bottom: 3rem;
   }
 }
 
