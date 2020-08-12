@@ -20,6 +20,7 @@ body {
   //line-height: $line-height-body;
 }
 
+$font-size-x-x-large: 3.4rem;
 $font-size-x-large: 2.6rem;
 $font-size-large: 2rem;
 $font-size-regular: 1.4rem;
@@ -31,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: $font-size-x-large;
+  font-size: $font-size-x-x-large;
   font-weight: $font-weight-medium;
   color: white;
 }
