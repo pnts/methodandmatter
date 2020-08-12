@@ -91,7 +91,7 @@ nav {
     left: 1rem;
     font-size: $font-size-regular;
     @include breakpoint(large) {
-      top: 25%;
+      top: 21%;
       left: 3rem;
       font-size: $font-size-x-x-large;
       max-width: 35rem;
@@ -248,10 +248,12 @@ input[type=submit] {
   padding: 4rem 0 3rem 0;
   h2 {
     text-align: center;
-    font-weight: $font-weight-medium;
+    font-weight: $font-weight-book;
+    font-size: $font-size-large;
   }
   .lead {
     font-size: $font-size-regular;
+    font-weight: $font-weight-light;
     line-height: 2.4rem;
   }
   .inner {
