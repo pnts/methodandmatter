@@ -79,9 +79,8 @@ nav {
 .workshops .workshops a,
 .about .about a,
 .reading .reading a {
-  border-bottom: 2px solid $yellow;
+  border-bottom: 2px solid $pink;
 }
-
 
 .hero {
   position: relative;
@@ -92,7 +91,7 @@ nav {
     left: 1rem;
     font-size: $font-size-regular;
     @include breakpoint(large) {
-      top: 35%;
+      top: 25%;
       left: 3rem;
       font-size: $font-size-x-x-large;
       max-width: 35rem;
@@ -110,10 +109,35 @@ nav {
 }
 
 footer {
-  text-align: center;
   clear: both;
+  background: #222;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+  a {
+    color: #FFF;
+  }
+  .inner {
+    margin: auto 3rem;
+  }
+  .logo {
+    display: block;
+    @include breakpoint(medium) {
+      display: block;
+      float: left;
+      margin-top: 2rem;
+    }
+    background-image: image-url('mm-white.png');
+    width: 37px;
+    height: 50px;
+    background-size: 37px 50px;
+    text-indent: -99999rem;
+    border: 0;
+  }
   ul {
     margin: 3rem auto;
+    @include breakpoint(medium) {
+      float: right;
+    }
     li {
       display: block;
       text-align: center;
@@ -123,6 +147,9 @@ footer {
         margin: 0 1rem;
       }
     }
+  }
+  .copyright {
+    clear: both;
   }
 }
 
@@ -303,8 +330,6 @@ input[type=submit] {
   margin-top: 3rem;
 }
 
-
-
 .about .col-2 h3 {
   margin: 2rem 0 2rem 0;
   span {
@@ -318,9 +343,14 @@ input[type=submit] {
   font-size: .9rem;
 }
 
-.upcoming {
-  margin-top: -1.5rem;
+ul.bullets {
+  list-style-type: disc;
   li {
-    margin: .7rem 0;
+    padding: .5rem 0;
   }
+}
+
+p.source {
+  color: $medium-gray;
+  font-size: $font-size-small;
 }
