@@ -13,6 +13,8 @@ $font-heading: "Ideal Sans A", "Ideal Sans B", "Helvetica", "Arial", sans-serif;
 
 $font-size-base: 16px;
 
+$font-size-base: 16px;
+
 body {
   font-family: $font-heading;
   font-weight: $font-weight-light;
@@ -23,8 +25,9 @@ body {
 $font-size-x-x-large: 3.4rem;
 $font-size-x-large: 2.6rem;
 $font-size-large: 2rem;
-$font-size-regular: 1.4rem;
-$font-size-small: 1.2rem;
+$font-size-regular: 1.6rem;
+$font-size-quote: 1.4rem;
+$font-size-small: 1rem;
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: $font-weight-light;
@@ -33,15 +36,13 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: $font-size-x-x-large;
-  font-weight: $font-weight-medium;
-  color: white;
+  line-height: 3.8rem;
+  margin-bottom: 3rem;
 }
 
 h2 {
   font-size: $font-size-large;
-  text-align: center;
-  margin-top: 1rem;
-  line-height: 2rem;
+  line-height: 2.8rem;
   margin-bottom: 0;
   @include breakpoint(medium) {
     margin-bottom: 2.5rem;
@@ -49,9 +50,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.1rem;
-  font-weight: $font-weight-bold;
-  margin-top: 3rem;
+  font-size: $font-size-regular;
 }
 
 h4 {
@@ -59,17 +58,7 @@ h4 {
 }
 
 p {
-  line-height: 1.9rem;
-  margin: 1rem 0;
-  .index & {
-    //text-align: center;
-    font-size: $font-size-small;
-  }
-  .coaching & {
-    font-size: 1.1rem;
-  }
-}
-
-strong {
-  font-weight: $font-weight-light;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  margin: 2rem 0;
 }

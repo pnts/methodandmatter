@@ -12,20 +12,25 @@
     <%= javascript_include_tag "mm" %>
   </head>
   <body class="<%= page_classes %>">
-    <nav>
-      <div class="container large">
+    <header>
+      <div class="inner">
         <div class="site-branding">
-          <%= link_to('methodandmatter.com', '/', :class => 'logo') %>
+          <%= link_to('method + matter', '/', :class => 'logo') %>
         </div>
-        <ul>
-          <li class="coaching"><%= link_to('coaching', 'coaching') %> </li>
-          <li class="workshops"><%= link_to('workshops', 'workshops') %> </li>
-          <li class="about"><%= link_to('about', 'about') %> </li>
-        </ul>
+        <nav>
+          <ul>
+            <li class="coaching"><%= link_to('coaching', 'coaching') %> </li>
+            <li class="workshops"><%= link_to('workshops', 'workshops') %> </li>
+            <li class="about"><%= link_to('about', 'about') %> </li>
+          </ul>
+        </nav
       </div>
-    </nav>
+    </header>
 
-  <%= yield %>
+    <main>
+      <%= yield %>
+    </main>
 
-</body>
+    <%= partial "footer" %>
+  </body>
 </html>
