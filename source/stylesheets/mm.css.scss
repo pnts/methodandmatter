@@ -82,19 +82,32 @@ nav {
   border-bottom: 2px solid $pink;
 }
 
+.index .hero img {
+  height: 20rem;
+  @include breakpoint(large) {
+    height: auto;
+  }
+}
+
 .hero {
   position: relative;
   h1 {
     position: absolute;
     color: $reversed-out-text;
-    top: 25%;
+    top: 15%;
     left: 1rem;
     font-size: $font-size-regular;
+    font-weight: $font-weight-book;
+    line-height: 2rem;
+    padding-right: 3rem;
     @include breakpoint(large) {
       top: 21%;
       left: 3rem;
       font-size: $font-size-x-x-large;
+      font-weight: $font-weight-light;
       max-width: 35rem;
+      padding-right: 0;
+      line-height: 3.6rem;
     }
   }
   span {
@@ -254,7 +267,7 @@ input[type=submit] {
   .lead {
     font-size: $font-size-regular;
     font-weight: $font-weight-light;
-    line-height: 2.4rem;
+    line-height: 2.2rem;
   }
   .inner {
     max-width: 45rem;
