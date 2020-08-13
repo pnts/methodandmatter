@@ -85,9 +85,11 @@ nav {
 
 .hero {
   position: relative;
-  background-image: image-url("swiss-cheese.png");
-  background-size: cover;
-  height: 30rem;
+  .index & {
+    background-image: image-url("ferns.png");
+    background-size: cover;
+    height: 30rem;
+  }
   h1 {
     position: absolute;
     color: $reversed-out-text;
