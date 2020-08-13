@@ -82,15 +82,12 @@ nav {
   border-bottom: 2px solid $pink;
 }
 
-.index .hero img {
-  height: 20rem;
-  @include breakpoint(large) {
-    height: auto;
-  }
-}
 
 .hero {
   position: relative;
+  background-image: image-url("swiss-cheese.png");
+  background-size: cover;
+  height: 30rem;
   h1 {
     position: absolute;
     color: $reversed-out-text;
