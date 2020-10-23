@@ -82,23 +82,36 @@ nav {
   border-bottom: 2px solid $pink;
 }
 
-
 .hero {
   position: relative;
+  height: 28rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
   .index & {
-    background-image: image-url("ferns.png");
-    background-size: cover;
-    height: 30rem;
+    background-image: image-url("header-geometric.png");
+  }
+  .coaching & {
+    background-image: image-url("ind-coaching.png");
+  }
+  .workshops & {
+    background-image: image-url("workshops.png");
+  }
+  .team-coaching & {
+    background-image: image-url("team-coaching.png");
+  }
+  .about & {
+    background-image: image-url("about.png");
   }
   h1 {
     position: absolute;
-    color: $reversed-out-text;
     top: 15%;
     left: 1rem;
     font-size: $font-size-regular;
     font-weight: $font-weight-book;
     line-height: 2rem;
     padding-right: 3rem;
+    max-width: 80%;
     @include breakpoint(large) {
       top: 21%;
       left: 3rem;
@@ -107,6 +120,9 @@ nav {
       max-width: 35rem;
       padding-right: 0;
       line-height: 3.6rem;
+      &.longer {
+        max-width: 45rem;
+      }
     }
   }
   span {
@@ -118,6 +134,12 @@ nav {
       margin-top: 0rem;
     }
   }
+}
+
+.mission-statement {
+  background-image: image-url("journey.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 footer {
@@ -359,8 +381,18 @@ input[type=submit] {
 
 ul.bullets {
   list-style-type: disc;
-  li {
-    padding: .5rem 0;
+}
+
+ul.bullets, ol {
+  padding: 0;
+  p {
+    margin: .7rem 0;
+  }
+}
+
+ol {
+  p {
+    margin: 1.5em 0;
   }
 }
 
