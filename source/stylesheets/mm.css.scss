@@ -414,6 +414,10 @@ input[type=submit] {
 
 ul.bullets {
   list-style-type: disc;
+  margin-bottom: 2rem;
+  li {
+    margin-bottom: .5rem;
+  }
 }
 
 ul.bullets, ol {
