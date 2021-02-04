@@ -88,7 +88,8 @@ nav {
 .workshops .workshops a,
 .about .about a,
 .reading .reading a,
-.team-coaching .team-coaching a {
+.team-coaching .team-coaching a,
+.resources .resources a {
   border-bottom: 1px solid $pink;
 }
 
@@ -154,11 +155,12 @@ nav {
   background-repeat: no-repeat;
   h2 {
     text-align: left;
-    margin-bottom: -.5rem;
+    margin-bottom: 0rem;
     font-weight: $font-weight-book;
-    line-height: 1.8rem;
+    font-size: $font-size-x-large;
+    line-height: 2.8rem;
     @include breakpoint(large) {
-      font-size: $font-size-large;
+      font-size: $font-size-x-large;
       font-weight: $font-weight-light;
       text-align: center;
     }
@@ -168,10 +170,15 @@ nav {
   }
   p {
     padding-right: 3rem;
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+    font-weight: $font-weight-super-light;
   }
   .inner {
-    max-width: 36rem;
-    margin: 0 auto;
+    @include breakpoint(large) {
+      max-width: 53rem;
+      margin: 0 auto;
+    }
   }
 }
 
@@ -295,6 +302,9 @@ input[type=submit] {
 
 .col-1 {
   grid-area: header;
+  h2 {
+    margin-bottom: 1rem;
+  }
 
   @include breakpoint(medium) {
     max-width: 60%;
@@ -303,9 +313,116 @@ input[type=submit] {
 
 .col-2 {
   grid-area: content;
+  margin-top: .5rem;
   h2 {
     margin-top: 2rem;
     margin-bottom: 0;
+  }
+}
+
+.design-leadership {
+  color: $white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-image: image-url("designleadership/gradient.png");
+
+  .the-book {
+    margin-top: 2rem;
+
+    max-width: 22rem;
+    @include breakpoint(medium) {
+      float: right;
+      margin-right: -10rem;
+      margin-bottom: 1rem;
+    }
+  }
+
+  .col-2 {
+    padding: 1rem;
+
+    @include breakpoint(medium) {
+      margin-top: 3rem;
+      p {
+        margin-right: 15rem;
+      }
+    }
+  }
+
+  .button {
+    display: inline-block;
+    background: #FFF;
+    border-radius: 10rem;
+    text-transform: uppercase;
+    font-size: .8rem;
+    text-align: center;
+    padding: .6rem 1.5rem .5rem 1.5rem;
+    font-weight: $font-weight-medium;
+    color: #6D4AE8;
+    //margin-bottom: 3rem;
+    &:hover {
+      color: #FFF;
+      background: #6D4AE8;
+    }
+  }
+
+  .survey {
+    max-width: 35rem;
+    height: 100%;
+    margin: 4rem auto;
+  }
+
+  .mc-field-group {
+    display: inline;
+    float: left;
+  }
+
+  .mc-status {
+    //padding-top: .5rem;
+  }
+
+  .success-message {
+    color: #FFF;
+  }
+
+  .error-message {
+    color: #F67CF9;
+    display: inline-block;
+  }
+
+  #mc_embed_signup_scroll {
+    margin-bottom: .5rem;
+  }
+
+  input {
+    border-radius: 3px;
+    border: 0;
+    padding: .39rem .4rem .39rem .4rem;
+    display: inline;
+    &:focus {
+      outline: 0;
+    }
+  }
+
+  input[type=email] {
+    width: 14rem;
+  }
+
+  input[type=submit] {
+    //background-color: $yellow;
+    //color: $dark-grey;
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
+    margin-left: .5rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    //font-size: $font-size-small;
+    @include breakpoint(medium) {
+      margin-top: 0;
+    }
+    &:hover {
+      cursor: pointer;
+    }
   }
 }
 
@@ -481,4 +598,11 @@ ol {
 p.source {
   color: $medium-gray;
   font-size: $font-size-small;
+}
+
+.colophon {
+  font-size: $font-size-small;
+  text-align: center;
+  color: #CCC;
+  line-height: 1.3rem;
 }

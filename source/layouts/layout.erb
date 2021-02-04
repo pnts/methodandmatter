@@ -8,7 +8,7 @@
     <meta name="description" content="<%= current_page.data.description %>" />
     <meta name="keywords" content="<%= current_page.data.keywords %>" />
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "/// method & matter" %></title>
+    <title>method & matter - <%= current_page.data.title || "method & matter" %></title>
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6543216/6501012/css/fonts.css" />
     <%= stylesheet_link_tag "mm" %>
     <%= javascript_include_tag "mm" %>
@@ -24,6 +24,7 @@
             <li class="coaching"><%= link_to('individual coaching', 'coaching') %> </li>
             <li class="team-coaching"><%= link_to('team coaching', 'team-coaching') %> </li>
             <li class="workshops"><%= link_to('workshops', 'workshops') %> </li>
+            <li class="resources"><%= link_to('resources', 'resources') %> </li>
             <li class="about"><%= link_to('about', 'about') %> </li>
           </ul>
         </nav
