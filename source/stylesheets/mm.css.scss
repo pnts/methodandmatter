@@ -96,22 +96,23 @@ nav {
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: left;
   height: 38rem;
+  margin-bottom: 2rem;
   @include breakpoint(large) {
     height: 28rem;
   }
   .index & {
-    background-image: image-url("header-geometric.png");
+    background-image: image-url("headers/header-1.png");
   }
   .coaching & {
-    background-image: image-url("ind-coaching.png");
+    background-image: image-url("headers/header-2.png");
   }
   .workshops & {
-    background-image: image-url("workshops.png");
+    background-image: image-url("headers/header-4.png");
   }
   .team-coaching & {
-    background-image: image-url("team-coaching.png");
+    background-image: image-url("headers/header-3.png");
   }
   .about & {
     //background-image: image-url("about.png");
@@ -126,7 +127,7 @@ nav {
     padding-right: 2rem;
     max-width: 80%;
     @include breakpoint(large) {
-      top: 21%;
+      top: 16%;
       left: 3rem;
       font-size: $font-size-x-x-large;
       font-weight: $font-weight-light;
@@ -231,6 +232,16 @@ footer {
   }
 }
 
+.btn {
+  border-bottom: 0;
+  text-transform: uppercase;
+  font-size: $font-size-small;
+  background: #FFF;
+  padding: .5rem 1rem;
+  border-radius: 5rem;
+  box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, .2);
+}
+
 input {
   border-radius: 3px;
   border: 0;
@@ -296,6 +307,41 @@ input[type=submit] {
   h2 {
     margin-top: 2rem;
     margin-bottom: 0;
+  }
+}
+
+.get-in-touch {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "contact"
+    "superpeer";
+
+  @include breakpoint(medium) {
+    padding: 0;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas:
+      "contact superpeer";
+  }
+  .contact, .superpeer {
+    padding: 1rem 1rem 3rem 1rem;
+  }
+  .contact {
+    //background: #EEE;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-image: image-url("headers/consultation-bg.png");
+  }
+  .superpeer {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-image: image-url("headers/superpeer-bg.png");
+  }
+  .contact, .superpeer {
+    padding-right: 3rem;
+    padding-left: 2rem;
   }
 }
 
