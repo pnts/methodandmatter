@@ -97,7 +97,7 @@ nav {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left;
-  height: 38rem;
+  height: 42rem;
   margin-bottom: 2rem;
   @include breakpoint(large) {
     height: 28rem;
@@ -114,16 +114,13 @@ nav {
   .team-coaching & {
     background-image: image-url("headers/header-3.png");
   }
-  .about & {
-    //background-image: image-url("about.png");
-  }
   h1 {
     position: absolute;
-    top: 15%;
+    top: 5%;
     left: 1rem;
-    font-size: $font-size-regular;
     font-weight: $font-weight-book;
-    line-height: 2rem;
+    font-size: $font-size-x-large;
+    line-height: 3.2rem;
     padding-right: 2rem;
     max-width: 80%;
     @include breakpoint(large) {
@@ -158,7 +155,6 @@ nav {
   h2 {
     text-align: left;
     margin-bottom: -.5rem;
-    font-size: $font-size-regular;
     font-weight: $font-weight-book;
     line-height: 1.8rem;
     @include breakpoint(large) {
@@ -235,11 +231,14 @@ footer {
 .btn {
   border-bottom: 0;
   text-transform: uppercase;
-  font-size: $font-size-small;
+  font-size: $font-size-x-small;
   background: #FFF;
   padding: .5rem 1rem;
   border-radius: 5rem;
   box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, .2);
+  @include breakpoint(large) {
+    font-size: $font-size-small;
+  }
 }
 
 input {
