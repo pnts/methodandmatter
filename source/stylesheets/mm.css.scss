@@ -534,12 +534,21 @@ input[type=submit] {
   }
 }
 
+.book-section ~ ul {
+  margin-top: 3rem;
+}
+
 .book-cover {
   display: block;
-  width: 240px;
-  border: 1px solid #EEE;
-  margin: 0 auto;
-  margin-bottom: 2rem;
+  float: left;
+  width: 190px;
+  height: 350px;
+  //border: 1px solid #EEE;
+  //margin: 0 auto;
+  margin-bottom: 1rem;
+  a {
+    border-bottom: 0;
+  }
   @include breakpoint(medium) {
     display: inline-block;
     margin-bottom: 0;
