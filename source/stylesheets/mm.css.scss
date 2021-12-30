@@ -612,10 +612,30 @@ p.source {
 .colophon {
   font-size: $font-size-small;
   text-align: center;
-  color: #CCC;
+  color: #999;
   line-height: 1.3rem;
 }
 
 .nickname {
   margin-top: -.7rem;
+}
+
+.announcement {
+  background-color: rgb(10,69,98);
+  color: #FFF;
+  text-align: center;
+  margin-top: -2rem;
+  p {
+    padding: 1em;
+  }
+  small {
+    color: #CCC;
+  }
+  a {
+    color: rgb(123, 188, 229);
+    border-bottom: 1px solid rgb(123, 188, 229);
+    &:hover {
+      border-bottom: 1px solid #FFF;
+    }
+  }
 }
