@@ -79,9 +79,16 @@ nav {
   display: block;
   display: inline-block;
   float: left;
-  margin-top: .5rem;
+  //margin-top: .5rem;
+  padding-left: 2.5rem;
+  padding-top: 7px;
+  padding-bottom: 7px;
   border: 0;
   text-transform: uppercase;
+  background-image: image-url("headers/mm-round.png");
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: 30px 30px;
 }
 
 .coaching .coaching a,
@@ -104,16 +111,16 @@ nav {
     height: 28rem;
   }
   .index & {
-    background-image: image-url("headers/header-1.png");
+    background-image: image-url("headers/mm-winter-2022-5.png");
   }
   .coaching & {
-    background-image: image-url("headers/header-2.png");
+    background-image: image-url("headers/mm-winter-2022-2.png");
   }
   .workshops & {
-    background-image: image-url("headers/header-4.png");
+    background-image: image-url("headers/mm-winter-2022-3.png");
   }
   .team-coaching & {
-    background-image: image-url("headers/header-3.png");
+    background-image: image-url("headers/mm-winter-2022-4.png");
   }
   h1 {
     position: absolute;
@@ -124,6 +131,7 @@ nav {
     line-height: 3.2rem;
     padding-right: 2rem;
     max-width: 80%;
+    color: #FFF;
     @include breakpoint(large) {
       top: 16%;
       left: 3rem;
@@ -153,6 +161,7 @@ nav {
   background-image: image-url("journey.png");
   background-size: cover;
   background-repeat: no-repeat;
+  margin-top: -2rem;
   h2 {
     text-align: left;
     margin-bottom: 0rem;
@@ -621,7 +630,7 @@ p.source {
 }
 
 .announcement {
-  background-color: rgb(10,69,98);
+  background-color: #545D67;
   color: #FFF;
   text-align: center;
   margin-top: -2rem;
@@ -629,13 +638,13 @@ p.source {
     padding: 1em;
   }
   small {
-    color: #CCC;
+    color: #EEE;
   }
   a {
-    color: rgb(123, 188, 229);
-    border-bottom: 1px solid rgb(123, 188, 229);
+    color: #FFF;
+    border-bottom: 1px solid #FFF;
     &:hover {
-      border-bottom: 1px solid #FFF;
+      border-bottom: 1px solid rgb(123, 188, 229);
     }
   }
 }
