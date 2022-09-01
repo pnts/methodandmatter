@@ -420,13 +420,19 @@ img.bio {
   margin-top: 1.5rem;
 }
 
-.training h3 {
-  margin-bottom: -1.5rem;
-}
-
 .col-2 h3 {
   margin-bottom: -1.5rem;
   line-height: 2.3rem;
+}
+
+.training .col-2 h3 {
+  margin-bottom: 0;
+  line-height: 2rem;
+}
+
+.training p {
+  margin-bottom: 3rem;
+  margin-top: .5rem;
 }
 
 .video-container {
