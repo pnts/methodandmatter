@@ -100,14 +100,11 @@ nav {
 }
 
 .hero {
-  position: relative;
   margin-bottom: 2rem;
   h1 {
     font-weight: $font-weight-book;
     font-size: $font-size-x-large;
     line-height: 3.2rem;
-    //max-width: 80%;
-    color: #000;
     @include breakpoint(large) {
       padding:  4rem 0 0 3rem;
       font-size: $font-size-x-x-large;
@@ -117,15 +114,6 @@ nav {
       &.longer {
         max-width: 45rem;
       }
-    }
-  }
-  span {
-    display: block;
-    font-size: 1rem;
-    margin-top: -1.5rem;
-    @include breakpoint(large) {
-      font-size: 1.6rem;
-      margin-top: 0rem;
     }
   }
 }
@@ -254,7 +242,7 @@ input[type=submit] {
 .col-1 {
   grid-area: header;
   h2 {
-    margin-bottom: 1rem;
+    //margin-bottom: 1rem;
     line-height: 2.2rem;
   }
 
@@ -269,6 +257,9 @@ input[type=submit] {
   h2 {
     margin-top: 2rem;
     margin-bottom: 0;
+  }
+  > h3 {
+    margin-top: 1rem;
   }
 }
 
@@ -409,17 +400,10 @@ input[type=submit] {
   margin-top: 2rem;
 }
 
-.bio .bio {
-  padding-top: 4rem;
-  margin: 0 auto;
+img.bio {
+  margin-top: 0;
   @include breakpoint(large) {
-    max-width: 50%;
-  }
-  @include breakpoint(xlarge) {
-    max-width: 40%;
-  }
-  img {
-    margin-bottom: 2rem;
+    margin-top: 2rem;
   }
 }
 
@@ -535,5 +519,8 @@ p.source {
 }
 
 .nickname {
-  margin-top: -.7rem;
+  margin-top: .4rem;
+  @include breakpoint(large) {
+    margin-top: -.8rem;
+  }
 }
