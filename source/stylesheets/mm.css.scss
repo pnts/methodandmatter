@@ -79,7 +79,6 @@ nav {
   display: block;
   display: inline-block;
   float: left;
-  //margin-top: .5rem;
   padding-left: 2.5rem;
   padding-top: 7px;
   padding-bottom: 7px;
@@ -110,8 +109,8 @@ nav {
   @include breakpoint(large) {
     height: 28rem;
   }
-  .index & {
-    background-image: image-url("headers/mm-winter-2022-5.png");
+/*  .index & {
+    background-image: image-url("headers/mm-winter-2022-6.png");
   }
   .coaching & {
     background-image: image-url("headers/mm-winter-2022-2.png");
@@ -121,24 +120,22 @@ nav {
   }
   .team-coaching & {
     background-image: image-url("headers/mm-winter-2022-4.png");
-  }
+  } */
   h1 {
-    position: absolute;
-    top: 5%;
-    left: 1rem;
+    //position: absolute;
+    //top: 5%;
+    padding:  2rem 0 0 3rem;
     font-weight: $font-weight-book;
     font-size: $font-size-x-large;
     line-height: 3.2rem;
     padding-right: 2rem;
     max-width: 80%;
-    color: #FFF;
+    color: #000;
     @include breakpoint(large) {
-      top: 16%;
-      left: 3rem;
+      padding:  4rem 0 0 3rem;
       font-size: $font-size-x-x-large;
       font-weight: $font-weight-light;
-      max-width: 35rem;
-      padding-right: 0;
+      max-width: 38rem;
       line-height: 3.6rem;
       &.longer {
         max-width: 45rem;
@@ -152,41 +149,6 @@ nav {
     @include breakpoint(large) {
       font-size: 1.6rem;
       margin-top: 0rem;
-    }
-  }
-}
-
-.mission-statement {
-  padding: 4rem 0 1rem 0;
-  background-image: image-url("journey.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  margin-top: -2rem;
-  h2 {
-    text-align: left;
-    margin-bottom: 0rem;
-    font-weight: $font-weight-book;
-    font-size: $font-size-x-large;
-    line-height: 2.8rem;
-    @include breakpoint(large) {
-      font-size: $font-size-x-large;
-      font-weight: $font-weight-light;
-      text-align: center;
-    }
-  }
-  p, h2 {
-    padding: 0 1rem;
-  }
-  p {
-    padding-right: 3rem;
-    font-size: 1.8rem;
-    line-height: 2.5rem;
-    font-weight: $font-weight-super-light;
-  }
-  .inner {
-    @include breakpoint(large) {
-      max-width: 53rem;
-      margin: 0 auto;
     }
   }
 }
@@ -248,10 +210,13 @@ footer {
   border-bottom: 0;
   text-transform: uppercase;
   font-size: $font-size-x-small;
-  background: #FFF;
-  padding: .5rem 1rem;
+  background: $pink;
+  padding: .5rem 1.8rem;
   border-radius: 5rem;
-  box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, .2);
+  color: #FFF;
+  &:hover {
+    background: #000;
+  }
   @include breakpoint(large) {
     font-size: $font-size-small;
   }
@@ -435,41 +400,6 @@ input[type=submit] {
   }
 }
 
-.get-in-touch {
-  display: grid;
-  grid-template-rows: auto;
-  grid-template-areas:
-    "contact"
-    "superpeer";
-
-  @include breakpoint(medium) {
-    padding: 0;
-    grid-template-columns: 2fr 1fr;
-    grid-template-areas:
-      "contact superpeer";
-  }
-  .contact, .superpeer {
-    padding: 1rem 1rem 3rem 1rem;
-  }
-  .contact {
-    //background: #EEE;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-image: image-url("headers/consultation-bg.png");
-  }
-  .superpeer {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-image: image-url("headers/superpeer-bg.png");
-  }
-  .contact, .superpeer {
-    padding-right: 3rem;
-    padding-left: 2rem;
-  }
-}
-
 .on-design {
   display: grid;
   grid-template-rows: auto;
@@ -543,25 +473,24 @@ input[type=submit] {
   }
 }
 
-.book-section ~ ul {
-  margin-top: 3rem;
+.cover {
+  width: 180px;
+  display: inline-block;
+  float: left;
+  padding-right: 2rem;
 }
 
-.book-cover {
-  display: block;
-  float: left;
-  width: 190px;
-  height: 350px;
-  //border: 1px solid #EEE;
-  //margin: 0 auto;
-  margin-bottom: 1rem;
-  a {
-    border-bottom: 0;
+.book-meta {
+  margin-top: 2rem;
+  .title {
+    font-size: 1.3rem;
+    font-weight: $font-weight-medium;
   }
-  @include breakpoint(medium) {
-    display: inline-block;
-    margin-bottom: 0;
-    margin-right: 3rem;
+  .why {
+    line-height: 1.5rem;
+  }
+  li {
+    margin-bottom: .6rem;
   }
 }
 
@@ -627,24 +556,4 @@ p.source {
 
 .nickname {
   margin-top: -.7rem;
-}
-
-.announcement {
-  background-color: #545D67;
-  color: #FFF;
-  text-align: center;
-  margin-top: -2rem;
-  p {
-    padding: 1em;
-  }
-  small {
-    color: #EEE;
-  }
-  a {
-    color: #FFF;
-    border-bottom: 1px solid #FFF;
-    &:hover {
-      border-bottom: 1px solid rgb(123, 188, 229);
-    }
-  }
 }

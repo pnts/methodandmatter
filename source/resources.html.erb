@@ -89,40 +89,36 @@ keywords: leadership resources, leadership, design leadership, belief systems, l
 
 <div class="separator"></div>
 
+
 <section class="content">
   <div class="col-1">
     <h2>Recommended Reading</h2>
-    <p><em>Books include affiliate links. Any proceeds generated will be donated to non-profits in the social justice space.</em></p>
+  </div>
+  <div class="col-2">
+    <p>A list of books for leaders and seekers. <em>Please note that the links below are affiliate links. Any proceeds generated will be donated to <%= link_to('The Association of Ramaytush Ohlone', 'https://www.ramaytush.org') %>.</em></p>
+  </div>
+</section>
+
+<% data.books.recommended.each do |b| %>
+<section class="content">
+  <div class="col-1">
   </div>
 
   <div class="col-2">
-    <ul>
-      <li class="book-cover"><%= link_to image_tag('books/fifth-discipline.jpg'), 'https://bookshop.org/a/21645/9780385517256' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/heart-aroused.jpg'), 'https://bookshop.org/a/21645/9780385484183' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/reboot.jpg'), 'https://bookshop.org/a/21645/9780062749536' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/leadership-embodiment.jpg'), 'https://bookshop.org/a/21645/9781492946694' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/mindset.jpg'), 'https://bookshop.org/a/21645/9780345472328' %></li>
+    <div class="content>"
+      <div class="col-1">
+        <p class="cover"><%= image_tag b.image %></p>
+      </div>
 
-      <li class="book-cover"><%= link_to image_tag('books/executive-stamina.jpg'), 'https://bookshop.org/a/21645/9780470222904' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/difficult-conversations.jpg'), 'https://bookshop.org/a/21645/9780143118442' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/self-compassion.jpg'), 'https://bookshop.org/a/21645/9780061733529' %></li>
-
-      <li class="book-cover"><%= link_to image_tag('books/diagnosing-orgs.jpg'), 'https://bookshop.org/a/21645/9780470650264' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/art-of-action.jpg'), 'https://www.amazon.com/Art-Action-Leaders-between-Actions-ebook/dp/B004CRSN2O/ref=sr_1_1?dchild=1&keywords=art+of+action&qid=1612739812&sr=8-1' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/way-we-are-working.jpg'), 'https://bookshop.org/a/21645/9781451610260' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/fearless-org.jpg'), 'https://bookshop.org/a/21645/9781119477242' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/emerging-future.jpg'), 'https://bookshop.org/a/21645/9781605099262' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/for-action.jpg'), 'https://bookshop.org/a/21645/9781478378488' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/art-of-possibility.jpg'), 'https://bookshop.org/a/21645/9780142001103' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/humble-inquiry.jpg'), 'https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811/ref=sr_1_1?dchild=1&keywords=humble+inquiry&qid=1612741419&sr=8-1' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/let-your-life-speak.jpg'), 'https://bookshop.org/a/21645/9780787947354' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/nvc.jpg'), 'https://bookshop.org/a/21645/9781892005281' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/conscious-leadership.jpg'), 'https://bookshop.org/a/21645/9780990976905' %></li>
-      <li class="book-cover"><%= link_to image_tag('books/leadership-mindtraps.jpg'), 'https://bookshop.org/a/21645/9781503609013' %></li>
-    </ul>
+      <div class="col-2">
+        <ul class="book-meta">
+          <li class="title"><%= b.title %></li>
+          <li class="author"><%= b.author %></li>
+          <li class="why"><%= b.why %></li>
+          <li class="link"><%= link_to('link', b.link) %></li>
+        </ul>
+      </div>
+    </div>
   </div>
-
-
 </section>
-
-<div class="separator"></div>
+<% end %>
