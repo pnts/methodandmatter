@@ -101,35 +101,12 @@ nav {
 
 .hero {
   position: relative;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: left;
-  height: 42rem;
   margin-bottom: 2rem;
-  @include breakpoint(large) {
-    height: 28rem;
-  }
-/*  .index & {
-    background-image: image-url("headers/mm-winter-2022-6.png");
-  }
-  .coaching & {
-    background-image: image-url("headers/mm-winter-2022-2.png");
-  }
-  .workshops & {
-    background-image: image-url("headers/mm-winter-2022-3.png");
-  }
-  .team-coaching & {
-    background-image: image-url("headers/mm-winter-2022-4.png");
-  } */
   h1 {
-    //position: absolute;
-    //top: 5%;
-    padding:  2rem 0 0 3rem;
     font-weight: $font-weight-book;
     font-size: $font-size-x-large;
     line-height: 3.2rem;
-    padding-right: 2rem;
-    max-width: 80%;
+    //max-width: 80%;
     color: #000;
     @include breakpoint(large) {
       padding:  4rem 0 0 3rem;
@@ -277,7 +254,8 @@ input[type=submit] {
 .col-1 {
   grid-area: header;
   h2 {
-    margin-bottom: 1rem;
+    //margin-bottom: 1rem;
+    line-height: 2.2rem;
   }
 
   @include breakpoint(medium) {
@@ -478,6 +456,8 @@ input[type=submit] {
   display: inline-block;
   float: left;
   padding-right: 2rem;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .book-meta {
