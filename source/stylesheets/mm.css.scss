@@ -275,23 +275,27 @@ input[type=submit] {
 
   .the-book {
     margin-top: 2rem;
+    margin-left: -.5rem;
 
-    max-width: 22rem;
     @include breakpoint(medium) {
       float: right;
-      margin-right: -10rem;
       margin-bottom: 1rem;
     }
   }
 
   .col-2 {
     padding: 1rem;
+    margin-left: 0;
 
     @include breakpoint(medium) {
-      margin-top: 3rem;
-      p {
-        margin-right: 15rem;
-      }
+      margin-top: 1rem;
+      margin-left: -10rem;
+    }
+
+    @include breakpoint(large) {
+      margin-top: 1rem;
+      margin-left: -10rem;
+      margin-right: 10rem;
     }
   }
 
