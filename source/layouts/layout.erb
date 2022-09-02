@@ -11,7 +11,7 @@
     <meta property="og:title" content="<%= current_page.data.title %>" />
     <meta property="og:description" content="<%= current_page.data.description %>" />
     <meta property="og:url" content="<%= 'http://methodandmatter.com' + current_page.url %>" />
-    <meta property="og:image" content="<%= 'http://methodandmatter.com/' + 'images/og-share.png' %>" /> 
+    <meta property="og:image" content="<%= 'http://methodandmatter.com/' + 'images/og/og-' + current_page.data.title + '.png' %>" />
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6543216/6501012/css/fonts.css" />
     <%= stylesheet_link_tag "mm" %>
     <%= javascript_include_tag "mm" %>
@@ -33,6 +33,7 @@
     </header>
 
     <main>
+      <div class="separator"></div>
       <%= yield %>
     </main>
 

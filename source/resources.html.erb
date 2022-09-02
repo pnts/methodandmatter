@@ -1,10 +1,8 @@
 ---
-title: resources for executives and leaders
+title: resources
 description: talks, articles, books, and other resources to help you on your leadership journey
 keywords: leadership resources, leadership, design leadership, belief systems, leadership transition
 ---
-
-<div class="separator"></div>
 
 <section class="content">
   <div class="col-1">
@@ -27,34 +25,14 @@ keywords: leadership resources, leadership, design leadership, belief systems, l
   </div>
 
   <div class="col-2">
-    <h3><%= link_to('Storytelling in Organizations', 'https://medium.com/method-matter/storytelling-in-organizations-cc0400b3f4d9') %></h3>
-    <p>On complexity, systems, and storytelling.</p>
-
-    <h3><%= link_to('The Art of Receiving Feedback', 'https://medium.com/method-matter/the-art-of-receiving-feedback-1561aaa74d6c') %></h3>
-    <p>Receiving feedback can be scary, but it doesn't have to be.</p>
-
-    <h3><%= link_to('Creating the Right Space for Feedback', 'https://medium.com/method-matter/creating-the-right-space-for-feedback-d54a872019ab') %></h3>
-    <p>What happens outside the conversation is just as important as what happens in it.</p>
-
-    <h3><%= link_to('Coaching, Mentoring, Advising: What\'s the Diff?', 'https://medium.com/method-matter/coaching-mentoring-advising-whats-the-diff-91a977adc4f7') %></h3>
-    <p>I get this question a lot, so I figured I'd just write an article about it.</p>
-
-    <h3><%= link_to('Managing Yourself and Managing Relationships: The Key to Management Success', 'https://medium.com/method-matter/managing-yourself-and-managing-relationships-the-key-to-management-success-13d828335525') %></h3>
-    <p>Emotional intelligence will take you a long ways. Learn to cultivate thie early in your career. </p>
-
-    <h3><%= link_to('Both/And: Untangling the Relationship Between Management & Leadership', 'https://medium.com/method-matter/both-and-untangling-the-relationship-between-management-leadership-21fdcd06f546') %></h3>
-    <p>Mangement and leadership. Are the the same thing or different? Yes.</p>
-
-    <h3><%= link_to('Priorities, Capacity, and Support: A Dialogue for Teams', 'https://medium.com/method-matter/priorities-capacity-and-support-a-dialogue-for-teams-a4decef1db1f') %></h3>
-    <p>My contribution to the early pandemic writings in the genre of, "oh shit it's a global pandemic <em>what do we do?</em>" This article explores the role of asking the right questions to facilitate collective support.</p>
-
-    <h3><%= link_to('The Cadence of a Design Team', 'https://medium.com/method-matter/the-cadence-of-a-design-team-d50991fb2dc3') %></h3>
-    <p>I'm a big believer in how cadence can support high-performance teams in maintaining alignment and flow. This is a look at one of the ways I did this at Movable Ink.</p>
+    <% data.writing.articles.each do |a| %>
+      <h3><%= link_to(a.title, a.link) %></h3>
+      <p><%= a.description %></p>
+    <% end %>
   </div>
 </section>
 
 <div class="separator"></div>
-
 
 <section class="content">
   <div class="col-1">
