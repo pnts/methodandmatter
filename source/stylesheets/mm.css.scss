@@ -405,8 +405,14 @@ img.bio {
 }
 
 .caption {
-  margin-top: -1.5rem;
+  margin-top: -.1rem !important;
   font-size: .9rem;
+  color: #999;
+  text-align: center;
+  a {
+    color: #999;
+    border-bottom: 1px dotted #999;
+  }
 }
 
 ul.bullets {
@@ -447,4 +453,8 @@ p.source {
   @include breakpoint(large) {
     margin-top: -.8rem;
   }
+}
+
+.kitchen-party h3 {
+  margin-top: 3rem;
 }
