@@ -257,6 +257,9 @@ input[type=submit] {
 
   @include breakpoint(medium) {
     max-width: 60%;
+    &.kitchen-party {
+      max-width: 100%;
+    }
   }
 }
 
@@ -462,4 +465,10 @@ p.source {
 .highlight {
   background-color: #FFF9A6;
   display: inline;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #CCC;
 }
