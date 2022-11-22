@@ -2,7 +2,7 @@
 title: Kitchen Party November 22
 ---
 
-#### Kitchen Party, October 2022
+#### Kitchen Party, November 2022
 
 ## The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking
 
