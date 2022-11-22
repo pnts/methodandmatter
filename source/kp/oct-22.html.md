@@ -2,9 +2,13 @@
 title: Kitchen Party October 22
 ---
 
-## Kitchen Party, October 2022
+#### Kitchen Party, October 2022
+
+## Resistance, Transitions, and Belonging
 
 ![smiley](kp/oct22.jpeg)
+Point Reyes National Seashore, October 2022
+{: .caption}
 
 
 Hi! I’m Andi, and this is [Kitchen Party](kitchen-party), a newsletter that invites warm and open conversations exploring what it means to be in the complexity of life as a leader, however you inhabit that role.
