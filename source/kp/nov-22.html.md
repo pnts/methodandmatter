@@ -6,7 +6,7 @@ title: Kitchen Party November 22
 
 ## The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking
 
-![smiley](kp/nov22.jpg)
+![photo of the Catskills in autumn](kp/nov22.jpg)
 Late afternoon in the Catskills, October 2022
 {: .caption}
 
@@ -30,9 +30,9 @@ _Thank you._
 
 When it comes to writing articles that get published I’m pretty slow as far as things go. It takes me a while to really understand what I think and put that into something coherent enough to be hopefully useful to others. A few weeks ago I came across a [Twitter thread](https://twitter.com/MushtaqBilalPhD/status/1590988185500520448) on [Zero Drafts](https://www.margaretedits.com/2015/04/14/writing-a-zero-draft/): a method for writing and working through what you know before starting on an actual draft of a paper, essay, short story, etc.
 
-It’s been incredibly useful for writing more and getting to the core of what I think I know. I can also see how this process could be useful not just for academic writing, but in a business context as well. I think back my time as an executive and trying to connect the work of the teams I lead to the larger company vision. Not just in terms of OKRs, but how we were deeply relating to what the business was trying to achieve and the ways in which we were doing that. At that time I worked mostly in decks (thanks, business school), which I think is a hinderance to really gaining clarity of _thinking_. If I had known about Zero Drafts I think I would have gotten to clarity sooner, and the decks I used to communicate would have been more succinct and coherent.
+It’s been incredibly useful for writing more and getting to the core of what I think I know. I can also see how this process could be useful not just for academic writing, but in a business context as well. I think back my time as an executive and trying to connect the work of the teams I led to the larger company vision. Not just in terms of OKRs, but how we were deeply relating to what the business was trying to achieve and the ways in which we were doing that. At that time I worked mostly in decks (thanks, business school), which I think is a hinderance to really gaining clarity of _thinking_. If I had known about Zero Drafts I think I would have gotten to clarity sooner, and the decks I used to communicate would have been more succinct and coherent.
 
-What helps _you_ understanding what you think?
+What helps _you_ understand what you think?
 
 ### Slow Multitasking
 Jason Mesut shared this TED Talk on [Slow Motion Multitasking](https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity) and it _really_ resonated with how I work. It gave me permission to hold a lot of projects simultaneously and dip into them as I feel called to. I use [Muse App](https://museapp.com) for a lot of my early explorations, and have organized the high level boards into which I can throw materials as I come across them, to be digested and organized whenever I come around to it.
@@ -40,10 +40,10 @@ Jason Mesut shared this TED Talk on [Slow Motion Multitasking](https://www.npr.o
 ### Mapping Emotions
 [Marc Brackett](https://www.marcbrackett.com), founding director of the Yale Center for Emotional Intelligence created an app a few years ago called [Mood Meter](https://moodmeterapp.com). The primary focus was on building emotional awareness and management via a simple interface that helped people to check-in to their emotions and expand their emotional vocabulary.
 
-Last week Marc, along with a team of engineers from Pinterest, released a new app called “[How We Feel](https://howwefeel.org).” Based on the same premise as Mood Meter, the new “journal for your well being” is expansive in what it offers. Mood check-ins are still a primary interaction, but now the app also offers incredibly useful 1 - 2 minute videos with exercises that can help people learn to modulate their moods and shift into more positive states. I’m thoroughly impressed by what they’ve put together and hope that as many people as possible find it useful.
+Last week Marc, along with a team of engineers from Pinterest, released a new app called “[How We Feel](https://howwefeel.org).” Based on the same premise as Mood Meter, the new “journal for your well being” is expansive in what it offers. Mood check-ins are still a primary interaction, but now the app also includes incredibly useful 1 - 2 minute videos with exercises that can help people learn to modulate their moods and shift into more positive states. I’m thoroughly impressed by what they’ve put together and hope that it reaches as many people as possible.
 
 ---
 
 If you are in a part of the world that celebrates Thanksgiving, I hope it was filled with belonging, nourishment, and rest. And to everyone out there, may the last month of the Gregorian year be easeful and kind for you.
 
-See you in December. 
+See you in December.
