@@ -6,7 +6,6 @@
 
 body {
   margin: 0;
-  padding: 0 2rem;
   color: $main-text;
 }
 
@@ -24,15 +23,18 @@ main,
 footer {
   max-width: 1600px;
   margin: 0 auto;
+  padding: 0 2rem;
 }
 
 header {
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin-bottom: 2rem;
-  @include breakpoint(medium) {
-    padding-left: $main-padding;
-    padding-right: $main-padding;
+  .inner {
+    @include breakpoint(large) {
+      padding-left: $main-padding;
+      padding-right: $main-padding;
+    }
   }
 }
 
@@ -122,8 +124,26 @@ nav {
   }
 }
 
+.prop {
+  text-align: center;
+  @include breakpoint(large) {
+    max-width: 65%;
+    margin: 0 auto;
+  }
+  .text {
+    h1 {
+      max-width: 100%;
+    }
+    p {
+      max-width: 80%;
+      margin: 2rem auto;
+    }
+  }
+}
+
 footer {
-  clear: both;
+  margin-left: 2rem;
+  margin-right: 2rem;
   background: #222;
   margin-bottom: 2rem;
   margin-top: 3rem;
@@ -264,6 +284,7 @@ input[type=submit] {
 .col-2 {
   grid-area: content;
   margin-top: .5rem;
+  padding-right: 1rem;
   h2 {
     margin-top: 2rem;
     margin-bottom: 0;
@@ -276,35 +297,16 @@ input[type=submit] {
   }
 }
 
-/*.on-design {
-  display: grid;
-  grid-template-rows: auto;
-  grid-template-areas:
-    "header"
-    "content";
-
-  @include breakpoint(large) {
-    padding: 0 $main-padding;
-    grid-template-columns: 1fr 1fr;
-    grid-template-areas:
-      "header content";
-  }
-
-  .design-col-1 {
-    grid-area: header;
-
-    @include breakpoint(large) {
-      max-width: 60%;
-    }
-  }
-} */
-
 .circle {
   margin-top: 1rem;
   border-radius: 50%;
   @include breakpoint(medium) {
     margin-left: 5rem;
   }
+}
+
+.profile {
+  width: 20rem;
 }
 
 .section-label {
@@ -366,7 +368,7 @@ img.bio {
   padding-bottom: 0;
 }
 
-.book-meta {
+ .book-meta {
   margin-top: 2rem;
   .title {
     font-size: 1.3rem;
@@ -482,4 +484,24 @@ p.teacher {
   font-style: italic;
   margin-top: -2.8rem;
   color: #999;
+}
+
+.announcement {
+  background: #EEE;
+  border-bottom: 1px solid #222;
+  //color: #FFF;
+  text-align: center;
+  margin-bottom: .5rem;
+  .inner {
+    @include breakpoint(large) {
+      max-width: 50%;
+      margin: 0 auto;
+    }
+    p {
+      margin-top: 0;
+      margin-bottom: 0;
+      font-size: 1rem;
+      padding: 1rem 0 1rem 0;
+    }
+  }
 }

@@ -17,6 +17,7 @@
     <%= javascript_include_tag "mm" %>
   </head>
   <body class="<%= page_classes %>">
+    <%= partial "announcement" %>
     <header>
       <div class="inner">
         <div class="site-branding">
@@ -25,7 +26,7 @@
         <nav>
           <ul>
             <li class="coaching"><%= link_to('coaching', 'coaching') %> </li>
-            <li class="researcg"><%= link_to('research', 'research') %> </li>
+            <li class="research"><%= link_to('research', 'research') %> </li>
             <li class="resources"><%= link_to('resources', 'resources') %> </li>
             <li class="about"><%= link_to('about', 'about') %> </li>
           </ul>
