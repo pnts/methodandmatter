@@ -200,12 +200,12 @@ footer {
   border-bottom: 0;
   text-transform: uppercase;
   font-size: $font-size-x-small;
-  background: #000;
+  background: $pink;
   padding: .3rem 1.8rem;
   border-radius: 5rem;
   color: #FFF;
   &:hover {
-    background: $pink;
+    background: #000;
     color: $white;
   }
   @include breakpoint(large) {
@@ -307,6 +307,7 @@ input[type=submit] {
 
 .profile {
   width: 20rem;
+  margin-top: 3rem;
 }
 
 .section-label {
@@ -477,19 +478,31 @@ p.source {
 hr {
   border: 0;
   height: 1px;
-  background-color: #CCC;
+  background-color: #E0E0E0;
+  width: 100%;
+  margin: 2rem 0;
 }
+
+//////
+//////
+////// Styling for certification list
+//////
+//////
 
 p.teacher {
   font-style: italic;
   margin-top: -2.8rem;
   color: #999;
 }
+//////
+//////
+////// Announcement bar styling
+//////
+//////
 
 .announcement {
   background: #EEE;
   border-bottom: 1px solid #222;
-  //color: #FFF;
   text-align: center;
   margin-bottom: .5rem;
   .inner {
@@ -502,6 +515,7 @@ p.teacher {
       margin-bottom: 0;
       font-size: 1rem;
       padding: 1rem 0 1rem 0;
+      line-height: 1.3rem;
     }
   }
 }
