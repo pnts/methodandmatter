@@ -77,6 +77,14 @@ nav {
   }
 }
 
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #E0E0E0;
+  width: 100%;
+  margin: 2rem 0;
+}
+
 .logo {
   display: block;
   display: inline-block;
@@ -124,7 +132,7 @@ nav {
   }
 }
 
-.prop {
+.full-width {
   text-align: center;
   @include breakpoint(large) {
     max-width: 65%;
@@ -214,6 +222,14 @@ footer {
   }
 }
 
+.section-label {
+  font-size: $font-size-small;
+  text-transform: uppercase;
+  line-height: 1.6rem;
+  margin-bottom: 0;
+  margin-top: 2rem;
+}
+
 input {
   border-radius: 3px;
   border: 0;
@@ -230,7 +246,7 @@ input[type=email] {
 
 input[type=submit] {
   background-color: $yellow;
-  color: $dark-grey;
+  color: $dark-gray;
   padding-right: 1.2rem;
   padding-left: 1.2rem;
   margin-left: .5rem;
@@ -245,11 +261,17 @@ input[type=submit] {
   }
 }
 
-.mc-status {
+/*.mc-status {
   display: block !important;
   text-align: center;
   margin-top: 1rem;
-}
+}*/
+
+//////
+//////
+////// Flex box - 2 columns
+//////
+//////
 
 .content {
   display: grid;
@@ -269,7 +291,6 @@ input[type=submit] {
 .col-1 {
   grid-area: header;
   h2 {
-    //margin-bottom: 1rem;
     line-height: 2.2rem;
   }
 
@@ -297,6 +318,20 @@ input[type=submit] {
   }
 }
 
+.content h2 {
+  margin-top: 1.5rem;
+}
+
+.col-2 h3 {
+  line-height: 2.3rem;
+}
+
+//////
+//////
+////// Image treatements
+//////
+//////
+
 .circle {
   margin-top: 1rem;
   border-radius: 50%;
@@ -310,15 +345,7 @@ input[type=submit] {
   margin-top: 3rem;
 }
 
-.section-label {
-  font-size: $font-size-small;
-  text-transform: uppercase;
-  line-height: 1.6rem;
-  margin-bottom: 0;
-  margin-top: 2rem;
-}
-
-img.bio {
+.bio {
   margin-top: 0;
   margin-bottom: 1rem;
   @include breakpoint(large) {
@@ -326,30 +353,29 @@ img.bio {
   }
 }
 
-.separator {
-  width: 100%;
-  border-bottom: 1px solid #E0E0E0;
-  margin: 2rem 0;
+//////
+//////
+////// Newsletter
+//////
+//////
+
+.newsletter {
+  background: $lightest-gray;
+  padding: 5rem 2rem;
+  margin-top: 3rem;
 }
 
-.content h2 {
-  margin-top: 1.5rem;
+.signup {
+  max-width: 44rem;
+  margin: 0 auto;
+  text-align: center;
 }
 
-.col-2 h3 {
-  //margin-bottom: -1.5rem;
-  line-height: 2.3rem;
-}
-
-.training .col-2 h3 {
-  margin-bottom: 0;
-  line-height: 2rem;
-}
-
-.training p {
-  margin-bottom: 3rem;
-  margin-top: .5rem;
-}
+//////
+//////
+////// Resources
+//////
+//////
 
 .video-container {
   @include breakpoint(medium) {
@@ -383,17 +409,11 @@ img.bio {
   }
 }
 
-.newsletter {
-  background: #EEE;
-  padding: 5rem 2rem;
-  margin-top: 3rem;
-}
-
-.signup {
-  max-width: 44rem;
-  margin: 0 auto;
-  text-align: center;
-}
+//////
+//////
+////// Additional Styling
+//////
+//////
 
 .about .col-2 h3 {
   margin-top: 2rem;
@@ -407,19 +427,20 @@ img.bio {
   margin-top: 2rem;
 }
 
-.principles {
-  margin-top: 1.5rem;
-}
-
 .caption {
   margin-top: -.1rem !important;
   font-size: .9rem;
-  color: #999;
+  color: $light-gray;
   text-align: center;
   a {
-    color: #999;
-    border-bottom: 1px dotted #999;
+    color: $light-gray;
+    border-bottom: 1px dotted $light-gray;
   }
+}
+
+p.source {
+  color: $medium-gray;
+  font-size: $font-size-small;
 }
 
 ul.bullets {
@@ -428,10 +449,6 @@ ul.bullets {
   li {
     margin-bottom: .5rem;
   }
-}
-
-.methods {
-  margin-top: -1rem;
 }
 
 ul.bullets, ol {
@@ -447,15 +464,14 @@ ol {
   }
 }
 
-p.source {
-  color: $medium-gray;
-  font-size: $font-size-small;
+.methods {
+  margin-top: -1rem;
 }
 
 .colophon {
   font-size: $font-size-small;
   text-align: center;
-  color: #999;
+  color: $light-gray;
   line-height: 1.3rem;
 }
 
@@ -475,13 +491,6 @@ p.source {
   display: inline;
 }
 
-hr {
-  border: 0;
-  height: 1px;
-  background-color: #E0E0E0;
-  width: 100%;
-  margin: 2rem 0;
-}
 
 //////
 //////
@@ -489,11 +498,22 @@ hr {
 //////
 //////
 
+.training .col-2 h3 {
+  margin-bottom: 0;
+  line-height: 2rem;
+}
+
+.training p {
+  margin-bottom: 3rem;
+  margin-top: .5rem;
+}
+
 p.teacher {
   font-style: italic;
   margin-top: -2.8rem;
-  color: #999;
+  color: $light-gray;
 }
+
 //////
 //////
 ////// Announcement bar styling
@@ -501,8 +521,8 @@ p.teacher {
 //////
 
 .announcement {
-  background: #EEE;
-  border-bottom: 1px solid #222;
+  background: $lightest-gray;
+  border-bottom: 1px solid $dark-gray;
   text-align: center;
   margin-bottom: .5rem;
   .inner {
