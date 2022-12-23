@@ -521,8 +521,8 @@ p.teacher {
 //////
 
 .announcement {
-  background: $lightest-gray;
-  border-bottom: 1px solid $dark-gray;
+  background: $warm-highlight;
+  border-bottom: 1px solid darken($warm-highlight, 40%);
   text-align: center;
   margin-bottom: .5rem;
   .inner {
