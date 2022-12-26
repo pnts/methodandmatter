@@ -343,6 +343,9 @@ input[type=submit] {
 .profile {
   width: 20rem;
   margin-top: 3rem;
+  &.coach {
+    margin-top: 1.5rem;
+  }
 }
 
 .bio {
