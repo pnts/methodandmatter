@@ -27,10 +27,14 @@ I’ve been doing some training in Gestalt psychology recently and am quite take
 
 And so! I’m interested in talking to leaders and hearing about their experience of resistance in their organizations. In exchange I’m offering insights from my research via a free coaching session. If you or anyone you know might be interested, you can [sign up here](research).
 
+---
 
 ### Writing
 
 The topic of transitions is kind of an evergreen theme, since we’re all going through them all the time. Especially after the last couple of years, phew. [William and Susan Bridges](https://wmbridges.com) have been working in the transition space for decades, and their work is accordingly deep and insightful. Using their three-phase model of transition, I [wrote a piece](https://medium.com/method-matter/on-navigating-lifes-transitions-104d619316b9) about how we move through transitions through the lens of one of my own (which I am still in the midst of).
+
+
+---
 
 
 ### Reading
@@ -39,6 +43,7 @@ The topic of transitions is kind of an evergreen theme, since we’re all going 
 
 This book came my way via a recommendation from a client. The “spiritual transformation” part in the title refers to the traditions in the Christian lineage of teachings. I’m not a religious person but do like to read religious texts, so I felt pretty at home with it (as one reviewer says, "It's not just for Christians!). This book is not in any way, shape, or form trying to convert or proselytize, but rather to teach Internal Family Systems in a way that illustrates its congruity with the teachings of Jesus. If you really can’t get down with any references to religion, this book probably isn’t for you. But you’d miss out on the deep compassion, humor, and wisdom this book offers. It’s one of the top books I’ve read on Internal Family Systems and puts theory into action with incredibly useful reflection questions at the end of each chapter. I use IFS in my coaching work and in my own personal development, and this book brought new insights and perspectives that have been exceptionally supportive in going deeper with all of my parts.
 
+---
 
 ### Wondering
 

@@ -133,17 +133,19 @@ hr {
 }
 
 .full-width {
-  text-align: center;
   @include breakpoint(large) {
     max-width: 65%;
     margin: 0 auto;
+    text-align: center;
   }
   .text {
     h1 {
       max-width: 100%;
     }
     p {
-      max-width: 80%;
+      @include breakpoint(large) {
+        max-width: 80%;
+      }
       margin: 2rem auto;
     }
   }
@@ -261,11 +263,6 @@ input[type=submit] {
   }
 }
 
-/*.mc-status {
-  display: block !important;
-  text-align: center;
-  margin-top: 1rem;
-}*/
 
 //////
 //////
@@ -275,13 +272,13 @@ input[type=submit] {
 
 .content {
   display: grid;
-  grid-template-rows: auto;
   grid-template-areas:
     "header"
     "content";
 
-  @include breakpoint(medium) {
+  @include breakpoint(large) {
     padding: 0 $main-padding;
+    grid-template-rows: auto;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
       "header content";
@@ -293,7 +290,6 @@ input[type=submit] {
   h2 {
     line-height: 2.2rem;
   }
-
   @include breakpoint(medium) {
     max-width: 60%;
     &.kitchen-party {
@@ -343,8 +339,10 @@ input[type=submit] {
 .profile {
   width: 20rem;
   margin-top: 3rem;
-  &.coach {
-    margin-top: 1.5rem;
+  @include breakpoint(large) {
+    &.coach {
+      margin-top: 1.5rem;
+    }
   }
 }
 
@@ -526,13 +524,14 @@ p.teacher {
 .announcement {
   background: $warm-highlight;
   border-bottom: 1px solid darken($warm-highlight, 40%);
-  text-align: center;
   margin-bottom: .5rem;
+  text-align: center;
   .inner {
     @include breakpoint(large) {
       max-width: 50%;
-      margin: 0 auto;
     }
+    margin: 0 auto;
+    padding: 0 2rem;
     p {
       margin-top: 0;
       margin-bottom: 0;

@@ -25,6 +25,8 @@ I wrote an article about it on Medium that is currently in draft form and, if yo
 
 _Thank you._
 
+---
+
 ### Zero Drafts
 > “How do I know what I think until I see what I say?” - E.M. Forster
 
@@ -34,8 +36,12 @@ It’s been incredibly useful for writing more and getting to the core of what I
 
 What helps _you_ understand what you think?
 
+---
+
 ### Slow Multitasking
 Jason Mesut shared this TED Talk on [Slow Motion Multitasking](https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity) and it _really_ resonated with how I work. It gave me permission to hold a lot of projects simultaneously and dip into them as I feel called to. I use [Muse App](https://museapp.com) for a lot of my early explorations, and have organized the high level boards into which I can throw materials as I come across them, to be digested and organized whenever I come around to it.
+
+---
 
 ### Mapping Emotions
 [Marc Brackett](https://www.marcbrackett.com), founding director of the Yale Center for Emotional Intelligence created an app a few years ago called [Mood Meter](https://moodmeterapp.com). The primary focus was on building emotional awareness and management via a simple interface that helped people to check-in to their emotions and expand their emotional vocabulary.
