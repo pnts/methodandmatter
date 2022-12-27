@@ -336,11 +336,11 @@ input[type=submit] {
   }
 }
 
-.profile {
+.fixed-width-20 {
   width: 20rem;
   margin-top: 3rem;
   @include breakpoint(large) {
-    &.coach {
+    &.coarse {
       margin-top: 1.5rem;
     }
   }
@@ -453,9 +453,12 @@ ul.bullets {
 }
 
 ul.bullets, ol {
-  padding: 0;
+  padding-left: 3rem;
   p {
     margin: .7rem 0;
+  }
+  h4 {
+    line-height: 1.5rem;
   }
 }
 
