@@ -448,12 +448,14 @@ ul.bullets {
   list-style-type: disc;
   margin-bottom: 2rem;
   li {
-    margin-bottom: .5rem;
+    margin-bottom: .7rem;
+    line-height: 1.7rem;
   }
 }
 
 ul.bullets, ol {
   padding-left: 3rem;
+  font-size: 1.2rem;
   p {
     margin: .7rem 0;
   }
@@ -495,6 +497,34 @@ ol {
   display: inline;
 }
 
+.sub-links {
+  p {
+    margin: 0;
+    padding-bottom: 1rem;
+  }
+}
+
+blockquote {
+  margin: 0;
+  font-size: 1.6rem;
+  font-style: italic;
+  color: $light-gray;
+  font-weight: $font-weight-light;
+  position: relative;
+  p {
+    position: relative;
+    z-index: 5;
+  }
+  &::before {
+    content: "\201C";
+    position: absolute;
+    font-size: 10rem;
+    top: -2.5rem;
+    left: -2rem;
+    color: $lightest-gray;
+    z-index: 1;
+  }
+}
 
 //////
 //////
