@@ -6,12 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="<%= current_page.data.description %>" />
     <meta name="keywords" content="<%= current_page.data.keywords %>" />
+
     <!-- Use the title from a page's frontmatter if it has one -->
     <title>method & matter | <%= current_page.data.title || "method & matter" %></title>
+
+    <!-- OG tags -->
+    <meta property="og:type" content="website" />
     <meta property="og:title" content="<%= current_page.data.title %>" />
     <meta property="og:description" content="<%= current_page.data.description %>" />
-    <meta property="og:url" content="<%= 'http://methodandmatter.com' + current_page.url %>" />
-    <meta property="og:image" content="<%= 'http://methodandmatter.com/' + 'images/og/og-' + current_page.data.title + '.png' %>" />
+    <meta property="og:url" content="<%= 'https://methodandmatter.com' + current_page.url %>" />
+    <meta property="og:image" content="<%= 'https://methodandmatter.com/' + 'images/' + current_page.data.image %>" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary"></meta>
+
+    <!-- Canonical URLs -->
+    <link rel="canonical" href="<%= 'https://methodandmatter.com' + current_page.url %>" />
+
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6543216/6501012/css/fonts.css" />
     <%= stylesheet_link_tag "mm" %>
     <%= javascript_include_tag "mm" %>

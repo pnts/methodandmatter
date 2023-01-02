@@ -287,7 +287,7 @@ input[type=submit] {
 
 .col-1 {
   grid-area: header;
-  h2 {
+  h1, h2 {
     line-height: 2.2rem;
   }
   @include breakpoint(medium) {
@@ -314,7 +314,7 @@ input[type=submit] {
   }
 }
 
-.content h2 {
+.content h2, .content h1 {
   margin-top: 1.5rem;
 }
 
@@ -454,7 +454,10 @@ ul.bullets {
 }
 
 ul.bullets, ol {
-  padding-left: 3rem;
+  @padding-left: 1.5rem;
+  @include breakpoint(large) {
+    padding-left: 3rem;
+  }
   font-size: 1.2rem;
   p {
     margin: .7rem 0;

@@ -1,10 +1,11 @@
 ---
 title: Kitchen Party December 22
+image: "kp/dec22.jpeg"
 ---
 
 #### Kitchen Party, December 2022
 
-## End of Year Reflections and Other Sundries
+# End of Year Reflections and Other Sundries
 
 ![photo of Durham, NC in the winter](kp/dec22.jpeg)
 Winter woods in Durham, North Carolina. December 2022

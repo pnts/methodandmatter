@@ -1,10 +1,11 @@
 ---
 title: Kitchen Party November 22
+image: "kp/nov22.jpg"
 ---
 
 #### Kitchen Party, November 2022
 
-## The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking
+# The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking
 
 ![photo of the Catskills in autumn](kp/nov22.jpg)
 Late afternoon in the Catskills, October 2022

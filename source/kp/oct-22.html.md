@@ -1,12 +1,13 @@
 ---
 title: Kitchen Party October 22
+image: "kp/oct22.jpg"
 ---
 
 #### Kitchen Party, October 2022
 
-## Resistance, Transitions, and Belonging
+# Resistance, Transitions, and Belonging
 
-![smiley](kp/oct22.jpeg)
+![smiley](kp/oct22.jpg)
 Point Reyes National Seashore, October 2022
 {: .caption}
 
