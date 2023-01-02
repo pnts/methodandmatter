@@ -18,7 +18,12 @@
     <meta property="og:image" content="<%= 'https://methodandmatter.com/' + 'images/' + current_page.data.image %>" />
 
     <!-- Twitter Cards -->
-    <meta name="twitter:card" content="summary"></meta>
+    <meta name="twitter:title" content="<%= current_page.data.title %>" />
+    <meta name="twitter:description" content="<%= current_page.data.description %>" />
+    <meta name="twitter:image:src" content="<%= 'https://methodandmatter.com/' + 'images/' + current_page.data.image %>" />
+    <meta name="twitter:tile:image" content="<%= 'https://methodandmatter.com/' + 'images/' + current_page.data.image %>" />
+    <meta name="twitter:card" content="summary_large_image" />
+
 
     <!-- Canonical URLs -->
     <link rel="canonical" href="<%= 'https://methodandmatter.com' + current_page.url %>" />
