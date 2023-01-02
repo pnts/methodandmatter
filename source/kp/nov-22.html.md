@@ -1,5 +1,6 @@
 ---
 title: Kitchen Party November 22
+description: The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking
 image: "kp/nov22.jpg"
 ---
 

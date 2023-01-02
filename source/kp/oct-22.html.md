@@ -1,5 +1,6 @@
 ---
 title: Kitchen Party October 22
+description: Resistance, Transitions, and Belonging
 image: "kp/oct22.jpg"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Kitchen Party December 22
+description: End of Year Reflections and Other Sundries
 image: "kp/dec22.jpeg"
 ---
 
