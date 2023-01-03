@@ -287,10 +287,11 @@ input[type=submit] {
 
 .col-1 {
   grid-area: header;
+  max-width: 100%;
   h1, h2 {
     line-height: 2.2rem;
   }
-  @include breakpoint(medium) {
+  @include breakpoint(large) {
     max-width: 60%;
     &.kitchen-party {
       max-width: 100%;
@@ -330,21 +331,26 @@ input[type=submit] {
 //////
 //////
 
+
+.fixed-width-20 {
+  width: 20rem;
+  margin-top: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  @include breakpoint(medium) {
+    &.course {
+      margin-top: 1.5rem;
+      margin-left: 5rem;
+    }
+  }
+}
+
 .circle {
   margin-top: 1rem;
   border-radius: 50%;
   @include breakpoint(medium) {
     margin-left: 5rem;
-  }
-}
-
-.fixed-width-20 {
-  width: 20rem;
-  margin-top: 3rem;
-  @include breakpoint(medium) {
-    &.course {
-      margin-top: 1.5rem;
-    }
   }
 }
 
@@ -551,6 +557,59 @@ p.teacher {
   font-style: italic;
   margin-top: -2.8rem;
   color: $light-gray;
+}
+
+//////
+//////
+////// Kitchen Party Posts
+//////
+//////
+
+.kp-editions {
+  width: 100%;
+  position: relative;
+
+  .kp-post {
+    border: 1px solid #CCC;
+    margin-bottom: 2rem;
+    display: grid;
+    grid-template-areas:
+      "coverimage"
+      "meta";
+
+    @include breakpoint(medium) {
+      grid-template-rows: auto;
+      grid-template-columns: 1fr 4fr;
+      grid-template-areas:
+        "coverimage meta";
+    }
+
+    h2 {
+      font-size: .9rem;
+      text-transform: uppercase;
+      margin-top: 0;
+    }
+
+    h3 {
+      margin-top: 0;
+      font-size: 1.5rem;
+    }
+
+    img {
+      grid-area: coverimage;
+      width: 100%;
+
+      @include breakpoint(medium) {
+        width: 10rem;
+        height: 10rem;
+      }
+    }
+
+    .meta {
+      grid-area: meta;
+      margin: auto 1.5rem;
+    }
+  }
 }
 
 //////
