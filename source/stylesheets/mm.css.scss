@@ -135,21 +135,37 @@ hr {
 
 .full-width {
   @include breakpoint(large) {
-    max-width: 65%;
-    margin: 0 auto;
-    text-align: center;
+    max-width: 55%;
+    //margin: 0 auto;
+    text-align: left;
   }
   .text {
     h1 {
       max-width: 100%;
     }
+    h2 {
+      margin-top: 2rem;
+    }
     p {
+      margin-bottom: .5rem;
       @include breakpoint(large) {
-        max-width: 80%;
+        max-width: 90%;
+        margin-bottom: 0;
       }
-      margin: 2rem auto;
+    em {
+      color: $medium-gray;
+    }
+      //margin: 2rem auto;
     }
   }
+  form {
+    margin-left: -.7rem;
+    padding-left: 0;
+  }
+}
+
+button {
+  text-transform: uppercase;
 }
 
 footer {
