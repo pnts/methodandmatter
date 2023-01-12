@@ -11,11 +11,21 @@ image: "og/mm-og-1.jpg"
 
   <div class="col-2">
 
-      <p>Thank you for signing up to Kitchen Party!</p>
-      <p>As promised, here is a link to the <%= link_to('Notes From the Emerging Future exercise', 'notes-emerging-future') %>.</p>
+      <p>Thank you for signing up to Kitchen Party! As promised, here is your link to <%= link_to('Notes From the Emerging Future', 'notes-emerging-future') %>, an exercise for getting in touch with your deeper intentions and your unique path.</p>
+
+      <%= image_tag("confirmed.gif") %>
+
+      <p>Other articles that might be of interest:
+        <ul class="bullets">
+          <li><%= link_to('Building a Relationship with Change', 'https://medium.com/method-matter/building-a-relationship-with-change-3602cf6e7890') %></li>
+          <li><%= link_to('Navigating Life\'s Transitions', 'https://medium.com/method-matter/on-navigating-lifes-transitions-104d619316b9') %></li>
+          <li><%= link_to('The Art of Receiving Feedback', 'https://medium.com/method-matter/the-art-of-receiving-feedback-1561aaa74d6c') %></li>
+          <li><%= link_to('Both/And: Untangling the Relationship Between Management & Leadership', 'https://medium.com/method-matter/both-and-untangling-the-relationship-between-management-leadership-21fdcd06f546') %></li>
+        </ul>
+
+      <p>And if you are so inclined, let's <%= link_to('connect on LinkedIn', 'https://www.linkedin.com/in/mignolo/') %>.</p>
 
       <p>Glad to have you onboard! </p>
 
-      <%= image_tag("confirmed.gif") %>
   </div>
 </section>
