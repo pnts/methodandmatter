@@ -401,6 +401,19 @@ input[type=submit] {
   text-align: center;
 }
 
+.mini {
+  background: $lightest-gray;
+  padding: 0 $main-padding 1rem $main-padding;
+  h3 {
+    padding-top: 2rem;
+    margin-bottom: .5rem;
+  }
+  p {
+    margin-top: 0;
+    font-size: 1.1rem;
+  }
+}
+
 //////
 //////
 ////// Resources
