@@ -150,10 +150,14 @@ hr {
       margin-bottom: .5rem;
       @include breakpoint(large) {
         max-width: 90%;
-        margin-bottom: 0;
+        margin-bottom: .5rem;
       }
     em {
       color: $medium-gray;
+      a {
+        color: $medium-gray;
+        border-bottom: 1px solid $light-gray;
+      }
     }
       //margin: 2rem auto;
     }
