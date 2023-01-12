@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+  <channel>
+  	<title>Kitchen Party</title>
+  	<link>https://methodandmatter.com/kp/</link>
+  	<description>A newsletter about leadership, business, and being human.</description>
+  	<language>en-US</language>
+  </channel>
+
+
+    <item>
+
+        <pubDate>December 2022</pubDate>
+        <title>End of Year Reflections and Other Sundries</title>
+        <link>https://methodandmatter.com/kp/dec-22</link>
+    </item>
+    <item>
+
+        <pubDate>November 2022</pubDate>
+        <title>The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
+        <link>https://methodandmatter.com/kp/nov-22</link>
+    </item>
+    <item>
+
+        <pubDate>October 2022</pubDate>
+        <title>Resistance, Transitions, and Belonging</title>
+        <link>https://methodandmatter.com/kp/oct-22</link>
+    </item>
+
+</rss>
