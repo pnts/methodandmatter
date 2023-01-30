@@ -1,13 +1,17 @@
 newsletters:
+  - title: Foundations, Accountability, and Discomfort
+    date: January 2023
+    image: kp/004.jpg
+    link: kp/004
   - title: End of Year Reflections and Other Sundries
     date: December 2022
     image: kp/dec22.jpeg
-    link: kp/dec-22
+    link: kp/003
   - title: The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking
     date: November 2022
     image: kp/nov22.jpg
-    link: kp/nov-22
+    link: kp/002
   - title: Resistance, Transitions, and Belonging
     date: October 2022
     image: kp/oct22.jpg
-    link: kp/oct-22
+    link: kp/001
