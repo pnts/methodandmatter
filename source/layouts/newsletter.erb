@@ -2,7 +2,9 @@
 <% wrap_layout :layout do %>
   <section class="content">
     <div class="col-1 kitchen-party">
-      <%= yield %>
+      <h5><%= link_to('Kitchen Party', 'kitchen-party') %>, <%= current_page.data.date %></h5>
+      <h1><%= current_page.data.description %></h1>
+        <%= yield %>
       <hr />
     </div>
   </section>

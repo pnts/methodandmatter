@@ -35,17 +35,15 @@ image: "og/og-kp.jpg"
     <h3>Previous Editions</h3>
     <% data.kpposts.newsletters.each do |n| %>
       <div class="kp-post">
-        <%= image_tag n.image %>
+        <%= image_tag 'kp/' + n.edition + '.jpg' %>
 
         <div class="meta">
           <h2><%= n.date %></h2>
-          <h3><%= link_to(n.title, n.link) %></h3>
+          <h3><%= link_to(n.title, 'kp/' + n.edition) %></h3>
         </div>
       </div>
     <% end %>
     </div>
 
 
-
-  </div>
 </section>
