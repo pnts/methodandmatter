@@ -1,0 +1,12 @@
+
+<% wrap_layout :layout do %>
+
+  <section class="content">
+    <div class="col-1 notes">
+    <h4><%= current_page.data.date %></h4>
+    <h2><%= current_page.data.title %></h2>
+        <%= yield %>
+    </div>
+  </section>
+
+<% end %>

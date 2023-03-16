@@ -1,0 +1,9 @@
+---
+title: ❏ Notes to Self <%= @title %>
+date: <%= @date.strftime('%B %d, %Y') %>
+tags:
+description: "Research in progress from the studio of Andrea Mignolo."
+keywords: "research, lab notes, leadership, being human, technology, design, cosmology, worlding"
+image: "og/mm-og-1.jpg"
+published: false
+---

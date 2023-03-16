@@ -1,0 +1,15 @@
+---
+title: Notes to Self
+description: Research notes from the studio of Andrea Mignolo.
+keywords: research, being human, somatics, life, ontological design
+image: "og/mm-og-1.jpg"
+layout: "notes"
+---
+
+<% blog.articles.each do |article| %>
+  <div class="post-block">
+    <h4><%= link_to article.title, article %> </h4>
+    <p><%#= article.summary %></p>
+    <%#= link_to 'Read more…', article %>
+  </div>
+<% end %>

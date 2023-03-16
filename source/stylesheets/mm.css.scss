@@ -28,8 +28,6 @@ footer {
 
 header {
   padding-top: 1.2rem;
-  padding-bottom: 1rem;
-  margin-bottom: 2rem;
   .inner {
     @include breakpoint(large) {
       padding-left: $main-padding;
@@ -41,6 +39,7 @@ header {
 nav {
   text-transform: uppercase;
   font-size: .9rem;
+  padding-bottom: 1.2rem;
   @include breakpoint(large) {
     float: right;
   }
@@ -83,6 +82,7 @@ hr {
   background-color: #E0E0E0;
   width: 100%;
   margin: 2rem 0;
+  clear: both;
 }
 
 .logo {
@@ -173,37 +173,10 @@ button {
 }
 
 footer {
-  margin-left: 2rem;
-  margin-right: 2rem;
-  background: #222;
-  margin-bottom: 2rem;
-  margin-top: 3rem;
+  padding-bottom: 2rem;
   position: relative;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: right;
-  background-image: image-url("footer.png");
-  a {
-    color: #FFF;
-  }
-  .inner {
-    margin: auto 3rem;
-  }
-  .logo {
-    display: none;
-    @include breakpoint(medium) {
-    display: block;
-    background-image: image-url('mm-white.png');
-    width: 37px;
-    height: 50px;
-    background-size: 37px 50px;
-    border: 0;
-    float: left;
-    margin-top: 2rem;
-    }
-  }
   ul {
-    margin: 3rem auto;
+    margin-bottom: 1rem;
     clear: both;
     padding: 3rem 0;
     @include breakpoint(medium) {
@@ -224,6 +197,10 @@ footer {
   .copyright {
     clear: both;
   }
+}
+
+header, footer {
+  background: #FFF;
 }
 
 .btn {
@@ -314,7 +291,7 @@ input[type=submit] {
   }
   @include breakpoint(large) {
     max-width: 60%;
-    &.kitchen-party {
+    &.kitchen-party, &.notes {
       max-width: 100%;
     }
   }
@@ -522,9 +499,10 @@ ol {
 
 .colophon {
   font-size: $font-size-small;
-  text-align: center;
+  text-align: right;
   color: $light-gray;
   line-height: 1.3rem;
+  clear: both;
 }
 
 .nickname {
@@ -676,6 +654,39 @@ p.teacher {
       margin: auto 1.5rem;
     }
   }
+}
+
+//////
+//////
+////// Notes to Self
+//////
+//////
+
+.notes {
+  background: #EFF2F4;
+}
+
+.notes header, .notes footer {
+  hr {
+    background-color: #FFF;
+  }
+}
+
+.notes .notes {
+  font-family: $font-heading-serif;
+  font-weight: 200;
+}
+
+.notes blockquote {
+  color: #787D81;
+  font-weight: $font-weight-light;
+  &::before {
+    color: #D1D4D6;
+  }
+}
+
+.notes strong {
+  font-weight: 600;
 }
 
 //////
