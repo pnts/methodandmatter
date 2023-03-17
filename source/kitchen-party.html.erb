@@ -33,17 +33,17 @@ image: "og/og-kp.jpg"
 
     <div class="kp-editions">
     <h3>Previous Editions</h3>
-    <% data.kpposts.newsletters.each do |n| %>
+
+    <% blog('kp').articles.each do |article| %>
       <div class="kp-post">
-        <%= image_tag 'kp/' + n.edition + '.jpg' %>
+        <%= image_tag article.data.image %>
 
         <div class="meta">
-          <h2><%= n.date %></h2>
-          <h3><%= link_to(n.title, 'kp/' + n.edition) %></h3>
+          <h2><%= article.date.strftime('%B %Y') %></h2>
+          <h3><%= link_to article.data.description, article %> </h3>
         </div>
       </div>
     <% end %>
     </div>
-
 
 </section>

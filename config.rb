@@ -65,6 +65,24 @@ activate :blog do |blog|
   #blog.paginate = true
 end
 
+activate :blog do |blog|
+  blog.name = "kp"
+  blog.prefix = "kp"
+  blog.sources = "{title}.html"
+  blog.permalink = "{title}"
+  blog.layout = "layouts/newsletter"
+
+  blog.default_extension = ".md"
+
+  blog.new_article_template = File.expand_path('../source/kp/template.yml', __FILE__)
+
+  #blog.tag_template = "tag.html"
+  #blog.calendar_template = "calendar.html"
+
+  # Enable pagination
+  #blog.paginate = true
+end
+
 
 
 # alternate layouts

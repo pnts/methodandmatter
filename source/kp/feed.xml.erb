@@ -22,15 +22,14 @@ layout: false
   </channel>
 
 
-  <% data.kpposts.newsletters.each do |n| %>
-    <item>
+	<% blog('kp').articles.each do |article| %>
+			<item>
+				<pubDate><%= article.date.strftime('%B %Y') %></pubDate>
+				<title><%= article.data.description %></title>
+				<link><%= article.url %></link>
 
-        <pubDate><%= n.date %></pubDate>
-        <title><%= n.title %></title>
-        <link><%= 'https://methodandmatter.com/kp/' + n.edition %></link>
-
-				<content><%= n.intro %></content>
-    </item>
-  <% end %>
+				<content><%= article.body %></content>
+			</item>
+	<% end %>
 
 </rss>

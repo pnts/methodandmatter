@@ -75,7 +75,7 @@ image: "og/mm-og-1.jpg"
       <p>There is a lot that holds my interest, different threads that make up the warp and weft of what I am slowly weaving together into a coherent tapestry of work. Coaching, teaching, writing, design, technology, business, spirituality - the individual paths I have walked across the course of my life have combined to illuminate the singular question that is always with me: what does it mean to be human? It is my hope, for those who encounter artifacts born of this exploration, that they offer a moment of solace, a pause for reflection, a glimmer of possibility. </p>
 
       <p>The longer, looser threads don’t often see the light of day, but who knows what hearts they might connect with, what small doors start to creak open. I have held back from putting things in public because it felt too academic or irrelevant or weird, but I’ve come to the realization that 1) these are very limiting beliefs to hold and have prevented me from really pushing this work further and 2) there are others who may find this work interesting or useful and I would love to find them! And I certainly am not going to do it by keeping quiet about what matters most to me. </p>
-      <% blog.articles.each do |article| %>
+      <% blog('notes').articles.each do |article| %>
         <div class="post-block">
           <h4><%= link_to article.title, article %> </h4>
         </div>
