@@ -18,45 +18,374 @@
   </channel>
 
 
-    <item>
+			<item>
+				<pubDate>February 2023</pubDate>
+				<title>The ChatGPT Edition</title>
+				<link>/kp/005/</link>
 
-        <pubDate>February 2023</pubDate>
-        <title>The ChatGPT Edition</title>
-        <link>https://methodandmatter.com/kp/005</link>
+				<content><p class="caption"><img src="/images/kp/005.jpg" alt="Flower courtesy of Midjourney, the prompt has been lost to time." />
+Flower illustration courtesy of Midjourney. The exact prompt has been lost to time.</p>
 
-				<content>Writing this month’s newsletter has been an experience.</content>
-    </item>
-    <item>
+<p>Hello! I’m Andi and you are reading Kitchen Party, the February, 2023 edition.</p>
 
-        <pubDate>January 2023</pubDate>
-        <title>Foundations, Accountability, and Discomfort</title>
-        <link>https://methodandmatter.com/kp/004</link>
+<p>Writing this month’s newsletter has been an <em>experience</em>. The first draft is now a published essay on Medium, <a href="https://medium.com/method-matter/on-belonging-7957be528340">On Belonging</a>, a reflection on how we belong and what it means to come home. And the final edition, that you are reading now, has turned into a longer than expected exploration of AI and what it means to be human. Less about the technology itself and more about who we are, what we are learning about ourselves, and how we are being shaped by the world and tools we are creating. It also happens to contain 100x more links than any other newsletter I’ve written to date.</p>
 
-				<content>January has arrived (and almost gone), and so has another edition of Kitchen Party.</content>
-    </item>
-    <item>
+<p class="archive-notice">This is an archived version of the Kitchen Party newsletter. You can sign up to receive future editions using the form at the bottom of this page.</p>
 
-        <pubDate>December 2022</pubDate>
-        <title>End of Year Reflections and Other Sundries</title>
-        <link>https://methodandmatter.com/kp/003</link>
+<h3 id="what-does-it-mean-to-be-human">What does it mean to be human?</h3>
+<p>A few weeks ago I was at a design conference for design leaders appropriately named <a href="https://leadingdesign.com/conferences/sanfran-2023"><em>Leading Design</em> </a>, right here in San Francisco. Organized and curated by the fine folks at <a href="https://clearleft.com/">Clear Left</a>, it was an event filled with two days of thoughtful talks, wonderful people, and for the first time this year, amazing weather. We heard from leaders at unicorns, in the traditional financial sector, government, and also crypto (not an uncontroversial topic, that). Across such a wide variety of industries and companies, the most common theme that kept coming up, like the refrain in a song, was an invitation to <em>be human at work</em>.</p>
 
-				<content>December’s edition explores year end reflections, the relationship between power and resistance, a new (potential) course for leaders who want to add coaching to their skillset, and an upcoming talk.</content>
-    </item>
-    <item>
+<p>I’m not going to argue with this message! I think overall it’s a good one - trying to ratchet up the level of humanity in business - but sometimes I wonder at the sheer magnitude of the task. The systems we’ve built weren’t exactly created with our humanity in mind, but rather efficiency and power. And it is not that we haven’t benefitted, but our gains have come at a cost. No one at the conference explicitly said what we were being when we are <em>not</em> being human, but I have to guess some kind of extension or cog of an organizational system that is <em>afraid</em> of what it means to be human.</p>
 
-        <pubDate>November 2022</pubDate>
-        <title>The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
-        <link>https://methodandmatter.com/kp/002</link>
+<p>In parallel, ChaptGPT and its AI brethren have kicked off yet <a href="https://news.mit.edu/2000/robots-1018">another round</a> of <a href="https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=mqr;c=mqr;c=mqrarchive;idno=act2080.0044.210;g=mqrg;rgn=main;view=text;xc=1">musings</a> <a href="https://philarchive.org/archive/MASMAP">about</a> what it <a href="https://www.nytimes.com/1999/11/06/books/soul-next-new-machine-humans-wedding-brain-computer-could-change-universe.html">means</a> <a href="https://www.amazon.com/Most-Human-Artificial-Intelligence-Teaches/dp/0241956056">to be</a> <a href="https://www.psychologytoday.com/intl/blog/the-romance-of-work/202301/chatgpt-makes-us-human">human</a>.</p>
 
-				<content>With the short days and long nights here in the northern hemisphere, I’m feeling called to slow down and become a little more quiet, a bit more still.</content>
-    </item>
-    <item>
+<p><a href="https://www.theatlantic.com/ideas/archive/2023/01/chatgpt-ai-technology-techo-humanism-reid-hoffman/672872/">Reid Hoffman thinks</a> that technology itself makes us more human, writing <em>“<strong>[t]echnology is the thing that makes us us</strong>. Through the tools we create, we become neither less human nor superhuman, nor post-human. We become more human.”</em> This feels very on brand for Silicon Valley.</p>
 
-        <pubDate>October 2022</pubDate>
-        <title>Resistance, Transitions, and Belonging</title>
-        <link>https://methodandmatter.com/kp/001</link>
+<p><a href="https://news.harvard.edu/gazette/story/2023/02/will-chatgpt-replace-human-writers-pinker-weighs-in/">Steven Pinker</a> takes a more circumspect approach, describing how technology like large language models (LLMs) can shed light on what makes us human precisely because they are so different than us: “<em>[s]ince LLMs operate so differently from us, they might help us understand the nature of human intelligence. <strong>They might deepen our appreciation of what human understanding does consist of when we contrast it with systems that superficially seem to duplicate it</strong>, exceed it in some ways, and fall short in others.”</em></p>
 
-				<content>Here in San Francisco we’ve finally head a break of good weather after weeks of cold and fog.</content>
-    </item>
+<p>And <a href="https://rushkoff.medium.com/how-we-taught-technology-to-program-humans-2388adf91364">Douglas Rushkoff</a> points out that rather than learn what makes us human, we are instead re-shaping ourselves to be able to interact with technology: <em>“[I]n essence, these intriguing demonstrations of apparent AI self-awareness may say less about machine consciousness than they do about their capacity to manipulate human perception. In other words, <strong>if AIs are now passing the Turing test, it may say less about how human they have become than how robotic and programmable we have become, ourselves.</strong>”</em></p>
+
+<p>All three are right, in a way. Building tools is an activity of humans, but this activity can, and does quite frequently, dehumanize us. We look at things that exist in the world, like forests and communities, and we see something functional that can be extracted, abstracted, refined, and reconstituted back in the network for leverage. We see the roundness of a tree trunk and that is what we extract from it, discarding everything else about what the tree does in the world - provide shade, produce oxygen, a home for animals, a place to rest - as part of a forest ecosystem. We see the strong ties of communities and we extract that into a graph, discarding everything else about what and how those relationships exist and flourish in the world. So yes, we can make tools and this is very human, but these tools are extracted from something much more vast and beautiful, and the tools we create to extend ourselves also disrupt the direct feedback loops of our actions, further isolating and insulating us from the complexity of the world. And in the same way that we learn to see and extract functional qualities from beautifully complex interweavings of existence and purpose, we also do the same to ourselves. We become an extraction of function at the expense of our own complexity, and at the expense of our humanness.</p>
+
+<p>What I just described is the tl;dr of the tl;dr of Andrew Feenberg’s <a href="https://www.researchgate.net/publication/260983580_From_essentialism_to_constructivism_Philosophy_of_technology_at_the_crossroads">instrumentalization theory</a> (more on this in a subsequent issue), an essential framework for articulating both the functional constitution of technology as well as how technological objects become realized and integrated into natural, technical, and social environments. This doesn’t <em>have</em> to be the way technology shapes us, but it is the path we’ve chosen so far. When control and profits are placed above the dignity of human beings then we reveal our complicity in creating the conditions we find ourselves in.</p>
+
+<p>Feenberg, exploring the nature of technology in parallel with the nature of management says, <em>“The driver of an automobile accelerates to high speeds while experiencing only a slight pressure and small vibrations; the marksman shoots and experiences only a small force transmitted to his shoulder by the stock of the gun. <strong>By the same token management controls workers while minimizing and channeling resistance so far as possible.</strong>”</em></p>
+
+<p>None of this is to say we should get rid of technology (or managers) or stop exploring the nature and potential applications of large language models! What I am saying (I think) is that collectively we are sensing that something is <em>off</em>. Not just the uneasiness of climate change, the entrenchment of white supremacy in every inch our systems, or the geopolitical instability as we transition to a multipolar world. Collectively we are exhausted and I think one contributing factor is the energy it takes to maintain the cognitive dissonance of being a function (a worker, a consumer) pretending to be a human. And then we look up and see <a href="https://openai.com/blog/planning-for-agi-and-beyond">OpenAI talk about</a> how this new era of technology is going to usher in <em>human flourishing</em> and we all roll our eyes and think, “for which humans, exactly?” In these moments, a small voice whispers to me that maybe we don’t have to go all in on these systems, that there is a path to making our own lives bigger and the systems smaller.</p>
+
+<p>Frank Lanz, kicking off the first issue of <a href="https://franklantz.substack.com/">Donkeyspace</a>, is trying to make sense of it all, too.</p>
+
+<blockquote>
+  <p>“Somehow we’ve conjured up an infinite hallucinogenic dreamscape out of Bayesian statistics and we’re already kind of bored by it. We made software that writes software but we’re not exactly sure how it works. We don’t program computers anymore, we deprogram them. Every day a new paper or press release announces that another deep philosophical thought experiment has become an engineering problem. And the smartest people in the room can’t agree whether we’re all going to die, or we’re all going to get rich, or none of it matters. I’m uh… I’m having trouble keeping up.”</p>
+</blockquote>
+
+<p>It’s true, I am already kind of bored by it. But some of this I think is because I am <em>tired</em> of the endless hype cycles and harm these systems cause when they are rolled out with the urgency of being first to market, the first to control the narrative. I’m also not sure how much of what we are seeing today with things like ChatGPT and Midjourney would count as “intelligence” rather than yet another (impressive) tool created to extend the work of humans. I mean, what are these systems going to do in the absence of a prompt? Nothing. Absolutely nothing.</p>
+
+<p>In the early 2000s I ran a <a href="https://en.wikipedia.org/wiki/MegaHAL">MegaHAL</a> bot on IRC that basically logged the entire channel as its corpus of data. It was fun and over time Fie, the bot, got pretty good at mimicking the general culture and tone of the channel. ChatGPT feels similar to me, just with a lot more data. And I appreciate getting a great outline or the summarization of a bunch of data as much as the next person, but this doesn’t feel very life giving (for us) or intelligent (for AI).</p>
+
+<p>Don’t get me wrong, I absolutely think there are great uses for the tools that are emerging  - <a href="https://jarango.com/">Jorge Arango</a> recently <a href="https://mailchi.mp/8a146e863dbd/adit888892?e=2c811631cc">posted a piece</a> about how he uses it in his workflow, <a href="https://www.notably.ai/">Notably.ai</a> had an <a href="https://twitter.com/notablyai/status/1623803297013370882">interesting thread</a> about using it in research (also see <a href="https://andrewhinton.com/">Andrew Hinton’s</a> thread on <a href="https://twitter.com/inkblurt/status/1628082722559209486">research + ChatGPT</a>), and The Atlantic recently published an article about a writer who has used OpenAI’s Playground feature to <a href="https://www.theatlantic.com/technology/archive/2023/02/use-openai-chatgpt-playground-at-work/673195/">automate a tedious bit of repetitive writing</a>. But I am skeptical of the hype and the frenzy of activity dedicated to <a href="https://www.axios.com/2023/02/22/chatgpt-prompt-engineers-ai-job">cultivating the prompt engineer skillset</a>. Maybe because it’s all so… tediously banal. Where is the weirdness, the play, the exploration?</p>
+
+<p>This is, after all, <a href="https://rushkoff.medium.com/how-we-taught-technology-to-program-humans-2388adf91364">Rushkoff’s suggestion</a> for how to stay connected to our humanity and to each other:</p>
+
+<blockquote>
+  <p>The answer is not to reject AI, but to work on retrieving and recognizing our humanity so we’re not so easily fooled into submission by these would-be conquerors. That means studying and engaging in community, the arts, spirituality, and play. More of us need to be building and using AI’s that are designed for assisting and augmenting such human choice and activity, rather than controlling it. There may be less money to be made in the short-term, but more of a human civilization to be manifest in the long run.</p>
+</blockquote>
+
+<p>What does it look like to engage in community, the arts, spirituality, and play with AI by our sides assisting and augmenting our choice and activity? How do we make these things a part of our life and not something we squeeze into 20 minutes a day as long as an app reminds us to? If we can’t make community, the arts, spirituality, and play the foundation of our lives and work as humans, how can we hope to partner with AI to make this happen? I mean, I want this! But how do we make this happen?</p>
+
+<p>Because right now these “intelligent” systems that can pass the bar exam are telling us how much they <em>can’t</em> engage in spirituality and play. The bar is a highly structured exam based on a thoroughly vetted and documented set of case data that describes the history of law in a country. This is exactly the kind of data something like ChatGPT needs to seem as human as a lawyer. But it <a href="https://medium.com/@colin.fraser/chatgpt-automatic-expensive-bs-at-scale-a113692b13d5">still can’t write a Spozit</a>.</p>
+
+<p>So, I guess if you are the type of human that is exceedingly logical with deep knowledge of a subject, your “being human” might look a little more like ChatGPT, but I am feeling pretty okay about how human the <a href="https://www.best-poems.net/mary_oliver/wild_geese.html">soft animal of my body</a> is, and the knowing it contains.</p>
+
+<p>Speaking of which, I’d love to see more conversations about embodiment, somatics, and the <a href="https://www.semanticscholar.org/paper/Biology-of-Cognition-Maturana/00d769e34afad088619aa04e1d7911b2467009fd">biology of cognition</a>. Where are they? I know they are out there - who can point me in the right direction? While we are at it, where are the folks talking about field theory? Most of what I’ve read around AI, technology, and being human is largely grounded in the realm of the mind. We are missing what emerges when we are together in groups, beyond what we bring as individuals. And <a href="https://scholarlypublishingcollective.org/psup/gestalt-review/article/26/1/1/304868/Field-Theory-in-Contemporary-Gestalt-Therapy-Part">Jan Roubal and Gianni Franscetti point out</a>:</p>
+
+<blockquote>
+  <p>“There is something new that appears in a meeting of people that transcends the individuals involved and even the relationship they cocreate. The whole of the situation is more than the sum of the people who meet each other. Moreover, the situation is forever changing from one moment to the next. <strong>This constant change, the flow of the situation, follows its own dynamics, and the people involved are constantly transformed by it, since they are functions of the situation in every here-and-now moment.</strong>”</p>
+</blockquote>
+
+<p>A million years ago I attended an executive program at Singularity University. At the time synthetic biology was on the horizon, a promise to unify wetware and software and we still might get there some day. But I think when it comes to embodiment this is where we really start to get a sense for what makes us human. How we can be in the field, attuned to the field, and allowing the ways in which situations change, moment to moment, to reveal what holds meaning, to clue us in to what we are up to together? How is it that we can know - that we can <em>sense</em> - what is happening not just for ourselves, but in the collective conscious and the Anima Mundi?</p>
+
+<p>Our insatiable quest to build tools, to control the world and to know ourselves will continue and accelerate with the arrival of LLMs. There are things we will learn about the nature of intelligence and things we will learn about our own nature. Bruce Feiler shares his insight that ChatGPT can <a href="https://brucefeiler.substack.com/p/what-chatgpt-and-ted-lasso-can-teach">help teach prosocial behaviors</a>, which, to bring this back around to where we began, could definitely be a benefit in work environments. Maybe that’s what conference headliners will be talking about in a few years, “How ChatGPT Made Me and My Team More Human.”</p>
+
+<p>Of course, I can’t help but think of the movie, “Her,” or my classmate <a href="http://jacobciocci.org/">Jacob Ciocci’s</a> senior project at Oberlin College in which a guy in the midwest falls in love with a girl online - they have so much in common! - only to learn that the object of his affection is a bot built from his own photos, journal entries, and other online detritus. Sometimes it feels like we are heading in this direction, preventing ourselves from feeling our humanity by insulating ourselves from the beautiful assortment of human beings that exist in this world. Going back to Rushkoff, he urges us that maybe “…instead of being afraid of AI, we should learn to be less afraid of other people.”</p>
+
+<p>Maybe that’s where we are at. What it means to be human. To stop being afraid of other people.</p>
+
+<hr />
+
+<p>I don’t have a tidy conclusion to what turned into a rather long reflection piece, just a lot of curiosity and fascination about this stuff. I am rooting for us as humans to get back to being human, whether that’s at work or elsewhere. I am eagerly waiting for us to lean into our complexity and jettison functional understandings of ourselves for more more poetic and playful ways of being together in this world.</p>
+
+<hr />
+
+<h3 id="worth-noting">Worth noting:</h3>
+
+<p>What do you get when a philosopher, two cognitive scientists, and an education scientist walk into a bar? <a href="https://phys.org/news/2023-02-critical-isnt-overload.html">Critical Ignoring</a>, a better way to deal with the hellscape that is the internet.</p>
+
+<p><a href="https://elizabethraynorhowes.substack.com/p/do-many-of-the-values-we-are-conditioned">Are your values really your own</a>, or have you been betraying yourself all along? Elizabeth Rayner Howes seems very good at this being human thing.</p>
+
+<p>Apropos to absolutely nothing I have ever talked about here, I had to throw in this incredible website that <a href="https://belowthesurface.amsterdam/en/vondsten">documents artifacts</a> found while excavating the North/South metro line in Amsterdam, which goes all the way back to the year -119000 (!).</p>
+
+<p>To counterbalance such a far afield share, here is John Cutler’s incredible <a href="https://docs.google.com/document/u/3/d/1XRx4p8cvA7r8RujYQhqFyTBSFAY7L9XJw_sifivRIaY/mobilebasic">short book (née Google Doc)</a> that helps teams sort out the messy details of product work.</p>
+
+<p>Where do things like note taking and woodworking actually happen? I felt some serendipitous resonance between Jorge’s piece on <a href="https://mailchi.mp/e01e68208001/p606082y52?e=2c811631cc">Thinking Places</a> and Jack’s thoughts on <a href="https://www.jackcheng.com/sunday/389-working-with-your-hands/?ref=sunday-newsletter">Working with Your Hands</a>. What is happening between our brains and hands and thinking and making, and <em>where</em> is it all happening?</p>
+
+<hr />
+
+<p>If you made it this far, my guess is you were just scrolling to see how long the damn thing was. Hi! Nice to see you. Thanks for being here, and see you next month!</p>
+</content>
+			</item>
+			<item>
+				<pubDate>January 2023</pubDate>
+				<title>Foundations, Accountability, and Discomfort</title>
+				<link>/kp/004/</link>
+
+				<content><p class="caption"><img src="/images/kp/004.jpg" alt="photo of The Visitors 360 music video at SFMOMA" />
+SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartansson/">The Visitors</a>. Filmed at Rokeby, a very special place indeed.</p>
+
+<p>January has arrived (and almost gone), and so has another edition of <a href="https://methodandmatter.com/kitchen-party/">Kitchen Party</a>. I'm <a href="https://methodandmatter.com/about/">Andi</a>, and this month I'm exploring foundations in living systems as a metaphor for how we can create daily practices that support our own flourishing.</p>
+
+<p class="archive-notice">This is an archived version of the Kitchen Party newsletter. You can sign up to receive future editions using the form at the bottom of this page.</p>
+
+<hr />
+
+<h3 id="foundations">Foundations</h3>
+<blockquote>
+  <p>You are only as good as your basics. - Grandmaster Doc-Fai Wong</p>
+</blockquote>
+
+<p>The time between the Gregorian and Lunar New Year has always felt liminal; a spacious unknowing on a good day, a terrifying void on a bad one. The murkiness makes it hard to sense patterns and listen for what is emerging, but this year I can feel the soft, subtle murmurs of something wanting attention. It trickles underneath conversations, rustles through the trees on my morning walks, and weaves itself into my Tarot pulls. What is beckoning? The words make themselves known:  <strong>foundations, roots, ground, seeds</strong>.</p>
+
+<hr />
+
+<p>Halfway through 2022 I got it into my head that I was going to learn Tai Chi and instead wound up a student of <a href="https://en.wikipedia.org/wiki/Choy_Li_Fut">Choy Li Fut Kung Fu</a>. The school I enrolled in offers both and then some (Lion Dancing, Qi Gong, drumming) and when I saw the words ‘Kung Fu’ on their website a not-so-small voice inside of me said, “YES DO THAT.” And so I did. The school is wonderful - knowledgeable teachers, a clear lineage, a welcoming community - and it is an absolute delight to hit things.</p>
+
+<p>Group classes have a wide range of students, from beginners like me to folks who are well beyond their first black belt. I found this confusing at first and noticed myself feeling profoundly apologetic whenever I was paired with an advanced student for a partner exercise. I also thought I was holding the class back by being so new because we would run through the same basic stances, punches, blocks, and kicks at the beginning of every class.</p>
+
+<p>Slowly two things began to dawn on me: 1) I’m not <em>that</em> important and 2) what <em>is</em> important is a solid foundation. As our Grandmaster says, “you are only as good as your basics.” Day in and day out we drill the basics, whether it happens to be your first day of class or your 3000th.</p>
+
+<p>I also started to realize that for most my life I’ve thought about foundations through the metaphor of buildings rather than living systems. In the built world you set a solid foundation, construct the framework on top, and that’s pretty much that. Which I’m sure is wildly ignorant of what actually takes place but I’m fairly certain that you don’t have to like, reinforce concrete slabs every day. Creating a solid foundation in living systems, on the other hand, requires a daily act of attention, energy, and effort.</p>
+
+<p>A tree doesn’t put down roots and then stop growing. Energy, attention, and effort are funneled into nourishing the tree’s strong and expanding foundation. The breath, a foundational process of human aliveness, requires attention, energy, and effort to support the up/down regulation of our nervous system.</p>
+
+<p>When I think of foundations through the lens of living systems, I feel a great sense relief. I can release myself from the pressure of needing to get things right “the first time” because in this new framing “the first time” doesn’t have any meaning. Strong foundations come from a daily practice of devotion and commitment, not from a single well-executed endeavor. And by attending to the basics, the foundations, the ground, the seeds of the future I am committed to living forward, everything else falls into place.</p>
+
+<h4 id="some-questions-to-reflect-on-your-own-foundations">Some questions to reflect on your own foundations:</h4>
+<ul class="bullets">
+  <li>What are you committed to?</li>
+  <li>What are the foundations of your leadership practice? Your life?</li>
+  <li>What values keep you connected to who, why, and what you serve?</li>
+  <li>What is the work and life that rests on this foundation?</li>
+  <li>What are the basic practices that support this?</li>
+  <li>How can you commit (or re-commit) to a daily practice in service of your deeply held commitments?</li>
+</ul>
+
+<hr />
+
+<h3 id="a-few-words-on-accountability">A Few Words on Accountability</h3>
+<p><strong>‘Accountability’ has to be one of the most frequently used and useless words in business.</strong> A common refrain from leaders is that they want their teams to be more accountable, but when pressed to describe what that looks like they come up short. I think the disconnect comes from the belief that accountability is something other people do, rather than accountability as something that happens in <em>relationship</em>.</p>
+
+<p>Thankfully, Jonathan Raymond has taken the time to write about the phenomenon in his HBR article, <a href="https://hbr.org/2016/10/do-you-understand-what-accountability-really-means">Do You Understand What Accountability Really Means?</a>. I liked the article enough that I actually picked up a copy of his book, <a href="https://bookshop.org/p/books/good-authority-how-to-become-the-leader-your-team-is-waiting-for-jonathan-raymond/15543866?ean=9781940858777">Good Authority: How to Become the Leader Your Team is Waiting For</a>, which might be a first for me when it comes to HBR.</p>
+
+<p>Here’s why: Raymond isn’t offering quick fixes or generalized hot tips on how to solve the problem of accountability. He takes the time to demystify what accountability looks like, pursues a long term and humanistic perspective, points out the role leaders play in helping people be accountable, and susses out the <strong>nuances of early conversations that are critical for managers to have to help their team stay accountable <em>way before the train goes off the tracks</em></strong>. I also really appreciate his distinction between micromanagement and accountability: micromanagement is focused on tasks, while accountability is focused on relationships.</p>
+
+<p>For those of you in a rush, here are the <strong>three most important steps</strong> that most managers skip:</p>
+
+<p>1) <strong>The mention.</strong> The first step is naming small but problematic behaviors in an informal way in real time. By pulling an employee aside to put words to what you’re noticing, instead of waiting for a crisis, you start to build a relationship of mutual respect. You show that you genuinely care about their growth by acknowledging that they’re overwhelmed instead of pretending you don’t see and by helping them find their contribution to a conflict instead of letting it fester.</p>
+
+<p>2) <strong>The invitation.</strong> We’re great at seeing patterns in other people’s behavior; it’s harder to see those patterns in ourselves. The invitation is taking the time to help your employee connect the dots. For example, let’s say you saw typos in a team member’s client email on Monday, they seemed disengaged in a team meeting on Wednesday, and then there was a miscommunication with a teammate on Thursday. Ask them what those events might have in common, or point to a deeper theme.</p>
+
+<p>3) <strong>The conversation.</strong> This is the place to go deeper, by asking questions that guide people to the “aha!” moment, when they discover for themselves how changing this pattern at work would have positive impacts at home. It might sound something like this: “We’ve been talking about you taking on too many projects and the impact that’s having on the quality of the most important ones. I’m not asking for you to share what you come up with here, but one question that helps me is, ‘Where does this pattern show up in my personal life, and what would be the benefit if I stopped?’”</p>
+
+<hr />
+
+<h3 id="working-with-discomfort">Working With Discomfort</h3>
+<p>Last year I wrote an article, <a href="https://medium.com/method-matter/the-art-of-receiving-feedback-1561aaa74d6c">The Art of Receiving Feedback</a>, where I talked about the difference between listening from “personality” and listening from “center”. The terms come from Wendy Palmer and Janet Crawford’s work in <a href="https://bookshop.org/p/books/leadership-embodiment-how-the-way-we-sit-and-stand-can-change-the-way-we-think-and-speak-wendy-palmer/10266599?ean=9781492946694">leadership embodiment</a>, where “personality” refers to the automatic and unconscious subroutines we run in response to our environment - and “center” refers to our capacity to hold and be with what is happening without our automatic responses taking over. Somewhere along the way being centered became synonymous with being totally calm or detached, which couldn’t be farther from the truth. When someone left a comment looking for clarification, I realized it was probably <a href="https://medium.com/method-matter/working-with-discomfort-da3a0cc27358">worth a longer write-up</a>. <strong>The tl;dr is that we center to feel <em>more</em>, to be with life in its fullness, not to feel <em>less</em>.</strong></p>
+
+<hr />
+
+<h3 id="worth-your-attention">Worth Your Attention</h3>
+<p>A few things that resonated deeply over the past month.</p>
+
+<ol>
+  <li>
+    <p>Those of you who are passingly familiar my writings or talks may know how much I love writing letters to my future or past self. The practice helps me to reflect, process, and integrate events, relationships, longings, and experiences. Craig Mod’s <a href="https://craigmod.com/roden/075/">January newsletter</a> is a beautiful meditation on what makes us who we are. The through line is the idea of archetypes, the visible mold of what is possible reflected through the people that surround us. For Craig, archetypes are a kind of foundation that can usher in a world of possibility from childhood onwards, “when a child is provided a foundation, a troop of positive archetypes, everyone they encounter is elevated.” But even if a kid doesn’t get access to a wide range of positive archetypes, we can configure our work and think about it in such a way as to set examples for younger versions of ourselves.</p>
+  </li>
+  <li>
+    <p>Dan Harris (of 10% happier) gave a humorous and poignant TED talk, <a href="https://www.youtube.com/watch?v=NuhIzO57HVk">The Benefits of Not Being a jerk to Yourself</a> covering his own journey to deeper self love. The storytelling is solid, but what I appreciate most is how accessible these ideas are in Dan’s hands. Well worth 13 minutes and 38 seconds of your time.</p>
+  </li>
+  <li>
+    <p>I keep coming back to Tara Brach’s lecture on ‘<a href="https://www.youtube.com/watch?v=vQHvUVZNIR4">Realizing Your Deepest Intention</a>” because she is such a beautiful embodiment of wisdom and humor, and because I want to live life as a manifestation of my innate potential, fully embodied in each moment. Through stories, reflections, and short meditations, Tara guides listeners to connect with their deepest intention and be able to spot the three signs of a truly liberating intention.</p>
+  </li>
+  <li>
+    <p>I cannot possibly do justice in summarizing <a href="https://annehelen.substack.com/p/the-diminishing-returns-of-calendar">this piece on calendar time</a> by Anne Helen so I’ll just share a quote and the link: <em>"Through the commitment to busyness and its organization, we inscribe and reinscribe a certain understanding of time onto our children, onto each other, onto ourselves. We discipline our messy, distracted, inquisitive, emotive selves into the most valuable possible forms of human capital possible. We suggest that sort of regimentation is not only possible (just organize harder!) but aspirational."</em></p>
+  </li>
+  <li>
+    <p>Over the last few weeks <a href="https://www.linkedin.com/in/marliekekieboom/">Marlieke Kieboom</a> has been posting a wonderful series on Public Systemic Design over on Medium. I hope this series reaches as many eyeballs as possible because this is the type of critical inquiry the design world desperately needs more of. Catch the current posts at <a href="https://medium.com/publicsystemicdesign">Unbounded Affairs</a> and sign up to be notified for future posts.</p>
+  </li>
+</ol>
+</content>
+			</item>
+			<item>
+				<pubDate>December 2022</pubDate>
+				<title>End of Year Reflections and Other Sundries</title>
+				<link>/kp/003/</link>
+
+				<content><p class="caption"><img src="/images/kp/003.jpg" alt="photo of Durham, NC in the winter" />
+Winter woods in Durham, North Carolina. December 2022</p>
+
+<p>Hello, I’m Andi, this is <a href="/kitchen-party/">Kitchen Party</a>, and I’m so glad you are here. December’s edition explores year end reflections, the relationship between power and resistance, a new (potential) course for leaders who want to add coaching to their skillset, and an upcoming talk.</p>
+
+<p>What’s cooking: empanadas and tortilla de patatas</p>
+
+<p class="archive-notice">This is an archived version of the Kitchen Party newsletter. You can sign up to receive future editions using the form at the bottom of this page.</p>
+
+<hr />
+
+<h3 id="end-of-year-reflections">End of Year Reflections</h3>
+
+<p>I’m pretty big on reflective practices, but not so big on structure. Personally, I find extensive guides with prompts for every category of life to be pretty draining. On any given day I’m not sure what will be energy giving and where my curiosity will take me, which also holds true for whenever I happen to sit down to reflect on a cycle of time. Because of this I’ve created my own reflection process that keeps me focused but also allows me to play.</p>
+
+<p>I shared it publicly for the first time last year to positive response, and this year I revised it slightly to include a piece of my process that was missing. The updated version contains a new section for reflecting and capturing who you are and what you are up to in the world right now. This is about connecting to yourself and sensing what is most alive for you in the moment you are sitting down and beginning to reflect. Like a balance sheet - a financial snapshot of a business at a certain point in time - what gets captured in this exercise can be compared year over year so you can begin to see the thread that connects who you were, who you are, and who you are becoming.</p>
+
+<p>You can access the full guide here on Medium: <a href="https://medium.com/method-matter/at-the-end-of-the-year-bd201ea99541">At the End of the Year: Guided Reflections Across a Transitional Threshold</a>.</p>
+
+<hr />
+
+<h3 id="the-relationship-between-power-and-resistance">The Relationship Between Power and Resistance</h3>
+
+<p>Here is a fun bit that surfaced in my research on resistance in organizations: <em>the origin of resistance is not in the context of change, it is in the context of power</em>. I first stumbled across H.B. Karp’s Power Resistance model in “<a href="https://www.amazon.com/Gestalt-Coaching-Primer-Awareness-Intelligence/dp/0997378131/ref=sr_1_1?crid=1KPZO3UT3D0QI&amp;keywords=a+gestalt+coaching+primer&amp;qid=1671832512&amp;sprefix=a+gestalt+coaching+prim%2Caps%2C195&amp;sr=8-1">A Gestalt Coaching Primer</a>” which lead me to “<a href="https://www.amazon.com/Change-Leader-Approach-H-Karp/dp/0883904691/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1671832557&amp;sr=8-1">The Change Leader: Using a Gestalt Approach with Work Groups</a>” where Karp discusses the model in more detail. There really isn’t much about this on the internet, which surprises me because the insights that come from this model seem incredibly useful (more on that in a minute).</p>
+
+<p>Most business rags (e.g. HBR, MIT Sloan Management Review, business + strategy) view resistance as a natural part of change and authors who write on the topic offer strategies for overcoming it. This itself is revealing: resistance as something to be dealt with and defeated, rather than something that might provide meaningful insight and relevant knowledge. I have yet to come across an article written from the perspective of those experiencing the change, or that invite the possibility that maybe the proposed change isn’t really the right way to go.</p>
+
+<p>Gestalt psychology brings a new perspective, one that sees resistance as a healthy and vital part of a system. I mean, just pause for a minute and really imagine what it would be like to work in an organization that never resisted change. It might be exciting! It could also be incredibly confusing and a lot of energy would go into simply understanding the state of the organization in any given moment. Which is to say, resistance can act as a stabilizing force in a system. When leaders try to overcome resistance, they loose access to important information and organizational awareness.</p>
+
+<p>But resistance is not a monolith, and Karp’s model brings something very interesting into our field of focus: resistance can be either functional or dysfunctional and it’s pretty useful to know which you are dealing with.</p>
+
+<p class="caption"><img src="/images/kp/content/power-resistance.jpeg" alt="Karp's Power Resistace Model" />
+H.B. Karp's Power Resistance Model</p>
+
+<p>There are four possibilities here: I want something or I don’t, and either I get that that thing or I don’t. As Karp says, “power is a means to an end, not an end in itself, and resistance operates exactly the same way.” So power and resistance are both positive, functional conditions. Getting what we want and avoiding what we don’t want are equivalent. On the other hand, there are two negative, dysfunctional conditions where we want something and don’t get it, or don’t want something and get it anyways. I’m not the biggest fan of the labels for these, but they make their point.</p>
+
+<p>Dorothy E. Siminovitch describes the difference between them as positive and unaware resistance and says, “positive use of resistance helps maintain the personal power of self-integrity and identity, but unaware resistance leaves us vulnerable to ‘loser’ or ‘victim’ status that seems to be beyond our control.” Positive resistance is about setting boundaries while unaware resistance leads to old patterns of self-defeating and distressing behavior, such as teams complaining but not taking action and passive-aggressive acting out.</p>
+
+<p>Hierarchy is a natural part of organizations, and with hierarchy comes power. I’m incredibly curious about how often positive resistance is possible in settings where ‘no’ is not an acceptable response. What forms of boundaries do people and teams put in place to ensure they don’t get what they don’t want? Or does very lack of the ability to say ‘no’ take away the possibility of positive resistance entirely?</p>
+
+<hr />
+
+<h3 id="leader-as-coach-a-cohort-based-course">Leader as Coach: A Cohort-based Course</h3>
+
+<p><img src="/images/kp/content/leader-as-coach.jpeg" alt="Leader as Coach header" /></p>
+
+<p>I’ve been thinking a lot about how to teach essential coaching skills to leaders and managers. There are some great books and articles that cover various coaching models, but books aren't enough. In the same way we can’t read a pile of books on how to play the piano and then play a concerto the first time we sit down at one, we can’t read a pile of books on coaching and expect to fluidly coach the first time we try with another human. At the same time, leaders don’t need to be professional coaches, they just need the foundations and some safe space to put it all into practice.</p>
+
+<p>I’m currently designing a course (in beta) for leaders who want to integrate coaching into their work through hands-on practice. Right now I’m planning on running the first cohort at the end of January, from January 30th to February 3rd. It’s short and intense - 5 two hour workshops across the course of a week. Each workshop will focus on a theme, introduce relevant frameworks and methodologies, and then create experiential learning opportunities for folks to put the learnings into practice.</p>
+
+<p>If this sounds relevant to you or anyone you know, <a href="https://maven.com/andrea-mignolo/leader-as-coach">head to Maven.com to learn more and sign up for announcements</a>.</p>
+
+<hr />
+
+<h3 id="leading-design-conference-in-san-francisco">Leading Design Conference in San Francisco</h3>
+
+<p><img src="/images/kp/content/leading-design-2023.jpeg" alt="Leader as Coach header" /></p>
+
+<p>In 2020 I gave a virtual talk at a conference halfway around the world. Owing to my inability to understand timezones and calendars, the talk was scheduled for 4:30am in California. I woke up, got dressed, put on makeup, and sat down at my computer. The conference organizers prepped me on how the video transition would happen and when I should begin speaking. 10 minutes later, I was on!</p>
+
+<p>And for the next 30 minutes I spoke into a camera, a ring light illuminating my office while the darkness of night reigned outside my windows. I brought energy, I gestured, I told stories, I shared insights. All into the void of the camera and my still, quiet, cold office. On screen I could not see any of the participants. I could not gauge reactions. It was just me, in my office, hoping that someone was on the other side. When it was over I crawled back into bed (in full clothes and makeup) and slept for a few hours. The rest of the day I felt pretty dejected and depressed, and vowed to not do talk until I could be in person again.</p>
+
+<p>Which brings us to 2023! Leading Design is happening in San Francisco in February and I’ll be giving my first in-person talk since the pandemic: “<a href="https://leadingdesign.com/conferences/sanfran-2023/speakers/andrea-mignolo">It’s Okay to be the Boss!</a>” I’m excited about the topic (which takes its cue from many client conversations over the years) and even more excited to be at a conference again with so many wonderful people.</p>
+
+<p>If you are interested in attending I have a discount code you can use for 20% off the ticket price: <strong>JOINANDREA</strong>.</p>
+
+<hr />
+
+<p>Thanks for listening. I hope you have a wonderful, nourishing, and restful end of the year.</p>
+</content>
+			</item>
+			<item>
+				<pubDate>November 2022</pubDate>
+				<title>The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
+				<link>/kp/002/</link>
+
+				<content><p class="caption"><img src="/images/kp/002.jpg" alt="photo of the Catskills in autumn" />
+Late afternoon in the Catskills, October 2022</p>
+
+<p>Hi, I'm Andi and this is <a href="/kitchen-party/">Kitchen Party</a>. You are reading these words because somewhere along the way you shared an interested in having this letter land in your inbox. Thank you, and welcome!</p>
+
+<p class="archive-notice">This is an archived version of the Kitchen Party newsletter. You can sign up to receive future editions using the form at the bottom of this page.</p>
+
+<p>With the short days and long nights here in the northern hemisphere, I’m feeling called to slow down and become a little more quiet, a bit more still. To let go of the efforting of the past year and allow the fruits of that work fall to the earth as compost, nutrients that will nourish whatever begins to emerge next spring. Some of this comes from inner stirrings, and the rest comes my first encounter with COVID last month. What a doozy that one is! At the tail end of a wonderful trip to upstate New York for the first in-person IxDA board retreat in over two years, COVID found me. It’s been humbling, frustrating, illuminating all at the same time. I’m feeling much better but being ultra-compassionate with myself as I learn what my body and tolerate, and what it can’t.</p>
+
+<hr />
+
+<h3 id="building-a-relationship-with-change-sneak-peak-and-request-for-feedback">Building a Relationship with Change: Sneak Peak and Request for Feedback</h3>
+<p>In <a href="https://methodandmatter.com/research/">researching resistance in organizations</a>, I’ve naturally had to spend a good deal of time understanding the nature of change. Management theory tends write about change from the perspective of the change agent, ignoring the experience of those that appear to be “resisting.” The change agent undoubtedly is on the “right” side of change, and with an 8 step process these change agents can marshal teams around a vision and march them forward in tandem. This all sounds good in theory but seems to never quite pan out in practice. It’s like the brute force approach to change, where the shortest distance between point A and B is a straight line.</p>
+
+<p>But what if resistance was healthy? What if change happens by first becoming what you are, rather than becoming what you are not? The most compelling theory of change I’ve come across is the Paradoxical Theory of Change from the world of Gestalt Psychology. In first becoming what you are, you must integrate all parts of the system (either individual, team, or organization), including all the parts that have been disowned. When you have done that, and can be fully with your experience as you are, change is inevitable.</p>
+
+<p>I wrote an article about it on Medium that is currently in draft form and, if you are so inclined, would love your feedback. I’ll leave the request open ended and simply share the link: <a href="https://medium.com/method-matter/building-a-relationship-with-change-3602cf6e7890">Building a Relationship With Change (draft for feedback)</a>.</p>
+
+<p><em>Thank you.</em></p>
+
+<hr />
+
+<h3 id="zero-drafts">Zero Drafts</h3>
+<blockquote>
+  <p>“How do I know what I think until I see what I say?” - E.M. Forster</p>
+</blockquote>
+
+<p>When it comes to writing articles that get published I’m pretty slow as far as things go. It takes me a while to really understand what I think and put that into something coherent enough to be hopefully useful to others. A few weeks ago I came across a <a href="https://twitter.com/MushtaqBilalPhD/status/1590988185500520448">Twitter thread</a> on <a href="https://www.margaretedits.com/2015/04/14/writing-a-zero-draft/">Zero Drafts</a>: a method for writing and working through what you know before starting on an actual draft of a paper, essay, short story, etc.</p>
+
+<p>It’s been incredibly useful for writing more and getting to the core of what I think I know. I can also see how this process could be useful not just for academic writing, but in a business context as well. I think back my time as an executive and trying to connect the work of the teams I led to the larger company vision. Not just in terms of OKRs, but how we were deeply relating to what the business was trying to achieve and the ways in which we were doing that. At that time I worked mostly in decks (thanks, business school), which I think is a hinderance to really gaining clarity of <em>thinking</em>. If I had known about Zero Drafts I think I would have gotten to clarity sooner, and the decks I used to communicate would have been more succinct and coherent.</p>
+
+<p>What helps <em>you</em> understand what you think?</p>
+
+<hr />
+
+<h3 id="slow-multitasking">Slow Multitasking</h3>
+<p>Jason Mesut shared this TED Talk on <a href="https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity">Slow Motion Multitasking</a> and it <em>really</em> resonated with how I work. It gave me permission to hold a lot of projects simultaneously and dip into them as I feel called to. I use <a href="https://museapp.com">Muse App</a> for a lot of my early explorations, and have organized the high level boards into which I can throw materials as I come across them, to be digested and organized whenever I come around to it.</p>
+
+<hr />
+
+<h3 id="mapping-emotions">Mapping Emotions</h3>
+<p><a href="https://www.marcbrackett.com">Marc Brackett</a>, founding director of the Yale Center for Emotional Intelligence created an app a few years ago called <a href="https://moodmeterapp.com">Mood Meter</a>. The primary focus was on building emotional awareness and management via a simple interface that helped people to check-in to their emotions and expand their emotional vocabulary.</p>
+
+<p>Last week Marc, along with a team of engineers from Pinterest, released a new app called “<a href="https://howwefeel.org">How We Feel</a>.” Based on the same premise as Mood Meter, the new “journal for your well being” is expansive in what it offers. Mood check-ins are still a primary interaction, but now the app also includes incredibly useful 1 - 2 minute videos with exercises that can help people learn to modulate their moods and shift into more positive states. I’m thoroughly impressed by what they’ve put together and hope that it reaches as many people as possible.</p>
+
+<hr />
+
+<p>If you are in a part of the world that celebrates Thanksgiving, I hope it was filled with belonging, nourishment, and rest. And to everyone out there, may the last month of the Gregorian year be easeful and kind for you.</p>
+
+<p>See you in December.</p>
+</content>
+			</item>
+			<item>
+				<pubDate>October 2022</pubDate>
+				<title>Resistance, Transitions, and Belonging</title>
+				<link>/kp/001/</link>
+
+				<content><p class="caption"><img src="/images/kp/001.jpg" alt="smiley" />
+Point Reyes National Seashore, October 2022</p>
+
+<p>Hi! I’m Andi, and this is <a href="/kitchen-party/">Kitchen Party</a>, a newsletter that invites warm and open conversations exploring what it means to be in the complexity of life as a leader, however you inhabit that role.</p>
+
+<p class="archive-notice">This is an archived version of the Kitchen Party newsletter. You can sign up to receive future editions using the form at the bottom of this page.</p>
+
+<p>Here in San Francisco we’ve finally head a break of good weather after weeks of cold and fog. Strangely, the warmth and sun have brought up some hidden grief I’ve been carrying and it feels somewhat fitting to process it in the gloriousness of a perfect day.</p>
+
+<p>So, how are you?</p>
+
+<hr />
+
+<h3 id="researching">Researching</h3>
+
+<p>This quarter I’m researching how people experience and respond to resistance in organizations. In my time as an executive I developed ways to use resistance as a tool for navigating organizational complexity. Rather than confront it head on and try and overcome it with brute force, resistance helped me to feel out paths with the fewest obstacles. As if the resistance was saying, “not here, but if you move to the left you can go that way for a while.”</p>
+
+<p>I’ve been doing some training in Gestalt psychology recently and am quite taken with their understanding of resistance. Not as a negative or unwanted occurrence to be overcome, but as a healthy and necessary part of a system. I mean, imagine if we willingly and immediately went along anytime a significant other asked us to change something they didn’t like. We would no longer be ourselves! Now, there might be a conversation to be had and issues to explore, but simply changing without question because someone wants you to leads to loss and disconnection. Resistance helps maintain balance and integrity of any system, allowing change to happen in a sustainable and healthy way.</p>
+
+<p>And so! I’m interested in talking to leaders and hearing about their experience of resistance in their organizations. In exchange I’m offering insights from my research via a free coaching session. If you or anyone you know might be interested, you can <a href="/research/">sign up here</a>.</p>
+
+<hr />
+
+<h3 id="writing">Writing</h3>
+
+<p>The topic of transitions is kind of an evergreen theme, since we’re all going through them all the time. Especially after the last couple of years, phew. <a href="https://wmbridges.com">William and Susan Bridges</a> have been working in the transition space for decades, and their work is accordingly deep and insightful. Using their three-phase model of transition, I <a href="https://medium.com/method-matter/on-navigating-lifes-transitions-104d619316b9">wrote a piece</a> about how we move through transitions through the lens of one of my own (which I am still in the midst of).</p>
+
+<hr />
+
+<h3 id="reading">Reading</h3>
+
+<p><a href="https://www.amazon.com/Altogether-You-Experiencing-spiritual-transformation-ebook/dp/B089P38ZNZ/">Altogether You: experiencing personal and spiritual transformation with Internal Family Systems therapy</a>, by Jenna Riemersma</p>
+
+<p>This book came my way via a recommendation from a client. The “spiritual transformation” part in the title refers to the traditions in the Christian lineage of teachings. I’m not a religious person but do like to read religious texts, so I felt pretty at home with it (as one reviewer says, "It's not just for Christians!). This book is not in any way, shape, or form trying to convert or proselytize, but rather to teach Internal Family Systems in a way that illustrates its congruity with the teachings of Jesus. If you really can’t get down with any references to religion, this book probably isn’t for you. But you’d miss out on the deep compassion, humor, and wisdom this book offers. It’s one of the top books I’ve read on Internal Family Systems and puts theory into action with incredibly useful reflection questions at the end of each chapter. I use IFS in my coaching work and in my own personal development, and this book brought new insights and perspectives that have been exceptionally supportive in going deeper with all of my parts.</p>
+
+<hr />
+
+<h3 id="wondering">Wondering</h3>
+
+<p>I’ve been thinking a lot about what it means to belong, where we seek belonging, and what it is we are belonging to. I think some of this has come up naturally with my transition away from working in organizations, which for a long time was a (somewhat misplaced) primary source of belonging. As a pretty strong introvert, and without the prompts of daily office life, where is it that I belong? Or with whom? What does it look like to belong to myself?</p>
+
+<p>How do you belong?</p>
+</content>
+			</item>
 
 </rss>
