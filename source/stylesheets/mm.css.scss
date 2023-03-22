@@ -689,6 +689,15 @@ p.teacher {
   font-weight: 600;
 }
 
+.notes .content ul {
+  list-style-type: disc;
+  margin-top: -1rem;
+  li {
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+  }
+}
+
 //////
 //////
 ////// Announcement bar styling
