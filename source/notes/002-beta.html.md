@@ -2,7 +2,7 @@
 title: ❏ Notes to Self 002 - Seeds of Worlding
 date: March 14, 2023
 tags:
-description: "Research in progress from the studio of Andrea Mignolo."
+description: "[Notes to Self] 002 - Recursive Cosmologies"
 keywords: "research, lab notes, leadership, being human, technology, design, cosmology, worlding"
 image: "og/mm-og-1.jpg"
 published: false

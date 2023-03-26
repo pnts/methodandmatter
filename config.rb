@@ -83,8 +83,6 @@ activate :blog do |blog|
   #blog.paginate = true
 end
 
-
-
 # alternate layouts
 page "kp/*", :layout => :newsletter
 page "notes/*", :layout => :notes
