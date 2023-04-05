@@ -172,7 +172,7 @@ hr {
     p {
       margin-bottom: .5rem;
       @include breakpoint(large) {
-        max-width: 90%;
+        max-width: 100%;
         margin-bottom: .5rem;
       }
     em {
