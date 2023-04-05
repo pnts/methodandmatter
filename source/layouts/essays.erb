@@ -1,0 +1,15 @@
+<% wrap_layout :layout do %>
+
+<div class="masthead" style="background: #<%= current_page.data.masthead %>; color: #<%= current_page.data.masthead_text %>; ">
+  <div class="masthead-content">
+    <span>ESSAY</span>
+    <h1><%= current_page.data.title %></h1>
+    <h2><%= current_page.data.subtitle %></h2>
+  </div>
+</div>
+
+<section class="essay">
+  <article>
+    <%= yield %>
+  </article>
+<% end %>

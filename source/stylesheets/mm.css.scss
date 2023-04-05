@@ -36,6 +36,10 @@ header {
   }
 }
 
+main {
+  margin-top: 2rem;
+}
+
 nav {
   text-transform: uppercase;
   font-size: .9rem;
@@ -85,6 +89,10 @@ hr {
   clear: both;
 }
 
+.top-nav-hr {
+  margin-bottom: 0;
+}
+
 .logo {
   display: block;
   display: inline-block;
@@ -109,6 +117,7 @@ hr {
 }
 
 .hero {
+  margin-top: 2rem;
   margin-bottom: 1rem;
   .text {
     @include breakpoint(large) {
@@ -608,6 +617,10 @@ p.teacher {
   }
 }
 
+.col-1.kitchen-party {
+  margin-top: 2rem;
+}
+
 .kp-editions {
   width: 100%;
   position: relative;
@@ -666,6 +679,10 @@ p.teacher {
   background: #EFF2F4;
 }
 
+.col-1.notes {
+  margin-top: 2rem;
+}
+
 .notes header, .notes footer {
   hr {
     background-color: #FFF;
@@ -679,7 +696,7 @@ p.teacher {
 
 .notes blockquote {
   color: #787D81;
-  font-weight: $font-weight-light;
+  //font-weight: $font-weight-light;
   &::before {
     color: #D1D4D6;
   }
@@ -697,6 +714,61 @@ p.teacher {
     margin-left: 2rem;
   }
 }
+
+//////
+//////
+////// Essays
+//////
+//////
+
+.masthead, .essay {
+  width: 100%;
+}
+
+article, .masthead-content{
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.masthead-content {
+  span {
+    display: block;
+    margin-top: 13rem;
+    //text-align: right;
+    margin-bottom: 2rem;
+  }
+  h1 {
+    margin-bottom: 0;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+article {
+  p, ul, ol {
+    //font-size: 1.3rem;
+    //line-height: 1.9rem;
+    font-family: $font-heading-serif;
+  }
+  strong {
+    font-weight: 600;
+  }
+  ul {
+    font-size: 1.1rem;
+    margin-top: -.5rem;
+    margin-bottom: 3rem;
+    list-style-type: disc;
+    margin-left: 2rem;
+    li {
+      margin-bottom: 1rem;
+      line-height: 1.8rem;
+    }
+  }
+}
+
+
 
 //////
 //////

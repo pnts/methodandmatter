@@ -23,11 +23,11 @@ layout: false
 
 
 	<%
-    combined_articles = blog('kp').articles + blog('notes').articles
+    combined_articles = blog('kp').articles + blog('notes').articles + blog('essays').articles
     combined_articles.each do |article| %>
 			<item>
 				<pubDate><%= article.date.strftime('%B %Y') %></pubDate>
-				<title><%= article.data.description %></title>
+				<title>[<%= article.data.label %>] <%= article.data.description %></title>
 				<link><%= article.url %></link>
 
 				<content><%= article.body %></content>
