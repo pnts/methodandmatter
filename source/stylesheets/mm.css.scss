@@ -127,6 +127,9 @@ hr {
       p {
         max-width: 42rem;
       }
+      h1, h2, p {
+        background: transparentize(#FCFCFC, .4);
+      }
     }
   }
   h1 {
