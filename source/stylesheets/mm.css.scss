@@ -706,12 +706,12 @@ p.teacher {
 
 .notes .notes {
   font-family: $font-heading-serif;
-  font-weight: 200;
+  font-weight: $font-weight-light;
 }
 
 .notes blockquote {
   color: #787D81;
-  //font-weight: $font-weight-light;
+  font-weight: $font-weight-book;
   &::before {
     color: #D1D4D6;
   }
@@ -766,6 +766,7 @@ article {
     //font-size: 1.3rem;
     //line-height: 1.9rem;
     font-family: $font-heading-serif;
+    font-weight: $font-weight-light;
   }
   strong {
     font-weight: 600;
