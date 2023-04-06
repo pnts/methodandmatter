@@ -217,9 +217,6 @@ footer {
       }
     }
   }
-  .copyright {
-    clear: both;
-  }
 }
 
 header, footer {
@@ -524,8 +521,12 @@ ol {
   font-size: $font-size-small;
   text-align: right;
   color: $light-gray;
-  line-height: 1.3rem;
+  line-height: 1.5rem;
   clear: both;
+}
+
+.copyright {
+  margin-bottom: 0;
 }
 
 .nickname {
