@@ -146,7 +146,7 @@ hr {
 
 .index .hero {
   @include breakpoint(large) {
-    background-image: image-url("images/juniper.png");
+    background-image: image-url("images/juniper.jpg");
     background-repeat: no-repeat;
     background-position: bottom -2rem right 2rem;
     background-size: contain;
