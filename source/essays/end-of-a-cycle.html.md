@@ -22,7 +22,7 @@ The end of the year, the equinox, the solistice, the end of a quarter - these ca
 This exercise has three parts:
 
 - **Part 1: Becoming the Being That You Are.** A macro level reflection about who you are and what you are becoming. Think of this as a snapshot of what holds deep meaning and resonance for you and your life, and less about the particular events of the last cycle.
-- **Part 2: Reflecting on the Past Year.** Understanding what shaped you over the course of the past cycle. This takes a more traditional reflection approach across various dimensions of life.
+- **Part 2: Reflecting on the Past Cycle.** Understanding what shaped you over the course of the past cycle. This takes a more traditional reflection approach across various dimensions of life.
 - **Part 3: Declaring Future Possibilities.** Writing a letter to Future You, who will be starting the reflection process some time from now (whether that is in 3 months, 6 months, a year is entirely up to you). The letter acts as a synthesis of the work you did in Part 1 and Part 2, while simultaneously weaving in commitments about the future you are creating [^3].
 
 If you’d prefer that in business terms:
