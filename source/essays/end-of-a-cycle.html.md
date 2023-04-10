@@ -6,8 +6,8 @@ description: At the End of a Cycle
 label: Essays
 image: "og/mm-og-1.jpg"
 layout: essays
-masthead: 222
-masthead_text: FFF
+masthead: "#222"
+masthead_text: "#FFF"
 ---
 
 
