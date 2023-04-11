@@ -19,6 +19,10 @@ a {
   }
 }
 
+.no-border {
+  border-bottom: none;
+}
+
 header,
 main,
 footer {
@@ -156,7 +160,9 @@ hr {
     background-image: image-url("images/juniper.jpg");
     background-repeat: no-repeat;
     background-position: bottom -2rem right 2rem;
-    background-size: contain;
+    background-size: 50%;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
   }
 }
 
@@ -195,6 +201,12 @@ hr {
   form {
     margin-left: -.7rem;
     padding-left: 0;
+  }
+}
+
+.explainer {
+  @include breakpoint(large) {
+    margin-right: 4rem;
   }
 }
 
@@ -316,6 +328,9 @@ input[type=submit] {
   h1, h2 {
     line-height: 2.2rem;
   }
+  img {
+    margin-top: 1rem;
+  }
   @include breakpoint(large) {
     max-width: 60%;
     &.kitchen-party, &.notes {
@@ -424,6 +439,13 @@ input[type=submit] {
 ////// Resources
 //////
 //////
+
+.resources .essays {
+  padding-bottom: 2rem;
+  h2 {
+    margin-top: .5rem;
+  }
+}
 
 .video-container {
   @include breakpoint(medium) {
@@ -747,10 +769,37 @@ p.teacher {
   width: 100%;
 }
 
-article, .masthead-content{
-  max-width: 46rem;
+.essays .masthead {
+  background-size: cover !important;
+}
+
+.essays {
+    h1 {
+      padding-bottom: 1rem;
+    }
+    h2 {
+      line-height: 2rem;
+    }
+}
+
+article, .masthead-content {
   margin: 0 auto;
   padding: 1rem;
+  max-width: 45rem;
+  ol, ul {
+    @include breakpoint(large) {
+      padding-right: 3rem;
+    }
+  }
+}
+
+article {
+  @include breakpoint(large) {
+    padding-right: 5rem;
+  }
+  hr {
+    margin: 4.5rem 0;
+  }
 }
 
 .masthead-content {

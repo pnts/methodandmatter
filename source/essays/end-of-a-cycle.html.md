@@ -35,7 +35,7 @@ A few tips: I recommend not doing this all in one sitting, but if that’s your 
 
 ---
 
-### An Interlude: The Letter
+## An Interlude: The Letter
 If you did this exercise from a previous cycle, now is the time to read the letter you wrote to your future self. If you have no idea what this means, don’t worry about it! Move on to the next section.
 
 ---
