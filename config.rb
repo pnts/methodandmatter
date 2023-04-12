@@ -66,15 +66,15 @@ activate :blog do |blog|
 end
 
 activate :blog do |blog|
-  blog.name = "kp"
-  blog.prefix = "kp"
+  blog.name = "the-becoming"
+  blog.prefix = "the-becoming"
   blog.sources = "{title}.html"
   blog.permalink = "{title}"
   blog.layout = "layouts/newsletter"
 
   blog.default_extension = ".md"
 
-  blog.new_article_template = File.expand_path('../source/kp/template.yml', __FILE__)
+  blog.new_article_template = File.expand_path('../source/the-becoming/template.yml', __FILE__)
 
   #blog.tag_template = "tag.html"
   #blog.calendar_template = "calendar.html"
@@ -92,7 +92,7 @@ activate :blog do |blog|
 
   blog.default_extension = ".md"
 
-  blog.new_article_template = File.expand_path('../source/kp/template.yml', __FILE__)
+  #blog.new_article_template = File.expand_path('../source/kp/template.yml', __FILE__)
 
   #blog.tag_template = "tag.html"
   #blog.calendar_template = "calendar.html"
@@ -102,6 +102,6 @@ activate :blog do |blog|
 end
 
 # alternate layouts
-page "kp/*", :layout => :newsletter
+page "the-becoming/*", :layout => :newsletter
 page "notes/*", :layout => :notes
 page "essays/*", :layout => :essays

@@ -121,7 +121,8 @@ hr {
 .about .about a,
 .resources .resources a,
 .research .research a,
-.leader-as-coach .courses a {
+.leader-as-coach .courses a,
+.the-becoming .newsletter a {
   border-bottom: 1px solid $pink;
 }
 
@@ -412,7 +413,7 @@ input[type=submit] {
 //////
 //////
 
-.newsletter {
+.newsletter-form {
   background: $lightest-gray;
   padding: 5rem 2rem;
   margin-top: 3rem;
@@ -425,11 +426,12 @@ input[type=submit] {
 }
 
 .mini {
-  background: $lightest-gray;
-  padding: 0 2rem 1rem 2rem;
-  h3 {
-    padding-top: 1.5rem;
+  padding: 0;
+  .mini-header {
+    font-size: 2rem;
     margin-bottom: .5rem;
+    display: block;
+    padding-top: 2rem;
   }
   p {
     margin-top: 0;
@@ -437,6 +439,7 @@ input[type=submit] {
     font-size: 1.1rem;
   }
 }
+
 
 //////
 //////
@@ -636,7 +639,7 @@ p.teacher {
 //////
 
 
-.kp .content{
+.the-becoming .content {
   a, strong {
     font-weight: $font-weight-light;
   }

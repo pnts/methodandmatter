@@ -3,19 +3,11 @@
 <main>
   <section class="content">
     <div class="col-1 kitchen-party">
-      <h5><%= link_to('Kitchen Party', 'kitchen-party') %>, <%= current_page.data.date %></h5>
+      <h5><%= link_to('The Becoming', 'the-becoming') %>, <%= current_page.data.date %></h5>
       <h1><%= current_page.data.description %></h1>
         <%= yield %>
       <hr />
     </div>
   </section>
-
-
-  <section class="content">
-    <div class="col-1 kitchen-party">
-      <%= partial "signup-mini" %>
-    </div>
-  </section>
-</main>
 
 <% end %>

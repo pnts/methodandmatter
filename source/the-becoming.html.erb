@@ -1,0 +1,64 @@
+---
+title: Monthly missives about leadership, business, and being human.
+description: A newsletter for leaders and seekers at the intersection of leadership, business, psychology, and design
+keywords: leadership newsletter, management newsletter, self development newsletter, soul deepening newsletter
+image: "og/og-kp.jpg"
+layout: content
+---
+
+<section class="hero">
+  <div class="text">
+    <h1>The Becoming</h1> <p>A newsletter at the edge of the known and unknown &mdash; about leadership, change, and being human.</p>
+  </div>
+</section>
+
+<hr />
+
+<section class="content">
+  <div class="col-1">
+  </div>
+
+  <div class="col-2">
+    <%= image_tag("kitchen-party-square-3.jpg") %>
+    <br/><br/>
+
+
+    <blockquote>
+      <p>At the edge between the known and the unknown, there is a fertile place, full of possibility. &ndash; Stephen D' Souza</p>
+    </blockquote>
+
+    <blockquote>
+      <p>The act of turning any part of the unknown into the known is simply an invitation for an equal measure of the unknown to flow in and re-establish that frontier: to reassert the far inward, as yet unknown horizon of an individual life; to make us what we are &mdash; that is, a moving edge between what we know about ourselves and what we are about to become. &ndash; David Whyte </p>
+    </blockquote>
+
+    <p>We are, and the world is, eternally engaged in a process of change. This impacts us in different ways depending on how we feel about the present, the past, and what might be coming in the future. Most of us have learned to try and control it in some way, creating small islands of fragile stability amidst the swirling complexity of life, to build up a fortress of the familiary and known.</p>
+
+    <p>What lives at the edge just beyond the known, what beckons from beyond? According to Bayo Akomolafe, <%= link_to('to find our way we must get lost', 'https://www.bayoakomolafe.net/post/getting-lost') %>, but what remains unclear is exactly how to get lost in the first place.</p>
+
+    <p>The Becoming is a place at the edge, an exploration of the borderlands between the known and unknown, a playful exploration in straying beyond the familiar to see what might emerge. Where creativity, joy, and wonder are faithful companions in the adventure. Afterall, what else is leadership (and life) about?</p>
+
+    <p>If this calls to you, this invitation to get lost, then consider joining! Together we will let in a little delight of madness, open to the disorientation of a new perspective, and celebrate of what it means to be human. </p>
+
+
+    <hr />
+
+    <%= partial "signup-mini" %>
+
+    <hr />
+
+    <div class="kp-editions">
+    <h3>Previous Editions</h3>
+
+    <% blog('the-becoming').articles.each do |article| %>
+      <div class="kp-post">
+        <%= image_tag article.data.image %>
+
+        <div class="meta">
+          <h2><%= article.date.strftime('%B %Y') %></h2>
+          <h3><%= link_to article.data.description, article %> </h3>
+        </div>
+      </div>
+    <% end %>
+    </div>
+
+</section>
