@@ -12,8 +12,8 @@
 
   <channel>
   	<title>method &#038; matter</title>
-  	<link>https://methodandmatter.com/kp/</link>
-  	<description>A newsletter about leadership, business, and being human.</description>
+  	<link>https://methodandmatter.com/</link>
+  	<description>From the desk of Andrea Mignolo</description>
   	<language>en-US</language>
   </channel>
 
@@ -21,7 +21,7 @@
 			<item>
 				<pubDate>March 2023</pubDate>
 				<title>[Kitchen Party] Creating Space for Others to Think</title>
-				<link>/kp/006/</link>
+				<link>/the-becoming/006/</link>
 
 				<content><p class="caption"><img src="/images/kp/006.jpg" alt="A path through Mt Davidson park" />
 Early spring at Mt. Davidson Park, San Francisco</p>
@@ -123,7 +123,7 @@ autumn leaves, and winter skies.</p>
 			<item>
 				<pubDate>February 2023</pubDate>
 				<title>[Kitchen Party] The ChatGPT Edition</title>
-				<link>/kp/005/</link>
+				<link>/the-becoming/005/</link>
 
 				<content><p class="caption"><img src="/images/kp/005.jpg" alt="Flower courtesy of Midjourney, the prompt has been lost to time." />
 Flower illustration courtesy of Midjourney. The exact prompt has been lost to time.</p>
@@ -219,7 +219,7 @@ Flower illustration courtesy of Midjourney. The exact prompt has been lost to ti
 			<item>
 				<pubDate>January 2023</pubDate>
 				<title>[Kitchen Party] Foundations, Accountability, and Discomfort</title>
-				<link>/kp/004/</link>
+				<link>/the-becoming/004/</link>
 
 				<content><p class="caption"><img src="/images/kp/004.jpg" alt="photo of The Visitors 360 music video at SFMOMA" />
 SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartansson/">The Visitors</a>. Filmed at Rokeby, a very special place indeed.</p>
@@ -310,12 +310,12 @@ SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartans
 			<item>
 				<pubDate>December 2022</pubDate>
 				<title>[Kitchen Party] End of Year Reflections and Other Sundries</title>
-				<link>/kp/003/</link>
+				<link>/the-becoming/003/</link>
 
 				<content><p class="caption"><img src="/images/kp/003.jpg" alt="photo of Durham, NC in the winter" />
 Winter woods in Durham, North Carolina. December 2022</p>
 
-<p>Hello, I’m Andi, this is <a href="/kitchen-party/">Kitchen Party</a>, and I’m so glad you are here. December’s edition explores year end reflections, the relationship between power and resistance, a new (potential) course for leaders who want to add coaching to their skillset, and an upcoming talk.</p>
+<p>Hello, I’m Andi, this is <a href="kitchen-party">Kitchen Party</a>, and I’m so glad you are here. December’s edition explores year end reflections, the relationship between power and resistance, a new (potential) course for leaders who want to add coaching to their skillset, and an upcoming talk.</p>
 
 <p>What’s cooking: empanadas and tortilla de patatas</p>
 
@@ -386,12 +386,12 @@ H.B. Karp's Power Resistance Model</p>
 			<item>
 				<pubDate>November 2022</pubDate>
 				<title>[Kitchen Party] The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
-				<link>/kp/002/</link>
+				<link>/the-becoming/002/</link>
 
 				<content><p class="caption"><img src="/images/kp/002.jpg" alt="photo of the Catskills in autumn" />
 Late afternoon in the Catskills, October 2022</p>
 
-<p>Hi, I'm Andi and this is <a href="/kitchen-party/">Kitchen Party</a>. You are reading these words because somewhere along the way you shared an interested in having this letter land in your inbox. Thank you, and welcome!</p>
+<p>Hi, I'm Andi and this is <a href="kitchen-party">Kitchen Party</a>. You are reading these words because somewhere along the way you shared an interested in having this letter land in your inbox. Thank you, and welcome!</p>
 
 <p class="archive-notice">This is an archived version of the Kitchen Party newsletter. You can sign up to receive future editions using the form at the bottom of this page.</p>
 
@@ -443,12 +443,12 @@ Late afternoon in the Catskills, October 2022</p>
 			<item>
 				<pubDate>October 2022</pubDate>
 				<title>[Kitchen Party] Resistance, Transitions, and Belonging</title>
-				<link>/kp/001/</link>
+				<link>/the-becoming/001/</link>
 
 				<content><p class="caption"><img src="/images/kp/001.jpg" alt="smiley" />
 Point Reyes National Seashore, October 2022</p>
 
-<p>Hi! I’m Andi, and this is <a href="/kitchen-party/">Kitchen Party</a>, a newsletter that invites warm and open conversations exploring what it means to be in the complexity of life as a leader, however you inhabit that role.</p>
+<p>Hi! I’m Andi, and this is <a href="kitchen-party">Kitchen Party</a>, a newsletter that invites warm and open conversations exploring what it means to be in the complexity of life as a leader, however you inhabit that role.</p>
 
 <p class="archive-notice">This is an archived version of the Kitchen Party newsletter. You can sign up to receive future editions using the form at the bottom of this page.</p>
 
