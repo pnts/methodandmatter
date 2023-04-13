@@ -638,10 +638,16 @@ p.teacher {
 //////
 //////
 
+.the-becoming .hero .text {
+  max-width: 40%;
+}
 
 .the-becoming .content {
-  a, strong {
+  a {
     font-weight: $font-weight-light;
+  }
+  strong {
+    font-weight: $font-weight-book
   }
   h4 {
     font-size: 1.2rem;
