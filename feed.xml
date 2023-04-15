@@ -1,29 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
-
+<rss xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-  	<title>method &#038; matter</title>
-  	<link>https://methodandmatter.com/</link>
-  	<description>From the desk of Andrea Mignolo</description>
-  	<language>en-US</language>
-  </channel>
+    <atom:link
+      href="https://methodandmatter.com/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+		<category>Leadership and change</category>
+    <copyright>2017-present Andrea Mignolo</copyright>
+    <generator>Middleman (Ruby)</generator>
+		<title>method &#038; matter</title>
+		<link>https://methodandmatter.com/</link>
+		<description>From the desk of Andrea Mignolo</description>
+    <language>en-us</language>
 
 
 			<item>
-				<pubDate>March 2023</pubDate>
+				<pubDate>Thu, 30 Mar 2023 00:00:00 -0000 %></pubDate>
 				<title>[the becoming] Creating Space for Others to Think</title>
-				<link>/the-becoming/006/</link>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/the-becoming/006/</link>
 
-				<content><p class="caption"><img src="/images/kp/006.jpg" alt="A path through Mt Davidson park" />
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p class="caption"><img src="/images/kp/006.jpg" alt="A path through Mt Davidson park" />
 Early spring at Mt. Davidson Park, San Francisco</p>
 
 <p>It's March, this is <strong>the becoming</strong>, and as far as I know I am still Andi. It's good to see you!</p>
@@ -118,14 +116,20 @@ autumn leaves, and winter skies.</p>
     </li>
   </ol>
 </div>
-</content>
-			</item>
-			<item>
-				<pubDate>February 2023</pubDate>
-				<title>[the becoming] The ChatGPT Edition</title>
-				<link>/the-becoming/005/</link>
 
-				<content><p class="caption"><img src="/images/kp/005.jpg" alt="Flower courtesy of Midjourney, the prompt has been lost to time." />
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Tue, 28 Feb 2023 00:00:00 -0000 %></pubDate>
+				<title>[the becoming] The ChatGPT Edition</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/the-becoming/005/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p class="caption"><img src="/images/kp/005.jpg" alt="Flower courtesy of Midjourney, the prompt has been lost to time." />
 Flower illustration courtesy of Midjourney. The exact prompt has been lost to time.</p>
 
 <p>Hello! I’m Andi and you are reading <strong>the becoming</strong> - February, 2023 edition.</p>
@@ -214,14 +218,20 @@ Flower illustration courtesy of Midjourney. The exact prompt has been lost to ti
 <hr />
 
 <p>If you made it this far, my guess is you were just scrolling to see how long the damn thing was. Hi! Nice to see you. Thanks for being here, and see you next month!</p>
-</content>
-			</item>
-			<item>
-				<pubDate>January 2023</pubDate>
-				<title>[the becoming] Foundations, Accountability, and Discomfort</title>
-				<link>/the-becoming/004/</link>
 
-				<content><p class="caption"><img src="/images/kp/004.jpg" alt="photo of The Visitors 360 music video at SFMOMA" />
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Mon, 16 Jan 2023 00:00:00 -0000 %></pubDate>
+				<title>[the becoming] Foundations, Accountability, and Discomfort</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/the-becoming/004/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p class="caption"><img src="/images/kp/004.jpg" alt="photo of The Visitors 360 music video at SFMOMA" />
 SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartansson/">The Visitors</a>. Filmed at Rokeby, a very special place indeed.</p>
 
 <p>January has arrived (and almost gone), and so has another edition of <strong><a href="https://methodandmatter.com/the-becoming/">the becoming</a></strong>. I'm <a href="https://methodandmatter.com/about/">Andi</a>, and this month I'm exploring foundations in living systems as a metaphor for how we can create daily practices that support our own flourishing.</p>
@@ -305,14 +315,20 @@ SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartans
     <p>Over the last few weeks <a href="https://www.linkedin.com/in/marliekekieboom/">Marlieke Kieboom</a> has been posting a wonderful series on Public Systemic Design over on Medium. I hope this series reaches as many eyeballs as possible because this is the type of critical inquiry the design world desperately needs more of. Catch the current posts at <a href="https://medium.com/publicsystemicdesign">Unbounded Affairs</a> and sign up to be notified for future posts.</p>
   </li>
 </ol>
-</content>
-			</item>
-			<item>
-				<pubDate>December 2022</pubDate>
-				<title>[the becoming] End of Year Reflections and Other Sundries</title>
-				<link>/the-becoming/003/</link>
 
-				<content><p class="caption"><img src="/images/kp/003.jpg" alt="photo of Durham, NC in the winter" />
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Wed, 28 Dec 2022 00:00:00 -0000 %></pubDate>
+				<title>[the becoming] End of Year Reflections and Other Sundries</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/the-becoming/003/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p class="caption"><img src="/images/kp/003.jpg" alt="photo of Durham, NC in the winter" />
 Winter woods in Durham, North Carolina. December 2022</p>
 
 <p>Hello, I’m Andi, this is <strong><a href="/the-becoming/">the becoming</a></strong>, and I’m so glad you are here. December’s edition explores year end reflections, the relationship between power and resistance, a new (potential) course for leaders who want to add coaching to their skillset, and an upcoming talk.</p>
@@ -381,14 +397,20 @@ H.B. Karp's Power Resistance Model</p>
 <hr />
 
 <p>Thanks for listening. I hope you have a wonderful, nourishing, and restful end of the year.</p>
-</content>
-			</item>
-			<item>
-				<pubDate>November 2022</pubDate>
-				<title>[the becoming] The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
-				<link>/the-becoming/002/</link>
 
-				<content><p class="caption"><img src="/images/kp/002.jpg" alt="photo of the Catskills in autumn" />
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Wed, 16 Nov 2022 00:00:00 -0000 %></pubDate>
+				<title>[the becoming] The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/the-becoming/002/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p class="caption"><img src="/images/kp/002.jpg" alt="photo of the Catskills in autumn" />
 Late afternoon in the Catskills, October 2022</p>
 
 <p>Hi, I'm Andi and this is <strong><a href="/the-becoming/">the becoming</a></strong>. You are reading these words because somewhere along the way you shared an interested in having this letter land in your inbox. Thank you, and welcome!</p>
@@ -438,14 +460,20 @@ Late afternoon in the Catskills, October 2022</p>
 <p>If you are in a part of the world that celebrates Thanksgiving, I hope it was filled with belonging, nourishment, and rest. And to everyone out there, may the last month of the Gregorian year be easeful and kind for you.</p>
 
 <p>See you in December.</p>
-</content>
-			</item>
-			<item>
-				<pubDate>October 2022</pubDate>
-				<title>[the becoming] Resistance, Transitions, and Belonging</title>
-				<link>/the-becoming/001/</link>
 
-				<content><p class="caption"><img src="/images/kp/001.jpg" alt="smiley" />
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Tue, 25 Oct 2022 00:00:00 -0000 %></pubDate>
+				<title>[the becoming] Resistance, Transitions, and Belonging</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/the-becoming/001/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p class="caption"><img src="/images/kp/001.jpg" alt="smiley" />
 Point Reyes National Seashore, October 2022</p>
 
 <p>Hi! I’m Andi, and this is <strong><a href="/the-becoming/">the becoming</a></strong>, a newsletter that invites warm and open conversations exploring what it means to be in the complexity of life as a leader, however you inhabit that role.</p>
@@ -487,14 +515,20 @@ Point Reyes National Seashore, October 2022</p>
 <p>I’ve been thinking a lot about what it means to belong, where we seek belonging, and what it is we are belonging to. I think some of this has come up naturally with my transition away from working in organizations, which for a long time was a (somewhat misplaced) primary source of belonging. As a pretty strong introvert, and without the prompts of daily office life, where is it that I belong? Or with whom? What does it look like to belong to myself?</p>
 
 <p>How do you belong?</p>
-</content>
-			</item>
-			<item>
-				<pubDate>April 2023</pubDate>
-				<title>[Notes to Self] 002 - Seeing Outside of Ourselves</title>
-				<link>/notes/002/</link>
 
-				<content><p>This morning I finally caught up on Bill Plotkin's three part essay, <em>Who is Up for Building a Cathedral</em> (<a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-I--SM322--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=lUl0tzr9FGU">Part I</a>, <a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-II--SM323--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=v5hfjf_di2A">Part II</a>, <a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-III--SM324--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=FYyIMj3qdG4">Part III</a>), that contextualizes Joseph Campbell's myth of the Hero's Journey as a guide to the adolscent phase of life (defined not by age but by developmental life stage that spans from early adolsence to late adolsence). There are many gifts that this phase of life offers, including exuberance and fiery creativity. But we have prolonged adolsence until it has become pathological, facing a true scarcity of adults and elders. And in this capacity, the Hero's Adventure doesn't offer us any way out, any path beyond the egocentric path of the solo superstar.</p>
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Fri, 14 Apr 2023 00:00:00 -0000 %></pubDate>
+				<title>[Notes to Self] 002 - Seeing Outside of Ourselves</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/notes/002/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p>This morning I finally caught up on Bill Plotkin's three part essay, <em>Who is Up for Building a Cathedral</em> (<a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-I--SM322--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=lUl0tzr9FGU">Part I</a>, <a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-II--SM323--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=v5hfjf_di2A">Part II</a>, <a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-III--SM324--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=FYyIMj3qdG4">Part III</a>), that contextualizes Joseph Campbell's myth of the Hero's Journey as a guide to the adolscent phase of life (defined not by age but by developmental life stage that spans from early adolsence to late adolsence). There are many gifts that this phase of life offers, including exuberance and fiery creativity. But we have prolonged adolsence until it has become pathological, facing a true scarcity of adults and elders. And in this capacity, the Hero's Adventure doesn't offer us any way out, any path beyond the egocentric path of the solo superstar.</p>
 
 <blockquote>
   <p>And this brings us right to the heart of what I most want to share with you in this essay: The difficulty for any given person in accessing or recognizing a mature framework (a framework for true maturity) is not only that person’s culture but, even more so, their developmental stage. Maybe it’s just obvious: If someone has not themselves matured beyond early adolescence, then their lens, too, will necessarily be adolescent; everything they experience will be seen and understood through that lens. The caterpillar cannot truly imagine the life of a butterfly.</p>
@@ -505,14 +539,20 @@ Point Reyes National Seashore, October 2022</p>
 <p>The starting point of that particular conversational thread was a question of whether it is useful to orient around the future at all, with some people saying that any vision of the future pulls you out of the present in a detrimental way. Their consideration was nuanced and transcended the polarity with some both/and thinking, but what I thought paralleled Plotkin's piece was the idea that in a future orientation that is perspectival, then you are stuck within a perspectival futurism, in the same way once you are in the adolesence of the Hero's Journey every other myth looks like the Hero's Journey. I'm making a note of this because it's an interesting thread to come back to, and both are very Gebserian in nature. Which is also a note to self to continue my reading of Jeremy Johnson's <a href="https://bookshop.org/p/books/seeing-through-the-world-jean-gebser-and-integral-consciousness-jeremy-d-johnson/9691712?ean=9781947544154">Seeing Through the Wold</a>, a kind of intro text for Gebser and integral consciousness.</p>
 
 <p>Unrelated to the themes above, there were some interesting threads relating to AI and deworlding on Substack, but given that it is a <a href="https://buttondown.email/thehypothesis/archive/heres-why-substacks-scam-worked-so-well/">platform for white supremacy</a> (or a <a href="https://www.techdirt.com/2023/04/14/substack-ceo-chris-best-doesnt-realize-hes-just-become-the-nazi-bar/">Nazi Bar</a>, if you will) I'm not very interested in linking to them. Not sure how to reconcile this in the long run, but fine with just keeping research notes and hoping people leave the racist platform.</p>
-</content>
-			</item>
-			<item>
-				<pubDate>March 2023</pubDate>
-				<title>[Notes to Self] 001 - Projecting Intelligence</title>
-				<link>/notes/001/</link>
 
-				<content><p>Continuing to collect links and insights that are helping me make sense of the most recent season of <strong>Is Artificial Intelligence Intelligent</strong>? Of course the day after I wrote the <a href="../../the-becoming/005">ChatGPT edition of the becoming</a>, Intelligencer published <a href="https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html">You Are Not a Parrot</a> which says a lot of what I was trying to say but much better, and with more experts.</p>
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Tue, 14 Mar 2023 00:00:00 -0000 %></pubDate>
+				<title>[Notes to Self] 001 - Projecting Intelligence</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/notes/001/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p>Continuing to collect links and insights that are helping me make sense of the most recent season of <strong>Is Artificial Intelligence Intelligent</strong>? Of course the day after I wrote the <a href="../../the-becoming/005">ChatGPT edition of the becoming</a>, Intelligencer published <a href="https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html">You Are Not a Parrot</a> which says a lot of what I was trying to say but much better, and with more experts.</p>
 
 <p>Then John Maeda sent out the <a href="https://www.linkedin.com/pulse/simons-scissors-weizenbaums-wisdom-nicholas-dr-john-maeda/">March 2023 #DesignInTech briefing</a>, in which he includes a passage from <a href="http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf">Computer Power and Human Reason</a>, penned by one Dr. Joseph Weizenbaum who apparently invented the chatbot back in 1967, so definitely has some street cred:</p>
 
@@ -540,14 +580,20 @@ This insight led me to attach new importance to questions of the relationship be
 <p>So I'm on the lookout for mischievous robot inventors instigating random acts of kindness, humor, and goodwill.</p>
 
 <p>Oh, and one more thing. A <a href="https://docs.google.com/document/d/1bG0yIdawiUvwh7m0AnXV5W6JHkK9xwXemuVjSU5tbhQ/preview">collection of suggested readings</a> from the #StochasticParrotsDay live stream hosted by the <a href="https://www.dair-institute.org">DAIR institute</a>.</p>
-</content>
-			</item>
-			<item>
-				<pubDate>December 2022</pubDate>
-				<title>[Essays] At the End of a Cycle</title>
-				<link>/essays/end-of-a-cycle/</link>
 
-				<content>
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Tue, 13 Dec 2022 00:00:00 -0000 %></pubDate>
+				<title>[Essays] At the End of a Cycle</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/essays/end-of-a-cycle/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						
 <p>We live our lives within the rhythms and cycles of the physical world. Our calendars commemorate this by marking each full rotation of the earth as a day, the total cycle of the moon around the earth as a month, and the complete trip of the earth around the sun as a year. Though modern life and the Time Grid<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> suggest otherwise, our animal bodies are intimately tied to these rhythms through circadian cycles that let us know when to rest and when to move.</p>
 
 <p class="caption"><img src="/images/essays/moon-cycle.jpg" alt="moon cycle photo" />
@@ -696,14 +742,20 @@ When you are finished with the letter, put it somewhere safe. You will read it o
     </li>
   </ol>
 </div>
-</content>
-			</item>
-			<item>
-				<pubDate>November 2022</pubDate>
-				<title>[Essays] Building a Relationship With Change</title>
-				<link>/essays/building-a-relationship-with-change/</link>
 
-				<content><p>The pace of change today — technological, societal, environmental, geopolitical — is increasing at such a rapid rate that it can be destabilizing to our individual identities. Those of us caught up in the expansive reach of free-market capitalism have cultivated a sense of urgency, entrepreneurialism, and problem-solving when it comes to change. We learn productivity frameworks like <a href="https://www.mindtools.com/a4wo118/smart-goals">S.M.A.R.T.</a>, <a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">OKR</a>, and <a href="https://business.adobe.com/blog/basics/bhag">BHAG</a> through which we articulate compelling visions and measure success. And while these approaches have a place, both in the business world and in our personal lives, these frameworks inherently narrow the world in service of what we must achieve at the expense of who we authentically are.</p>
+					]]>
+				</content>
+			</item>
+
+			<item>
+				<pubDate>Tue, 29 Nov 2022 00:00:00 -0000 %></pubDate>
+				<title>[Essays] Building a Relationship With Change</title>
+				<author>Andrea Mignolo</author>
+				<link>https://methodandmatter.com/essays/building-a-relationship-with-change/</link>
+
+				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+					<![CDATA[
+						<p>The pace of change today — technological, societal, environmental, geopolitical — is increasing at such a rapid rate that it can be destabilizing to our individual identities. Those of us caught up in the expansive reach of free-market capitalism have cultivated a sense of urgency, entrepreneurialism, and problem-solving when it comes to change. We learn productivity frameworks like <a href="https://www.mindtools.com/a4wo118/smart-goals">S.M.A.R.T.</a>, <a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">OKR</a>, and <a href="https://business.adobe.com/blog/basics/bhag">BHAG</a> through which we articulate compelling visions and measure success. And while these approaches have a place, both in the business world and in our personal lives, these frameworks inherently narrow the world in service of what we must achieve at the expense of who we authentically are.</p>
 
 <p>Developing a healthy relationship to change is essential, both personally and professionally, to stay connected to ourselves while adjusting creatively to changing conditions. As each year comes to an end many of us collectively engage in the ritual of New Year’s Resolutions. We identify what we need to start or stop doing to become the type of person that is fully deserving of safety, connection, and belonging. We decide that if we just lose a little more weight, eat healthier, meditate more, work harder, are less stressed, then everything will be ok. And yet, despite our best intentions, <a href="https://www.inc.com/marcel-schwantes/studies-show-91-percent-of-us-wont-achieve-our-new-years-resolutions-how-to-be-9-percent-that-do.html">91% of us won’t achieve our New Year’s Resolutions</a>.</p>
 
@@ -835,7 +887,10 @@ first is to realize that The Island doesn’t actually exist. You will never rea
     </li>
   </ol>
 </div>
-</content>
+
+					]]>
+				</content>
 			</item>
 
+	</channel>
 </rss>
