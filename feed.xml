@@ -1,23 +1,36 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
   <channel>
-    <atom:link
-      href="https://methodandmatter.com/feed.xml"
-      rel="self"
-      type="application/rss+xml" />
-		<category>Leadership and change</category>
-    <copyright>2017-present Andrea Mignolo</copyright>
-    <generator>Middleman (Ruby)</generator>
-		<title>method &#038; matter</title>
-		<link>https://methodandmatter.com/</link>
-		<description>From the desk of Andrea Mignolo</description>
+    <title>method &#038; matter</title>
+    <atom:link href="https://methodandmatter.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://methodandmatter.com</link>
     <language>en-us</language>
+    <generator>Middleman (Ruby)</generator>
+		<description>From the desk of Andrea Mignolo</description>
+    <image>
+      <url>https://methodandmatter.com/images/mm-round.png</url>
+      <title>method and matter logo</title>
+      <link>https://methodandmatter.com/images/mm-round.png</link>
+    </image>
 
 
 			<item>
+        <title>[the becoming] Creating Space for Others to Think</title>
+        <link>https://methodandmatter.com/the-becoming/006/</link>
 				<pubDate>Thu, 30 Mar 2023 00:00:00 -0000 %></pubDate>
-				<title>[the becoming] Creating Space for Others to Think</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/the-becoming/006/</link>
+
 
 				<description>
 					<![CDATA[
@@ -122,10 +135,10 @@ autumn leaves, and winter skies.</p>
 			</item>
 
 			<item>
+        <title>[the becoming] The ChatGPT Edition</title>
+        <link>https://methodandmatter.com/the-becoming/005/</link>
 				<pubDate>Tue, 28 Feb 2023 00:00:00 -0000 %></pubDate>
-				<title>[the becoming] The ChatGPT Edition</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/the-becoming/005/</link>
+
 
 				<description>
 					<![CDATA[
@@ -224,10 +237,10 @@ Flower illustration courtesy of Midjourney. The exact prompt has been lost to ti
 			</item>
 
 			<item>
+        <title>[the becoming] Foundations, Accountability, and Discomfort</title>
+        <link>https://methodandmatter.com/the-becoming/004/</link>
 				<pubDate>Mon, 16 Jan 2023 00:00:00 -0000 %></pubDate>
-				<title>[the becoming] Foundations, Accountability, and Discomfort</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/the-becoming/004/</link>
+
 
 				<description>
 					<![CDATA[
@@ -321,10 +334,10 @@ SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartans
 			</item>
 
 			<item>
+        <title>[the becoming] End of Year Reflections and Other Sundries</title>
+        <link>https://methodandmatter.com/the-becoming/003/</link>
 				<pubDate>Wed, 28 Dec 2022 00:00:00 -0000 %></pubDate>
-				<title>[the becoming] End of Year Reflections and Other Sundries</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/the-becoming/003/</link>
+
 
 				<description>
 					<![CDATA[
@@ -403,10 +416,10 @@ H.B. Karp's Power Resistance Model</p>
 			</item>
 
 			<item>
+        <title>[the becoming] The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
+        <link>https://methodandmatter.com/the-becoming/002/</link>
 				<pubDate>Wed, 16 Nov 2022 00:00:00 -0000 %></pubDate>
-				<title>[the becoming] The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/the-becoming/002/</link>
+
 
 				<description>
 					<![CDATA[
@@ -466,10 +479,10 @@ Late afternoon in the Catskills, October 2022</p>
 			</item>
 
 			<item>
+        <title>[the becoming] Resistance, Transitions, and Belonging</title>
+        <link>https://methodandmatter.com/the-becoming/001/</link>
 				<pubDate>Tue, 25 Oct 2022 00:00:00 -0000 %></pubDate>
-				<title>[the becoming] Resistance, Transitions, and Belonging</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/the-becoming/001/</link>
+
 
 				<description>
 					<![CDATA[
@@ -521,10 +534,10 @@ Point Reyes National Seashore, October 2022</p>
 			</item>
 
 			<item>
+        <title>[Notes to Self] 002 - Seeing Outside of Ourselves</title>
+        <link>https://methodandmatter.com/notes/002/</link>
 				<pubDate>Fri, 14 Apr 2023 00:00:00 -0000 %></pubDate>
-				<title>[Notes to Self] 002 - Seeing Outside of Ourselves</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/notes/002/</link>
+
 
 				<description>
 					<![CDATA[
@@ -545,10 +558,10 @@ Point Reyes National Seashore, October 2022</p>
 			</item>
 
 			<item>
+        <title>[Notes to Self] 001 - Projecting Intelligence</title>
+        <link>https://methodandmatter.com/notes/001/</link>
 				<pubDate>Tue, 14 Mar 2023 00:00:00 -0000 %></pubDate>
-				<title>[Notes to Self] 001 - Projecting Intelligence</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/notes/001/</link>
+
 
 				<description>
 					<![CDATA[
@@ -586,10 +599,10 @@ This insight led me to attach new importance to questions of the relationship be
 			</item>
 
 			<item>
+        <title>[Essays] At the End of a Cycle</title>
+        <link>https://methodandmatter.com/essays/end-of-a-cycle/</link>
 				<pubDate>Tue, 13 Dec 2022 00:00:00 -0000 %></pubDate>
-				<title>[Essays] At the End of a Cycle</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/essays/end-of-a-cycle/</link>
+
 
 				<description>
 					<![CDATA[
@@ -748,10 +761,10 @@ When you are finished with the letter, put it somewhere safe. You will read it o
 			</item>
 
 			<item>
+        <title>[Essays] Building a Relationship With Change</title>
+        <link>https://methodandmatter.com/essays/building-a-relationship-with-change/</link>
 				<pubDate>Tue, 29 Nov 2022 00:00:00 -0000 %></pubDate>
-				<title>[Essays] Building a Relationship With Change</title>
-				<author>Andrea Mignolo</author>
-				<link>https://methodandmatter.com/essays/building-a-relationship-with-change/</link>
+
 
 				<description>
 					<![CDATA[
@@ -892,5 +905,5 @@ first is to realize that The Island doesn’t actually exist. You will never rea
 				</description>
 			</item>
 
-	</channel>
+  </channel>
 </rss>
