@@ -19,7 +19,7 @@
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/the-becoming/006/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p class="caption"><img src="/images/kp/006.jpg" alt="A path through Mt Davidson park" />
 Early spring at Mt. Davidson Park, San Francisco</p>
@@ -118,7 +118,7 @@ autumn leaves, and winter skies.</p>
 </div>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -127,7 +127,7 @@ autumn leaves, and winter skies.</p>
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/the-becoming/005/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p class="caption"><img src="/images/kp/005.jpg" alt="Flower courtesy of Midjourney, the prompt has been lost to time." />
 Flower illustration courtesy of Midjourney. The exact prompt has been lost to time.</p>
@@ -220,7 +220,7 @@ Flower illustration courtesy of Midjourney. The exact prompt has been lost to ti
 <p>If you made it this far, my guess is you were just scrolling to see how long the damn thing was. Hi! Nice to see you. Thanks for being here, and see you next month!</p>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -229,7 +229,7 @@ Flower illustration courtesy of Midjourney. The exact prompt has been lost to ti
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/the-becoming/004/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p class="caption"><img src="/images/kp/004.jpg" alt="photo of The Visitors 360 music video at SFMOMA" />
 SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartansson/">The Visitors</a>. Filmed at Rokeby, a very special place indeed.</p>
@@ -317,7 +317,7 @@ SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartans
 </ol>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -326,7 +326,7 @@ SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartans
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/the-becoming/003/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p class="caption"><img src="/images/kp/003.jpg" alt="photo of Durham, NC in the winter" />
 Winter woods in Durham, North Carolina. December 2022</p>
@@ -399,7 +399,7 @@ H.B. Karp's Power Resistance Model</p>
 <p>Thanks for listening. I hope you have a wonderful, nourishing, and restful end of the year.</p>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -408,7 +408,7 @@ H.B. Karp's Power Resistance Model</p>
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/the-becoming/002/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p class="caption"><img src="/images/kp/002.jpg" alt="photo of the Catskills in autumn" />
 Late afternoon in the Catskills, October 2022</p>
@@ -462,7 +462,7 @@ Late afternoon in the Catskills, October 2022</p>
 <p>See you in December.</p>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -471,7 +471,7 @@ Late afternoon in the Catskills, October 2022</p>
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/the-becoming/001/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p class="caption"><img src="/images/kp/001.jpg" alt="smiley" />
 Point Reyes National Seashore, October 2022</p>
@@ -517,7 +517,7 @@ Point Reyes National Seashore, October 2022</p>
 <p>How do you belong?</p>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -526,7 +526,7 @@ Point Reyes National Seashore, October 2022</p>
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/notes/002/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p>This morning I finally caught up on Bill Plotkin's three part essay, <em>Who is Up for Building a Cathedral</em> (<a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-I--SM322--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=lUl0tzr9FGU">Part I</a>, <a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-II--SM323--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=v5hfjf_di2A">Part II</a>, <a href="https://myemail.constantcontact.com/Who-s-Up-for-Building-a-Cathedral---Part-III--SM324--Bill-Plotkin-Soulcraft-Musing.html?soid=1102010840526&amp;aid=FYyIMj3qdG4">Part III</a>), that contextualizes Joseph Campbell's myth of the Hero's Journey as a guide to the adolscent phase of life (defined not by age but by developmental life stage that spans from early adolsence to late adolsence). There are many gifts that this phase of life offers, including exuberance and fiery creativity. But we have prolonged adolsence until it has become pathological, facing a true scarcity of adults and elders. And in this capacity, the Hero's Adventure doesn't offer us any way out, any path beyond the egocentric path of the solo superstar.</p>
 
@@ -541,7 +541,7 @@ Point Reyes National Seashore, October 2022</p>
 <p>Unrelated to the themes above, there were some interesting threads relating to AI and deworlding on Substack, but given that it is a <a href="https://buttondown.email/thehypothesis/archive/heres-why-substacks-scam-worked-so-well/">platform for white supremacy</a> (or a <a href="https://www.techdirt.com/2023/04/14/substack-ceo-chris-best-doesnt-realize-hes-just-become-the-nazi-bar/">Nazi Bar</a>, if you will) I'm not very interested in linking to them. Not sure how to reconcile this in the long run, but fine with just keeping research notes and hoping people leave the racist platform.</p>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -550,7 +550,7 @@ Point Reyes National Seashore, October 2022</p>
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/notes/001/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p>Continuing to collect links and insights that are helping me make sense of the most recent season of <strong>Is Artificial Intelligence Intelligent</strong>? Of course the day after I wrote the <a href="../../the-becoming/005">ChatGPT edition of the becoming</a>, Intelligencer published <a href="https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html">You Are Not a Parrot</a> which says a lot of what I was trying to say but much better, and with more experts.</p>
 
@@ -582,7 +582,7 @@ This insight led me to attach new importance to questions of the relationship be
 <p>Oh, and one more thing. A <a href="https://docs.google.com/document/d/1bG0yIdawiUvwh7m0AnXV5W6JHkK9xwXemuVjSU5tbhQ/preview">collection of suggested readings</a> from the #StochasticParrotsDay live stream hosted by the <a href="https://www.dair-institute.org">DAIR institute</a>.</p>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -591,7 +591,7 @@ This insight led me to attach new importance to questions of the relationship be
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/essays/end-of-a-cycle/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						
 <p>We live our lives within the rhythms and cycles of the physical world. Our calendars commemorate this by marking each full rotation of the earth as a day, the total cycle of the moon around the earth as a month, and the complete trip of the earth around the sun as a year. Though modern life and the Time Grid<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> suggest otherwise, our animal bodies are intimately tied to these rhythms through circadian cycles that let us know when to rest and when to move.</p>
@@ -744,7 +744,7 @@ When you are finished with the letter, put it somewhere safe. You will read it o
 </div>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 			<item>
@@ -753,7 +753,7 @@ When you are finished with the letter, put it somewhere safe. You will read it o
 				<author>Andrea Mignolo</author>
 				<link>https://methodandmatter.com/essays/building-a-relationship-with-change/</link>
 
-				<content type="html" xml:lang="en" xml:base="https://methodandmatter.com/">
+				<description>
 					<![CDATA[
 						<p>The pace of change today — technological, societal, environmental, geopolitical — is increasing at such a rapid rate that it can be destabilizing to our individual identities. Those of us caught up in the expansive reach of free-market capitalism have cultivated a sense of urgency, entrepreneurialism, and problem-solving when it comes to change. We learn productivity frameworks like <a href="https://www.mindtools.com/a4wo118/smart-goals">S.M.A.R.T.</a>, <a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">OKR</a>, and <a href="https://business.adobe.com/blog/basics/bhag">BHAG</a> through which we articulate compelling visions and measure success. And while these approaches have a place, both in the business world and in our personal lives, these frameworks inherently narrow the world in service of what we must achieve at the expense of who we authentically are.</p>
 
@@ -889,7 +889,7 @@ first is to realize that The Island doesn’t actually exist. You will never rea
 </div>
 
 					]]>
-				</content>
+				</description>
 			</item>
 
 	</channel>
