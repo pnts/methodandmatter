@@ -21,15 +21,16 @@
 		<description>From the desk of Andrea Mignolo</description>
     <image>
       <url>https://methodandmatter.com/images/mm-round.png</url>
-      <title>method and matter logo</title>
-      <link>https://methodandmatter.com/images/mm-round.png</link>
+      <title>method &#038; matter</title>
+      <link>https://methodandmatter.com</link>
     </image>
 
 
 			<item>
         <title>[the becoming] Creating Space for Others to Think</title>
         <link>https://methodandmatter.com/the-becoming/006/</link>
-				<pubDate>Thu, 30 Mar 2023 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/the-becoming/006/</guid>
+				<pubDate>Thu, 30 Mar 2023 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -137,7 +138,8 @@ autumn leaves, and winter skies.</p>
 			<item>
         <title>[the becoming] The ChatGPT Edition</title>
         <link>https://methodandmatter.com/the-becoming/005/</link>
-				<pubDate>Tue, 28 Feb 2023 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/the-becoming/005/</guid>
+				<pubDate>Tue, 28 Feb 2023 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -239,7 +241,8 @@ Flower illustration courtesy of Midjourney. The exact prompt has been lost to ti
 			<item>
         <title>[the becoming] Foundations, Accountability, and Discomfort</title>
         <link>https://methodandmatter.com/the-becoming/004/</link>
-				<pubDate>Mon, 16 Jan 2023 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/the-becoming/004/</guid>
+				<pubDate>Mon, 16 Jan 2023 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -336,7 +339,8 @@ SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartans
 			<item>
         <title>[the becoming] End of Year Reflections and Other Sundries</title>
         <link>https://methodandmatter.com/the-becoming/003/</link>
-				<pubDate>Wed, 28 Dec 2022 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/the-becoming/003/</guid>
+				<pubDate>Wed, 28 Dec 2022 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -418,7 +422,8 @@ H.B. Karp's Power Resistance Model</p>
 			<item>
         <title>[the becoming] The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
         <link>https://methodandmatter.com/the-becoming/002/</link>
-				<pubDate>Wed, 16 Nov 2022 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/the-becoming/002/</guid>
+				<pubDate>Wed, 16 Nov 2022 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -481,7 +486,8 @@ Late afternoon in the Catskills, October 2022</p>
 			<item>
         <title>[the becoming] Resistance, Transitions, and Belonging</title>
         <link>https://methodandmatter.com/the-becoming/001/</link>
-				<pubDate>Tue, 25 Oct 2022 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/the-becoming/001/</guid>
+				<pubDate>Tue, 25 Oct 2022 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -536,7 +542,8 @@ Point Reyes National Seashore, October 2022</p>
 			<item>
         <title>[Notes to Self] 002 - Seeing Outside of Ourselves</title>
         <link>https://methodandmatter.com/notes/002/</link>
-				<pubDate>Fri, 14 Apr 2023 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/notes/002/</guid>
+				<pubDate>Fri, 14 Apr 2023 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -560,7 +567,8 @@ Point Reyes National Seashore, October 2022</p>
 			<item>
         <title>[Notes to Self] 001 - Projecting Intelligence</title>
         <link>https://methodandmatter.com/notes/001/</link>
-				<pubDate>Tue, 14 Mar 2023 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/notes/001/</guid>
+				<pubDate>Tue, 14 Mar 2023 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -601,7 +609,8 @@ This insight led me to attach new importance to questions of the relationship be
 			<item>
         <title>[Essays] At the End of a Cycle</title>
         <link>https://methodandmatter.com/essays/end-of-a-cycle/</link>
-				<pubDate>Tue, 13 Dec 2022 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/essays/end-of-a-cycle/</guid>
+				<pubDate>Tue, 13 Dec 2022 00:00:00 -0000</pubDate>
 
 
 				<description>
@@ -763,7 +772,8 @@ When you are finished with the letter, put it somewhere safe. You will read it o
 			<item>
         <title>[Essays] Building a Relationship With Change</title>
         <link>https://methodandmatter.com/essays/building-a-relationship-with-change/</link>
-				<pubDate>Tue, 29 Nov 2022 00:00:00 -0000 %></pubDate>
+        <guid>https://methodandmatter.com/essays/building-a-relationship-with-change/</guid>
+				<pubDate>Tue, 29 Nov 2022 00:00:00 -0000</pubDate>
 
 
 				<description>
