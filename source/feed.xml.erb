@@ -2,29 +2,42 @@
 layout: false
 ---
 
-<rss xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
   <channel>
-    <atom:link
-      href="https://methodandmatter.com/feed.xml"
-      rel="self"
-      type="application/rss+xml" />
-		<category>Leadership and change</category>
-    <copyright>2017-present Andrea Mignolo</copyright>
-    <generator>Middleman (Ruby)</generator>
-		<title>method &#038; matter</title>
-		<link>https://methodandmatter.com/</link>
-		<description>From the desk of Andrea Mignolo</description>
+    <title>method &#038; matter</title>
+    <atom:link href="https://methodandmatter.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://methodandmatter.com</link>
     <language>en-us</language>
+    <generator>Middleman (Ruby)</generator>
+		<description>From the desk of Andrea Mignolo</description>
+    <image>
+      <url>https://methodandmatter.com/images/mm-round.png</url>
+      <title>method and matter logo</title>
+      <link>https://methodandmatter.com/images/mm-round.png</link>
+    </image>
 
 	<%
     combined_articles = blog('the-becoming').articles + blog('notes').articles + blog('essays').articles
     combined_articles.each do |article| %>
 
 			<item>
+        <title>[<%= article.data.label %>] <%= article.data.description %></title>
+        <link><%= "https://methodandmatter.com" + article.url %></link>
 				<pubDate><%= article.date.utc.rfc822 %> %></pubDate>
-				<title>[<%= article.data.label %>] <%= article.data.description %></title>
-				<author>Andrea Mignolo</author>
-				<link><%= "https://methodandmatter.com" + article.url %></link>
+
 
 				<description>
 					<![CDATA[
@@ -34,5 +47,5 @@ layout: false
 			</item>
 	<% end %>
 
-	</channel>
+  </channel>
 </rss>

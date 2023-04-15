@@ -553,15 +553,30 @@ ol {
 }
 
 .colophon {
+  margin: 0;
   font-size: $font-size-small;
   text-align: right;
   color: $light-gray;
   line-height: 1.5rem;
   clear: both;
+  margin-left: 6rem;
+  @include breakpoint(large) {
+    margin: 0;
+
+  }
+}
+
+.made {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  @include breakpoint(large) {
+    margin: 0;
+  }
 }
 
 .copyright {
   margin-bottom: 0;
+  margin-top: 1rem;
 }
 
 .nickname {
@@ -637,8 +652,12 @@ p.teacher {
 //////
 //////
 
+
+// this is janky
 .the-becoming .hero .text {
-  max-width: 40%;
+  @include breakpoint(large) {
+    max-width: 40%;
+  }
 }
 
 .the-becoming .content {
