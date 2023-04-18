@@ -914,7 +914,7 @@ article {
 
 //////
 //////
-////// For video embeds
+////// For video and airtable embeds
 //////
 //////
 
@@ -930,4 +930,8 @@ article {
     //left: 0;
     width: 100%;
     height: 100%;
+}
+
+.leader-as-coach_materials .airtable-embed {
+  margin-top: 1rem;
 }
