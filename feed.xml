@@ -618,6 +618,44 @@ Point Reyes National Seashore, October 2022</p>
 			</item>
 
 			<item>
+        <title>[Notes to Self] 004 - AI: In Service of Capital or Labor?</title>
+        <link>https://methodandmatter.com/notes/004/</link>
+        <guid>https://methodandmatter.com/notes/004/</guid>
+				<pubDate>Fri, 05 May 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+				<description>
+					<![CDATA[
+						<p>It has been interesting watching the debate, development, and understanding of how AI-based tools will impact society. Who will benefit? Who will be left behind? What does it mean? What is our role in shaping and tending to it? What is possible? Can we resist what feels like an unavoidable and increasingly dystopian future?</p>
+
+<p>Two things that kind of bookmark what I am seeing are Ted Chiang’s most recent piece in in the New Yorker, “<a href="https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey">Will AI Become the New McKinsey?</a>” in which he offers <a href="https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web">another compelling metaphor</a> by which to think about AI: as a management consulting firm. What does this actually mean? The two qualities called out in the article are 1) the use of management consulting firms by organizations to evade responsibility and 2) how these management consulting firms work as “capital’s willing executioners”. Each of these qualities work in service of increasing shareholder value in the hands of private individuals who profit off the effort of others.</p>
+
+<blockquote>
+  <p>As it is currently deployed, A.I. often amounts to an effort to analyze a task that human beings perform and figure out a way to replace the human being. Coincidentally, this is exactly the type of problem that management wants solved. As a result, A.I. assists capital at the expense of labor. There isn’t really anything like a labor-consulting firm that furthers the interests of workers. Is it possible for A.I. to take on that role? Can A.I. do anything to assist workers instead of management?</p>
+</blockquote>
+
+<p>This echoes Andrew Feenberg’s Critical Theory of Technology and the ensuing explication of “capitalist technology” in the fourth moment of instrumentation,  <em>decontextualization and systemization</em>. In this dialectic moment technology is combined and reinserted back into the environment in service of hegemonic interests:</p>
+
+<blockquote>
+  <p>Decontextualization is of course only the starting point in technical development since the decontextualized elements must be combined with each other to be useful. The resulting device must then be related to other devices and to its natural environment. “Systemization” is the secondary instrumentalization where technical design addresses a sufficiently wide range of contexts. Capitalism does greatly enlarge that range insofar as devices form each others’ context, integrating enormous numbers of them in tightly coupled networks. This gives rise to what I call “system-centered design,” the typical design strategy of modern societies. However, where the well-being of workers and nature are concerned, it limits those contexts as much as possible for the sake of control and profits.” - p 181, Transforming Technology</p>
+</blockquote>
+
+<p>I love the questions that are forming here - what does AI look like when it is in service of workers? How can networks be reconfigured in service of nature and labor?</p>
+
+<p>On the other hand, we have the document that leaked out of Google this week, “<a href="https://www.semianalysis.com/p/google-we-have-no-moat-and-neither">We Have No Moat, and Neither Does AI</a>.” In the analysis an internal researcher looks at the pace of LLM innovation in the open source community, and how in the weeks and months since LLaMA was leaked, individuals have pushed the pace of innovation and minification to the point personalized LLMs can be run on a laptop. In this world, the value corporate controlled LLMs offer diminishing (if any) returns for customers who can get similar power for free. AI is now in the hands of the masses, freed from corporate control. The paper acknowledges this reality and suggests that organizations like Google and AI embrace what is happening and relinquish some control over their models.</p>
+
+<blockquote>
+  <p>The more tightly we control our models, the more attractive we make open alternatives. Google and OpenAI have both gravitated defensively toward release patterns that allow them to retain tight control over how their models are used. But this control is a fiction. Anyone seeking to use LLMs for unsanctioned purposes can simply take their pick of the freely available models.</p>
+</blockquote>
+
+<p>Who knows where this will all go, but I am watching the open source space and pace closely. Maybe AI can push things in favor of labor after all.</p>
+
+					]]>
+				</description>
+			</item>
+
+			<item>
         <title>[Notes to Self] 003 - Leadership, Not Leaders</title>
         <link>https://methodandmatter.com/notes/003/</link>
         <guid>https://methodandmatter.com/notes/003/</guid>
