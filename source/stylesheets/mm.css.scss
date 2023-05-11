@@ -217,6 +217,11 @@ button {
 footer {
   padding-bottom: 2rem;
   position: relative;
+  .footer-content {
+    @include breakpoint(medium) {
+      padding-right: 3rem;
+    }
+  }
   ul {
     margin-bottom: 1rem;
     clear: both;
@@ -228,11 +233,14 @@ footer {
     }
     li {
       display: block;
-      text-align: center;
+      text-align: right;
       margin: 1rem 0;
       @include breakpoint(medium) {
         display: inline-block;
         margin: 0 1rem;
+      }
+      &:last-child {
+        margin-right: 0;
       }
     }
   }
