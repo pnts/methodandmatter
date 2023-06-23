@@ -122,7 +122,9 @@ hr {
 .resources .resources a,
 .research .research a,
 .leader-as-coach .courses a,
-.the-becoming .newsletter a {
+.newsletters .newsletter a,
+.the-becoming .newsletter a,
+.words-make-worlds .newsletter a {
   border-bottom: 1px solid $pink;
 }
 
@@ -377,6 +379,37 @@ input[type=submit] {
   line-height: 2.3rem;
 }
 
+.two-col-equal {
+  display: grid;
+  grid-template-areas:
+    "first"
+    "second";
+
+  @include breakpoint(large) {
+    padding: 0 $main-padding;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "first second";
+  }
+}
+
+.two-col-equal {
+  .box-1, .box-2 {
+    @include breakpoint(large) {
+      padding-right: 2rem;
+      padding-left: 2rem;
+    }
+  }
+  .box-1 {
+    grid-area: first;
+  }
+  .box-2 {
+    grid-area: second;
+  }
+}
+
+
 //////
 //////
 ////// Image treatements
@@ -419,6 +452,20 @@ input[type=submit] {
 ////// Newsletter
 //////
 //////
+
+.newsletters {
+  h2 {
+    margin-top: 4rem;
+    margin-bottom: 0;
+    ~ p {
+      margin-top: 1rem;
+    }
+  }
+  .the-becoming, .words-make-worlds {
+    margin-bottom: 4rem;
+  }
+}
+
 
 .newsletter-form {
   background: $lightest-gray;
@@ -762,6 +809,37 @@ p.teacher {
     }
   }
 }
+
+//////
+//////
+////// Words Make Worlds
+//////
+//////
+
+.words-make-worlds {
+  .hero, .hero h1, .hero .text, .hero .text p {
+    max-width: 100%;
+    background: none;
+    text-align: center;
+  }
+  .hero h1 {
+    margin-top: 5rem;
+  }
+  .hero {
+    background-image: url("/images/wwm/newsletter-bg-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: $white;
+    padding: 2rem;
+  }
+  .formkit-form {
+    margin: 0 auto;
+  }
+  .mini {
+    margin-bottom: 8rem;
+  }
+}
+
 
 //////
 //////
