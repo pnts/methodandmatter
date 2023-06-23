@@ -122,9 +122,7 @@ hr {
 .resources .resources a,
 .research .research a,
 .leader-as-coach .courses a,
-.newsletters .newsletter a,
-.the-becoming .newsletter a,
-.words-make-worlds .newsletter a {
+.newsletters .newsletter a {
   border-bottom: 1px solid $pink;
 }
 
@@ -462,11 +460,32 @@ input[type=submit] {
     }
   }
   .the-becoming, .words-make-worlds {
-    margin-bottom: 4rem;
+    padding: 2rem;
+    color: white;
+    padding-top: 4rem;
+    padding-bottom: 7rem;
+    background-size: cover;
+    margin-bottom: 1rem;
+    a {
+      color: $white;
+    }
+  }
+
+  .words-make-worlds {
+    background-image: url("/images/wwm/newsletter-bg-3.jpg");
+    @include breakpoint(large) {
+      margin-left: 1rem;
+    }
+  }
+  .the-becoming {
+    background-image: url("/images/the-becoming/newsletter-header.jpg");
+    @include breakpoint(large) {
+      margin-right: 1rem;
+    }
   }
 }
 
-
+// I think this is old and not used anymore
 .newsletter-form {
   background: $lightest-gray;
   padding: 5rem 2rem;
@@ -816,7 +835,7 @@ p.teacher {
 //////
 //////
 
-.words-make-worlds {
+.words-make-worlds, .the-becoming {
   .hero, .hero h1, .hero .text, .hero .text p {
     max-width: 100%;
     background: none;
@@ -826,10 +845,8 @@ p.teacher {
     margin-top: 5rem;
   }
   .hero {
-    background-image: url("/images/wwm/newsletter-bg-3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: $white;
     padding: 2rem;
   }
   .formkit-form {
@@ -837,6 +854,20 @@ p.teacher {
   }
   .mini {
     margin-bottom: 8rem;
+  }
+}
+
+.words-make-worlds {
+  .hero {
+    background-image: url("/images/wwm/newsletter-bg-3.jpg");
+    color: $white;
+  }
+}
+
+.the-becoming {
+  .hero {
+    background-image: url("/images/the-becoming/newsletter-header.jpg");
+    color: $white;
   }
 }
 
