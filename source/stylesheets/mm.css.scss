@@ -217,9 +217,31 @@ button {
 footer {
   padding-bottom: 2rem;
   position: relative;
-  .footer-content {
-    @include breakpoint(medium) {
-      padding-right: 3rem;
+  .inner {
+    background: #222;
+    color: $light-gray;
+    a {
+      color: $white;
+      border-bottom: 1px solid $light-gray;
+    }
+  }
+  .collection {
+    margin-left: 2rem;
+    @include breakpoint(large) {
+      float: left;
+      margin-right: 4rem;
+      margin-left: 0;
+    }
+    h3 {
+      font-size: 1rem;
+      text-transform: uppercase;
+      margin-top: 3rem;
+      @include breakpoint(large) {
+        margin-top: 1rem;
+      }
+    }
+    li {
+      margin-bottom: 1rem;
     }
   }
   .socials {
@@ -244,6 +266,7 @@ footer {
       }
     }
   }
+
 }
 
 header, footer {
@@ -466,6 +489,7 @@ input[type=submit] {
     padding-bottom: 7rem;
     background-size: cover;
     margin-bottom: 1rem;
+    border-radius: 8px;
     a {
       color: $white;
     }
@@ -474,13 +498,15 @@ input[type=submit] {
   .words-make-worlds {
     background-image: url("/images/wwm/newsletter-bg-3.jpg");
     @include breakpoint(large) {
-      margin-left: 1rem;
+      margin-left: 2rem;
+      margin-right: 4rem;
     }
   }
   .the-becoming {
     background-image: url("/images/the-becoming/newsletter-header.jpg");
     @include breakpoint(large) {
-      margin-right: 1rem;
+      margin-right: 2rem;
+      margin-left: 4rem;
     }
   }
 }
@@ -627,13 +653,19 @@ ol {
 }
 
 .colophon {
+  padding: 2rem;
+  border-top: 1px solid #333;
+  margin-top: 3rem;
+}
+
+.colophon p {
   margin: 0;
   font-size: $font-size-small;
   text-align: right;
   color: $light-gray;
   line-height: 1.5rem;
-  clear: both;
-  margin-left: 6rem;
+  //clear: both;
+  //margin-left: 6rem;
   @include breakpoint(large) {
     margin: 0;
 
