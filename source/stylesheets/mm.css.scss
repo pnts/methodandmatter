@@ -217,6 +217,7 @@ button {
 footer {
   padding-bottom: 2rem;
   position: relative;
+  margin-top: 4rem;
   .inner {
     background: #222;
     color: $light-gray;
@@ -227,6 +228,7 @@ footer {
   }
   .collection {
     margin-left: 2rem;
+    margin-top: 3rem;
     @include breakpoint(large) {
       float: left;
       margin-right: 4rem;
@@ -235,10 +237,6 @@ footer {
     h3 {
       font-size: 1rem;
       text-transform: uppercase;
-      margin-top: 3rem;
-      @include breakpoint(large) {
-        margin-top: 1rem;
-      }
     }
     li {
       margin-bottom: 1rem;
@@ -416,12 +414,6 @@ input[type=submit] {
 }
 
 .two-col-equal {
-  .box-1, .box-2 {
-    @include breakpoint(large) {
-      padding-right: 2rem;
-      padding-left: 2rem;
-    }
-  }
   .box-1 {
     grid-area: first;
   }
