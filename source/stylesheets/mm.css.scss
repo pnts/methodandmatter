@@ -11,11 +11,19 @@ body {
 }
 
 a {
-  color: $main-text;
-  border-bottom: 1px solid $link-accent-color;
+  //color: $main-text;
+  //border-bottom: 1px solid $link-accent-color;
+  text-decoration: underline;
+  text-decoration-color: $link-accent-color;
+  border: 0;
+  box-shadow: none;
   transition: $transition;
+  color: #222;
   &:hover {
-    color: $link-accent-color;
+    color: $link-accent-color !important;
+  }
+  &:visited {
+    color: $main-text;
   }
 }
 
@@ -53,7 +61,8 @@ nav {
     float: right;
   }
   a {
-    border-bottom: 1px solid $white;
+    //border-bottom: 1px solid $white;
+    text-decoration-color: $white;
   }
   ul {
     display: block;
@@ -115,6 +124,7 @@ hr {
   background-position: left center;
   background-repeat: no-repeat;
   background-size: 30px 30px;
+  text-decoration: none;
 }
 
 .coaching .coaching a,
@@ -123,7 +133,8 @@ hr {
 .research .research a,
 .leader-as-coach .courses a,
 .newsletters .newsletter a {
-  border-bottom: 1px solid $pink;
+  //border-bottom: 1px solid $pink;
+  text-decoration-color: $link-accent-color;
 }
 
 .hero {
@@ -223,7 +234,8 @@ footer {
     color: $light-gray;
     a {
       color: $white;
-      border-bottom: 1px solid $light-gray;
+      text-decoration: underline;
+      text-decoration-color: $light-gray;
     }
   }
   .collection {
@@ -279,7 +291,8 @@ header, footer {
   background: $pink;
   padding: .3rem 1.8rem;
   border-radius: 5rem;
-  color: #FFF;
+  color: $white !important;
+  text-decoration: none;
   &:hover {
     background: #000;
     color: $white;
@@ -904,7 +917,7 @@ p.teacher {
 //////
 //////
 
-.notes {
+.notes, .notes footer {
   background: #EFF2F4;
 }
 
@@ -945,6 +958,59 @@ p.teacher {
     margin-left: 2rem;
   }
 }
+
+//////
+//////
+////// Words Make Worlds
+//////
+//////
+
+.words-make-worlds,
+.words-make-worlds footer,
+.words-make-worlds .notes  {
+  background: #FCFCFC;
+}
+
+.words-make-worlds header, .words-make-worlds footer {
+  hr {
+    background-color: $lightest-gray;
+  }
+}
+
+.words-make-worlds .notes {
+  color: #222;
+}
+
+.words-make-worlds .notes a {
+  border-bottom: none;
+}
+
+.words-make-worlds blockquote {
+  color: #999;
+  font-weight: $font-weight-book;
+  &::before {
+    color: #EEE;
+  }
+}
+
+.words-make-worlds .notes {
+  font-family: $font-heading-serif;
+  font-weight: $font-weight-light;
+}
+
+.words-make-worlds .content ul {
+  list-style-type: disc;
+
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  li {
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+  }
+}
+
+
+
 
 //////
 //////

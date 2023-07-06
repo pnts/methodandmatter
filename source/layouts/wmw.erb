@@ -1,0 +1,13 @@
+
+<% wrap_layout :layout do %>
+
+<main>
+  <section class="content">
+    <div class="col-1 notes">
+    <h4>Words Make Worlds</h4>
+    <h2><%= current_page.data.title %></h2>
+        <%= yield %>
+    </div>
+  </section>
+</main>
+<% end %>

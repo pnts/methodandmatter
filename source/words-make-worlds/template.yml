@@ -1,0 +1,9 @@
+---
+title: Words Make Worlds -  <%= @title %>
+date: <%= @date.strftime('%B %d, %Y') %>
+tags:
+description: "Resources for leaders who want to learn and practice the Coaching Leadership Style"
+keywords: "Coaching Leadership Style, Leader as Coach, Coaching for Leaders, Manager as Coach"
+image: "og/mm-og-1.jpg"
+published: false
+---
