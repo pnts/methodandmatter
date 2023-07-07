@@ -516,14 +516,8 @@ input[type=submit] {
   }
 }
 
-.signup {
-  max-width: 44rem;
-  margin: 0 auto;
-  text-align: center;
-}
 
 .mini {
-  padding: 0;
   .mini-header {
     font-size: 2rem;
     margin-bottom: .5rem;
@@ -534,6 +528,9 @@ input[type=submit] {
     margin-top: 0;
     margin-bottom: 1rem;
     font-size: 1.1rem;
+  }
+  &.tb-signup {
+    padding-bottom: 0 !important;
   }
 }
 
@@ -895,6 +892,10 @@ p.teacher {
   }
   .mini {
     margin-bottom: 1rem;
+    padding-bottom: 6rem;
+  }
+  .text {
+    padding: 0;
   }
 }
 
@@ -902,12 +903,6 @@ p.teacher {
   .hero {
     background-image: url("/images/wwm/newsletter-bg-3.jpg");
     color: $white;
-    .text {
-      padding: 0;
-    }
-  }
-  .mini {
-    padding-bottom: 5rem;
   }
 }
 
@@ -915,12 +910,6 @@ p.teacher {
   .hero {
     background-image: url("/images/the-becoming/newsletter-header.jpg");
     color: $white;
-    .text {
-      padding: 0;
-    }
-  }
-  .mini {
-    padding-bottom: 5rem;
   }
 }
 
