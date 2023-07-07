@@ -854,6 +854,8 @@ p.teacher {
     img {
       grid-area: coverimage;
       width: 100%;
+      filter: grayscale(1);
+
 
       @include breakpoint(medium) {
         width: 10rem;
