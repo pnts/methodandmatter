@@ -902,6 +902,9 @@ p.teacher {
   .hero {
     background-image: url("/images/wwm/newsletter-bg-3.jpg");
     color: $white;
+    .text {
+      padding: 0;
+    }
   }
 }
 
@@ -909,6 +912,12 @@ p.teacher {
   .hero {
     background-image: url("/images/the-becoming/newsletter-header.jpg");
     color: $white;
+    .text {
+      padding: 0;
+    }
+  }
+  .mini {
+    padding-bottom: 5rem;
   }
 }
 
