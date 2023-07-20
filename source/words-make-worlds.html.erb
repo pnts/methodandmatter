@@ -40,5 +40,14 @@ layout: content
 
     <p>Words Make Worlds is a bi-weekly newsletter that explores these two tracks and is dedicated to helping leaders learn the art, science, and craft of the Coaching Leadership Style.</p>
 
-  </div>
+<hr />
+
+    <% blog('words-make-worlds').articles.each do |article| %>
+
+        <div class="meta">
+          <h3>Issue <%= article.data.issue %>: <%= link_to article.data.title, article %> </h3>
+        </div>
+      </div>
+    <% end %>
+
 </section>

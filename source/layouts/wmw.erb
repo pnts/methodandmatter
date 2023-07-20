@@ -4,10 +4,24 @@
 <main>
   <section class="content">
     <div class="col-1 notes">
-    <h4>Words Make Worlds</h4>
-    <h2><%= current_page.data.title %></h2>
-        <%= yield %>
+      <h4>
+        <%= link_to('Words Make Worlds', 'words-make-worlds') %><br />
+        Issue <%= current_page.data.issue %> <br />
+        <%= current_page.data.date %>
+      </h4>
+
+      <h1><%= current_page.data.title %></h1>
+
+      <%= yield %>
+
+      <hr />
+
+      <div class="mini">
+        <h3>Sign-up to receive Words Make Worlds in your inbox!</h3>
+        <script async data-uid="a0abf015cf" src="https://methodandmatter.ck.page/a0abf015cf/index.js"></script>
+      </div>
     </div>
+
   </section>
 </main>
 <% end %>
