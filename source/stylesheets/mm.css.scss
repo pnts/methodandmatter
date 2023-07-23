@@ -1006,6 +1006,7 @@ p.teacher {
   font-size: 4rem;
   line-height: 4.5rem;
   margin-bottom: 5rem;
+  margin-top: 3rem;
 }
 
 .words-make-worlds .notes h2 {
@@ -1013,8 +1014,13 @@ p.teacher {
 }
 
 .words-make-worlds .notes h4 {
-  line-height: 1.8rem;
+  line-height: 1.6rem;
   color: $medium-gray;
+  background-image: url("/images/wwm/wmw-circle-transparent.png");
+  background-repeat: no-repeat;
+  background-size: 5rem 5rem;
+  padding-left: 6rem;
+  padding-top: .2rem;
 }
 
 .words-make-worlds .notes .mini {
