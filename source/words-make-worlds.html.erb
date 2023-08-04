@@ -42,12 +42,12 @@ layout: content
 
 <hr />
 
+  <div class="meta">
     <% blog('words-make-worlds').articles.each do |article| %>
 
-        <div class="meta">
           <h3>Issue <%= article.data.issue %>: <%= link_to article.data.title, article %> </h3>
-        </div>
-      </div>
+
     <% end %>
+  </div>
 
 </section>
