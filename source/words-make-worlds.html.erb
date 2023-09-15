@@ -16,14 +16,7 @@ layout: content
 
 <section class="content">
   <div class="col-1">
-    <h2>Articles</h2>
-    <ul>
-      <li><%= link_to('The Coaching Leadership Style: Developing Self and Developing Others', 'https://medium.com/wordsmakeworlds/the-coaching-leadership-style-developing-self-and-developing-others-2f3fd665ba6d') %></li>
-      <li><%= link_to('The Mindset, Qualities, and Posture of a Coach', 'https://medium.com/wordsmakeworlds/the-mindset-qualities-and-posture-of-a-coach-28ff82c21a21') %></li>
-      <li><%= link_to('12 Essential Books for Leaders Who Coach', 'https://medium.com/wordsmakeworlds/12-essential-books-for-leaders-who-coach-a7620fce706a') %></li>
-      <li><%= link_to('Creating Space for Others to Think', 'https://medium.com/wordsmakeworlds/creating-space-for-others-to-think-30a6e8b418e1') %></li>
-      <li><%= link_to('Podcast: Getting Started With the Coaching Leadership Style', 'https://chicagocamps.org/2023/08/02/andrea-mignolo-getting-started-in-the-coaching-leadership-style/') %></li>
-    </ul>
+
   </div>
 
   <div class="col-2">
@@ -43,14 +36,31 @@ layout: content
 
 <hr />
 
-  <div class="meta">
-    <h2>Issues</h2>
-    <br/>
-    <% blog('words-make-worlds').articles.each do |article| %>
+<h3>Previous Issues</h3>
+<p>
+<ul class="bullets">
+<% blog('words-make-worlds').articles.each do |article| %>
+      <li>Issue <%= article.data.issue %>: <%= link_to article.data.title, article %></li>
 
-          <h3>Issue <%= article.data.issue %>: <%= link_to article.data.title, article %> </h3>
+<% end %>
+</ul>
+</p>
 
-    <% end %>
-  </div>
+<%#= image_tag("confirmed.gif") %>
+
+<h3>Words Make Worlds on Medium</h3>
+<p>
+  <ul class="bullets">
+    <li><%= link_to('The Coaching Leadership Style: Developing Self and Developing Others', 'https://medium.com/wordsmakeworlds/the-coaching-leadership-style-developing-self-and-developing-others-2f3fd665ba6d') %></li>
+    <li><%= link_to('The Mindset, Qualities, and Posture of a Coach', 'https://medium.com/wordsmakeworlds/the-mindset-qualities-and-posture-of-a-coach-28ff82c21a21') %></li>
+    <li><%= link_to('12 Essential Books for Leaders Who Coach', 'https://medium.com/wordsmakeworlds/12-essential-books-for-leaders-who-coach-a7620fce706a') %></li>
+    <li><%= link_to('Creating Space for Others to Think', 'https://medium.com/wordsmakeworlds/creating-space-for-others-to-think-30a6e8b418e1') %></li>
+  </ul>
+</p>
+
+<h3>Podcasts</h3>
+  <ul class="bullets">
+    <li><%= link_to('Podcast: Getting Started With the Coaching Leadership Style', 'https://chicagocamps.org/2023/08/02/andrea-mignolo-getting-started-in-the-coaching-leadership-style/') %></li>
+  </ul>
 
 </section>

@@ -869,7 +869,7 @@ p.teacher {
 
 //////
 //////
-////// Words Make Worlds
+////// Words Make Worlds/The Becoming Overlap
 //////
 //////
 
@@ -1041,6 +1041,13 @@ p.teacher {
 
 .words-make-worlds .meta h3 {
   font-size: 1.2rem;
+}
+
+.welcome .wmw-logo {
+  margin-top: 2rem;
+  @include breakpoint(large) {
+    margin-left: 3rem;
+  }
 }
 
 
