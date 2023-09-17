@@ -1030,12 +1030,21 @@ p.teacher {
 
 .words-make-worlds .content ul {
   list-style-type: disc;
+}
 
+.words-make-worlds .content ul, ol {
   font-size: 1.2rem;
   line-height: 1.8rem;
   li {
     margin-bottom: 1rem;
     margin-left: 2rem;
+  }
+}
+
+.words-make-worlds .content ol {
+  margin-bottom: 4rem;
+  li {
+    margin-left: 0;
   }
 }
 
