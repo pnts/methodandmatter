@@ -560,6 +560,35 @@ input[type=submit] {
   padding-bottom: 2rem;
   h2 {
     margin-top: .5rem;
+    margin-bottom: 1rem;
+  }
+  p {
+    margin-top: 0;
+  }
+}
+
+.resources .hero {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.two-col-equal.essays {
+  @include breakpoint(large) {
+    grid-template-columns: 1fr 1.5fr;
+
+    img {
+      padding-right: 4rem;
+    }
+    p {
+      padding-right: 15rem;
+    }
+  }
+
+  h2 {
+    //font-family: "RomieRegular";
+    margin-top: 3rem;
+    font-size: 2.5rem;
+    line-height: 3.5rem;
   }
 }
 
