@@ -48,19 +48,18 @@
     <%= javascript_include_tag "mm" %>
   </head>
   <body class="<%= page_classes %>">
-
     <%#= partial "announcement" %>
     <header>
       <div class="inner">
         <div class="site-branding">
-          <%= link_to('method & matter', '/', :class => 'logo') %>
+          <a href="/" class="logo">method <span class="amp">&</span> matter </a>
+          <%#= link_to('method & matter', '/', :class => 'logo') %>
         </div>
         <nav>
           <ul>
             <li class="coaching"><%= link_to('coaching', 'coaching') %> </li>
             <li class="courses"><%= link_to('courses', 'leader-as-coach') %> </li>
             <li class="resources"><%= link_to('resources', 'resources') %> </li>
-            <li class="newsletter"><%= link_to('newsletters', 'newsletters') %> </li>
           </ul>
         </nav>
       </div>

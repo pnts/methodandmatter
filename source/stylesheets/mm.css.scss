@@ -4,6 +4,7 @@
 @import 'partials/scaffolding';
 @import 'partials/normalize';
 
+
 body {
   margin: 0;
   color: $main-text;
@@ -11,8 +12,6 @@ body {
 }
 
 a {
-  //color: $main-text;
-  //border-bottom: 1px solid $link-accent-color;
   text-decoration: underline;
   text-decoration-color: $link-accent-color;
   border: 0;
@@ -61,7 +60,6 @@ nav {
     float: right;
   }
   a {
-    //border-bottom: 1px solid $white;
     text-decoration-color: $white;
   }
   ul {
@@ -127,6 +125,10 @@ hr {
   text-decoration: none;
 }
 
+.amp {
+  font-family: "RomieMedium";
+}
+
 .coaching .coaching a,
 .about .about a,
 .resources .resources a,
@@ -153,14 +155,14 @@ hr {
     }
   }
   h1 {
-    font-weight: $font-weight-book;
     font-size: $font-size-x-large;
+    font-family: 'RomieRegular';
     line-height: 3.2rem;
     margin-bottom: 0;
     @include breakpoint(large) {
       font-size: $font-size-x-x-large;
       font-weight: $font-weight-light;
-      line-height: 3.6rem;
+      line-height: 4.6rem;
       max-width: 38rem;
 
     }
@@ -169,11 +171,27 @@ hr {
 
 .index .hero {
   @include breakpoint(large) {
-    background-image: image-url("images/juniper.jpg");
-    background-repeat: no-repeat;
-    background-position: bottom -2rem right 2rem;
-    background-size: 50%;
-    padding-bottom: 4rem;
+    h1 {
+      font-size: 6rem;
+      line-height: 8rem;
+      max-width: 30rem;
+    }
+  }
+}
+
+.index .col-2 h2 {
+  font-family: "RomieRegular";
+}
+
+.nav-paragraphs {
+  margin-top: 4rem;
+  max-width: 44rem;
+  .mini {
+    margin-top: 1rem;
+    margin-bottom: -1rem;
+  }
+  .bullets {
+    margin-top: 2rem;
   }
 }
 
@@ -185,10 +203,10 @@ hr {
   }
   .text {
     @include breakpoint(large) {
-      max-width: 55%;
+      max-width: 62%;
     }
     h1 {
-      max-width: 100%;
+      max-width: 90%;
     }
     h2 {
       margin-top: 2rem;
@@ -218,6 +236,8 @@ hr {
 .explainer {
   @include breakpoint(large) {
     margin-right: 4rem;
+    margin-bottom: 2rem;
+    max-width: 90%;
   }
 }
 
@@ -480,39 +500,31 @@ input[type=submit] {
 //////
 
 .newsletters {
+  padding-top: 2rem;
   h2 {
-    margin-top: 4rem;
+    //margin-top: 4rem;
     margin-bottom: 0;
     ~ p {
       margin-top: 1rem;
     }
   }
   .the-becoming, .words-make-worlds {
-    padding: 2rem;
-    color: white;
-    padding-top: 4rem;
-    padding-bottom: 7rem;
-    background-size: cover;
     margin-bottom: 1rem;
     border-radius: 8px;
     a {
-      color: $white;
+      //color: $white;
     }
   }
 
   .words-make-worlds {
-    background-image: url("/images/wwm/newsletter-bg-3.jpg");
     @include breakpoint(large) {
       margin-left: 2rem;
-      margin-right: 4rem;
     }
   }
   .the-becoming {
-    background-image: url("/images/the-becoming/newsletter-header.jpg");
     @include breakpoint(large) {
       margin-right: 2rem;
-      margin-left: 4rem;
-    }
+   }
   }
 }
 
@@ -1003,10 +1015,11 @@ p.teacher {
 }
 
 .words-make-worlds .notes h1 {
-  font-size: 4rem;
+  font-family: "RomieRegular";
+  font-size: 6rem;
   line-height: 4.5rem;
-  margin-bottom: 5rem;
-  margin-top: 3rem;
+  margin-bottom: 4rem;
+  margin-top: 7rem;
 }
 
 .words-make-worlds .notes h2 {
