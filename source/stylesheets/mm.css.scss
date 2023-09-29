@@ -135,7 +135,6 @@ hr {
 .research .research a,
 .leader-as-coach .courses a,
 .newsletters .newsletter a {
-  //border-bottom: 1px solid $pink;
   text-decoration-color: $link-accent-color;
 }
 
@@ -170,6 +169,10 @@ hr {
 }
 
 .index .hero {
+  h1 {
+    font-size: 4rem;
+    line-height: 6rem;
+  }
   @include breakpoint(large) {
     h1 {
       font-size: 6rem;
