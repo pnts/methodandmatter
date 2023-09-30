@@ -2,14 +2,18 @@
 
 <div class="masthead" style="background: <%= current_page.data.masthead %>; color: <%= current_page.data.masthead_text %>; ">
   <div class="masthead-content">
-    <h6>ESSAY</h6>
+    <div class="inner">
+    <h6>ESSAYS <span class="amp">&</span> GUIDES</h6>
     <h1><%= current_page.data.title %></h1>
     <h2><%= current_page.data.subtitle %></h2>
+    </div>
   </div>
 </div>
 
 <section class="essay">
   <article>
+    <div class="inner">
     <%= yield %>
+    </div>
   </article>
 <% end %>

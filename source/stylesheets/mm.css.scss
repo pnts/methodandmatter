@@ -508,10 +508,9 @@ input[type=submit] {
 //////
 //////
 
-.newsletters {
+/*.newsletters {
   padding-top: 2rem;
   h2 {
-    //margin-top: 4rem;
     margin-bottom: 0;
     ~ p {
       margin-top: 1rem;
@@ -520,9 +519,6 @@ input[type=submit] {
   .the-becoming, .words-make-worlds {
     margin-bottom: 1rem;
     border-radius: 8px;
-    a {
-      //color: $white;
-    }
   }
 
   .words-make-worlds {
@@ -535,7 +531,7 @@ input[type=submit] {
       margin-right: 2rem;
    }
   }
-}
+} */
 
 
 .mini {
@@ -818,8 +814,15 @@ p.teacher {
   strong {
     font-weight: $font-weight-book
   }
+  h3 {
+    margin-bottom: 0;
+    ~ p {
+      margin-top: 1rem;
+    }
+  }
   h4 {
     font-size: 1.2rem;
+    margin-bottom: 2rem;
   }
   h5 {
     font-size: 1rem;
@@ -828,6 +831,8 @@ p.teacher {
   }
   h1 {
     margin-bottom: 2rem;
+    font-size: 4rem;
+    line-height: 5rem;
   }
   .mini {
     @include breakpoint(large) {
@@ -844,7 +849,7 @@ p.teacher {
   ul, ol{
     padding-left: 2rem;
     margin-left: 1rem;
-    margin-top: -1rem;
+    //margin-top: -1rem;
     line-height: 1.8rem;
     li {
       margin-bottom: 1rem;
@@ -1130,6 +1135,7 @@ p.teacher {
 .essays {
     h1 {
       padding-bottom: 1rem;
+      font-family: "RomieMedium";
     }
     h2 {
       line-height: 2rem;
@@ -1137,13 +1143,19 @@ p.teacher {
 }
 
 article, .masthead-content {
-  margin: 0 auto;
+  //margin: 0 auto;
   padding: 1rem;
-  max-width: 45rem;
-  ol, ul {
+  max-width: 56rem;
+  .inner {
+    // this is so janky. fix this at some point please. isn't this a global pattern? why am i jumping through hoops?
+    padding-left: 1rem;
+    padding-right: 1rem;
     @include breakpoint(large) {
-      padding-right: 3rem;
+      padding-left: 4rem;
     }
+  }
+  ol, ul {
+    padding-left: 0rem;
   }
 }
 
@@ -1183,10 +1195,12 @@ article {
     font-weight: 600;
   }
   ul {
+    list-style-type: disc;
+  }
+  ul, ol {
     font-size: 1.1rem;
     margin-top: -.5rem;
     margin-bottom: 3rem;
-    list-style-type: disc;
     margin-left: 2rem;
     li {
       margin-bottom: 1rem;
@@ -1196,6 +1210,10 @@ article {
   .footnotes ol {
     margin-left: 0;
     padding: 0;
+    p {
+      font-size: 1.1rem;
+      line-height: 1.7rem;
+    }
   }
 }
 

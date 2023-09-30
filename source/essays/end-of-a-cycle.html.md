@@ -6,16 +6,12 @@ description: At the End of a Cycle
 label: Essays
 image: "og/mm-og-1.jpg"
 layout: essays
-masthead: "#222"
+masthead: "url(/images/essays/moon-cycle.jpg) no-repeat"
 masthead_text: "#FFF"
 ---
 
 
 We live our lives within the rhythms and cycles of the physical world. Our calendars commemorate this by marking each full rotation of the earth as a day, the total cycle of the moon around the earth as a month, and the complete trip of the earth around the sun as a year. Though modern life and the Time Grid[^1] suggest otherwise, our animal bodies are intimately tied to these rhythms through circadian cycles that let us know when to rest and when to move.
-
-![moon cycle photo](essays/moon-cycle.jpg)
-Photo by [Mason Kimbarovsky](https://unsplash.com/photos/-GlDIYT3qSc)
-{: .caption}
 
 The end of the year, the equinox, the solistice, the end of a quarter - these can all be an auspicious and meaningful times to pause, reflect, and celebrate. To deepen what is congruent and course correct where we feel out of alignment. “At the End of the Cycle” is an exercise in service of you and your journey, and it can be completed whenever it is you feel called to mark some kind of transition, yearly[^2] or otherwise.
 
@@ -37,6 +33,10 @@ A few tips: I recommend not doing this all in one sitting, but if that’s your 
 
 ## An Interlude: The Letter
 If you did this exercise from a previous cycle, now is the time to read the letter you wrote to your future self. If you have no idea what this means, don’t worry about it! Move on to the next section.
+
+![moon cycle photo](essays/moon-cycle.jpg)
+Photo by [Mason Kimbarovsky](https://unsplash.com/photos/-GlDIYT3qSc)
+{: .caption}
 
 ---
 

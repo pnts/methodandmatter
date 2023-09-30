@@ -88,21 +88,13 @@ As a destination I have not reached the Work At Nasa Island. But this image has 
 If this resonates with you, you might be wondering how you can you make reality your BFF. I’ve outlined some steps you can take to engage with this work below. Unlike productivity frameworks, this is not something you can approach intellectually. You must work with change through direct experience and then integrating what you learn into your body and attitude.
 
 1. Wherever you happen to be right now take a moment pause, settle in, and take a few breaths.
-
 2. Now bring to mind a dilemma, a challenge, or some point of tension in your life. Describe the dilemma (either to yourself or to a trusted partner). Don’t worry about how you might resolve it, just explore the dilemma itself.
-
 3. As you share, notice what comes into your awareness. Notice what happens in your body as well as any feelings and thoughts that are present. Where do you notice tension, constriction, holding, frustration?
-
 4. Notice how you organize yourself in relationship to the challenge you face in your life. What is it like for you to be in that? In the the tension of the dilemma?
-
 5. Begin to explore what is good about how you are holding that tension. What is working in that tension? What can be appreciated about how that is serving you right now?
-
 6. For example, if you begin to notice that procrastination is playing a role in your dilemma, see if you can let go of any judgements and appreciate how procrastination is working for you . Maybe procrastination creates space for you to focus on multiple things at once. Maybe it keeps you safe by holding you back from completing a project and putting yourself in the position of potentially hearing negative feedback. That’s a pretty important role that procrastination is playing! See if you can really appreciate that.
-
 7. Continue to cultivate a sense of appreciation for what you are in this moment. Every single part of you has an intelligence that is working for you in some way, shape, or form. You wouldn’t be doing what you are doing if it wasn’t intended to support you in some way.
-
 8. Watch what happens when you do this, when you really sit with and accept and appreciate all of you. Allow the appreciation to melt the structures of judgement that have held you in place for so long. You might also notice that more energy begins to become available. This energy might want to be mobilized in a certain way. If it does, roll with it!
-
 9. Keep noticing what is. Herb Stevenson writes that if you can fully stay with your experience, change is inevitable. As much as possible allow your resistance to soften and be with reality as it is in the moment.
 
 Ultimately what you are doing in this process is increasing your capacity for awareness, acceptance, and appreciation which allows you to settle into to exactly what you are, without leaving anything out. Your starting place is always in accepting what is. In what is present in doing, thinking, feeling, wanting. And as you build this capacity you will begin to understand how you do what you do, both the benefits and the cost. And what you will find, as you engage in this process, is that you have access to a wider range of possibilities in how you respond and react to life.
