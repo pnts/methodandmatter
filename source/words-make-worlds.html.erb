@@ -16,13 +16,20 @@ layout: content
 
 <section class="content">
   <div class="col-1">
-
+    <h2>Elsewhere</h2>
+    <ul>
+      <li><%= link_to('Words Make Worlds on Medium', "https://medium.com/wordsmakeworlds") %></li>
+      <li><%= link_to('Leader as Coach Library - Books', "https://airtable.com/appoaIkTducQK5fHH/shrRXr1zvaPl1XANL/tblfZ7HUjXLTJaXGI") %></li>
+      <li><%= link_to('Leader as Coach Library - Articles', "https://airtable.com/appoaIkTducQK5fHH/shrRKnQFXVG0LbbTJ/tblfZ7HUjXLTJaXGI?backgroundColor=red") %></li>
+      <li><%= link_to('Podcast: Getting Started with the Coaching Leadership Style', "https://chicagocamps.org/2023/08/02/andrea-mignolo-getting-started-in-the-coaching-leadership-style/") %></li>
+    </ul>
   </div>
 
   <div class="col-2">
-    <blockquote><p>“A coach is someone who helps another person reach higher effectiveness by creating a dialogue that leads to awareness and action.” - Anne Loehr & Brian Emerson</p></blockquote>
 
-    <p>The Coaching Leadership Style (CLS) is an orientation to leadership that is built on a solid foundation of coaching skills including optimism, self-efficacy, positive emotions, and learning. Leaders who adopt the CLS exponentially increase their ability to  support others to develop their potential and take action that creates results.</p>
+    <h2>The Coaching Leadership Style (CLS) is an orientation to leadership that is built on a solid foundation of coaching skills including optimism, self-efficacy, positive emotions, and learning. Leaders who adopt the CLS exponentially increase their ability to  support others to develop their potential and take action that creates results.</h2>
+
+    <blockquote><p>“A coach is someone who helps another person reach higher effectiveness by creating a dialogue that leads to awareness and action.” - Anne Loehr & Brian Emerson</p></blockquote>
 
     <p>People who coach are driven by curiosity - about themselves, about others, and about the challenge or opportunity in front of them. It would not be wrong to say that coaching conversations are essentially learning conversations. When coaching skills are successfully integrated into a leadership practice, curiosity and learning become the default way of building relationships, making decisions, increasing awareness, and taking action.</p>
 
@@ -33,34 +40,16 @@ layout: content
     <p>The CLS consists of two tracks - self development and the development of others. In order for a leader to be effective as a coach they must also engage in their own developmental work bringing self-awareness, reflection, and new actions to their own way of being in the world and relating with others. </p>
 
     <p>Words Make Worlds is a bi-weekly newsletter that explores these two tracks and is dedicated to helping leaders learn the art, science, and craft of the Coaching Leadership Style.</p>
+</section>
 
 <hr />
 
-<h3>Previous Issues</h3>
-<p>
-<ul class="bullets">
-<% blog('words-make-worlds').articles.each do |article| %>
-      <li>Issue <%= article.data.issue %>: <%= link_to article.data.title, article %></li>
+<section>
+  <div class="three-col-grid">
 
-<% end %>
-</ul>
-</p>
+  <% blog('words-make-worlds').articles.each do |article| %>
+    <%= link_to image_tag(article.data.image), article %>
+  <% end %>
 
-<%#= image_tag("confirmed.gif") %>
-
-<h3>Words Make Worlds on Medium</h3>
-<p>
-  <ul class="bullets">
-    <li><%= link_to('The Coaching Leadership Style: Developing Self and Developing Others', 'https://medium.com/wordsmakeworlds/the-coaching-leadership-style-developing-self-and-developing-others-2f3fd665ba6d') %></li>
-    <li><%= link_to('The Mindset, Qualities, and Posture of a Coach', 'https://medium.com/wordsmakeworlds/the-mindset-qualities-and-posture-of-a-coach-28ff82c21a21') %></li>
-    <li><%= link_to('12 Essential Books for Leaders Who Coach', 'https://medium.com/wordsmakeworlds/12-essential-books-for-leaders-who-coach-a7620fce706a') %></li>
-    <li><%= link_to('Creating Space for Others to Think', 'https://medium.com/wordsmakeworlds/creating-space-for-others-to-think-30a6e8b418e1') %></li>
-  </ul>
-</p>
-
-<h3>Podcasts</h3>
-  <ul class="bullets">
-    <li><%= link_to('Podcast: Getting Started With the Coaching Leadership Style', 'https://chicagocamps.org/2023/08/02/andrea-mignolo-getting-started-in-the-coaching-leadership-style/') %></li>
-  </ul>
-
+  </div>
 </section>

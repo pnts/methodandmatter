@@ -464,6 +464,24 @@ input[type=submit] {
   }
 }
 
+.three-col-grid {
+  display: grid;
+  grid-template-areas:
+    "one"
+    "two"
+    "three";
+
+  @include breakpoint(large) {
+    padding: 0;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+      "one two three";
+    row-gap: 1rem;
+    column-gap: 1rem;
+  }
+}
+
 
 //////
 //////
