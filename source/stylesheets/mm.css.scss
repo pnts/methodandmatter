@@ -252,6 +252,7 @@ hr {
 
 button {
   text-transform: uppercase;
+  font-family: $font-heading;
 }
 
 footer {
@@ -1119,6 +1120,10 @@ p.teacher {
   margin-bottom: 4rem;
   li {
     margin-left: 0;
+    ol {
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    }
   }
 }
 
