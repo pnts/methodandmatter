@@ -31,8 +31,7 @@ a {
 }
 
 header,
-main,
-footer {
+main {
   max-width: 1600px;
   margin: 0 auto;
   padding: 0 2rem;
@@ -206,16 +205,16 @@ hr {
 
 .full-width {
   @include breakpoint(large) {
-    //max-width: 55%;
+    max-width: 60rem;
     //margin: 0 auto;
     text-align: left;
   }
   .text {
     @include breakpoint(large) {
-      max-width: 62%;
+      //max-width: 55rem;
     }
     h1 {
-      max-width: 90%;
+      max-width: 50rem;
     }
     h2 {
       margin-top: 2rem;
@@ -223,7 +222,7 @@ hr {
     p {
       margin-bottom: .5rem;
       @include breakpoint(large) {
-        max-width: 100%;
+        max-width: 55rem;
         margin-bottom: .5rem;
       }
     em {
@@ -256,25 +255,42 @@ button {
 }
 
 footer {
-  padding-bottom: 2rem;
   position: relative;
   margin-top: 4rem;
+  background: #222;
   .inner {
-    background: #222;
+    padding-top: 1rem;
     color: $light-gray;
+    max-width: 1600px;
+    margin: auto;
+    @include breakpoint(large) {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
     a {
       color: $white;
       text-decoration: underline;
       text-decoration-color: $light-gray;
     }
   }
+  .footer-menu {
+    @include breakpoint(large) {
+      padding-left: 3rem;
+    }
+  }
   .collection {
     margin-left: 2rem;
     margin-top: 3rem;
+    ul {
+      margin-bottom: 3rem;
+    }
     @include breakpoint(large) {
       float: left;
       margin-right: 4rem;
       margin-left: 0;
+    }
+    &:last-child {
+      margin-right: 0;
     }
     h3 {
       font-size: 1rem;
@@ -284,32 +300,9 @@ footer {
       margin-bottom: 1rem;
     }
   }
-  .socials {
-    margin-bottom: 1rem;
-    clear: both;
-    padding: 3rem 0;
-    @include breakpoint(medium) {
-      float: right;
-      clear: none;
-      padding: 0;
-    }
-    li {
-      display: block;
-      text-align: right;
-      margin: 1rem 0;
-      @include breakpoint(medium) {
-        display: inline-block;
-        margin: 0 1rem;
-      }
-      &:last-child {
-        margin-right: 0;
-      }
-    }
-  }
-
 }
 
-header, footer {
+header {
   background: #FCFCFC;
 }
 
@@ -396,7 +389,6 @@ input[type=submit] {
 
 .col-1 {
   grid-area: header;
-  max-width: 100%;
   h1, h2 {
     line-height: 2.2rem;
   }
@@ -404,7 +396,7 @@ input[type=submit] {
     margin-top: 1rem;
   }
   @include breakpoint(large) {
-    max-width: 60%;
+    max-width: 30rem;
     &.kitchen-party, &.notes {
       max-width: 100%;
     }
@@ -589,25 +581,48 @@ input[type=submit] {
 }
 
 .resources .hero {
+  padding-top: 2rem;
+  @include breakpoint(large) {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+  }
+}
+
+.resources .two-col-equal.videos {
+  padding-bottom: 3rem;
   padding-top: 1rem;
-  padding-bottom: 2rem;
+  .box-1 {
+    padding-bottom: 4rem;
+    @include breakpoint(large) {
+      padding-right: 2rem;
+      padding-bottom: 0;
+    }
+  }
+  .box-2 {
+    iframe {
+      height: 24.2rem;
+      margin-top: 1.2rem;
+      @include breakpoint(large) {
+        //height: 100%;
+      }
+    }
+  }
 }
 
 .two-col-equal.essays {
   @include breakpoint(large) {
-    grid-template-columns: 1fr 1.5fr;
-
+    grid-template-columns: 1fr 1fr;
     img {
       padding-right: 4rem;
     }
     p {
-      padding-right: 15rem;
+      margin-bottom: 1rem;
     }
   }
 
   h2 {
-    //font-family: "RomieRegular";
-    margin-top: 3rem;
+    font-family: "RomieRegular";
+    //margin-top: 3rem;
     font-size: 2.5rem;
     line-height: 3.5rem;
   }
@@ -716,6 +731,7 @@ ol {
   padding: 2rem;
   border-top: 1px solid #333;
   margin-top: 3rem;
+  clear: both;
 }
 
 .colophon p {
@@ -995,7 +1011,7 @@ p.teacher {
 //////
 //////
 
-.notes, .notes footer {
+.notes, .notes header {
   background: #EFF2F4;
 }
 
@@ -1044,7 +1060,6 @@ p.teacher {
 //////
 
 .words-make-worlds,
-.words-make-worlds footer,
 .words-make-worlds .notes  {
   background: #FCFCFC;
 }
@@ -1149,6 +1164,13 @@ p.teacher {
 
 .masthead, .essay {
   width: 100%;
+  .inner {
+    max-width: 1600px;
+    margin: 0 auto;
+    @include breakpoint(large) {
+      padding-left: 5rem;
+    }
+  }
 }
 
 .essays .masthead {
@@ -1156,38 +1178,39 @@ p.teacher {
 }
 
 .essays {
-    h1 {
-      padding-bottom: 1rem;
-      font-family: "RomieMedium";
-    }
-    h2 {
-      line-height: 2rem;
-    }
+  h1 {
+    padding-bottom: 1rem;
+    font-family: "RomieMedium";
+    max-width: 70rem;
+    font-size: 6rem;
+    line-height: 7.4rem;
+  }
+  h2 {
+    line-height: 2rem;
+  }
 }
 
-article, .masthead-content {
-  //margin: 0 auto;
+.masthead-content {
   padding: 1rem;
-  max-width: 56rem;
-  .inner {
+}
+  //max-width: 56rem;
+  /*.inner {
     // this is so janky. fix this at some point please. isn't this a global pattern? why am i jumping through hoops?
     padding-left: 1rem;
     padding-right: 1rem;
     @include breakpoint(large) {
       padding-left: 4rem;
     }
+  }*/
+
+article {
+  margin-top: 4rem;
+  max-width: 50rem;
+  hr {
+    margin: 4.5rem 0;
   }
   ol, ul {
     padding-left: 0rem;
-  }
-}
-
-article {
-  @include breakpoint(large) {
-    padding-right: 5rem;
-  }
-  hr {
-    margin: 4.5rem 0;
   }
 }
 
@@ -1197,6 +1220,7 @@ article {
   }
   h2 {
     font-size: 1.5rem;
+    margin-bottom: 3rem;
   }
   h6 {
     margin-top: 13rem;
