@@ -1167,8 +1167,10 @@ p.teacher {
   .inner {
     max-width: 1600px;
     margin: 0 auto;
+    padding: 1rem 2rem;
     @include breakpoint(large) {
       padding-left: 5rem;
+      padding-right: $main-padding;
     }
   }
 }
@@ -1189,19 +1191,6 @@ p.teacher {
     line-height: 2rem;
   }
 }
-
-.masthead-content {
-  padding: 1rem;
-}
-  //max-width: 56rem;
-  /*.inner {
-    // this is so janky. fix this at some point please. isn't this a global pattern? why am i jumping through hoops?
-    padding-left: 1rem;
-    padding-right: 1rem;
-    @include breakpoint(large) {
-      padding-left: 4rem;
-    }
-  }*/
 
 article {
   margin-top: 4rem;
