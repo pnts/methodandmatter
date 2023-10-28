@@ -546,6 +546,10 @@ input[type=submit] {
 
 
 .mini {
+  h3 {
+    font-family: "RomieRegular";
+    line-height: 2.4rem;
+  }
   .mini-header {
     font-size: 2rem;
     margin-bottom: .5rem;
@@ -1104,10 +1108,16 @@ p.teacher {
 
 .words-make-worlds .notes h1 {
   font-family: "RomieRegular";
-  font-size: 6rem;
-  line-height: 7.5rem;
-  margin-bottom: 4rem;
-  margin-top: 7rem;
+  margin-bottom: 2rem;
+  margin-top: 4rem;
+  font-size: 4rem;
+  line-height: 5.5rem;
+  @include breakpoint(large) {
+    font-size: 6rem;
+    line-height: 7.5rem;
+    margin-top: 7rem;
+    margin-bottom: 4rem;
+  }
 }
 
 .words-make-worlds .notes h2 {
