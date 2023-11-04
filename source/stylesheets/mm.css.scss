@@ -55,13 +55,13 @@ nav {
   text-transform: uppercase;
   font-size: .9rem;
   padding-bottom: 1.2rem;
-  @include breakpoint(large) {
+  //@include breakpoint(large) {
     float: right;
-  }
+  //}
   a {
     text-decoration-color: $white;
   }
-  ul {
+  /*ul {
     display: block;
     width: 100%;
     padding-top: 1.5rem;
@@ -69,8 +69,8 @@ nav {
   }
   li {
     padding: .3rem 0;
-  }
-  @include breakpoint(large) {
+  }*/
+  //@include breakpoint(large) {
     ul {
       display: block;
       width: 100%;
@@ -88,7 +88,7 @@ nav {
         padding-left: 0;
       }
     }
-  }
+  //}
 }
 
 hr {
@@ -183,8 +183,15 @@ hr {
 
 .coaching .hero {
   h1 {
-    line-height: 7.4rem;
-    margin-bottom: 4rem;
+    line-height: 5rem;
+    margin-bottom: 3rem;
+  }
+
+  @include breakpoint(large) {
+    h1 {
+      line-height: 7.4rem;
+      margin-bottom: 4rem;
+    }
   }
   h2 {
     margin-bottom: 3rem;
