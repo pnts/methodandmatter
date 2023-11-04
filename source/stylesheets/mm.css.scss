@@ -920,11 +920,12 @@ p.teacher {
     margin-top: 3rem;
     margin-bottom: 3rem;
   }
-  ul, ol{
+  ul, ol {
     padding-left: 2rem;
     margin-left: 1rem;
     //margin-top: -1rem;
     line-height: 1.8rem;
+    margin-top: -1.5rem;
     li {
       margin-bottom: 1rem;
       font-size: 1.2rem;
@@ -936,7 +937,9 @@ p.teacher {
   ol {
     list-style-type: numbers;
   }
-
+  blockquote {
+    margin-top: 2rem;
+  }
 }
 
 .col-1.kitchen-party {
@@ -1117,11 +1120,17 @@ p.teacher {
   border-bottom: none;
 }
 
-.words-make-worlds blockquote {
+.words-make-worlds .notes blockquote {
   color: #999;
   font-weight: $font-weight-book;
   &::before {
     color: #EEE;
+  }
+}
+
+.words-make-worlds_index {
+  h2 {
+    margin-bottom: 3rem;
   }
 }
 
