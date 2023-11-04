@@ -2,10 +2,10 @@
   <div class="inner">
     <div class="footer-menu">
 
+
         <div class="collection">
           <h3>METHOD <span class="amp">&</span> MATTER</h3>
           <ul>
-            <li><%= link_to('Executive Coaching', 'coaching') %></li>
             <li><%= link_to('Leader as Coach', 'leader-as-coach') %> </li>
             <li><%= link_to('Resources', 'resources') %></li>
             <li><%= link_to('Research', 'research') %></li>
@@ -14,12 +14,12 @@
         </div>
 
         <div class="collection">
-          <h3>Connect</h3>
+          <h3>Coaching</h3>
           <ul>
-            <li><%= link_to('Mastodon', 'https://indieweb.social/@pnts', :rel => 'me') %></li>
-            <li><%= link_to('Medium', 'https://medium.com/method-matter', :rel => 'me') %> </li>
-            <li><%= link_to('LinkedIn', 'https://www.linkedin.com/in/mignolo/', :rel => 'me') %> </li>
-            <li><%= link_to('RSS', 'feed.xml') %></li>
+            <li><%= link_to('Executive Coaching', 'individual-coaching') %></li>
+            <li><%= link_to('Team Coaching', 'team-coaching') %> </li>
+            <li><%= link_to('Group Coaching', 'group-coaching') %></li>
+            <li><%= link_to('Leadership Programs', 'leadership-programs') %></li>
           </ul>
         </div>
 
@@ -31,10 +31,21 @@
           </ul>
         </div>
 
+      <!--  <div class="collection">
+          <h3>Connect</h3>
+          <ul>
+            <li><%= link_to('Mastodon', 'https://indieweb.social/@pnts', :rel => 'me') %></li>
+            <li><%= link_to('Medium', 'https://medium.com/method-matter', :rel => 'me') %> </li>
+            <li><%= link_to('LinkedIn', 'https://www.linkedin.com/in/mignolo/', :rel => 'me') %> </li>
+            <li><%= link_to('RSS', 'feed.xml') %></li>
+          </ul>
+        </div> -->
+
 
     </div>
 
     <div class="colophon">
+      <p class="socials"><%= link_to('Mastodon', 'https://indieweb.social/@pnts', :rel => 'me') %> / <%= link_to('Medium', 'https://medium.com/method-matter', :rel => 'me') %> / <%= link_to('LinkedIn', 'https://www.linkedin.com/in/mignolo/', :rel => 'me') %> / <%= link_to('RSS', 'feed.xml') %></p>
       <p class="made">Made with Middleman, Romie, Ideal Sans, Chronicle, and 🤍.</p>
       <p class="hosting">Hosted on Github. This site does not track you.</p>
       <p class="copyright">&copy; 2017 - 2023, Andrea Mignolo</p>

@@ -167,7 +167,7 @@ hr {
   }
 }
 
-.index .hero {
+.index .hero, .coaching .hero {
   h1 {
     font-size: 4rem;
     line-height: 6rem;
@@ -181,12 +181,22 @@ hr {
   }
 }
 
+.coaching .hero {
+  h1 {
+    line-height: 7.4rem;
+    margin-bottom: 4rem;
+  }
+  h2 {
+    margin-bottom: 3rem;
+  }
+}
+
 .index .col-2 h2 {
   font-family: "RomieRegular";
 }
 
 .nav-paragraphs {
-  margin-top: 2rem;
+  margin-top: 4rem;
   max-width: 44rem;
   .mini {
     margin-top: 1rem;
@@ -200,6 +210,11 @@ hr {
     height: 30px;
     margin-left: 0;
     margin-bottom: -.5rem;
+  }
+  h3 {
+    margin-top: 3rem;
+    line-height: 2.4rem;
+    margin-bottom: 3rem;
   }
 }
 
@@ -498,7 +513,6 @@ input[type=submit] {
 }
 
 .circle {
-  margin-top: 3rem;
   border-radius: 50%;
   @include breakpoint(medium) {
     margin-left: 5rem;
@@ -763,6 +777,10 @@ ol {
   }
 }
 
+.socials {
+  padding-bottom: 1.5rem;
+}
+
 .made {
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -801,6 +819,7 @@ ol {
 
 blockquote {
   margin: 0;
+  margin-bottom: 2rem;
   font-size: 1.6rem;
   font-style: italic;
   color: $medium-gray;
@@ -809,6 +828,8 @@ blockquote {
   p {
     position: relative;
     z-index: 5;
+    margin-top: 1rem;
+    margin-bottom: 0;
   }
   &::before {
     content: "\201C";
@@ -818,6 +839,9 @@ blockquote {
     left: -2rem;
     color: $lightest-gray;
     z-index: 1;
+  }
+  ~ h3 {
+    margin-top: 3rem !important;
   }
 }
 
