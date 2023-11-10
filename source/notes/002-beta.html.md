@@ -5,7 +5,7 @@ tags:
 description: "002 - Recursive Cosmologies"
 label: Notes to Self
 keywords: "research, lab notes, leadership, being human, technology, design, cosmology, worlding"
-image: "og/mm-og-1.jpg"
+image: "og/og-symbol.png"
 published: false
 ---
 
