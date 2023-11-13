@@ -265,6 +265,7 @@ button {
   font-family: $font-heading;
 }
 
+
 footer {
   position: relative;
   margin-top: 4rem;
@@ -343,6 +344,10 @@ header {
   line-height: 1.6rem;
   margin-bottom: 0;
   margin-top: 2rem;
+}
+
+form {
+  margin: 0 auto;
 }
 
 input {
@@ -574,6 +579,22 @@ input[type=submit] {
   &.tb-signup {
     padding-bottom: 0 !important;
   }
+  //////
+  //////
+  ////// Convertkit Form Overrides
+  //////
+  //////
+
+  form {
+    max-width: 750px !important;
+    .formkit-field {
+      padding-left: 0 !important;
+    }
+    > div {
+      padding: 0 !important;
+    }
+  }
+
 }
 
 
