@@ -1,10 +1,10 @@
 ---
-title: At the End of a Cycle
-subtitle: Guided reflections across a transitional threshold.
+title: At the End of a Cycle - Guided Reflections Across Transitional Thresholds
+subtitle: Guided reflections across transitional thresholds.
 date: December 13, 2022
 description: At the End of a Cycle
 label: Essays
-image: "og/mm-og-1.jpg"
+image: "images/essays/moon-cycle.jpg"
 layout: essays
 masthead: "url(/images/essays/moon-cycle.jpg) no-repeat"
 masthead_text: "#FFF"
