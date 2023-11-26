@@ -786,29 +786,13 @@ ol {
   text-align: right;
   color: $light-gray;
   line-height: 1.5rem;
-  //clear: both;
-  //margin-left: 6rem;
   @include breakpoint(large) {
     margin: 0;
-
   }
 }
 
 .socials {
   padding-bottom: 1.5rem;
-}
-
-.made {
-  margin-top: 1rem;
-  margin-bottom: 2rem;
-  @include breakpoint(large) {
-    margin: 0;
-  }
-}
-
-.copyright {
-  margin-bottom: 0;
-  margin-top: 1rem;
 }
 
 .nickname {
