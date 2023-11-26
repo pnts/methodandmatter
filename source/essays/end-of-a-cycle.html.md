@@ -2,7 +2,7 @@
 title: At the End of a Cycle - Guided Reflections Across Transitional Thresholds
 subtitle: Guided reflections across transitional thresholds.
 date: December 13, 2022
-description: At the End of a Cycle
+description: A guide to reflecting on what came before and preparing for what is to come.
 label: Essays
 image: "images/essays/moon-cycle.jpg"
 layout: essays
