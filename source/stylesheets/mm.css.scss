@@ -1268,6 +1268,26 @@ p.teacher {
   h2 {
     line-height: 2rem;
   }
+  .download {
+    background: $white;
+    padding: 1rem;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    position: relative;
+    margin-bottom: -1rem;
+    @include breakpoint(large) {
+      display: inline-block;
+      margin-bottom: -2rem;
+    }
+    img {
+      width: 1rem;
+      position: absolute;
+    }
+    a {
+      margin-left: 1.5rem;
+      //color: $white;
+    }
+  }
 }
 
 article {

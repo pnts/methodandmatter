@@ -8,8 +8,8 @@ image: "og/mm-og-1.jpg"
 layout: essays
 masthead: "url(/images/essays/moon-cycle.jpg) no-repeat"
 masthead_text: "#FFF"
+download: "/essays/guides/end-of-a-cycle.pdf"
 ---
-
 
 We live our lives within the rhythms and cycles of the physical world. Our calendars commemorate this by marking each full rotation of the earth as a day, the total cycle of the moon around the earth as a month, and the complete trip of the earth around the sun as a year. Though modern life and the Time Grid[^1] suggest otherwise, our animal bodies are intimately tied to these rhythms through circadian cycles that let us know when to rest and when to move.
 
