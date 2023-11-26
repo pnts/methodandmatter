@@ -1050,7 +1050,7 @@ p.teacher {
 
 .words-make-worlds {
   .hero {
-    background-image: url("/images/wwm/newsletter-bg-4.jpg");
+    background-image: url("/images/wmw/newsletter-bg-4.jpg");
     color: $white;
     margin-bottom: 2rem;
   }
@@ -1131,6 +1131,9 @@ p.teacher {
 
 .words-make-worlds .notes {
   color: #222;
+  img {
+    border: 1px solid #EEE;
+  }
 }
 
 .words-make-worlds .notes a {
@@ -1177,7 +1180,7 @@ p.teacher {
 .words-make-worlds .notes h4 {
   line-height: 1.6rem;
   color: $medium-gray;
-  background-image: url("/images/wwm/wmw-circle-transparent.png");
+  background-image: url("/images/wmw/wmw-circle-transparent.png");
   background-repeat: no-repeat;
   background-size: 5rem 5rem;
   padding-left: 6rem;
