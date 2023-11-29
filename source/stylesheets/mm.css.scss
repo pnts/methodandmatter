@@ -1276,7 +1276,7 @@ p.teacher {
 
 article {
   margin-top: 4rem;
-  max-width: 50rem;
+  max-width: 45rem;
   hr {
     margin: 4.5rem 0;
   }
@@ -1303,6 +1303,11 @@ article {
 }
 
 article {
+  margin-top: 4rem;
+  max-width: 42rem;
+  hr {
+    margin: 4.5rem 0;
+  }
   p, ul, ol {
     //font-size: 1.3rem;
     //line-height: 1.9rem;
@@ -1320,6 +1325,7 @@ article {
     margin-top: -.5rem;
     margin-bottom: 3rem;
     margin-left: 2rem;
+    padding-left: 0rem;
     li {
       margin-bottom: 1rem;
       line-height: 1.8rem;
