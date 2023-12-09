@@ -1071,6 +1071,9 @@ p.teacher {
 .notes .notes {
   font-family: $font-heading-serif;
   font-weight: $font-weight-light;
+  ol {
+    padding-left: .5rem;
+  }
 }
 
 .notes blockquote {
