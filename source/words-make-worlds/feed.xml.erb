@@ -25,10 +25,11 @@ layout: false
 	<% blog('words-make-worlds').articles.each do |article| %>
 			<item>
 				<pubDate><%= article.date.strftime('%B %Y') %></pubDate>
-				<title><%= article.data.description %></title>
+				<title><%= article.data.title %></title>
 				<link><%= article.url %></link>
+        <summary><%= article.data.description %></summary>
 
-				<content><%= article.body %></content>
+				<content:encoded><%= article.body %></content:encoded>
 			</item>
 	<% end %>
 
