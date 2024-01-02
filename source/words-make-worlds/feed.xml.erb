@@ -23,14 +23,22 @@ layout: false
 
 
 	<% blog('words-make-worlds').articles.each do |article| %>
-			<item>
-				<pubDate><%= article.date.strftime('%B %Y') %></pubDate>
-				<title><%= article.data.title %></title>
-				<link><%= article.url %></link>
-        <description><%= article.data.description %></description>
 
-				<content:encoded><%= article.body %></content:encoded>
-			</item>
+      <item>
+        <title><%= article.data.title %></title>
+        <description><%= article.data.description %></description>
+        <link><%= "https://methodandmatter.com/words-make-worlds/" + article.url %></link>
+        <guid><%= "https://methodandmatter.com/words-make-worls/" + article.url %></guid>
+        <pubDate><%= article.date.utc.rfc822 %></pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <%= article.body %>
+          ]]>
+        </description>
+      </item>
 	<% end %>
 
 </rss>
