@@ -27,8 +27,6 @@
       <link>https://methodandmatter.com</link>
     </image>
 
-  </channel>
-
 
 
       <item>
@@ -893,5 +891,7 @@ Process Framework for Enabling Action, via Dorothy Strachan</p>
           ]]>
         </description>
       </item>
+
+  </channel>
 
 </rss>
