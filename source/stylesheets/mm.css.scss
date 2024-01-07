@@ -815,11 +815,11 @@ blockquote {
   margin-bottom: 2rem;
   font-size: 1.6rem;
   font-style: italic;
-  color: $medium-gray;
   font-weight: $font-weight-light;
   position: relative;
   p {
     position: relative;
+    color: $medium-gray;
     z-index: 5;
     margin-top: 1rem;
     margin-bottom: 0;
@@ -835,6 +835,9 @@ blockquote {
   }
   ~ h3 {
     margin-top: 3rem !important;
+  }
+  a {
+    color: $medium-gray;
   }
 }
 
@@ -1118,6 +1121,11 @@ p.teacher {
   color: #222;
   img {
     border: 1px solid #EEE;
+  }
+  &.col-1 {
+    @include breakpoint(large) {
+      width: 42rem;
+    }
   }
 }
 
