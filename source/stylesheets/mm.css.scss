@@ -940,6 +940,9 @@ p.teacher {
 
 .col-1.kitchen-party {
   margin-top: 2rem;
+  @include breakpoint(large) {
+    width: 42rem;
+  }
   .mini-header {
     padding-top: 0;
   }
@@ -1061,6 +1064,9 @@ p.teacher {
 
 .col-1.notes {
   margin-top: 2rem;
+  @include breakpoint(large) {
+    width: 43rem;
+  }
 }
 
 .notes header, .notes footer {
@@ -1072,6 +1078,9 @@ p.teacher {
 .notes .notes {
   font-family: $font-heading-serif;
   font-weight: $font-weight-light;
+  ol, ul {
+    max-width: 40rem;
+  }
   ol {
     padding-left: .5rem;
   }
