@@ -2,7 +2,9 @@
 layout: false
 ---
 
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -15,21 +17,39 @@ layout: false
 	>
 
   <channel>
-  	<title>the becoming</title>
-  	<link>https://methodandmatter.com/the-becoming/</link>
-  	<description>A newsletter at the edge of the known and unknown &mdash; about leadership, change, and being human.</description>
-  	<language>en-US</language>
-  </channel>
+  	<title>Words Make Worlds</title>
+    <atom:link href="https://methodandmatter.com/the-becoming/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://methodandmatter.com/the-becoming/link>
+    <language>en-us</language>
+    <generator>Middleman (Ruby)</generator>
+    <author>Andrea Mignolo</author>
+		<description>A newsletter at the edge of the known and the unknown.</description>
+		<meta property="og:image" content="https://methodandmatter.com/images/mm-round.png" />
+    <image>
+      <url>https://methodandmatter.com/images/mm-round.png</url>
+      <title>method &#038; matter</title>
+      <link>https://methodandmatter.com</link>
+    </image>
 
 
 	<% blog('the-becoming').articles.each do |article| %>
-			<item>
-				<pubDate><%= article.date.strftime('%B %Y') %></pubDate>
-				<title><%= article.data.description %></title>
-				<link><%= article.url %></link>
 
-				<content><%= article.body %></content>
-			</item>
+      <item>
+        <title><%= article.data.title %></title>
+        <link><%= "https://methodandmatter.com/" + article.url %></link>
+        <guid><%= "https://methodandmatter.com/" + article.url %></guid>
+        <pubDate><%= article.date.utc.rfc822 %></pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <%= article.body %>
+          ]]>
+        </description>
+      </item>
 	<% end %>
+
+  </channel>
 
 </rss>
