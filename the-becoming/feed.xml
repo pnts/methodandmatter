@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -11,19 +13,33 @@
 	>
 
   <channel>
-  	<title>the becoming</title>
-  	<link>https://methodandmatter.com/the-becoming/</link>
-  	<description>A newsletter at the edge of the known and unknown &mdash; about leadership, change, and being human.</description>
-  	<language>en-US</language>
-  </channel>
+  	<title>Words Make Worlds</title>
+    <atom:link href="https://methodandmatter.com/the-becoming/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://methodandmatter.com/the-becoming/link>
+    <language>en-us</language>
+    <generator>Middleman (Ruby)</generator>
+    <author>Andrea Mignolo</author>
+		<description>A newsletter at the edge of the known and the unknown.</description>
+		<meta property="og:image" content="https://methodandmatter.com/images/mm-round.png" />
+    <image>
+      <url>https://methodandmatter.com/images/mm-round.png</url>
+      <title>method &#038; matter</title>
+      <link>https://methodandmatter.com</link>
+    </image>
 
 
-			<item>
-				<pubDate>August 2023</pubDate>
-				<title>The Paradox of Why</title>
-				<link>/the-becoming/011/</link>
 
-				<content><p>I can feel the days getting shorter as we creep into fall but we're not there yet! San Francisco has delivered a burst of beautiful (and warm) weather that I am enjoying alongside a sweet pitbull who is visiting for the week. I'm Andi, this is the becoming, and welcome to August's missive.</p>
+      <item>
+        <title>the becoming 011</title>
+        <link>https://methodandmatter.com//the-becoming/011/</link>
+        <guid>https://methodandmatter.com//the-becoming/011/</guid>
+        <pubDate>Thu, 31 Aug 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p>I can feel the days getting shorter as we creep into fall but we're not there yet! San Francisco has delivered a burst of beautiful (and warm) weather that I am enjoying alongside a sweet pitbull who is visiting for the week. I'm Andi, this is the becoming, and welcome to August's missive.</p>
 
 <p class="caption"><img src="/images/kp/011.jpg" alt="Tumalo Waterfalls" />
 Chasing waterfalls in Tumalo, Oregon.</p>
@@ -105,14 +121,22 @@ Chasing waterfalls in Tumalo, Oregon.</p>
 <hr />
 
 <p>Thank you for being here and see you next month!</p>
-</content>
-			</item>
-			<item>
-				<pubDate>July 2023</pubDate>
-				<title>Unraveling</title>
-				<link>/the-becoming/010/</link>
 
-				<content><p>I would be remiss to not say hello for July, though this month is without a long-form essay. Not for lack of effort, but the writing hasn’t coalesced into something tangible enough to share. Which caused a mild freak-out as I contemplated the trail of <a href="https://www.pagesandplatforms.com/blog/how-to-finish-your-zero-draft">zero drafts</a> in my wake and felt the pressure of winnowing days, providing a front-row seat to how I create the drama of my life.</p>
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 010</title>
+        <link>https://methodandmatter.com//the-becoming/010/</link>
+        <guid>https://methodandmatter.com//the-becoming/010/</guid>
+        <pubDate>Mon, 31 Jul 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p>I would be remiss to not say hello for July, though this month is without a long-form essay. Not for lack of effort, but the writing hasn’t coalesced into something tangible enough to share. Which caused a mild freak-out as I contemplated the trail of <a href="https://www.pagesandplatforms.com/blog/how-to-finish-your-zero-draft">zero drafts</a> in my wake and felt the pressure of winnowing days, providing a front-row seat to how I create the drama of my life.</p>
 
 <p class="caption"><img src="/images/kp/010.jpg" alt="Mt Bachelor sunset" />
 Chasing sunset near Mt. Bachelor, Oregon.</p>
@@ -177,14 +201,22 @@ so worthy of rescue.</p>
 <hr />
 
 <p>Thanks for being here. I hope you are having a lovely, moderately cool, and wildfire-free summer. Or a bitingly crisp, clear, and snow-filled winter. See you in August!</p>
-</content>
-			</item>
-			<item>
-				<pubDate>June 2023</pubDate>
-				<title>Leadership as Practice</title>
-				<link>/the-becoming/009/</link>
 
-				<content><p>Hello from the other side of summer solstice! It’s cold as f*ck here in San Francisco and accordingly foggy as well. I recently learned SF summers are colder than South African winters so that’s something. It’s fun to be bundled up in sweaters while others get to wear sun dresses (not that I'm jealous or anything). But enough with that - I’m Andi, this is <a href="https://methodandmatter.com/the-becoming">the becoming</a>, and I am glad you are here.</p>
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 009</title>
+        <link>https://methodandmatter.com//the-becoming/009/</link>
+        <guid>https://methodandmatter.com//the-becoming/009/</guid>
+        <pubDate>Fri, 30 Jun 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p>Hello from the other side of summer solstice! It’s cold as f*ck here in San Francisco and accordingly foggy as well. I recently learned SF summers are colder than South African winters so that’s something. It’s fun to be bundled up in sweaters while others get to wear sun dresses (not that I'm jealous or anything). But enough with that - I’m Andi, this is <a href="https://methodandmatter.com/the-becoming">the becoming</a>, and I am glad you are here.</p>
 
 <p class="caption"><img src="/images/kp/009.jpg" alt="A San Francisco succulent" />
 A giant San Francisco succulent I met on my way to Kung Fu class.</p>
@@ -337,14 +369,22 @@ A giant San Francisco succulent I met on my way to Kung Fu class.</p>
 <hr />
 
 <p>Thanks for reading, happy practicing, and see you next month!</p>
-</content>
-			</item>
-			<item>
-				<pubDate>May 2023</pubDate>
-				<title>On the Edge of Kindness and Ambition</title>
-				<link>/the-becoming/008/</link>
 
-				<content><p>Hello, I’m Andi and this is the May edition of <strong>the becoming</strong>, a newsletter that shimmies in the border between the known and unknown.</p>
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 008</title>
+        <link>https://methodandmatter.com//the-becoming/008/</link>
+        <guid>https://methodandmatter.com//the-becoming/008/</guid>
+        <pubDate>Wed, 31 May 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p>Hello, I’m Andi and this is the May edition of <strong>the becoming</strong>, a newsletter that shimmies in the border between the known and unknown.</p>
 
 <p class="caption"><img src="/images/kp/008.jpg" alt="The Edges of The Orb" />
 Image by <a href="https://unsplash.com/photos/tZCrFpSNiIQ">my mind</a> on Unsplash.</p>
@@ -425,14 +465,22 @@ Image by <a href="https://unsplash.com/photos/tZCrFpSNiIQ">my mind</a> on Unspla
 <hr />
 
 <p><em>Thank you</em> for reading, have a wonderful 🌞 solstice 🌞, and see you towards the end of June!</p>
-</content>
-			</item>
-			<item>
-				<pubDate>April 2023</pubDate>
-				<title>Collective Leadership</title>
-				<link>/the-becoming/007/</link>
 
-				<content><p>Hello, I’m Andi - an executive coach and author of this here newsletter about leadership, change, and what it means to be human. And welcome to the seventh edition of <strong>the becoming</strong> (née Kitchen Party).</p>
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 007</title>
+        <link>https://methodandmatter.com//the-becoming/007/</link>
+        <guid>https://methodandmatter.com//the-becoming/007/</guid>
+        <pubDate>Sun, 30 Apr 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p>Hello, I’m Andi - an executive coach and author of this here newsletter about leadership, change, and what it means to be human. And welcome to the seventh edition of <strong>the becoming</strong> (née Kitchen Party).</p>
 
 <p class="caption"><img src="/images/kp/007.jpg" alt="A path through Mt Davidson park" />
 Photo by <a href="https://unsplash.com/photos/v3TkpV2wLTo">Susan Wilkinson on unsplash</a>.</p>
@@ -488,14 +536,22 @@ Photo by <a href="https://unsplash.com/photos/v3TkpV2wLTo">Susan Wilkinson on un
 <hr />
 
 <p>As always, thank you for reading. See you next month! 👋</p>
-</content>
-			</item>
-			<item>
-				<pubDate>March 2023</pubDate>
-				<title>Creating Space for Others to Think</title>
-				<link>/the-becoming/006/</link>
 
-				<content><p class="caption"><img src="/images/kp/006.jpg" alt="A path through Mt Davidson park" />
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 006</title>
+        <link>https://methodandmatter.com//the-becoming/006/</link>
+        <guid>https://methodandmatter.com//the-becoming/006/</guid>
+        <pubDate>Thu, 30 Mar 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p class="caption"><img src="/images/kp/006.jpg" alt="A path through Mt Davidson park" />
 Early spring at Mt. Davidson Park, San Francisco</p>
 
 <p>It's March, this is <strong>the becoming</strong>, and as far as I know I am still Andi. It's good to see you!</p>
@@ -590,14 +646,22 @@ autumn leaves, and winter skies.</p>
     </li>
   </ol>
 </div>
-</content>
-			</item>
-			<item>
-				<pubDate>February 2023</pubDate>
-				<title>The ChatGPT Edition</title>
-				<link>/the-becoming/005/</link>
 
-				<content><p class="caption"><img src="/images/kp/005.jpg" alt="Flower courtesy of Midjourney, the prompt has been lost to time." />
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 005</title>
+        <link>https://methodandmatter.com//the-becoming/005/</link>
+        <guid>https://methodandmatter.com//the-becoming/005/</guid>
+        <pubDate>Tue, 28 Feb 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p class="caption"><img src="/images/kp/005.jpg" alt="Flower courtesy of Midjourney, the prompt has been lost to time." />
 Flower illustration courtesy of Midjourney. The exact prompt has been lost to time.</p>
 
 <p>Hello! I’m Andi and you are reading <strong>the becoming</strong> - February, 2023 edition.</p>
@@ -686,14 +750,22 @@ Flower illustration courtesy of Midjourney. The exact prompt has been lost to ti
 <hr />
 
 <p>If you made it this far, my guess is you were just scrolling to see how long the damn thing was. Hi! Nice to see you. Thanks for being here, and see you next month!</p>
-</content>
-			</item>
-			<item>
-				<pubDate>January 2023</pubDate>
-				<title>Foundations, Accountability, and Discomfort</title>
-				<link>/the-becoming/004/</link>
 
-				<content><p class="caption"><img src="/images/kp/004.jpg" alt="photo of The Visitors 360 music video at SFMOMA" />
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 004</title>
+        <link>https://methodandmatter.com//the-becoming/004/</link>
+        <guid>https://methodandmatter.com//the-becoming/004/</guid>
+        <pubDate>Mon, 16 Jan 2023 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p class="caption"><img src="/images/kp/004.jpg" alt="photo of The Visitors 360 music video at SFMOMA" />
 SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartansson/">The Visitors</a>. Filmed at Rokeby, a very special place indeed.</p>
 
 <p>January has arrived (and almost gone), and so has another edition of <strong><a href="https://methodandmatter.com/the-becoming/">the becoming</a></strong>. I'm <a href="https://methodandmatter.com/about/">Andi</a>, and this month I'm exploring foundations in living systems as a metaphor for how we can create daily practices that support our own flourishing.</p>
@@ -777,14 +849,22 @@ SFMOMA's 2023 Exhibition of <a href="https://www.sfmoma.org/read/ragnar-kjartans
     <p>Over the last few weeks <a href="https://www.linkedin.com/in/marliekekieboom/">Marlieke Kieboom</a> has been posting a wonderful series on Public Systemic Design over on Medium. I hope this series reaches as many eyeballs as possible because this is the type of critical inquiry the design world desperately needs more of. Catch the current posts at <a href="https://medium.com/publicsystemicdesign">Unbounded Affairs</a> and sign up to be notified for future posts.</p>
   </li>
 </ol>
-</content>
-			</item>
-			<item>
-				<pubDate>December 2022</pubDate>
-				<title>End of Year Reflections and Other Sundries</title>
-				<link>/the-becoming/003/</link>
 
-				<content><p class="caption"><img src="/images/kp/003.jpg" alt="photo of Durham, NC in the winter" />
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 003</title>
+        <link>https://methodandmatter.com//the-becoming/003/</link>
+        <guid>https://methodandmatter.com//the-becoming/003/</guid>
+        <pubDate>Wed, 28 Dec 2022 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p class="caption"><img src="/images/kp/003.jpg" alt="photo of Durham, NC in the winter" />
 Winter woods in Durham, North Carolina. December 2022</p>
 
 <p>Hello, I’m Andi, this is <strong><a href="/the-becoming/">the becoming</a></strong>, and I’m so glad you are here. December’s edition explores year end reflections, the relationship between power and resistance, a new (potential) course for leaders who want to add coaching to their skillset, and an upcoming talk.</p>
@@ -853,14 +933,22 @@ H.B. Karp's Power Resistance Model</p>
 <hr />
 
 <p>Thanks for listening. I hope you have a wonderful, nourishing, and restful end of the year.</p>
-</content>
-			</item>
-			<item>
-				<pubDate>November 2022</pubDate>
-				<title>The Paradox of Change, Writing for Thinking, and Slow Motion Multitasking</title>
-				<link>/the-becoming/002/</link>
 
-				<content><p class="caption"><img src="/images/kp/002.jpg" alt="photo of the Catskills in autumn" />
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 002</title>
+        <link>https://methodandmatter.com//the-becoming/002/</link>
+        <guid>https://methodandmatter.com//the-becoming/002/</guid>
+        <pubDate>Wed, 16 Nov 2022 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p class="caption"><img src="/images/kp/002.jpg" alt="photo of the Catskills in autumn" />
 Late afternoon in the Catskills, October 2022</p>
 
 <p>Hi, I'm Andi and this is <strong><a href="/the-becoming/">the becoming</a></strong>. You are reading these words because somewhere along the way you shared an interested in having this letter land in your inbox. Thank you, and welcome!</p>
@@ -910,14 +998,22 @@ Late afternoon in the Catskills, October 2022</p>
 <p>If you are in a part of the world that celebrates Thanksgiving, I hope it was filled with belonging, nourishment, and rest. And to everyone out there, may the last month of the Gregorian year be easeful and kind for you.</p>
 
 <p>See you in December.</p>
-</content>
-			</item>
-			<item>
-				<pubDate>October 2022</pubDate>
-				<title>Resistance, Transitions, and Belonging</title>
-				<link>/the-becoming/001/</link>
 
-				<content><p class="caption"><img src="/images/kp/001.jpg" alt="smiley" />
+          ]]>
+        </description>
+      </item>
+
+      <item>
+        <title>the becoming 001</title>
+        <link>https://methodandmatter.com//the-becoming/001/</link>
+        <guid>https://methodandmatter.com//the-becoming/001/</guid>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 -0000</pubDate>
+        <author>Andrea Mignolo</author>
+
+
+        <description>
+          <![CDATA[
+            <p class="caption"><img src="/images/kp/001.jpg" alt="smiley" />
 Point Reyes National Seashore, October 2022</p>
 
 <p>Hi! I’m Andi, and this is <strong><a href="/the-becoming/">the becoming</a></strong>, a newsletter that invites warm and open conversations exploring what it means to be in the complexity of life as a leader, however you inhabit that role.</p>
@@ -959,7 +1055,11 @@ Point Reyes National Seashore, October 2022</p>
 <p>I’ve been thinking a lot about what it means to belong, where we seek belonging, and what it is we are belonging to. I think some of this has come up naturally with my transition away from working in organizations, which for a long time was a (somewhat misplaced) primary source of belonging. As a pretty strong introvert, and without the prompts of daily office life, where is it that I belong? Or with whom? What does it look like to belong to myself?</p>
 
 <p>How do you belong?</p>
-</content>
-			</item>
+
+          ]]>
+        </description>
+      </item>
+
+  </channel>
 
 </rss>
