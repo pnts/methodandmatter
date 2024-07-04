@@ -1066,7 +1066,7 @@ p.teacher {
 //////
 //////
 
-.notes, .notes header {
+/* .writing_notes, .writing_notes header {
   background: #EFF2F4;
 }
 
@@ -1077,13 +1077,13 @@ p.teacher {
   }
 }
 
-.notes header, .notes footer {
+.writing_notes header, .writing_notes footer {
   hr {
     background-color: #FFF;
   }
 }
 
-.notes .notes {
+.writing_notes .notes {
   font-family: $font-heading-serif;
   font-weight: $font-weight-light;
   ol, ul {
@@ -1115,7 +1115,7 @@ p.teacher {
     margin-bottom: 1rem;
     margin-left: 2rem;
   }
-}
+} */
 
 //////
 //////
@@ -1250,7 +1250,7 @@ p.teacher {
 //////
 //////
 
-.masthead, .essay {
+.masthead, .essay, .notes {
   width: 100%;
   .inner {
     max-width: 1600px;
@@ -1263,11 +1263,11 @@ p.teacher {
   }
 }
 
-.essays .masthead {
+.writing_essays .masthead, .writing_notes .masthead {
   background-size: cover !important;
 }
 
-.essays {
+.writing_essays, .writing_notes {
   h1 {
     padding-bottom: 1rem;
     font-family: "RomieMedium";
@@ -1295,19 +1295,7 @@ p.teacher {
     }
     a {
       margin-left: 1.5rem;
-      //color: $white;
     }
-  }
-}
-
-article {
-  margin-top: 4rem;
-  max-width: 45rem;
-  hr {
-    margin: 4.5rem 0;
-  }
-  ol, ul {
-    padding-left: 0rem;
   }
 }
 
@@ -1322,15 +1310,15 @@ article {
   h6 {
     margin-top: 13rem;
     margin-bottom: 2rem;
-    color: #FFF;
     font-size: 1rem;
     margin-left: .2rem;
+    text-transform: uppercase;
   }
 }
 
 article {
   margin-top: 4rem;
-  max-width: 42rem;
+  max-width: 46rem;
   hr {
     margin: 4.5rem 0;
   }
@@ -1339,6 +1327,9 @@ article {
     //line-height: 1.9rem;
     font-family: $font-heading-serif;
     font-weight: $font-weight-light;
+  }
+  ol, ul {
+    padding-left: 0rem;
   }
   strong {
     font-weight: 600;

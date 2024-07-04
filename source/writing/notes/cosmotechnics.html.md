@@ -1,5 +1,5 @@
 ---
-title: ❏ Notes to Self 003 - The Question Concerning Technology in China, pp 8 - 18
+title: The Question Concerning Technology in China, pp 8 - 18
 date: March 22, 2023
 tags:
 description: "003 - Cosmotechnics"

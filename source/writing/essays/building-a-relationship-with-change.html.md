@@ -5,9 +5,9 @@ date: November 29th, 2022
 description: Building a Relationship With Change
 label: Essays
 image: "og/mm-og-1.jpg"
-layout: essays
 masthead: "url(/images/essays/change-border.jpg) no-repeat"
 masthead_text: "#FFF"
+status: evergreen
 download: "/essays/guides/relationship-with-change.pdf"
 ---
 

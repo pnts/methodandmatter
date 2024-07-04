@@ -50,7 +50,7 @@ end
 
 activate :blog do |blog|
   blog.name = "notes"
-  blog.prefix = "notes"
+  blog.prefix = "writing/notes"
   blog.sources = "{title}.html"
   blog.permalink = "{title}"
   blog.layout = "layouts/notes"
@@ -86,7 +86,7 @@ end
 
 activate :blog do |blog|
   blog.name = "essays"
-  blog.prefix = "essays"
+  blog.prefix = "writing/essays"
   blog.sources = "{title}.html"
   blog.permalink = "{title}"
   blog.layout = "layouts/essays"
@@ -122,6 +122,7 @@ end
 
 # alternate layouts
 page "the-becoming/*", :layout => :newsletter
-page "notes/*", :layout => :notes
+page "notes/*", :layout => :essays
 page "essays/*", :layout => :essays
 page "words-make-worlds/*", :layout => :wmw
+page "writing/*", :layout => :essays

@@ -1,5 +1,5 @@
 ---
-title: ❏ Notes to Self 002 - Seeds of Worlding
+title: Seeds of Worlding
 date: March 14, 2023
 tags:
 description: "002 - Recursive Cosmologies"

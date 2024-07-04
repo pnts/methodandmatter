@@ -3,13 +3,15 @@
 <div class="masthead" style="background: <%= current_page.data.masthead %>; color: <%= current_page.data.masthead_text %>; ">
   <div class="masthead-content">
     <div class="inner">
-      <h6>ESSAYS <span class="amp">&</span> GUIDES</h6>
+      <% if current_page.data.status %>
+        <h6 color: <%= current_page.data.masthead_text %>> status: <%= current_page.data.status %> </h6>
+      <% end %>
       <h1><%= current_page.data.title %></h1>
       <h2><%= current_page.data.subtitle %></h2>
 
       <% if current_page.data.download %>
         <div class="download">
-        <%= image_tag("essays/file-pdf-solid.svg", style: "color: #FFFFFF;") %> <%= link_to('Download the guide', current_page.data.download) %>
+        <%= image_tag("images/essays/file-pdf-solid.svg", style: "color: #FFFFFF;") %> <%= link_to('Download the guide', current_page.data.download) %>
         </div>
       <% end %>
     </div>
