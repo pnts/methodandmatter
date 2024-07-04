@@ -3,7 +3,7 @@ title: Seeds of Worlding
 date: March 14, 2023
 tags:
 description: "002 - Recursive Cosmologies"
-label: Notes to Self
+label: Notes
 keywords: "research, lab notes, leadership, being human, technology, design, cosmology, worlding"
 image: "og/og-symbol.png"
 published: false

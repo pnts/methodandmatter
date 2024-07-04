@@ -1,12 +1,16 @@
 ---
+label: Essays
+description: Coaching is about creating space for others to think. Here's how.
+keywords: coaching, leader as coach, manager as coach, coaching in organizations
+image: "images/essays/moon-cycle.jpg"
+
 title: Creating Space for Others to Think
 subtitle: On the impact of effective coaching conversations at work
-date: April 12th, 2023
-description: A guide to reflecting on what came before and preparing for what is to come.
-label: Essays
-image: "images/essays/moon-cycle.jpg"
-masthead_text: "#000"
+tags: coaching
 status: evergreen
+
+date: April 12th, 2023
+published: true
 ---
 
 For a long time the maxim “don’t bring me problems, bring me solutions,” ruled the world of organizational leadership. While a quick search for the phrase reveals it has fallen out of favor in most management circles, within organizations the ethos [seems alive and well](https://www.inc.com/jim-schleckser/build-organizational-muscle-encourage-your-team-to-bring-solutions-not-problems.html). To a degree this makes sense — most executives I know have progressed up the leadership ladder by assessing big picture challenges and opportunities, coming up with solutions, and getting things done. Once you are senior enough this just becomes a part of your job. The thinking that got you there comes along too, creating a positive feedback loop that further entrenches the approach.

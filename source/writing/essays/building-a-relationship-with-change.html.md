@@ -1,14 +1,20 @@
 ---
-title: Building a Relationship With Change
-subtitle: On working with change as an expression of your full aliveness.
-date: November 29th, 2022
-description: Building a Relationship With Change
 label: Essays
+description: The paradox of change
+keywords: change, transition
 image: "og/mm-og-1.jpg"
+
 masthead: "url(/images/essays/change-border.jpg) no-repeat"
 masthead_text: "#FFF"
-status: evergreen
 download: "/essays/guides/relationship-with-change.pdf"
+
+title: Building a Relationship With Change
+subtitle: On working with change as an expression of your full aliveness.
+tags: transitions
+status: evergreen
+
+date: November 29th, 2022
+published: true
 ---
 
 The pace of change today — technological, societal, environmental, geopolitical — is increasing at such a rapid rate that it can be destabilizing to our individual identities. Those of us caught up in the expansive reach of free-market capitalism have cultivated a sense of urgency, entrepreneurialism, and problem-solving when it comes to change. We learn productivity frameworks like [S.M.A.R.T.](https://www.mindtools.com/a4wo118/smart-goals), [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), and [BHAG](https://business.adobe.com/blog/basics/bhag) through which we articulate compelling visions and measure success. And while these approaches have a place, both in the business world and in our personal lives, these frameworks inherently narrow the world in service of what we must achieve at the expense of who we authentically are.

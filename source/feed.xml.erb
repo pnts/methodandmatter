@@ -32,11 +32,11 @@ layout: false
     </image>
 
 	<%
-    combined_articles = blog('the-becoming').articles + blog('notes').articles + blog('essays').articles
+    combined_articles = blog('notes').articles + blog('essays').articles
     combined_articles.each do |article| %>
 
 			<item>
-        <title>[<%= article.data.label %>] <%= article.data.description %></title>
+        <title>[<%= article.data.label %>] <%= article.data.subtitle %></title>
         <link><%= "https://methodandmatter.com" + article.url %></link>
         <guid><%= "https://methodandmatter.com" + article.url %></guid>
 				<pubDate><%= article.date.utc.rfc822 %></pubDate>
