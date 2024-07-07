@@ -1183,7 +1183,7 @@ p.teacher {
   @include breakpoint(large) {
     font-size: 6rem;
     line-height: 7.5rem;
-    margin-top: 7rem;
+    margin-top: 4rem;
     margin-bottom: 4rem;
   }
 }
@@ -1204,6 +1204,7 @@ p.teacher {
   background-size: 5rem 5rem;
   padding-left: 6rem;
   padding-top: .2rem;
+  margin-top: 3rem;
 }
 
 .words-make-worlds .notes .mini {
