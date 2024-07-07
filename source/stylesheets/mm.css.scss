@@ -87,6 +87,11 @@ hr {
   width: 100%;
   margin: 2rem 0;
   clear: both;
+  &.section-break {
+    width: 20%;
+    margin: 4rem auto;
+    background-color: #CCC;
+  }
 }
 
 .top-nav-hr {
@@ -1141,7 +1146,7 @@ p.teacher {
   }
   &.col-1 {
     @include breakpoint(large) {
-      width: 42rem;
+      width: 47rem;
     }
   }
 }
@@ -1165,8 +1170,8 @@ p.teacher {
 }
 
 .words-make-worlds .notes {
-  font-family: $font-heading-serif;
-  font-weight: $font-weight-light;
+  //font-family: $font-heading-serif;
+  //font-weight: $font-weight-light;
 }
 
 .words-make-worlds .notes h1 {
@@ -1239,6 +1244,10 @@ p.teacher {
   @include breakpoint(large) {
     margin-left: 3rem;
   }
+}
+
+.words-make-worlds .notes blockquote {
+  font-weight: $font-weight-light;
 }
 
 
