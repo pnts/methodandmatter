@@ -1,17 +1,16 @@
 ---
 label: Notes
-description: "Working with, not against."
-keywords: "research, lab notes, leadership, being human, technology, design, cosmology, worlding"
+description: "Common knowledge says to overcome resistance, but what if we work with it instead?"
+keywords: "resistance, blending, organizations"
 image: "og/og-symbol.png"
 
-title: "Resistance, Polarities, and Blending"
-subtitle: "Working with, not against."
+title: "Work with Resistance"
+subtitle: ""
 tags: "gestalt, resistance"
 status: seedling
 
-date: November 9, 2023
-published: true
-
+date: July 8th, 2024
+published: false
 ---
 
 Most business journals talk about “overcoming” resistance as if it were an obstacle on the road to an undoubtedly better destination. Just push a little harder and you’ll get past it! Which completely ignores the intelligence contained within the resistance &mdash; additional perspectives, information, sensing, and protective mechanisms that might in fact be very beneficial to consider. If you pause for a minute and listen to the resistance you'll realize you have a blurry map of other possible roads, ones that aren’t blocked by a giant obstacle. While they may not lead to the _exact_ destination you had in mind, they still take you in generally the right direction.

@@ -124,7 +124,7 @@ hr {
 
 .coaching .coaching a,
 .about .about a,
-.resources .resources a,
+.writing .writing a,
 .research .research a,
 .leader-as-coach .courses a,
 .newsletters .newsletter a {
@@ -427,7 +427,7 @@ input[type=submit] {
   }
   @include breakpoint(large) {
     max-width: 30rem;
-    &.kitchen-party, &.notes {
+    &.notes {
       max-width: 100%;
     }
   }
@@ -609,7 +609,7 @@ input[type=submit] {
 //////
 //////
 
-.resources .essays {
+.writing .essays {
   padding-bottom: 2rem;
   h2 {
     margin-top: .5rem;
@@ -620,7 +620,7 @@ input[type=submit] {
   }
 }
 
-.resources .hero {
+.writing .hero {
   padding-top: 2rem;
   @include breakpoint(large) {
     padding-top: 1rem;
@@ -628,7 +628,7 @@ input[type=submit] {
   }
 }
 
-.resources .two-col-equal.videos {
+.writing .two-col-equal.videos {
   padding-bottom: 3rem;
   padding-top: 1rem;
 
@@ -807,7 +807,7 @@ ol {
   }
 }
 
-.kitchen-party h3 {
+.the-becoming h3 {
   margin-top: 3rem;
 }
 
@@ -934,7 +934,7 @@ p.teacher {
     margin-left: 1rem;
     //margin-top: -1rem;
     line-height: 1.8rem;
-    margin-top: -1.5rem;
+    //margin-top: -1.5rem;
     li {
       margin-bottom: 1rem;
       font-size: 1.2rem;
@@ -951,13 +951,12 @@ p.teacher {
   }
 }
 
-.col-1.kitchen-party {
+.col-1.the-becoming {
   margin-top: 2rem;
   @include breakpoint(large) {
-    width: 45rem;
-  }
-  .mini-header {
-    padding-top: 0;
+    .mini-header {
+      padding-top: 0;
+    }
   }
 }
 
@@ -1064,6 +1063,16 @@ p.teacher {
   }
 }
 
+.col-1.notes {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  -webkit-hyphenate-character: "-";
+  @include breakpoint(large) {
+    width: 41.5rem;
+  }
+}
+
 
 //////
 //////
@@ -1143,11 +1152,6 @@ p.teacher {
   color: #222;
   img {
     border: 1px solid #EEE;
-  }
-  &.col-1 {
-    @include breakpoint(large) {
-      width: 47rem;
-    }
   }
 }
 
@@ -1273,11 +1277,15 @@ p.teacher {
   }
 }
 
-.writing_essays .masthead, .writing_notes .masthead {
+.writing_essays .masthead,
+.writing_notes .masthead,
+.writing_guides .masthead {
   background-size: cover !important;
 }
 
-.writing_essays, .writing_notes {
+.writing_essays,
+.writing_notes,
+.writing_guides {
   h1 {
     padding-bottom: 1rem;
     font-family: "RomieMedium";
@@ -1328,15 +1336,22 @@ p.teacher {
 
 article {
   margin-top: 4rem;
-  max-width: 46rem;
+  max-width: 40.5rem;
+  margin-left: auto;
+  margin-right: auto;
   hr {
     margin: 4.5rem 0;
   }
   p, ul, ol {
-    //font-size: 1.3rem;
-    //line-height: 1.9rem;
+    font-size: 1.1rem;
+    line-height: 2rem;
     font-family: $font-heading-serif;
     font-weight: $font-weight-light;
+    color: #333;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    -webkit-hyphenate-character: "-";
   }
   ol, ul {
     padding-left: 0rem;
@@ -1364,6 +1379,13 @@ article {
     p {
       font-size: 1.1rem;
       line-height: 1.7rem;
+    }
+  }
+  .essay-image-extend {
+    margin-bottom: 0;
+    @include breakpoint(large) {
+      width: 140%;
+      margin-left: -20%;
     }
   }
 }

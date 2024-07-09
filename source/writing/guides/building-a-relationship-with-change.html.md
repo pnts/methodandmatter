@@ -1,12 +1,12 @@
 ---
-label: Essays
+label: Guide
 description: The paradox of change
 keywords: change, transition
 image: "og/mm-og-1.jpg"
 
 masthead: "url(/images/essays/change-border.jpg) no-repeat"
 masthead_text: "#FFF"
-download: "/essays/guides/relationship-with-change.pdf"
+download: "/writing/guides/relationship-with-change.pdf"
 
 title: Building a Relationship With Change
 subtitle: On working with change as an expression of your full aliveness.

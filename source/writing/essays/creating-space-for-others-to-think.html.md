@@ -1,8 +1,8 @@
 ---
-label: Essays
+label: Essay
 description: Coaching is about creating space for others to think. Here's how.
 keywords: coaching, leader as coach, manager as coach, coaching in organizations
-image: "images/essays/moon-cycle.jpg"
+image: "og/og-symbol.png"
 
 title: Creating Space for Others to Think
 subtitle: On the impact of effective coaching conversations at work

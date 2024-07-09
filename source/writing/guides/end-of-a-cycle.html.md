@@ -1,12 +1,12 @@
 ---
-label: Essays
+label: Guide
 description: A guide to reflecting on what came before and preparing for what is to come.
 keywords: "reflections, cycles, end of the year reflection"
 image: "images/essays/moon-cycle.jpg"
 
 masthead: "url(/images/essays/moon-cycle.jpg) no-repeat"
 masthead_text: "#FFF"
-download: "writing/essays/guides/end-of-a-cycle.pdf"
+download: "/writing/guides/end-of-a-cycle.pdf"
 
 title: At the End of a Cycle
 subtitle: Guided reflections across transitional thresholds.
