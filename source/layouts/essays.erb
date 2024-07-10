@@ -36,6 +36,19 @@
         It now lives at <%= link_to('METHOD & MATTER', '/') %> and was last updated on <%= current_page.data.updated %>
       <% end %>
   <% end %>
+
+  <% if current_page.data.label == "Guide" %>
+    <p>This guide, written by <%= link_to('Andrea Mignolo', 'about') %>, was first published on
+      <%= current_page.data.date %>
+
+      <% if current_page.data.original %> on
+        <%= link_to(current_page.data.original, current_page.data.olink) %>.
+      <% end %>
+
+      <% if current_page.data.updated %>
+        It now lives at <%= link_to('METHOD & MATTER', '/') %> and was last updated on <%= current_page.data.updated %>
+      <% end %>
+  <% end %>
   </section>
 
   </article>

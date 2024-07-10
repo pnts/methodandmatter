@@ -15,6 +15,10 @@ status: evergreen
 
 date: December 13, 2022
 published: true
+
+updated: June 20th, 2023
+original: Medium
+olink: "https://medium.com/method-matter/at-the-end-of-the-year-bd201ea99541"
 ---
 
 We live our lives within the rhythms and cycles of the physical world. Our calendars commemorate this by marking each full rotation of the earth as a day, the total cycle of the moon around the earth as a month, and the complete trip of the earth around the sun as a year. Though modern life and the Time Grid[^1] suggest otherwise, our animal bodies are intimately tied to these rhythms through circadian cycles that let us know when to rest and when to move.

@@ -1405,12 +1405,17 @@ article {
       margin-left: -20%;
     }
   }
-  .article-lockup {
-    border-top: 1px solid #CCC;
-    p {
-      font-size: .9rem;
-      line-height: 1.7rem;
-    }
+}
+
+#footnotes {
+  margin-top: -1.5rem;
+}
+
+.article-lockup {
+  border-top: 1px solid #E0E0E0;
+  p {
+    font-size: .9rem;
+    line-height: 1.7rem;
   }
 }
 
