@@ -1307,8 +1307,10 @@ p.teacher {
     padding-bottom: 1rem;
     font-family: "RomieMedium";
     max-width: 70rem;
-    font-size: 6rem;
-    line-height: 7.4rem;
+    @include breakpoint(large) {
+      font-size: 6rem;
+      line-height: 7.4rem;
+    }
   }
   h2 {
     line-height: 2rem;

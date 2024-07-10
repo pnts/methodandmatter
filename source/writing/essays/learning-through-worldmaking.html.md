@@ -10,7 +10,7 @@ tags: design, worlds
 status: evergreen
 
 date: August 19th, 2019
-published: false
+published: true
 
 updated:
 original: Medium
