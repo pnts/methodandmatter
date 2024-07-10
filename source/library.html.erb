@@ -1,0 +1,40 @@
+---
+title: Library
+description: Recommended reading for your journey.
+keywords: leaders, seekers, reading, books, recommendations
+image: "og/og-base.png"
+layout: content
+---
+
+<section class="hero">
+  <div class="text">
+    <h1>Library</h1>
+    <p></p>
+  </div>
+</section>
+
+<hr />
+
+<% data.books.recommended.each do |b| %>
+<section class="content">
+  <div class="col-1">
+  </div>
+
+  <div class="col-2">
+    <div class="content>"
+      <div class="col-1">
+        <p class="cover"><%= image_tag b.image %></p>
+      </div>
+
+      <div class="col-2">
+        <ul class="book-meta">
+          <li class="title"><%= b.title %></li>
+          <li class="author"><%= b.author %></li>
+          <li class="why"><%= b.why %></li>
+          <li class="link"><%= link_to('link', b.link) %></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<% end %>

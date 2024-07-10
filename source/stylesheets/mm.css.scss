@@ -605,7 +605,7 @@ input[type=submit] {
 
 //////
 //////
-////// Resources
+////// Writing
 //////
 //////
 
@@ -617,6 +617,23 @@ input[type=submit] {
   }
   p {
     margin-top: 0;
+  }
+}
+
+.writing_essays {
+  .masthead-content h6 {
+    margin-top: 6rem;
+  }
+}
+
+.writing .essay {
+  img {
+    border: 1px solid #EEE;
+  }
+  h3 {
+    font-size: 1.4rem;
+    margin-bottom: -1rem;
+    margin-top: 1rem;
   }
 }
 
@@ -1377,7 +1394,7 @@ article {
     margin-left: 0;
     padding: 0;
     p {
-      font-size: 1.1rem;
+      font-size: .9rem;
       line-height: 1.7rem;
     }
   }
@@ -1386,6 +1403,13 @@ article {
     @include breakpoint(large) {
       width: 140%;
       margin-left: -20%;
+    }
+  }
+  .article-lockup {
+    border-top: 1px solid #CCC;
+    p {
+      font-size: .9rem;
+      line-height: 1.7rem;
     }
   }
 }

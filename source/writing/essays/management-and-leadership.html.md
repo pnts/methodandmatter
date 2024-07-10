@@ -5,12 +5,18 @@ keywords:
 image: "og/og-symbol.png"
 
 title: "Both/And: Untangling the Relationship Between Management and Leadership"
-subtitle:
+subtitle: "A closer look at management, leadership, and why it’s important to understand the differences between the two."
 tags: management, leadership
 status: evergreen
 
 date: September 3rd, 2020
-published: false
+published: true
+
+updated:
+original: Medium
+olink: "https://medium.com/method-matter/both-and-untangling-the-relationship-between-management-leadership-21fdcd06f546"
+
+
 ---
 
 If you’re stepping into a leadership role, chances are you’re also going to be doing a lot of managing. And while it’s true the two overlap quite a bit, understanding the differences can help you be more effective manager, a more inspirational leader, and more successful overall.
