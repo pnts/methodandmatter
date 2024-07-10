@@ -94,7 +94,10 @@ layout: content
   </div>
 
   <div class="col-2">
-    <% sitemap.resources.select { |r| r.path.start_with?('writing/essays/') }.each do |post| %>
+    <% sitemap.resources.select { |r| r.path.start_with?('writing/essays/') }
+    .sort_by { |r| Date.parse(r.data.date) rescue Date.new(1970,1,1) }
+    .reverse
+    .each do |post| %>
       <h3><%= link_to post.data.title, post.url %></h3>
       <p><%= post.data.subtitle %></p>
       <%#= post.render(layout: false) %>
