@@ -5,7 +5,7 @@ keywords: design, learning, worlds
 image: "og/og-symbol.png"
 
 title: "Learning Through Worldmaking: The Design Way"
-subtitle:
+subtitle: On the overlap between experiential learning and designing.
 tags: design, worlds
 status: evergreen
 

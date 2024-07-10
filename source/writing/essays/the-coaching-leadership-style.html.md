@@ -5,7 +5,7 @@ keywords:
 image: "og/og-symbol.png"
 
 title: "The Coaching Leadership Style: Developing Self and Developing Others"
-subtitle: "A high level overview of the Coaching Leadership Style"
+subtitle: "A high level overview of the Coaching Leadership Style."
 tags: coaching, CLS
 status: evergreen
 

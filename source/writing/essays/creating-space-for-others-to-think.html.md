@@ -5,7 +5,7 @@ keywords: coaching, leader as coach, manager as coach, coaching in organizations
 image: "og/og-symbol.png"
 
 title: Creating Space for Others to Think
-subtitle: On the impact of effective coaching conversations at work
+subtitle: On the impact of effective coaching conversations at work.
 tags: coaching
 status: evergreen
 
