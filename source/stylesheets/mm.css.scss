@@ -544,35 +544,9 @@ input[type=submit] {
 
 //////
 //////
-////// Newsletter
+////// Newsletter Signups
 //////
 //////
-
-/*.newsletters {
-  padding-top: 2rem;
-  h2 {
-    margin-bottom: 0;
-    ~ p {
-      margin-top: 1rem;
-    }
-  }
-  .the-becoming, .words-make-worlds {
-    margin-bottom: 1rem;
-    border-radius: 8px;
-  }
-
-  .words-make-worlds {
-    @include breakpoint(large) {
-      margin-left: 2rem;
-    }
-  }
-  .the-becoming {
-    @include breakpoint(large) {
-      margin-right: 2rem;
-   }
-  }
-} */
-
 
 .mini {
   h3 {
@@ -1090,64 +1064,6 @@ p.teacher {
   }
 }
 
-
-//////
-//////
-////// Notes to Self
-//////
-//////
-
-/* .writing_notes, .writing_notes header {
-  background: #EFF2F4;
-}
-
-.col-1.notes {
-  margin-top: 2rem;
-  @include breakpoint(large) {
-    width: 43rem;
-  }
-}
-
-.writing_notes header, .writing_notes footer {
-  hr {
-    background-color: #FFF;
-  }
-}
-
-.writing_notes .notes {
-  font-family: $font-heading-serif;
-  font-weight: $font-weight-light;
-  ol, ul {
-    max-width: 40rem;
-  }
-  ol {
-    padding-left: .5rem;
-  }
-}
-
-.notes blockquote {
-  color: #787D81;
-  font-weight: $font-weight-book;
-  &::before {
-    color: #D1D4D6;
-  }
-}
-
-.notes strong {
-  font-weight: 600;
-}
-
-.notes .content ul, .feedback .content ul {
-  list-style-type: disc;
-
-  font-size: 1.2rem;
-  line-height: 1.8rem;
-  li {
-    margin-bottom: 1rem;
-    margin-left: 2rem;
-  }
-} */
-
 //////
 //////
 ////// Words Make Worlds
@@ -1307,6 +1223,7 @@ p.teacher {
     padding-bottom: 1rem;
     font-family: "RomieMedium";
     max-width: 70rem;
+    font-size: 3rem;
     @include breakpoint(large) {
       font-size: 6rem;
       line-height: 7.4rem;
@@ -1409,16 +1326,16 @@ article {
   }
 }
 
-#footnotes {
-  margin-top: -1.5rem;
-}
-
 .article-lockup {
   border-top: 1px solid #E0E0E0;
   p {
     font-size: .9rem;
     line-height: 1.7rem;
   }
+}
+
+#footnotes {
+  margin-top: -1.5rem;
 }
 
 
@@ -1498,13 +1415,4 @@ article {
       margin-top: 0;
     }
   }
-}
-
-//////
-//////
-////// Research
-//////
-//////
-.research .work {
-  margin-bottom: .7rem;
 }
