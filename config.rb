@@ -17,7 +17,8 @@ page '/*.txt', layout: false
 
 
 # Redirects
-redirect "essays/building-a-relationship-with-change", to: "writing/essays/building-a-relationship-with-change"
+redirect "essays/building-a-relationship-with-change", to: "writing/guides/building-a-relationship-with-change"
+redirect "essays/end-of-a-cycle", to: "writing/guides/end-of-a-cycle"
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
