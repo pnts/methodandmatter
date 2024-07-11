@@ -16,6 +16,9 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 
+# Redirects
+redirect "essays/building-a-relationship-with-change", to: "writing/essays/building-a-relationship-with-change"
+
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 
