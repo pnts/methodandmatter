@@ -1,11 +1,11 @@
 ---
-label: Notes
+label: Note
 description: "Common knowledge says to overcome resistance, but what if we work with it instead?"
 keywords: "resistance, blending, organizations"
 image: "og/og-symbol.png"
 
 title: "Work with Resistance"
-subtitle: ""
+subtitle:
 tags: "gestalt, resistance"
 status: seedling
 

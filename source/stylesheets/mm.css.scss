@@ -1338,6 +1338,29 @@ article {
   margin-top: -1.5rem;
 }
 
+.writing_notes {
+  .masthead-content .inner {
+    max-width: 40rem;
+    @include breakpoint(large) {
+      padding-left: .75rem;
+      padding-right: .75rem;
+    }
+    h1 {
+      font-size: 3rem;
+      line-height: 3.7rem;
+    }
+    h6 {
+      margin-top: 8rem;
+      @include breakpoint(large) {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+  article {
+    margin-top: -2rem;
+  }
+}
+
 
 
 //////

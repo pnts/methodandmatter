@@ -7,7 +7,10 @@
         <h6 color: <%= current_page.data.masthead_text %>><%= current_page.data.label %> </h6>
       <% end %>
       <h1><%= current_page.data.title %></h1>
-      <h2><%= current_page.data.subtitle %></h2>
+
+      <% if current_page.data.subtitle %>
+        <h2><%= current_page.data.subtitle %></h2>
+      <% end %>
 
       <% if current_page.data.download %>
         <div class="download">
@@ -48,6 +51,10 @@
       <% if current_page.data.updated %>
         It now lives at <%= link_to('METHOD & MATTER', '/') %> and was last updated on <%= current_page.data.updated %>
       <% end %>
+  <% end %>
+
+  <% if current_page.data.label == "Note" %>
+    <p>This note was first published on <%= current_page.data.date %> and is currently a <strong><%= current_page.data.status %></strong>.
   <% end %>
   </section>
 
