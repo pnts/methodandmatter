@@ -453,6 +453,9 @@ input[type=submit] {
   > p {
     margin-top: 1rem;
   }
+  ol ul {
+    list-style-type: disc;
+  }
 }
 
 .content h2, .content h1 {
@@ -1438,4 +1441,8 @@ article {
       margin-top: 0;
     }
   }
+}
+
+.welcome-to-coaching .col-2 a {
+  background-color: $warm-highlight;
 }
