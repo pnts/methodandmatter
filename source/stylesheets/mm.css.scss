@@ -1443,6 +1443,20 @@ article {
   }
 }
 
+.lac-signup {
+  .inner {
+    max-width: 48rem;
+    margin: 5rem auto 6rem auto;
+    input#bd-email {
+      border: 1px solid #E0E0E0;
+      width: 20rem;
+      @include breakpoint(large) {
+        width: 38rem;
+      }
+    }
+  }
+}
+
 .welcome-to-coaching .col-2 a {
   background-color: $warm-highlight;
 }
