@@ -1058,10 +1058,12 @@ p.teacher {
 }
 
 .col-1.notes {
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  hyphens: auto;
-  -webkit-hyphenate-character: "-";
+  p {
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    -webkit-hyphenate-character: "-";
+  }
   @include breakpoint(large) {
     width: 41.5rem;
   }
@@ -1191,7 +1193,20 @@ p.teacher {
   font-weight: $font-weight-light;
 }
 
-
+.words-make-worlds ul.issue-list {
+  list-style-type: none;
+  margin-top: 3rem;
+  li {
+    margin-left: 0;
+    h3 {
+      font-size: 1.2rem;
+      margin-bottom: 0;
+    }
+    h2 {
+      margin-top: 0;
+    }
+  }
+}
 
 
 //////

@@ -40,16 +40,17 @@ layout: content
     <p>Words Make Worlds is a bi-weekly newsletter dedicated to the art, science, and craft of the Coaching Leadership Style. Each issue focuses on one specific aspect of coaching &mdash; a methodology, tool, mindset, process, or approach &mdash; breaking it down into two areas of exploration. "The Idea" covers the conceptual side of things, while "The Practice" provides practical applications leaders can use experiment with The Idea at work.</p>
 
     <p>Check out previous issues below and sign-up to receive future ones in your inbox!</p>
-</section>
 
-<hr />
+    <hr />
 
-<section>
-  <div class="three-col-grid">
+    <ul class="issue-list">
+    <% blog('words-make-worlds').articles.each do |article| %>
+      <li>
+        <h3>Season <%= article.data.season %>, <%= article.data.seasonname %></h3>
+          <h2>Issue <%= article.data.issue %>: <%= link_to article.data.title, article %></h2>
+      </li>
+      <%#= link_to image_tag(article.data.image), article %>
+    <% end %>
+    </ul>
 
-  <% blog('words-make-worlds').articles.each do |article| %>
-    <%= link_to image_tag(article.data.image), article %>
-  <% end %>
-
-  </div>
 </section>
