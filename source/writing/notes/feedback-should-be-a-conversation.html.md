@@ -5,7 +5,7 @@ keywords: "feedback, conversations, teams, organizations, improvement"
 image: "og/og-symbol.png"
 
 title: Feedback Should Be a Conversation
-subtitle: 
+subtitle:
 tags: "feedback, conversations"
 status: seedling
 

@@ -107,10 +107,9 @@ layout: content
 
 <hr />
 
-<!-- <section class="hero">
+<section class="hero">
   <div class="text">
     <h1>Notes</h1>
-    <p></p>
   </div>
 </section>
 
@@ -121,7 +120,12 @@ layout: content
   </div>
 
   <div class="col-2">
-    <div class="content>"
-
+      <% sitemap.resources.select { |r| r.path.start_with?('writing/notes/') }
+      .sort_by { |r| Date.parse(r.data.date) rescue Date.new(1970,1,1) }
+      .reverse
+      .each do |post| %>
+        <h3><%= link_to post.data.title, post.url %></h3>
+        <%#= post.render(layout: false) %>
+      <% end %>
   </div>
-</section> -->
+</section>
