@@ -961,22 +961,22 @@ p.teacher {
     margin-bottom: 2rem !important;
   }
   .kp-post {
-    border: 1px solid #CCC;
+    //border: 1px solid #CCC;
     margin-bottom: 2rem;
-    display: grid;
-    grid-template-areas:
-      "coverimage"
-      "meta";
+    //display: grid;
+    //grid-template-areas:
+    //  "coverimage"
+    //  "meta";
 
-    @include breakpoint(medium) {
-      grid-template-rows: auto;
-      grid-template-columns: 1fr 4fr;
-      grid-template-areas:
-        "coverimage meta";
-    }
+    //@include breakpoint(medium) {
+    //  grid-template-rows: auto;
+    //  grid-template-columns: 1fr 4fr;
+    //  grid-template-areas:
+    //    "coverimage meta";
+    //}
 
     h2 {
-      font-size: .9rem;
+      font-size: .8rem;
       text-transform: uppercase;
       margin-top: 0;
       margin-bottom: -.5rem;
@@ -984,7 +984,7 @@ p.teacher {
 
     h3 {
       margin-top: 0;
-      font-size: 1.5rem;
+      font-size: 1.8rem;
     }
 
     img {
@@ -999,10 +999,10 @@ p.teacher {
       }
     }
 
-    .meta {
-      grid-area: meta;
-      margin: auto 1.5rem;
-    }
+    //.meta {
+    //  grid-area: meta;
+    //  margin: auto 1.5rem;
+    //}
   }
 }
 

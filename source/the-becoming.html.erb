@@ -45,11 +45,11 @@ layout: content
 
     <% blog('the-becoming').articles.each do |article| %>
       <div class="kp-post">
-        <%= image_tag article.data.image %>
+        <%#= image_tag article.data.image %>
 
         <div class="meta">
-          <h2><%= article.date.strftime('%B %Y') %></h2>
-          <h3><%= link_to article.data.description, article %> </h3>
+          <h2><%= article.data.description %></h2>
+          <h3><%= link_to article.data.title, article %> </h3>
         </div>
       </div>
     <% end %>
