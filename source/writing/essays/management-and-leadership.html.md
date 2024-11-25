@@ -38,6 +38,7 @@ A few things managers do:
 ## On Leadership
 
 Leaders, in organizations or otherwise, have the ability to bring people together; to align, inspire, and empower them towards a common vision. Leaders honor both the work to be done, and the people doing it. Their power doesn’t come from a title, but instead from the relationships they’ve built. **Personal power** is given to leaders by individuals who believe they are worth following and looking to for direction.
+
 Historically, managers weren’t necessarily expected to have great leadership skills or experience. Positional power was enough to get the job done. These days, teams expect their managers to also be great leaders. After all, people don’t leave jobs, they leave managers.
 
 A few things leaders do:

@@ -21,7 +21,8 @@ The Coaching Leadership Style (CLS) is an approach to leadership that focuses on
 
 ## What are Leadership Styles?
 
-Leadership Styles are a set of core characteristics that describe how a leader leads. When people step into their first leadership role their style emerges organically from past experiences, current beliefs, personality patterns, and what they value most — accomplishment, collaboration, challenge, being recognized, feeling competent, etc. Sometimes the emergent leadership style is congruent with the organization and environment a leader is working in, but at some point leaders find themselves in a situation where their leadership style suddenly seems to stop working.
+Leadership Styles are a set of core characteristics that describe how a leader leads. When people step into their first leadership role their style emerges organically from past experiences, current beliefs, personality patterns, and what they value most&mdash;accomplishment, collaboration, challenge, being recognized, feeling competent, etc. Sometimes the emergent leadership style is congruent with the organization and environment a leader is working in, but at some point leaders find themselves in a situation where their leadership style suddenly seems to stop working.
+
 When this happens the default style, which had been functioning happily and invisibly in the background, is made visible. Leaders realize they have a choice in how they lead and that it is possible to be more effective in their roles by learning new styles. Over time leadership moves from an unconscious expression of beliefs about what leadership should be, to a conscious commitment to lead uniquely from an aware, responsive, and integrated place. When a leader reaches this point they are able to tailor their leadership style specifically for the needs of any given situation.
 
 ## Types of Leadership Styles
@@ -34,7 +35,7 @@ Goleman's six leadership styles based on Emotional Intelligence, via [HBR](https
 {: .caption}
 
 
-I use these frameworks as more of a heuristic than an exact science — useful tools for understanding and reflecting on the set of skills experienced leaders should have access to. In practice, leadership styles don’t fit into neat categories — most leaders embody a mix of several — so it is important to be conscious of which is being used and why. The work of a leader, at least some of it, is to notice their style in action and learn what it says about how they view both themselves and others. When this becomes clear leaders respond with increased awareness, utilizing different styles with intention, in order to be truly effective.
+I use these frameworks as more of a heuristic than an exact science&mdash;useful tools for understanding and reflecting on the set of skills experienced leaders should have access to. In practice, leadership styles don’t fit into neat categories&mdash;most leaders embody a mix of several&mdash;so it is important to be conscious of which is being used and why. The work of a leader, at least some of it, is to notice their style in action and learn what it says about how they view both themselves and others. When this becomes clear leaders respond with increased awareness, utilizing different styles with intention, in order to be truly effective.
 
 
 ## What is the Coaching Leadership Style?
@@ -44,6 +45,7 @@ The Coaching Leadership Style (CLS) is an orientation to leadership that is buil
 While Situational Leadership integrates aspects of coaching into its theory of leadership, CLS is more comprehensive in its coaching approach and utilizes coaching not just for skills development, but to support people with attitude misalignments (lack of confidence, limiting beliefs, fear, uncertainty), increased ownership of their own development, and long term excellence and professional goals.
 
 The Coaching Leadership Style is also different in the way it utilizes curiosity and learning as the lens through which development, growth, and action happen. It is solutions-oriented and action-based, embodying a true co-creative partnership with others to improve performance and develop long-term strengths. Of all the leadership styles I’ve come across, the coaching leadership style is the most comprehensive when it comes to integrating care, positive regard, high standards, accountability, and direct conversations that empower both the leader and their team to achieve outcomes, overcome challenges, and embrace possibilities in creative ways. It is also a powerful way to close the [knowing-doing gap](https://www.gsb.stanford.edu/insights/knowing-doing-gap) and implement long-lasting, transformational change.
+
 Elements of the Coaching Leadership Style include:
 
 - A strengths-based approach to change
@@ -62,7 +64,7 @@ A Few Benefits of the Coaching Leadership Style:
 - Less stress
 - Deeper capacity to be with uncertainty and ambiguity
 
-The CLS consists of two tracks — self development and the development of others. For a leader to be effective as a coach they must also engage in their own developmental work bringing self-awareness, reflection, and new actions to their own way of being in the world and relating with others. Because of this, it is also the most self-reflective of the leadership styles.
+The CLS consists of two tracks&mdash;self development and the development of others. For a leader to be effective as a coach they must also engage in their own developmental work bringing self-awareness, reflection, and new actions to their own way of being in the world and relating with others. Because of this, it is also the most self-reflective of the leadership styles.
 
 ## Why it matters
 
