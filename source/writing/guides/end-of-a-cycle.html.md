@@ -16,20 +16,20 @@ status: evergreen
 date: December 13, 2022
 published: true
 
-updated: June 20th, 2023
+updated: December 3rd, 2024
 original: Medium
 olink: "https://medium.com/method-matter/at-the-end-of-the-year-bd201ea99541"
 ---
 
-We live our lives within the rhythms and cycles of the physical world. Our calendars commemorate this by marking each full rotation of the earth as a day, the total cycle of the moon around the earth as a month, and the complete trip of the earth around the sun as a year. Though modern life and the Time Grid[^1] suggest otherwise, our animal bodies are intimately tied to these rhythms through circadian cycles that let us know when to rest and when to move.
+We live our lives within the rhythms and cycles of the physical world. Our calendars commemorate this by marking each full rotation of the earth as a day, the total cycle of the moon around the earth as a month, and the complete trip of the earth around the sun as a year. While modern life and the Time Grid[^1] suggest otherwise, our animal bodies are intimately tied to these rhythms through circadian cycles that let us know when to rest and when to move.
 
-The end of the year, the equinox, the solistice, the end of a quarter - these can all be an auspicious and meaningful times to pause, reflect, and celebrate. To deepen what is congruent and course correct where we feel out of alignment. “At the End of the Cycle” is an exercise in service of you and your journey, and it can be completed whenever it is you feel called to mark some kind of transition, yearly[^2] or otherwise.
+The completion of a cycle&mdash;the end of the year, the equinox, the solistice, the end of a quarter&mdash;is an auspicious and meaningful time to pause, reflect, and celebrate. To deepen what is congruent and course correct what is out of alignment. “At the End of the Cycle” is an exercise in service of you and your journey, and it can be completed whenever you feel called to mark a transition, yearly[^2] or otherwise.
 
 This exercise has three parts:
 
-- **Part 1: Becoming the Being That You Are.** A macro level reflection about who you are and what you are becoming. Think of this as a snapshot of what holds deep meaning and resonance for you and your life, and less about the particular events of the last cycle.
-- **Part 2: Reflecting on the Past Cycle.** Understanding what shaped you over the course of the past cycle. This takes a more traditional reflection approach across various dimensions of life.
-- **Part 3: Declaring Future Possibilities.** Writing a letter to Future You, who will be starting the reflection process some time from now (whether that is in 3 months, 6 months, a year is entirely up to you). The letter acts as a synthesis of the work you did in Part 1 and Part 2, while simultaneously weaving in commitments about the future you are creating [^3].
+- **Part 1: Becoming the Being That You Are.** A macro level reflection about who you are and who you are becoming. Think of this as a snapshot of what holds deep meaning and resonance for you and your life, and less about the particular events of the last cycle.
+- **Part 2: Reflecting on the Past Cycle.** Understanding what shaped you over the course of the past cycle. This takes a more traditional reflective approach across various dimensions of life.
+- **Part 3: Declaring Future Possibilities.** Writing a letter to Future You, who will be starting the reflection process some time from now (whether that is in 3 months, 6 months, a year is entirely up to you). The letter acts as a synthesis of the work you did in Part 1 and Part 2, while simultaneously weaving in commitments to the future you are creating [^3].
 
 If you’d prefer that in business terms:
 
@@ -54,17 +54,17 @@ Photo by [Mason Kimbarovsky](https://unsplash.com/photos/-GlDIYT3qSc)
 The intention of this exercise is to facilitate a macro understanding of who you understand yourself to be, in this very moment. Of sensing into what it is you long for and what holds you back. To connect with your wholeness, areas of resistance, and the possibilities that open up when you can hold both, together.
 
 ### Who you are
-Take a few breaths and connect with yourself in this moment. What are you in connection with, what felt senses are arising, and what is your capacity to be with what is here, now? Answer the following questions:
+Take a few breaths and settle into the present moment. Allow your attention to settle on your mind, body, and heart. Let everything else fall away&mdash;memories of the past, concerns about the future, worries of the present&mdash; let it all go. Notice whatever you are in connection with&mdash;thoughts, images, sensations, tension, energy, longings etc. and answer the following questions:
 
 - Who am I in this moment? Who do I understand myself to be?
 - What am I up to in the world?
-- What matters?
-- What do I really believe?
-- What do I really want?
+- What _really_ matters?
+- What do I _really_ believe?
+- What do I _really_ want?
 - How do my thoughts, practices, moods, and habits contribute to my sense of who I am?
 
 ### How You Resist
-As you worked through the previous exercise, did you notice any resistance to what you were thinking, feeling, and writing? As you begin to observe the resistance, answer the following questions:
+As you worked through the previous exercise, did you notice any resistance to what you were thinking, feeling, and writing? As you begin to observe your resistance, answer the following questions:
 
 - What am I resisting?
 - How do I do that?
@@ -84,7 +84,7 @@ Who you are and how you resist are all part of your wholeness, the system of you
 ---
 
 ## Part 2: Reflecting on the Past Cycle
-The second exercise in this series takes a more traditional reflection route, and uses the events of the last cycle to acknowledge and celebrate the accomplishments, challenges, surprises, and meaning that shaped you. Some folks like to go through their calendar, photos, journals, bank accounts, and other artifacts before jumping into the reflection questions.
+The second exercise in this series takes a more traditional reflective route, and uses the events of the last cycle to acknowledge and celebrate the accomplishments, challenges, surprises, and meaning that shaped you. Some folks like to go through their calendar, photos, journals, bank accounts, and other artifacts before jumping into the reflection questions.
 
 - What went well?
 - What needs to be celebrated?
@@ -126,12 +126,13 @@ When answering the questions in Part 2, it can be useful to reflect on specific 
 Once you feel complete with the appreciation and reflection exercises, give yourself space to let the work settle. This may look like taking a break (15 minutes, 1 day, 1 week, whatever feels right for you), creating a completion ritual, changing locations, having a mini-dance party, making some tea, really anything that can give you a sense of closing out and completing the first part of the process.
 
 When you are ready to begin The Letter, take a few moments to settle your mind. Sit quietly and follow your breath, feel your feet on the floor and your seat in the chair. What do you notice? What sensations are you aware of? Allow the impressions from your reflections to float into your awareness.
-Imagine you are sitting across from your future self, one year from today. Your future self that has just started the yearly reflection process. The first thing your future self will do is read the letter you are about to write.
 
-What do you want Future You to know? Sitting here now, in this exact moment, what seeds of the future do you hold and what hopes do you have for what these seeds will grow into? What do you want your future self to know about who you are and what you long for? Your hopes and dreams? What you are committed to? If you are a goal-oriented person, this is a great place to talk about the goals you set and achieved.
+Imagine you are sitting across from your future self, one cycle from today. Your future self that has just started the reflection process. The first thing your future self will do is read the letter you are about to write.
 
-_There is absolutely no wrong way to do this._ However you feel called to communicate with Future You a year from now, do that. A letter, a video, a song, a collage, whatever captures what you are living into. Allow your creativity and heart to lead this process.
-When you are finished with the letter, put it somewhere safe. You will read it one year from now when you sit down once again to reflect on the year and the person you are becoming.
+What do you want Future You to know? Sitting here now, in this exact moment, what seeds of the future do you hold and what hopes do you have for what these seeds will grow into? What do you want your future self to know about who you are and what you long for? Your hopes and dreams? What you are committed to? If you are a goal-oriented person, this is a great place to talk about the goals you will have set and achieved one cycle from now.
+
+_There is absolutely no wrong way to do this._ However you feel called to communicate with Future You one cycle from now, do that. A letter, a video, a song, a collage, whatever captures what you are living into. Allow your creativity and heart to lead this process.
+When you are finished with the letter, put it somewhere safe. You will read it one cycle from now when you sit down once again to reflect on another cycle and the person you are becoming.
 
 ---
 
