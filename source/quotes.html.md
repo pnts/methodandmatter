@@ -9,8 +9,6 @@ layout: newsletter
 
 &mdash; Héon, François; Jones-Patulli, Jennifer; Damart, Sébastien; Davis, Albie. The Essential Mary Parker Follett: Ideas We Need Today. Kindle Edition.
 
-HI NETLIFY?!!!
-
 > The unifying of difference is the eternal process of life – the creative synthesis, the highest act of creation, the at-onement.
 
 &mdash; Héon, François; Jones-Patulli, Jennifer; Damart, Sébastien; Davis, Albie. The Essential Mary Parker Follett: Ideas We Need Today. Kindle Edition.
