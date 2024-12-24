@@ -2,12 +2,12 @@
 title: Quotes I love.
 keywords: quotes
 image: "og/mm-simple.png"
-layout: content
+layout: newsletter
 ---
 
 > Each must discover and contribute that which distinguishes him from others, his difference. The only use for my difference is to join it with other differences. The unifying of opposites is the eternal process. We must have an imagination which will leap from the particular to the universal. Our joy, our satisfaction, must always be in the more inclusive aspect of our problem.
 
-&mash; Héon, François; Jones-Patulli, Jennifer; Damart, Sébastien; Davis, Albie. The Essential Mary Parker Follett: Ideas We Need Today . UNKNOWN. Kindle Edition. 
+&mdash; Héon, François; Jones-Patulli, Jennifer; Damart, Sébastien; Davis, Albie. The Essential Mary Parker Follett: Ideas We Need Today . UNKNOWN. Kindle Edition.
 
 > The unifying of difference is the eternal process of life – the creative synthesis, the highest act of creation, the at-onement.
 
