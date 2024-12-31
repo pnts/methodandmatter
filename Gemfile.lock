@@ -91,12 +91,10 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.9)
-      strscan
+    rexml (3.3.9)
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
-    strscan (3.1.2)
     temple (0.8.2)
     thor (1.1.0)
     tilt (2.0.10)
@@ -117,7 +115,7 @@ DEPENDENCIES
   middleman-autoprefixer (~> 2.7)
   middleman-blog (~> 4.0)
   rack (~> 2.2.3.1)
-  rexml (~> 3.2.7)
+  rexml (~> 3.3.9)
   tzinfo-data
   wdm (~> 0.1)
   webrick (~> 1.8.2)
