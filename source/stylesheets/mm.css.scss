@@ -8,7 +8,7 @@
 body {
   margin: 0;
   color: $main-text;
-  background: #FCFCFC;
+  background: #FEFEFE;
 }
 
 a {
@@ -175,6 +175,20 @@ hr {
   }
 }
 
+.index .hero {
+  h1 {
+    font-size: 4rem;
+    line-height: 6rem;
+  }
+  @include breakpoint(large) {
+    h1 {
+      font-size: 3.5rem;
+      line-height: 5rem;
+      max-width: 60rem;
+    }
+  }
+}
+
 .coaching .hero {
   h1 {
     line-height: 5rem;
@@ -197,8 +211,8 @@ hr {
 }
 
 .nav-paragraphs {
-  margin-top: 4rem;
-  max-width: 44rem;
+  //margin-top: 4rem;
+  max-width: 48rem;
   .bullets {
     margin-top: 2rem;
   }
@@ -213,9 +227,12 @@ hr {
     line-height: 2.4rem;
     margin-bottom: 3rem;
   }
-  .mini {
-    margin-top: 1.5rem;
-    margin-bottom: 2.5rem;
+
+  @include breakpoint(large) {
+    padding:  2rem 0 1rem 3rem;
+    p {
+      max-width: 42rem;
+    }
   }
 }
 
@@ -230,7 +247,7 @@ hr {
       //max-width: 55rem;
     }
     h1 {
-      max-width: 50rem;
+      max-width: 60rem;
     }
     h2 {
       margin-top: 2rem;
@@ -258,6 +275,25 @@ hr {
     margin-right: 4rem;
     margin-bottom: 2rem;
     max-width: 90%;
+  }
+}
+
+.newsletter-lockup {
+  background: $cool-highlight;
+  padding: 1rem 2rem 3rem 2rem;
+  border-radius: 1rem;
+}
+
+.nav-lockup {
+  h4 {
+    font-size: 1.3rem;
+    line-height: 1.9rem;
+  }
+}
+
+.newsletter-lockup {
+  p {
+    margin: 1.5rem auto 1rem auto;
   }
 }
 
@@ -545,6 +581,20 @@ input[type=submit] {
   }
 }
 
+.mini-bio {
+  img {
+    @include breakpoint(large) {
+      float: left;
+      margin-right: 2rem;
+      width: 15rem;
+    }
+    border-radius: 5rem;
+  }
+  p {
+    padding-top: .5rem;
+  }
+}
+
 //////
 //////
 ////// Newsletter Signups
@@ -744,16 +794,16 @@ ul.bullets {
   margin-bottom: 2rem;
   li {
     margin-bottom: .7rem;
-    line-height: 1.7rem;
+    line-height: 1.9rem;
   }
 }
 
 ul.bullets, ol {
   padding-left: 2rem;
   @include breakpoint(large) {
-    padding-left: 3rem;
+    padding-left: 2rem;
   }
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   p {
     margin: .7rem 0;
   }
@@ -1490,4 +1540,17 @@ article {
 .blockquote-right {
   display: block;
   text-align: right;
+}
+
+.fox {
+  //position: relative;
+  @include breakpoint(large) {
+    margin-top: -13rem;
+  }
+  margin-bottom: -7rem;
+  img {
+    width: 20rem;
+    display: block;
+    margin-left: auto;
+  }
 }
