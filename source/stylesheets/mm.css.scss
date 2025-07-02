@@ -1543,7 +1543,6 @@ article {
 }
 
 .fox {
-  //position: relative;
   @include breakpoint(large) {
     margin-top: -13rem;
   }
