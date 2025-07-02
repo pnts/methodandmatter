@@ -1560,3 +1560,10 @@ article {
     margin-top: -19rem;
   }
 }
+
+.who .fox {
+  @include breakpoint(large) {
+    margin-top: -17rem;
+  }
+  margin-bottom: -5rem;
+}
