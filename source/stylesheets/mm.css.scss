@@ -1548,8 +1548,15 @@ article {
   }
   margin-bottom: -7rem;
   img {
-    width: 20rem;
     display: block;
-    margin-left: auto;
+    width: 20rem;
+  }
+}
+
+.index .fox img {
+  margin-left: auto;
+  width: 25rem;
+  @include breakpoint(large) {
+    margin-top: -19rem;
   }
 }
