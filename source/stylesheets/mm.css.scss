@@ -576,6 +576,7 @@ input[type=submit] {
 .bio {
   margin-top: 0;
   margin-bottom: 1rem;
+  border-radius: 5rem;
   @include breakpoint(large) {
     margin-top: 2rem;
   }
