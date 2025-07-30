@@ -1,0 +1,61 @@
+---
+label: Essay
+description: A more detailed look at the reflection and meaning making part of the coaching conversation, and how experience is transformed into learning.
+keywords: "Coaching Leadership Style, Leader as Coach, Coaching for Leaders, Manager as Coach"
+image: "og/og-words-make-worlds.png"
+
+title: Reflection and Meaning Making
+subtitle: Transforming experience into learning.
+tags: coaching, CLS, methodology, process
+status: evergreen
+category: methodology
+
+date: December 11th, 2023
+published: true
+
+updated:
+original: Words Make Worlds
+olink: "/words-make-worlds"
+---
+
+Welcome to 🌍 [Words Make Worlds](https://methodandmatter.com/words-make-worlds), Issue 11! I'm [Andi](https://methodandmatter.com/about), and this week we continue our journey through the stages of the coaching process, taking a look at the role of reflection and meaning making in a coaching conversation (the "So What?" part of the process model). If you are just joining us you might want to start with [Issue 9 - The Coaching Process](https://methodandmatter.com/words-make-worlds/009/) and then check out [Issue 10 - Noticing and Exploring](https://methodandmatter.com/words-make-worlds/010/).
+
+## The Idea
+
+> "Reflection, a key aspect of coaching, involves helping the individual stop and remember the action in which they have been engaged, think through the details, consider what worked and what did not work and consider the causes and implications of the same. Reflection seems to be most effective when done in the presence of others."
+
+A quick summary of where we're at in the coaching process: you've set the focus of the conversation, you've done some exploration work to facilitate deeper awareness, and you've widened the field of inquiry to invite new perspectives by using open and honest questions. The conversation so far has shed light on the underlying dynamics, assumptions, or perceptions that supports the current behavior of the person you are working with, behavior they may want to change. Essentially what you have done up to this point is to increase the amount of _information_ available to be used as material in the coaching conversation.
+
+What do you do with all of this new information? You facilitate a process of reflection and meaning making, creating space for the person you are working with to make new connections and insights from what they have uncovered. This is the "So What?" part of the process where people conceptually process what they are learning from the experience - both the experience itself and the new awareness that has been created through exploring the experience. Where they can make sense of what has happened and give it meaning. This is a crucial part of the process because meaning making is what transforms experience into learning.
+
+As meaning making takes place, new stories emerge about how the person you are working with understands themselves, their relationships with the people around them, and their own role in creating the opportunities and outcomes they long for. The creation of new stories loosens the grip of the old ones, revealing them for what they are - stories rather than truths. Over time these new stories influence how a person experiences themselves, their colleagues, and their work. They invite new ways of thinking, doing, and being. Stories become recipes for structuring experience and meaning making is foundation on which new possibilities emerge.
+
+## The Practice
+We covered some questions for the "So What?" phase of the cycle, and I'll add a few new ones since we are explicitly focusing on reflection and meaning making this issue. The key idea to keep in mind here is that as a coach you are asking questions and creating space for the person you are working with to bring new insight and meaning to the information you have uncovered in the exploration phase.
+
+- What sense are you making of this?
+- How is your understanding of the situation changing?
+- What feels important in all of this?
+- What makes this important?
+- What does this mean to you?
+- What feels different?
+- What are you discovering about yourself? Others? - The situation?
+- What habitual patterns are you noticing?
+- What does this remind you of?
+- What would you like to be different?
+- What still needs to be considered/included?
+- What new meaning is beginning to emerge?
+- What is the story you are telling yourself now?
+
+Meaning making questions support another person to question their assumptions, reframe their perspective, and see the situation in new ways. They illustrate the ways in which we mistake our _interpretation_ of how things are as truth, and invite a deeper consideration of what else might be happening. Words make worlds, and when we step into meaning making with another person we create the space for new meaning and new worlds to emerge.
+
+---
+
+## Quotes I ❤️
+> "Coaching is a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person. An effective coaching relationship creates a safe and challenging environment in which learning can take place. Coaches know that an oak tree already exists within an acorn. They have seen the one grow into the other, over time and under the right conditions, and are committed to providing those conditions to the best of their abilities. Successful coaches continually learn how best to "farm" the potential they are given to nurture."
+
+&mdash; Tim Gallowey, "[The Inner Game of Work: Building Capability in the Workplace](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)"
+
+---
+
+As always, thank you for being here. If you have a moment hit reply ↩️ - I'd love to hear how you are integrating coaching into your leadership practice at work or what you'd love to have me cover in future issues. See you in a few weeks!

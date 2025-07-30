@@ -1,0 +1,119 @@
+---
+label: Essay
+description: Free your attention to use it intentionally in service of developing potential and deepening self awareness.
+keywords: "Coaching Leadership Style, Leader as Coach, Coaching for Leaders, Manager as Coach"
+image: "og/og-words-make-worlds.png"
+
+title: The Loop of Awareness
+subtitle: A tool for using attention with intention.
+tags: coaching, CLS, foundations, awareness, tools
+status: evergreen
+category: foundations
+
+date: September 3rd, 2023
+published: true
+
+updated:
+original: Words Make Worlds
+olink: "/words-make-worlds"
+---
+
+Hello, happy September, and welcome to another issue of [_Words Make Worlds_](https://methodandmatter.com/words-make-worlds)! I'm Andi, and today we're going to be learning a tool for increasing awareness and using attention with intention.
+
+---
+
+## The Idea
+Our attention is one of the most powerful tools we can use in coaching. What we pay attention to informs how we perceive and interpret the world around us. But most of us, over the course of a lifetime, have developed patterns of perception that freezes us in a narrow band of reality. We learn to pay attention to certain things and discount others, and in doing so reinforce attention loops that are particular to our own individual experience of the world.
+
+If you think about it, this is where a lot of miscommunication and disagreement comes from. People in the same situation experience it in radically different ways because of what they are paying  attention to. For example, take the common occurrence of a meeting where disagreement was expressed. For someone whose attention loop is highly focused on emotions, they might feel the meeting was tense and filled with conflict. For another person who focuses on ideas, they might have walked away from the meeting feeling invigorated and challenged. And yet a third person whose attention seeks out the information they need to take action, they might leave the meeting frustrated that progress wasn't made. Same meeting, wildly different experiences and interpretations of what happened.
+
+It takes practice to "unhook" our attention and develop the capacity to take in more of the world, and to do so without adding layers of interpretation and story. To start to see the habitual patterns that have shaped our sense of how the world is, and see that we have constructed a particular version of reality that is specific to our personal way of being.
+
+The Loop of Awareness, developed by [Gay and Katie Hendricks](https://hendricks.com), is a useful tool for freeing our attention and breaking out of habitual patterns of perception. It teaches us how to consciously use our attention, whether we keep it wide to see the big picture or narrow in on something particular to see the details. When we learn how to use our attention in this way we can bring a deeper level of awareness to coaching conversations, giving us more information to work with in support of learning and growth.
+
+## The Practice
+
+Begin by directing your attention to yourself.
+
+Notice how you are in this moment&mdash;maybe you pick up on your breathing, or a sensation in your body, or your posture. There are so many things you can notice&mdash;don't try to notice them all! Just pick up on one or two things. Let your attention rest long enough to note your state.
+
+Now direct your attention to the space around you.
+
+Get curious! Notice something in your environments. Objects nearby, textures, the quality of the light, the temperature, movement, etc.
+
+Direct your focus back to yourself.
+
+And then go back outside yourself again to the space around you.
+
+Keep moving your attention back and forth. Do so in a way that feels natural and comfortable. Consciously shift back and forth, allowing your attention to deepen your awareness of what is happening right now, this very minute, inside and outside yourself. As you do this, feel how powerful your attention can be when used in a conscious and supportive way.
+
+If you want, try oscillating your attention out and in rapidly. Or really slowly. Experiment with different rhythms of moving your attention. **Leave judgement behind and simply notice what you notice**.
+
+You can also do this with a person, instead of the space around you. The process is the same, except when you go outside yourself your focus rests on another person, rather than the space around you, so what you notice might be different.
+
+## Reflection Prompts
+Notice your own pace and pattern of shifting attention.
+
+- Where does your attention sit naturally? Does it rest more on your inward state, or is it more focused on the outer world?
+- What is it like to move your awareness with intention? What is easy or hard about the process?
+- How do you shift your awareness, what is it that you shift? Your eyes? Your thoughts? Your body?
+- What is the rhythm of your oscillation? What cadence feels most comfortable? Most uncomfortable?
+- What are you learning about your patterns of focus and awareness? What will you do with this information?
+
+## Things Of Which We Can Be Aware
+An incomplete list of things to bring your attention to, compiled by [Edwin Nevis](https://www.routledge.com/Organizational-Consulting-A-Gestalt-Approach/Nevis/p/book/9780881632491):
+
+**Sensations**
+
+- The outcomes of seeing: sights
+- The outcomes of hearing: sounds
+- The outcomes of touching: textures, tactility
+- The outcomes of gustation: tastes
+- The outcomes of olfaction: smells
+- The outcomes of proprioception: body tissue/kinesthetic stimulation (tendons, muscles, etc.)
+
+**Internal Verbalizations and Visualizations**
+
+- Thinking, ruminating, internal dialogue
+- Planning, wishing, hoping
+- Memory, remembering past events, history
+- Dreams and fantasies
+
+**Feelings**
+
+- Happiness, pleasure, contentment
+- Elation, zest, lust, joy, confidence
+- Sadness, depression, helplessness, despair
+- Fear, disgust, shame, remorse
+- Respect, awe, admiration, wonder, reverence
+- Irritation, rage, anger, jealousy, hatred
+- Vanity, self-confidence, pride
+- Affection, love, warmth, empathy
+- Boredom, indifference, scorn
+- Tenderness, compassion, pity
+- Guilt, anxiety
+
+**Values**
+
+- Predispositions, sets, inclinations, theories
+- Judgements and attributions
+- Summaries or generalizations of past experience
+- Nature of boundaries, prejudices
+
+**Interpersonal and Group Interactions**
+
+- Participation patterns
+- Communication styles
+- Figural elements: content, energy, differences
+- Functional activities
+- Norms
+- Atmosphere, climate
+
+---
+
+## What Are You Learning?
+I'd love to know how your practices are going and what you are learning. If this feels in alignment for you, just reply to this email!
+
+Until next time,
+
+Andi

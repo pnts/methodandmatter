@@ -1,0 +1,61 @@
+---
+label: Essay
+description: Structures that hold the work, practices, and commitments of how we lead and live.
+keywords: "Coaching Leadership Style, Leader as Coach, Coaching for Leaders, Manager as Coach"
+image: "og/og-words-make-worlds.png"
+
+title: "The Learning Container"
+subtitle: "Structures that hold the work, practices, and commitments of how we lead and live."
+tags: coaching, CLS, foundations, practices
+status: evergreen
+category: foundations
+
+date: August 6th, 2023
+published: true
+
+updated:
+original: Words Make Worlds
+olink: "/words-make-worlds"
+---
+
+Welcome to Issue 2 of _Words Make Worlds_, a newsletter dedicated to the art, science, and craft of the Coaching Leadership Style. This week we take a look at learning containers, why they are important for developing a Coaching Leadership Style, and how to set one up for yourself.
+
+## The Idea
+A learning container is a structure that holds the work, practices, and commitments required to live into a new way of leading or living. For the purpose of this newsletter the work and commitment is to develop a way of being that can facilitate powerful coaching conversations. Coaching is about building awareness, taking new action, and reflecting on the outcomes as a way of learning and growing through experience. It requires keen self-awareness and deep curiosity about others. Embarking on the coaching path can be uncomfortable and challenging, the way forward isn't always clear, and development is a decidedly non-linear path. So when we're learning coaching skills and we want to shift how we're showing up with our teams, we can create a container to remind us of our commitment every day.
+
+Containers can take many forms. Just step outside and take a walk in a forest - you'll quickly realize [​nature is a vast container​](https://onbeing.org/blog/parker-palmer-theres-a-place-for-every-question-in-the-vast-container-of-nature/). For the purpose of learning the Coaching Leadership Style the container is much more simple, consisting of a morning mindfulness practice and some evening reflections.
+
+## The Practice
+**In the Morning**
+
+Spend five minutes each morning connecting with yourself. Preferably before you check your phone, email, or any digital screens. Take a few breaths all the way down to your belly. Feel where your body has contact with another surface (maybe you are lying in bed, sitting in a chair, standing at the window, etc). What are you aware of? What sensations, emotions, and thoughts are you noticing? What do you notice about the environment you are in? Allow yourself to be fully present with whatever is showing up, even if it brings some discomfort.
+
+Starting the day with a small mindfulness checkin builds our capacity to be present and aware in each moment. As this practice becomes a natural part of our daily routine and our awareness muscles grow, we will suddenly find moments at work where we have access to the same level of presence, making it easier to observe our thoughts, emotions, and actions from a more conscious place. Seeing the habitual thoughts and emotional reactions that shape our behavior is the first step in building the capacity to take creative and choiceful action.
+
+**In the Evening**
+
+Reflect on you day. At the end of each day - either when the work day is done or when you are winding down for the night -  reflect back and answer the following questions:
+
+- What were my dominate emotions today?
+- What thoughts/thought patterns showed up the most?
+- What actions did I take? What actions did I avoid?
+- How did my thoughts, emotions, and actions contribute to the outcomes I was trying to achieve? How did they get in the way?
+
+Paired with the morning mindfulness practice, the reflection questions contribute to building the muscle of self-observation. This is the first step in developing a Coaching Leadership Style - being able to observe ourselves in action and understand what (really) drives our behaviors.
+
+## Experiment!
+As we delve deeper into the skills of the Coaching Leadership Style I will offer modifications to the learning container in order to support your learning and development. But for now, over the next two weeks, experiment with creating a learning container in your life and see what emerges. And if you feel so inclined, reply to this email and let me know how its going!
+
+---
+
+## Elsewhere
+
+- [Getting Started with the Coaching Leadership Style​](https://medium.com/wordsmakeworlds/the-coaching-leadership-style-developing-self-and-developing-others-2f3fd665ba6d). Last week I spoke with Russ Unger of Chicago Camps about getting start with CLS, including a discussion of containers (link includes audio, captions, and transcript).
+
+- The cohort-based course [Leader as Coach](https://maven.com/andrea-mignolo/leader-as-coach) returns in the fall! Starting September 18th, this 6 week course provides experiential learning and hands on practice for folks who want to get started with the Coaching Leadership Style.  
+
+
+---
+
+
+Thanks for being here, happy learning, and see you in two weeks!

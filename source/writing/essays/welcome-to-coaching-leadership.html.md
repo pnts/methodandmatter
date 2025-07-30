@@ -1,0 +1,47 @@
+---
+label: Essay
+description: A brief orientation to the Coaching Leadership Style and what you can expect from this journey of learning.
+keywords: "Coaching Leadership Style, Leader as Coach, Coaching for Leaders, Manager as Coach"
+image: "og/og-words-make-worlds.png"
+
+title: "Welcome to Coaching Leadership"
+subtitle: "A brief orientation to the Coaching Leadership Style and what you can expect from this journey of learning."
+tags: coaching, CLS, foundations
+status: evergreen
+category: foundations
+
+date: July 23rd, 2023
+published: true
+
+updated:
+original: Words Make Worlds
+olink: "/words-make-worlds"
+---
+
+Hello! I am glad you are here.
+
+To kick things off, I want to share my intention behind this newsletter and what you can expect, with the caveat that things will evolve with time and feedback.
+
+_Words Make Worlds_ will (usually) arrive in your inbox every other Sunday. Each issue will contain an idea or model relevant to the Coaching Leadership Style, an experiment for putting it into practice, and journaling prompts to facilitate reflection and learning.
+
+My intention is to share practical, grounded, actionable teachings that, over time, will support you to integrate coaching skills into your leadership practice. I'll also share links to longer form articles and videos for those of you who like to go deeper with methods, theories, and frameworks.
+
+The Coaching Leadership Style consists of two tracks&mdash;developing self and developing others. You can expect as much of this work to be about _you_ as it is about your team, because powerful coaching is about presence, attention, and curiosity. This means it is important to be aware of the role your unconscious thoughts, feelings and behaviors play in creating the conditions you find yourself in as a leader.
+
+I am more convinced than ever that a coaching approach to leadership brings clarity to how we see each other, presence to how we receive each other, and the courage to hold each other accountable with care and directness. There is always more we can do to deepen our ability to be present, to ask open and honest questions, and to build trusting and collaborative partnerships that honor our humanity and unlock worlds of possibility.
+
+## Getting Started
+
+The next issue of Words Make Worlds will introduce the idea of a &ldquo;container&rdquo;&mdash;a structure that can facilitate your learning journey as you practice the skills of coaching. Until then, here are a few articles to get you more familiar with the Coaching Leadership Style.
+
+- [The Coaching Leadership Style: Developing Self and Developing Others​](https://medium.com/wordsmakeworlds/the-coaching-leadership-style-developing-self-and-developing-others-2f3fd665ba6d)
+- [The Mindset, Qualities, and Posture of a Coach](https://medium.com/wordsmakeworlds/the-mindset-qualities-and-posture-of-a-coach-28ff82c21a21)
+- [12 Essential Books for Leaders Who Coach](https://medium.com/wordsmakeworlds/12-essential-books-for-leaders-who-coach-a7620fce706a)
+- [Creating Space for Others to Think](https://medium.com/wordsmakeworlds/creating-space-for-others-to-think-30a6e8b418e1)
+
+## Thank you!
+Thanks for joining me on this journey, and see you in two weeks.
+
+With infinite gratitude,
+
+Andi
