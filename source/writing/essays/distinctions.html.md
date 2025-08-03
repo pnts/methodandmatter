@@ -18,13 +18,9 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Hello! And welcome to another edition of [_Words Make Worlds_](https://methodandmatter.com/words-make-worlds). I apologize for the delay&mdash;my computer had to be sent away for some repairs and then I was backcountry in Yosemite for a bit. But the computer is back, and I am back, so let's do this!
-
----
-
 > "Acquiring  new distinctions = improving our capacity for seeing new possibilities and taking  more effective Action in a given domain. This is important to notice.  So we make this fundamental claim: **We look with our eyes, but we observe through  our distinctions.**"  &mdash; Chalmers Brothers
 
-Here is another thing we do in language: we separate things from other things and name those things so that we can point to specific features of the world in order to make observations about what we are seeing. Which is to say, more succinctly, we make distinctions.
+Here is a thing we do in language: we separate things from other things and name those things so that we can point to specific features of the world in order to make observations about what we are seeing. Which is to say, more succinctly, we make distinctions.
 
 For example, if I go into a forest by myself I will see trees, plants, birds, insects, and flowers. But if I go into a forest with an herbalist they will be able to make meaningful distinctions about the plants, trees, and flowers&mdash;which ones can be consumed, which might be used in the case of illness and injury, and which ones to avoid. What used to appear as bundles of photosynthesizing organisms or radical bursts of color, through the distinctions of the herbalist, reveals the symbiotic and nuanced relationship between humans and our plant allies.  
 
@@ -55,10 +51,6 @@ To start getting a sense of distinctions and how they work in your life, I'll le
 - What might I not be observing because I lack distinctions?
 - How might I go about learning new distinctions?
 - What possibilities become available to me once I have integrated those new distinctions?
-
-Happy exploring! May you see a cornucopia of new possibilities!
-
-Andi
 
 ---
 

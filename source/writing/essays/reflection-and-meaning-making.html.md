@@ -18,10 +18,6 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome to 🌍 [Words Make Worlds](https://methodandmatter.com/words-make-worlds), Issue 11! I'm [Andi](https://methodandmatter.com/about), and this week we continue our journey through the stages of the coaching process, taking a look at the role of reflection and meaning making in a coaching conversation (the "So What?" part of the process model). If you are just joining us you might want to start with [Issue 9 - The Coaching Process](https://methodandmatter.com/words-make-worlds/009/) and then check out [Issue 10 - Noticing and Exploring](https://methodandmatter.com/words-make-worlds/010/).
-
-## The Idea
-
 > "Reflection, a key aspect of coaching, involves helping the individual stop and remember the action in which they have been engaged, think through the details, consider what worked and what did not work and consider the causes and implications of the same. Reflection seems to be most effective when done in the presence of others."
 
 A quick summary of where we're at in the coaching process: you've set the focus of the conversation, you've done some exploration work to facilitate deeper awareness, and you've widened the field of inquiry to invite new perspectives by using open and honest questions. The conversation so far has shed light on the underlying dynamics, assumptions, or perceptions that supports the current behavior of the person you are working with, behavior they may want to change. Essentially what you have done up to this point is to increase the amount of _information_ available to be used as material in the coaching conversation.
@@ -55,7 +51,3 @@ Meaning making questions support another person to question their assumptions, r
 > "Coaching is a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person. An effective coaching relationship creates a safe and challenging environment in which learning can take place. Coaches know that an oak tree already exists within an acorn. They have seen the one grow into the other, over time and under the right conditions, and are committed to providing those conditions to the best of their abilities. Successful coaches continually learn how best to "farm" the potential they are given to nurture."
 
 &mdash; Tim Gallowey, "[The Inner Game of Work: Building Capability in the Workplace](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)"
-
----
-
-As always, thank you for being here. If you have a moment hit reply ↩️ - I'd love to hear how you are integrating coaching into your leadership practice at work or what you'd love to have me cover in future issues. See you in a few weeks!

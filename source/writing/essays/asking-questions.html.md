@@ -18,16 +18,13 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome to [Words Make Worlds](https://methodandmatter.com/words-make-worlds/), a newsletter dedicated to the art, science, and craft of the Coaching Leadership Style. If you are a new subscriber, welcome! To get you up to speed, last issue we talked about [Beginning Together](https://methodandmatter.com/words-make-worlds/007/) and this week we'll be talking about what comes after a good beginning&mdash;the exploration phase.
-
-## The Idea
 > "An open question is one that expands rather than restricts your arena of exploration, one that does not push or even nudge you toward a particular way of framing the situation." - Parker Palmer
 
 One of the primary activities in a coaching conversation is asking questions. But the how and what of your asking will be different than what you might say in day to day conversations. I like to think of coaching conversations as learning conversations, a co-created space where the need to fix or analyze is suspended in favor of exploration and increased awareness. Questions do most of the work in facilitating this experience, and a great question can create clarity, surface insights, and lead us to deeper truths. There is a lot to say about the art of asking questions and we can't possibly get to it all in one issue, so today we'll start by looking at what makes a good question.
 
 There is no shortage of available material when it comes to the topic of coaching questions. [The Coaching Habit](https://bookshop.org/p/books/the-coaching-habit-say-less-ask-more-change-the-way-you-lead-forever-michael-bungay-stanier/17315881?ean=9780978440749), a popular book by Michael Bungay Steiner, outlines seven specific questions to guide you through a coaching-style conversation, The Co-Active Training Institute has compiled a [list of powerful questions](https://cocoachingcircles.com/wp-content/uploads/2019/01/31-Powerful-Questions.pdf), and Tony Stoltzfus has written an entire book on the topic of [Coaching Questions](https://www.amazon.com/Coaching-Questions-Coachs-Powerful-Asking-ebook/dp/B00GR7AX1G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1698519710&sr=8-1). These kind of resources are useful when it comes to understanding what coaching questions sound like, getting a sense for the patterns in the structure, and seeing how questions can facilitate a learning experience. By all means read books, lists, articles, watch videos and listen to podcasts to help your understanding! But when it comes to asking good coaching questions, the best learning comes from practice and experience.
 
-The best questions, the most powerful questions, come from what is happening in the moment between the coach and the person they are working with. From a place of open and receptive listening the coach attends to not just the issue at hand, but the wholeness of the person they are working with. They notice the words and phrases that are being used, the tone and pace of the voice, gestures, energy levels, and facial expressions. They get curious about what is revealed about how the person sees themselves specifically in relation to the issue they are exploring and how they see themselves in the world more generally. When coaches attune to a conversation in this way they tap into the source of powerful questions: presence and [curiosity](https://methodandmatter.com/words-make-worlds/006/).
+The best questions, the most powerful questions, come from what is happening in the moment between the coach and the person they are working with. From a place of open and receptive listening the coach attends to not just the issue at hand, but the wholeness of the person they are working with. They notice the words and phrases that are being used, the tone and pace of the voice, gestures, energy levels, and facial expressions. They get curious about what is revealed about how the person sees themselves specifically in relation to the issue they are exploring and how they see themselves in the world more generally. When coaches attune to a conversation in this way they tap into the source of powerful questions: presence and [curiosity](https://methodandmatter.com/writing/essays/curiosity).
 
 What can be challenging for people new to this style of asking questions is that to be truly effective you have to let go of the reins. You let go of having an answer, of fixing, of what you think is right, of knowing what to do, of giving advice, and of sharing from your own experiences. You let go of knowing what the outcome will be so that you can facilitate a true learning conversation. In normal conversations we tend to ask questions to help our own understanding of a situation or to lead someone to our own conclusions. In coaching conversations we ask questions to facilitate understanding in the person we are working with. This is an important distinction&mdash;the shift from being curious for our own sake to being curious about how the world is occurring for the person in front of us. By asking questions we can support their own discovery to see themselves more clearly, their patterns of thoughts and beliefs, their default way of relating to the challenges and opportunities in front of them.
 
@@ -66,16 +63,7 @@ Debrief together on what you experienced and what you are learning.
 
 ---
 
-## Leader as Coach
-[Leader as Coach](https://methodandmatter.com/leader-as-coach/) is back in 2024! If you are interested getting more hands on practice with coaching in a safe and confidential space with other leaders, this course is for you! Two cohorts are kicking off in Q1 of 2024 making this a great way to start the year with some powerful skills to maximize your leadership impact.
-
----
-
 ## Quotes I ❤️
 >  Coaching is a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person. An effective coaching relationship creates a safe and challenging environment in which learning can take place. Coaches know that an oak tree already exists within an acorn. They have seen the one grow into the other, over time and under the right conditions, and are committed to providing those conditions to the best of their abilities. Successful coaches continually learn how best to "farm" the potential they are given to nurture.
 
 &mdash; Tim Galloway, _The Inner Game of Work: Building Capability in the Workplace_
-
----
-
-Have fun exploring coaching questions and see you in two weeks 🙌!

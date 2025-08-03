@@ -18,14 +18,12 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Hello, and welcome to the Curiosity Edition of _Words Make Worlds_! I'm [Andi](https://methodandmatter.com/about), an executive and team coach who believes that coaching skills are essential for leaders in the increasingly complex, uncertain, and relentlessly changing world we find ourselves in. The siren song of technological solutionism is strong, but for now organizations are still made of people and as long they are, knowing how to build strong, trusting, collaborative relationships is crucial to individual and organizational success. And coaching is a skill that can deliver exactly that.
-
 Before we jump into today's theme of curiosity, let's cover where we are at so far:
 
-- We started by setting up a [learning container](https://methodandmatter.com/words-make-worlds/002/), a set of activities/ done in the morning and evening to _hold_ the work you are doing as you develop a Coaching Leadership Style. Think of it as scaffolding for learning.
-- Then we talked about [working with strengths (and values)](https://methodandmatter.com/words-make-worlds/003/). This is incredibly important for developing your unique Coaching Leadership Style and for being authentic and transparent with others. When people know what is important to you and what your values are, they understand you more deeply and trust increases. Don't be a chaos ball of uncertainty and unpredictability.
--  Throw in the [Loop of Awareness](https://methodandmatter.com/words-make-worlds/004/), a useful tool for freeing your attention. When you learn how to utilize attention intentionally, more of the world opens up in service of noticing, observing, reflecting, learning, and taking choiceful action.
-- And then we talked about [optimism](https://methodandmatter.com/words-make-worlds/005/) and the role it plays in supporting change and growth. This is a posture that invites participants to plant their feet firmly in reality while taking an optimistic view of what is possible in the future. This is incredibly important when it comes to supporting others in sourcing their own knowledge, creativity, and decision making in service of the person they are becoming.
+- We started by setting up a [learning container](https://methodandmatter.com/writing/essays/the-learning-container), a set of activities/ done in the morning and evening to _hold_ the work you are doing as you develop a Coaching Leadership Style. Think of it as scaffolding for learning.
+- Then we talked about [working with strengths](https://methodandmatter.com/writing/essays/working-with-strengths). This is incredibly important for developing your unique Coaching Leadership Style and for being authentic and transparent with others. When people know what is important to you and what your values are, they understand you more deeply and trust increases. Don't be a chaos ball of uncertainty and unpredictability.
+-  Throw in the [Loop of Awareness](https://methodandmatter.com/writing/essays/the-loop-of-awareness), a useful tool for freeing your attention. When you learn how to utilize attention intentionally, more of the world opens up in service of noticing, observing, reflecting, learning, and taking choiceful action.
+- And then we talked about [optimism](https://methodandmatter.com/writing/essays/optimisim) and the role it plays in supporting change and growth. This is a posture that invites participants to plant their feet firmly in reality while taking an optimistic view of what is possible in the future. This is incredibly important when it comes to supporting others in sourcing their own knowledge, creativity, and decision making in service of the person they are becoming.
 
 Some of you might be scratching your head and thinking "Andi, where is the coaching in all of this?" Isn't coaching about asking good questions? If you have been following along and trying out the practices and exercises, I imagine you've noticing some subtle shifts in the conversations you are having. That's because you are _already_ coaching. By changing your mindset, using attention wisely, leaning on your strengths, and seeing the inherent resourcefulness in those you work with, your presence itself is having an impact (more on presence in a future edition).
 
@@ -56,19 +54,3 @@ This is a collection of micro practices you can try out in the coming weeks:
 7. When the conversation is over, reflect on what happened and ask yourself, "What is even more mysterious about this person?" This question keeps the curiosity and wonder alive against the very human propensity to label, categorize, interpret, and judge the world around us.
 
 Before you step into any of these practices check in with yourself and see if you are truly open to learning or not. If you are, embrace your genuine curiosity and jump into the conversation. If you aren't, pay attention to what is being activated in you and give yourself what you need in the moment. This might be a break from the conversation, a few deep breaths, zooming out from the details, acknowledging and accepting exactly where you are, etc.
-
----
-
-## Leader as Coach Starts Tomorrow
-The next cohort of [Leader as Coach](https://maven.com/andrea-mignolo/leader-as-coach) kicks off on Monday, October 2nd! If you want hands on practice learning essential coaching skills to maximize your leadership impact, come join us! This six week cohort-based course will give you the skills to have better conversations, increase accountability, unlock potential, and increase team performance.
-
----
-
-## Leader as Coach Library
-Also! If you are looking for more resources to support you in your coaching journey, check out the Leader as Coach Library, an evolving collection of [books](https://airtable.com/appoaIkTducQK5fHH/shrRXr1zvaPl1XANL/tblfZ7HUjXLTJaXGI) and [articles](https://airtable.com/appoaIkTducQK5fHH/shrRKnQFXVG0LbbTJ/tblfZ7HUjXLTJaXGI?backgroundColor=red) for leaders like you.
-
----
-
-I hope you enjoyed this exploration of curiosity. I am VERY CURIOUS to know how these practices are going for you, what you are learning, and questions you are holding. If you feel like sharing, just reply to this email.
-
-See you in two weeks!

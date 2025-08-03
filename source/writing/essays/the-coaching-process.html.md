@@ -18,14 +18,11 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-This is Issue 9 of 🌎 [Words Make Worlds](https://methodandmatter.com/words-make-worlds), a newsletter about the art, science, and craft of the Coaching Leadership Style. I'm your guide, [Andi](https://methodandmatter.com/about/), and I believe that coaching skills are a leadership multiplier leading to happier teams, more authentic work relationships, and stronger accountability (among other things). Let's get into this week's topic: the coaching process.
-
-## The Idea
 > Knowledge is produced in response to questions. And new knowledge results from the asking of questions… once you have learned how to ask questions - relevant and appropriate and substantial questions - you have learned how to learn and no one can keep you from learning whatever you want or need to know. - Postman and Weingartner
 
 The thing that distinguishes coaching from normal conversations is its focus on awareness, meaning, and action. Coaching facilitates learning that generates knowledge, uncovers fresh perspectives, and leads to new actions and behaviors. Each of these capacities can be thought of as a step in the coaching process that creates space for people to step into their own innate wisdom and understanding.
 
-So far we've talked about how to [begin a coaching conversation](https://methodandmatter.com/words-make-worlds/007/) and looked at the specific [kinds of questions](https://methodandmatter.com/words-make-worlds/008/) that are inherent to a coaching approach. Today we're going to take a step back and look at the process side of things so you have an understanding of how to facilitate learning and can begin to experiment in your conversations at work.
+So far we've talked about how to [begin a coaching conversation](https://methodandmatter.com/writing/essays/beginning-together) and looked at the specific [kinds of questions](https://methodandmatter.com/writing/essays/asking-questions/) that are inherent to a coaching approach. Today we're going to take a step back and look at the process side of things so you have an understanding of how to facilitate learning and can begin to experiment in your conversations at work.
 
 I prefer frameworks that are simple, easy to remember, and flexible enough to be able to respond to the unpredictable nature of human interaction in real-time. I find Dorothy Strachan's "What?&mdash; So What?&mdash;Now What?" framework fits the bill, providing enough structure to so that you know where you are and where to go, with openings to invite improvisation and creativity.
 
@@ -43,7 +40,7 @@ Each phase is associated with a type of question:
 
 For the sake of clarity we'll assume that the questions go in the order listed above&mdash;notice, make meaning, and application of the learnings&mdash;but in practice you'll frequently find yourself moving back and forth between a couple of phases until you reach enough clarity to continue on.
 
-Once you have determined the focus of the coaching conversation and figured out what you want to accomplish together, you can move into an exploration of the topic or issue at hand. As we discussed in [Issue 8](https://methodandmatter.com/words-make-worlds/008/) this part of the process requires stepping into the unknown, which can feel challenging and uncomfortable for the coach. To do this successfully  requires letting go of the reins and being willing embrace uncertainty, truly not knowing what the outcome will be. [Curiosity](https://methodandmatter.com/words-make-worlds/006/) is a great friend in these moments.
+Once you have determined the focus of the coaching conversation and figured out what you want to accomplish together, you can move into an exploration of the topic or issue at hand. This part of the process requires stepping into the unknown, which can feel challenging and uncomfortable for the coach. To do this successfully  requires letting go of the reins and being willing embrace uncertainty, truly not knowing what the outcome will be. [Curiosity](https://methodandmatter.com/writing/essays/curiosity) is a great friend in these moments.
 
 The process framework is your map, showing you the lay of the land and the direction of your journey. The first part of your journey begins by creating the space for new understanding through the use of _notice_ questions. This is an invitation to the person you are working with to gain a better understanding of what is both inside and outside of their awareness, asking them to get curious about what lies just beyond the visible horizon. Here you support them to clarify their perspective by articulating the details of what they notice and what makes that noticing so important to them.
 
@@ -98,11 +95,3 @@ This week is less of a practice and more a bank of questions for each phase of t
 > The idea that managers and employees can share responsibility for learning is a very adaptive one. We make the related assumption that in most organizations, everyone needs to keep learning. Most businesses and not-for-profits confront a range of competitive threats to their survival. These threats include globalization, disruptive technologies, changing societal values, and the rest of the list you've grown accustomed to hearing about. The only way for a firm to survive, let alone prosper, is for enough people in the firm to learn how to adapt to and master these challenges so that the organization can respond appropriately.
 
 &mdash; James Hunt and Joseph Weintraub, _The Coaching Manager_
-
----
-
-If you enjoyed this issue and found value in it, please share it with other leaders you know. My mission is to bring coaching insights and practices to as many leaders as possible in service of more humane, purposeful, creative, and calmer organizations.
-
-Thank you. ❤️
-
-Andi

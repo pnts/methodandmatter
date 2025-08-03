@@ -18,7 +18,7 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome back to 🌍 [Words Make Worlds](https://methodandmatter.com/words-make-worlds), a newsletter about coaching, leadership, and organizations! I'm [Andi](https://methodandmatter.com/about) and this is Issue 16.
+_This essay, originally written for my newsletter Words Make Worlds, reflects on the experience of posting at a regular cadence as I struggled to figure out how find an approach that worked for me. I am keeping it published in my 'essays' collection in hopes it might be useful for others struggling with similar questions._ 
 
 A few folks have asked me what happened to the newsletter and I'm writing to let you know it's still here! By way of explanation, I was in Argentina for a month and gave myself permission to step out of the newsletter cycle which allowed me to realize two things. One, that what I had written so far felt complete. And two, the newsletter itself is nowhere close to done. Complete in that the first 15 issues largely focused on some of the foundational elements and there isn't much more I want to say about that (for now). And nowhere close to done because there so much more I want to say about coaching.
 

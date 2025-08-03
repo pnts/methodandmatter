@@ -18,10 +18,6 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Hello! This is [_Words Make Worlds_](https://methodandmatter.com/words-make-worlds) Issue 3. You are receiving this newsletter because somewhere along the way you decided to learn more about the Coaching Leadership Style. If you've changed your mind and are no longer interested, you can easily unsubscribe at the bottom of this email. If you are still here then keep reading because this week we are learning about the importance of a strengths-based approach to developing your coaching skills.
-
-## The Idea
-
 Each of us has a unique way of engaging with the world that influences what holds our attention, gets us excited, creates meaning, and gives purpose. It shines through in our personality, shapes our leadership style, and can also be a foundation for coaching.
 
 Values and strengths are two ways to describe or encapsulate this uniqueness. Values reflect what we care about and strengths are an expression of what comes naturally. Knowing and living our values is an important part of how we show up in leadership and life, and leaning on our strengths can be an accelerant for development and transformation.
@@ -50,7 +46,7 @@ The [VIA Institute on Character](https://www.viacharacter.org) offers a [free su
 
 
 ## The Practice
-If you've set up your learning container already, you just need to make a few modifications. If you haven't you can probably just follow the instructions below and be fine, but if you want to read more about how to set one up, check out [Issue #2](https://methodandmatter.com/words-make-worlds/002/).
+If you've set up your learning container already, you just need to make a few modifications. If you haven't you can probably just follow the instructions below and be fine, but if you want to read more about how to set one up, check out [Issue #2](https://methodandmatter.com/writing/essays/the-learning-container/).
 
 In the morning, continue to spend five quiet minutes with yourself without technology or other distractions. Bring your awareness to hands and arms, feet and legs. Feel your breath in your belly and chest. As you settle in, see if you can sense yourself, your "you-ness".  What thoughts, emotions, and sensations are you aware of, and how do those contribute to the unique way you sense and respond to the world around you?
 
@@ -65,10 +61,6 @@ In the evening, spend some time journaling and reflecting on your strengths. Her
 
 ## Until Next Time
 The Coaching Leadership Style has two tracks - development of self and development of others. You may be curious why we haven't gotten into the actual coaching conversation yet, but in many ways we have. By first focusing on ourselves, who we are as leaders, what our strengths are, and increasing our awareness of how we show up, interactions with our teams and colleagues will begin to shift. What we are working on right now is one of the most fundamental and critical tools of coaching - presence. As we'll begin to uncover, coaching conversations are 20% what you say, 80% how you show up.
-
-See you in a few weeks,
-
-Andi
 
 ---
 

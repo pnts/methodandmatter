@@ -18,11 +18,6 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Hello, happy September, and welcome to another issue of [_Words Make Worlds_](https://methodandmatter.com/words-make-worlds)! I'm Andi, and today we're going to be learning a tool for increasing awareness and using attention with intention.
-
----
-
-## The Idea
 Our attention is one of the most powerful tools we can use in coaching. What we pay attention to informs how we perceive and interpret the world around us. But most of us, over the course of a lifetime, have developed patterns of perception that freezes us in a narrow band of reality. We learn to pay attention to certain things and discount others, and in doing so reinforce attention loops that are particular to our own individual experience of the world.
 
 If you think about it, this is where a lot of miscommunication and disagreement comes from. People in the same situation experience it in radically different ways because of what they are paying  attention to. For example, take the common occurrence of a meeting where disagreement was expressed. For someone whose attention loop is highly focused on emotions, they might feel the meeting was tense and filled with conflict. For another person who focuses on ideas, they might have walked away from the meeting feeling invigorated and challenged. And yet a third person whose attention seeks out the information they need to take action, they might leave the meeting frustrated that progress wasn't made. Same meeting, wildly different experiences and interpretations of what happened.
@@ -108,12 +103,3 @@ An incomplete list of things to bring your attention to, compiled by [Edwin Nevi
 - Functional activities
 - Norms
 - Atmosphere, climate
-
----
-
-## What Are You Learning?
-I'd love to know how your practices are going and what you are learning. If this feels in alignment for you, just reply to this email!
-
-Until next time,
-
-Andi

@@ -18,9 +18,7 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome to [Words Make Worlds](https://methodandmatter.com/words-make-worlds/), a newsletter dedicated to the art, science, and craft of the Coaching Leadership Style. Coaching is a leadership skill that works beautifully alongside two other necessary and critical executive capacities: leading and managing. Used intentionally, coaching acts as a leadership multiplier that deepens trust, increases accountability, and unleashes potential, resulting in high performing cultures and teams.
-
-Last issue we took a high level overview of [The Coaching Process](https://methodandmatter.com/words-make-worlds/009/), introducing the "What? - So What? - Now What?" framework. In the next three issues we'll be looking at each phase of the process in more detail, starting this week with "What?" And remember, for the coaching conversation to be successful it is important to first take the time to [begin together](https://methodandmatter.com/words-make-worlds/007/).  
+In a [previous essay](https://methodandmatter.com/writing/essays/the-coaching-process) we took a high level overview of , introducing the "What? - So What? - Now What?" framework. In the next three issues we'll be looking at each phase of the process in more detail, starting this week with "What?" And remember, for the coaching conversation to be successful it is important to first take the time to [begin together](https://methodandmatter.com/writing/essays/beginning-together).  
 
 ![the process framework](images/wmw/process-framework.png)
 Process Framework for Enabling Action, via Dorothy Strachan
@@ -35,7 +33,7 @@ Increasing awareness is a unique aspect of coaching conversations and one of the
 To get different results you need new ways of thinking and seeing, which is what awareness building is all about&mdash;facilitating a deeper understanding that creates a wider range of possibility, leading to new ways of responding and taking action. An important distinction to be aware of is that coaching isn't about problems, it's about _solutions_.  Problems are about what is wrong, whereas solutions are about what could be better.
 
 ### Stop Helping
-Now, I'm going to say something really important and counterintuitive: in your role as coach the best way to help the other person is to _not help_. I actually assign this as homework in Week 1 of the [Leader as Coach](https://methodandmatter.com/leader-as-coach/) program and people meet the assignment with a bit of incredulity and suspicion, wondering _"Isn't that what we are supposed to do as managers? To help our team, to get them unstuck, to run interference, and make sure they can do what we hired them to do?_ Yes, _and_… if you truly want to support the development and growth of another person, hold them with [unconditional positive regard](https://methodandmatter.com/words-make-worlds/005/) and trust that with some space to think and open questions to facilitate that thinking, they will come up with their own insights, answers, and next steps.
+Now, I'm going to say something really important and counterintuitive: in your role as coach the best way to help the other person is to _not help_. I actually assign this as homework in Week 1 of the [Leader as Coach](https://methodandmatter.com/leader-as-coach/) program and people meet the assignment with a bit of incredulity and suspicion, wondering _"Isn't that what we are supposed to do as managers? To help our team, to get them unstuck, to run interference, and make sure they can do what we hired them to do?_ Yes, _and_… if you truly want to support the development and growth of another person, hold them with [unconditional positive regard](https://methodandmatter.com/writing/essays/optimism/) and trust that with some space to think and open questions to facilitate that thinking, they will come up with their own insights, answers, and next steps.
 
 I always refer to Rachel Remen when discussing the challenge with helping because she [says it so clearly and beautifully](https://www.awakin.org/v2/read/view.php?tid=127):
 
@@ -46,25 +44,19 @@ So instead of helping, think of serving&mdash;in the role of coach you work in s
 ### Coach the Person, Not the Issue
 Another critical aspect of exploring is to remember that you are coaching the person, not the issue. This is a common maxim in many coaching programs that turns the typical management approach on its head. We are used to stepping into a work conversation and focusing on an issue, working with our direct report or colleague to figure out the best path forward. In coaching conversations the issue is secondary to the _person_ you are working with. As a coach, you are a facilitator of their learning, supporting them to think about the issue in new ways. To do this, your questions need to invoke reflection, awareness, and new understanding _for them_. If you catch yourself asking questions related to the issue (e.g. going down a path of collecting more information so you can understand the issue better) stop yourself and refocus on the person in front of you.
 
-A side note here: once you make this adjustment, you'll find that you can often have impactful coaching conversations in a relatively short amount of time. This is because you aren't wasting time getting all the details about what is going on, who said what, and what happened when. It really doesn't matter. What does matter is how the person you are coaching is thinking about the issue and what deeper insights are available through [open and honest questions](https://methodandmatter.com/words-make-worlds/008/).  
+A side note here: once you make this adjustment, you'll find that you can often have impactful coaching conversations in a relatively short amount of time. This is because you aren't wasting time getting all the details about what is going on, who said what, and what happened when. It really doesn't matter. What does matter is how the person you are coaching is thinking about the issue and what deeper insights are available through [open and honest questions](https://methodandmatter.com/writing/essays/asking-questions/).  
 
 ## The Practice
 The practice this week is short and sweet, combining several of the skills and approaches we have covered in previous issues. In your conversations over the new couple of weeks, remember practice the following:
 
-- Work to increase awareness (see [Issue 9](https://methodandmatter.com/words-make-worlds/009/), specifically the section on "Noticing" questions).
+- Work to increase awareness (see [Issue 9](https://methodandmatter.com/writing/essays/the-loop-of-awareness/), specifically the section on "Noticing" questions).
 - Stop helping.
-- [Get curious](https://methodandmatter.com/words-make-worlds/006/).
+- [Get curious](https://methodandmatter.com/writing/essays/curiosity/).
 - Focus on facilitating learning.
 - Coach the person, not the issue.
-- Practice asking [open and honest questions](https://methodandmatter.com/words-make-worlds/008/).
+- Practice asking [open and honest questions](https://methodandmatter.com/writing/essays/asking-questions).
 
 Keep a journal where you can note what you are learning and the impact the conversations are having on yourself, your team, and the wider organization.
-
----
-
-## Leader as Coach
-
-If you are interested in taking your coaching to the next level, check out [Leader as Coach](https://maven.com/andrea-mignolo/leader-as-coach)&mdash;a 6 week intensive for leaders who want to integrate coaching skills into their leadership practice. Think of this as a learning lab where you get hands-on practice coaching in a safe and supportive container. Through carefully designed experiential learning exercises, participants deepen their coaching capacity cognitively, emotionally, and somatically. Two cohorts are launching early 2024 and can be a great way to kick off the year.
 
 ---
 
@@ -72,7 +64,3 @@ If you are interested in taking your coaching to the next level, check out [Lead
 > "I define coaching broadly as that part of a relationship in which one person is primarily dedicated to serving the long-term development of competence, self-generation, and aliveness in the other. Coaching is a central and critically important activity for any leader in any organization who sees himself or herself as working with and through others."
 
 &mdash; Doug Silsbee, _Presence-Based Coaching_
-
----
-
-Thank you for being here, I deeply appreciate your time and attention. Happy exploring, and see you in two weeks!

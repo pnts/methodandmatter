@@ -18,11 +18,8 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome to Season 2 of 🌍 [Words Make Worlds](https://methodandmatter.com/words-make-worlds), _Living in Language_.
 
-If you are new, welcome! And if you've been here a while, thanks for sticking around. I'm really excited for Season 2, an exploration into what happens when we speak and how, as coaches and leaders, we can use language intentionally to build trust, increase collaboration, create new possibilities, and generate worlds.
-
-Language is like the air we breathe. By the time we are adults we have been languaging for so many years that we hardly give it a second thought. From the moment we wake up to the time we go to bed, we language our existence. Now, if languaging were simply the act of describing the world then I wouldn't be writing this newsletter. There would be no need to examine how languaging creates our experience because as a descriptive tool language holds no generative power. But on closer inspection language turns out to be exactly that&mdash;creative and generative. And when leaders and coaches begin to catch onto this, everything changes.
+What does it mean to live in language? Language is like the air we breathe. By the time we are adults we have been languaging for so many years that we hardly give it a second thought. From the moment we wake up to the time we go to bed, we language our existence. Now, if languaging were simply the act of describing the world then I wouldn't be writing this newsletter. There would be no need to examine how languaging creates our experience because as a descriptive tool language holds no generative power. But on closer inspection language turns out to be exactly that&mdash;creative and generative. And when leaders and coaches begin to catch onto this, everything changes.
 
 So! Languaging. You may be alarmed by how I am using the word language here (as a verb!) but I assure you this is intentional. The verbing of language comes from the work of [Humberto Maturana](https://drive.google.com/file/d/1EPmMiaNKjf4LKIVnNw7dmIMh26Ske404/view?usp=share\_link), a Chilean biologist who noted that "anything said is said by an observer." This feels obvious, but the implications are important.
 

@@ -18,19 +18,11 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome to 🪐 [Words Make Worlds](https://methodandmatter.com/words-make-worlds), a newsletter dedicated to the art, science, and craft of the Coaching Leadership Style. In this issue we come to the final stage of the coaching process: ending well.  If you are just joining us (hi!) you can catch up previous issues in the series here:
-
-- [Issue 9: The Coaching Process](https://methodandmatter.com/words-make-worlds/009/). Provides an overview of the coaching process and introduces the "What?&mdash;So what?&mdash;Now what?" framework.
-- [Issue 10: Noticing and Exploring](https://methodandmatter.com/words-make-worlds/010/). A deeper dive into the "What?" part of the cycle and what it takes to facilitate deeper thinking and awareness in others.
-- [Issue 11: Reflection and Meaning Making](https://methodandmatter.com/words-make-worlds/011/). An exploration of the "So What?" part of the cycle and the importance of making new meaning from what was uncovered in the noticing and exploring phase.
-- [Issue 12: Taking Action](https://methodandmatter.com/words-make-worlds/012/). Coaching is effective because it combines self-awareness with taking action. Without action there is no coaching conversation. This is what the "Now What?" phase is all about.
-
-## The Idea
 > To maintain a thinking space where transformation is possible, the end needs to be as much in partnership as the beginning. You co-created the space between you and have done the work together. Co-create the end. - Claire Pedrick
 
 We've now covered the entire arc of the coaching conversation, from raising awareness to making meaning to taking new action. While the majority of your time will usually be spent in the "What?" phase of noticing and building awareness, how you start and how you end are critical compontents of impactful learning and clear commitments.  
 
-It can be easy to breeze past beginnings and endings, and in normal conversations we often do. From my work with students in the [Leader as Coach](https://methodandmatter.com/leader-as-coach/) course I've come to understand that it can feel redundant or awkward to start with intentional structure [at the beginning of a conversation](https://methodandmatter.com/words-make-worlds/007/)&mdash;the "flow" isn't there which can feel unnatural. _And yet_, starting with clear intentions and a core set of questions that define the boundaries of the coaching container jumpstarts the thinking process for the person being coached. It helps them to identify what really matters and what change they want to see. It sets the parameters and purpose of the conversation. With a clearly defined container the coaching conversation can flow in a focused and supportive way.
+It can be easy to breeze past beginnings and endings, and in normal conversations we often do. From my work with students in the [Leader as Coach](https://methodandmatter.com/leader-as-coach/) course I've come to understand that it can feel redundant or awkward to start with intentional structure [at the beginning of a conversation](https://methodandmatter.com/writing/essays/beginning-together)&mdash;the "flow" isn't there which can feel unnatural. _And yet_, starting with clear intentions and a core set of questions that define the boundaries of the coaching container jumpstarts the thinking process for the person being coached. It helps them to identify what really matters and what change they want to see. It sets the parameters and purpose of the conversation. With a clearly defined container the coaching conversation can flow in a focused and supportive way.
 
 The same goes for endings, where again it can feel awkward to bring structure to reflections and learnings. It can be easy to assume that just because both people experienced the same conversation they each have the same understanding and takeaways. _And yet_, what two people experience in the same conversation can be wildly different. Asking the person being coached to reflect on their experience, learning, insights, and commitments is a chance to create radical clarity and mutual understanding around what happened and what comes next.
 
@@ -50,11 +42,3 @@ For endings I like to use Claire Pedrick's CALF framework. As you close out the 
 
 ## Quotes I ❤️
 > The best coaches make us recognize we have gaps in our reasoning. The moment we become unsure of what we know, learning happens. This is good coaching. &mdash; Marcia Reynolds
-
----
-
-Thank you for being here and for bringing coaching into your leadership practice.
-
-Until next time,
-
-Andi

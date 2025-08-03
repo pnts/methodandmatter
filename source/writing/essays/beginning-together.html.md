@@ -18,9 +18,6 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome to _Words Make Worlds_ 🌎! I'm [Andi](https://methodandmatter.com/about) and this week we'll be looking at how to begin a coaching conversation. How you begin is critical to your level of success, and the attention you give to beginnings will determine everything that comes afterwards.
-
-## The Idea
 Beginnings may seem superfluous but they are essential to effective and powerful coaching conversations. There is a lot to be said for taking the time to arrive and settle in together. To slow down and get a sense of each other, allowing our attention to come into the present and to collaboratively look at the work in front of us.
 
 How we begin sets the stage for what follows. In busy organizational environments focused on efficiency and productivity, it can be easy to skip over beginnings in service of getting work done quickly. But when we skip over beginnings, we miss the opportunity to fully connect and we deprive ourselves of the important work of tending to the structure of the conversation. Without connection and structure, no matter how quickly we get to the issue, we are not setting ourselves up for success.
@@ -40,8 +37,4 @@ Beginning well is about knowing what the conversation is about, what is most imp
 	4. **Know:** How will you know that this conversation has been useful?
 6. **Begin.** If you both feel satisfied with the focus and the outcomes, ask them where they would like to start. Let them choose what feels important, and start the conversation with, "Where shall we start?"
 
-Once you begin the conversation, ​[curiosity](https://methodandmatter.com/words-make-worlds/006/)​, [optimism](https://methodandmatter.com/words-make-worlds/005/)​, and ​[using your attention intentionally​](https://methodandmatter.com/words-make-worlds/004/) will take you through the rest.
-
----
-
-I wish you clear, focused, and easeful beginnings. Thank you for being here, see you in two weeks! 🙌
+Once you begin the conversation, ​[curiosity](https://methodandmatter.com/essays/curiosity)​, [optimism](https://methodandmatter.com/essays/optimism)​, and ​[using your attention intentionally​](https://methodandmatter.com/essays/the-loop-of-awareness) will take you through the rest.

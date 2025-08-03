@@ -18,11 +18,6 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome to the fifth issue of [_Words Make Worlds_](https://methodandmatter.com/words-make-worlds), a newsletter dedicated to the art, science, and craft of the Coaching Leadership Style. Today we're getting into one of my favorite parts of coaching: optimism.
-
----
-
-## The Idea
 When I talk with leaders about the idea of optimism as a useful tool for coaching, they usually point out that pretending things are great isn't going to fix performance problems. Which is true&mdash;bypassing reality with magical thinking leads to disappointment, frustration, and resentment. Just ask anyone who has ever delayed having a difficult conversation at work&mdash;by the time the talk actually happens considerable damage has been done.
 
 But optimism isn't about unreasonable hope, it's about an acceptance of how things are now and a belief that they can be better. It is a perspective, a way of seeing, an orientation towards life that celebrates what an individual or system is doing _well_ ,  even if what it is doing well happens to be getting in the way of desired outcomes. Optimism is imbued with curiosity and turns its gaze to the future as a place of possibility and action.
@@ -74,13 +69,3 @@ This practice can be done in a 1:1 conversation or team meeting; any situation w
 4. Now step into the optimistic stance. Consider the person or people in front of you and listen with curiosity. Hold the perspective that everyone is doing the best they can with the awareness and resources available to them, and the conviction you know they have the capacity to create change. If you can generate a genuine sense of warmth and positive regard, even better. But don't try to fake this - others can detect when we are just putting on a show.
 5. As you listen, see if you can observe what this person or group knows how to do really well, even if it's something that frustrates or annoys you. How does this serve the person or group? What do you think it is like for them to engage in the world this way?
 6. Once you have finished this practice, take a few notes about what you noticed from the experience. If the person you were listening to knows you were trying out listening approaches, debrief and see how the experience was for them. What will you do with what you are learning?
-
----
-
-## Leader as Coach
-
-A quick reminder that [Leader as Coach kicks off its fourth cohort on October 2nd](https://maven.com/andrea-mignolo/leader-as-coach)! This is a great opportunity for leaders to deepen their coaching skills by putting them into practice in safe learning environment, because the best way to learn to coach is to _start coaching_.
-
----
-
-🫶 Happy practicing, and see you in two weeks! 🫶

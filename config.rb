@@ -16,31 +16,7 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 
-# Redirects
-redirect "essays/building-a-relationship-with-change", to: "writing/guides/building-a-relationship-with-change"
-redirect "essays/end-of-a-cycle", to: "writing/guides/end-of-a-cycle"
-
-# Words Make Worlds to Essays redirects
-redirect "words-make-worlds/001", to: "writing/essays/welcome-to-coaching-leadership"
-redirect "words-make-worlds/002", to: "writing/essays/the-learning-container"
-redirect "words-make-worlds/003", to: "writing/essays/working-with-strengths"
-redirect "words-make-worlds/004", to: "writing/essays/the-loop-of-awareness"
-redirect "words-make-worlds/005", to: "writing/essays/optimism"
-redirect "words-make-worlds/006", to: "writing/essays/curiosity"
-redirect "words-make-worlds/007", to: "writing/essays/beginning-together"
-redirect "words-make-worlds/008", to: "writing/essays/asking-questions"
-redirect "words-make-worlds/009", to: "writing/essays/the-coaching-process"
-redirect "words-make-worlds/010", to: "writing/essays/noticing-and-exploring"
-redirect "words-make-worlds/011", to: "writing/essays/reflection-and-meaning-making"
-redirect "words-make-worlds/012", to: "writing/essays/taking-action"
-redirect "words-make-worlds/013", to: "writing/essays/ending-well"
-redirect "words-make-worlds/014", to: "writing/essays/soft-eyes"
-redirect "words-make-worlds/015", to: "writing/essays/presence"
-redirect "words-make-worlds/016", to: "writing/essays/seasons"
-redirect "words-make-worlds/017", to: "writing/essays/living-in-language"
-redirect "words-make-worlds/018", to: "writing/essays/listening"
-redirect "words-make-worlds/019", to: "writing/essays/distinctions"
-redirect "words-make-worlds/020", to: "writing/essays/metaphors"
+# Redirects are now handled by Netlify's _redirects file
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'

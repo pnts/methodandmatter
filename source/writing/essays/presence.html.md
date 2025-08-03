@@ -18,23 +18,17 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Welcome to 🌍 [Words Make Worlds](https://methodandmatter.com/words-make-worlds)! I'm [Andi](https://methodandmatter.com/about) and this here newsletter is all about the art, science, and craft of the Coaching Leadership Style.
-
-I've had quite the time with my email lately&mdash;for the last few weeks both my business and personal emails have been (unbeknownst to me) going to people's spam folders and I have learned _way_ more than I ever wanted to know about MX records and SPF and DKIM and _phew_, what a nightmare. I think things are finally back in order and trust that this email will actually (hopefully?) show up in your inbox 🤞 and I sure hope it does because today we are talking about one of my favorite aspects of coaching: presence.
-
-## The Idea
-
 > "As coaches or leaders, we can think of presence as a being intervention: simply "showing up" has an evocative effect, the first indication of whether or how people will work with us. Though we may not be able to predict how our presence will affect others, we are responsible for the self-work of reflection and asking to learn what we evoke in others." &mdash; Dorothy E. Siminovitch
 
 In "_[Use of Self in OD Consulting: What Matters is Presence](https://maraineyassociates.com/wp-content/uploads/2015/12/UseofSelf-Presence.pdf)_" Tolbert and Hanafin describe presence as representing "the translation of personal appearance, manner, values, knowledge, reputation, and other characteristics into interest and impact. Presence is not manufactured. Everyone possesses presence, regardless of the level of awareness of the impact of that presence. Presence is the use of self with intent."
 
 If I could summarize in a pithy way what the coaching approach is all about I'd say something along the lines of "Do less, _be_ more." This is hard for managers&mdash;business requires a lot of doing and you don't make your way up the career ladder by sitting around staring at the clouds[^1]. Of course, we're not doing that in coaching either but the idea of _being_ is fairly elusive, let alone the idea that _being_ can have a positive impact, business or otherwise.
 
-With [Leader as Coach](https://maven.com/andrea-mignolo/leader-as-coach), presence and [awareness](https://methodandmatter.com/words-make-worlds/004/) are the first coaching tools I introduce to students. They are the foundations on which everything else is built. Think about the last time someone was fully present and attentive to you, when you felt really seen and heard by another. What was that like? How did it impact you? How did you feel?
+With [Leader as Coach](https://maven.com/andrea-mignolo/leader-as-coach), presence and [awareness](https://methodandmatter.com/writing/essays/the-loop-of-awareness) are the first coaching tools I introduce to students. They are the foundations on which everything else is built. Think about the last time someone was fully present and attentive to you, when you felt really seen and heard by another. What was that like? How did it impact you? How did you feel?
 
 In today's busy, fast-paced, multi-tasking society, the moments in which we are fully present with each other are few and far between. But when these moments do happen&mdash;when the past and future fall away and we open to the moment and the people we are with&mdash;something shifts. When we feel held in the attentiveness of awareness a kind of _completion_ starts to happen. What we have been holding on to, once witnessed, is ready to be released and energy becomes available for something new. I know this sounds a bit woo woo, but stay with me.
 
-Presence is a precursor to [curiosity](https://methodandmatter.com/words-make-worlds/006/). Presence loosens the constricting grip of control and gives us access to a wide range of information beyond the content of what someone is sharing with us&mdash;body language, tone, energy, words left unsaid. When we are present we can receive others more fully, letting go of our own projections and holding patterns in order to build trust and safety in the relationship. We stay anchored and focused, less hooked by distractions and tangents like ruminating on the past or worrying about the future.
+Presence is a precursor to [curiosity](https://methodandmatter.com/writing/essays/curiosity). Presence loosens the constricting grip of control and gives us access to a wide range of information beyond the content of what someone is sharing with us&mdash;body language, tone, energy, words left unsaid. When we are present we can receive others more fully, letting go of our own projections and holding patterns in order to build trust and safety in the relationship. We stay anchored and focused, less hooked by distractions and tangents like ruminating on the past or worrying about the future.
 
 Presence welcomes everything, and by welcoming everything coaches become more open to the reality of another without judgement or interpretation. What is the world like for them right now? What has them seeing things in this way? What  might unlock a new way of relating? What core values, unconscious beliefs, and unmet needs are contributing to how they experience themselves?
 
@@ -89,7 +83,7 @@ Each of the six areas could be an issue of Words Make Worlds in its own right �
 ## The Practice
 As you head into your week, identify one conversation  where you will consciously practice being fully present. This could be a 1-on-1 meeting with a direct report, a team meeting, or even a chat with someone at the grocery store.
 
-Before entering the conversation, take a few deep centering breaths and set the intention to be attentive and engaged without multi-tasking or mentally moving ahead to what you'll say next. Listen with [soft eyes](https://methodandmatter.com/words-make-worlds/014/), be [curious](https://methodandmatter.com/words-make-worlds/006/), [loop your awareness](https://methodandmatter.com/words-make-worlds/004/), and let go of stories you've previously told yourself about this person.
+Before entering the conversation, take a few deep centering breaths and set the intention to be attentive and engaged without multi-tasking or mentally moving ahead to what you'll say next. Listen with [soft eyes](https://methodandmatter.com/writing/essays/soft-eyes), be [curious](https://methodandmatter.com/writing/essays/curiosity), [loop your awareness](https://methodandmatter.com/writing/essays/the-loop-of-awareness), and let go of stories you've previously told yourself about this person.
 
 Afterward, reflect on how it felt to anchor yourself in presence. Did you gain any new insights that may have been missed otherwise? Did the quality of connection shift at all? See if you can begin incorporating small presence experiments like this into your regular leadership practice. Who knows what unexpected wonders may unfold by simply showing up and giving someone your full attention.
 
@@ -97,12 +91,6 @@ Afterward, reflect on how it felt to anchor yourself in presence. Did you gain a
 
 ## Quotes I ❤️
 > "When you coach as a thinking partner instead of an expert, your job is to catch and return what you are given by the client. You don't have to concoct a masterful question. You don't need to figure out if what you want to say is intuition or a blatant projection of your own needs. You don't have to have all the answers. You are a good coach if you share what you hear and see and maybe offer what you sense is happening with no attachment to being right." &mdash; Marcia Reynolds
-
----
-
-I sure hope this makes it to your inbox. Thank you for being here, and see you in a couple of weeks!
-
-Andi
 
 ---
 

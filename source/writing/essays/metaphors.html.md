@@ -18,23 +18,11 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-Hi! And welcome to **💬 Words Make Worlds** 2025! Things have been a bit silent around here, but I assure you it is not for lack of activity. I just had no idea that starting [Season 2: Living in Language](https://methodandmatter.com/words-make-worlds/017/) would turn my life upside down and open a portal into the [work I feel most called to do](https://methodandmatter.com/the-becoming/014/). This is overall a Very Good Thing, but also means that sometimes getting issues out the door will take a bit longer than the bi-weekly schedule I've been aiming for. Given my distaste for clock-time, this is not a surprising development.
-
-Before we get into today's issue, I have two things to share:
-
-📈 **I've been hard at work on a small eBook for leaders who coach**, outlining the eight core competencies I think are most critical to having effective, impactful conversations. You can grab your own copy of [How Great Leaders Coach here](https://drive.google.com/file/d/1ncG0Ym1sj0BMt4gV_2sDjUEIXtjOE5Gx/view), and I also made an assessment tool if you are curious [where you are in your coaching journey](https://airtable.com/appvq6YQv8fkD42iX/pagPKWqlVctjvT30E/form).
-
-💡 **The next cohort of [Leader as Coach](https://maven.com/andrea-mignolo/leader-as-coach) starts in a week!** There are still a few spots open if you or anyone on your team/in your organization has been thinking about adding coaching skills to their leadership practice. I absolutely love teaching this class! I am constantly iterating on it and am excited to be adding live coaching demos (by yours truly) into the mix this time. I've also started running the course inside organizations, so if this is something you'd like to do in-house please feel free to reach out!
-
-Okay, with all that said, let's get into the topic of this issue: metaphors.
-
----
-
 > "The deep structure of thought is based on feelings, memories, beliefs and values, and is revealed through our behaviors and our choice of words. In individuals, this deep structure is referred to as our personality; in organizations, it is called 'corporate culture.'" — Roger Ellerton
 
 > "The challenge facing modern managers is to become accomplished in the art of using metaphor to find new ways of seeing, understanding, and shaping their actions." — Gareth Morgan
 
-Metaphors are not just poetic turns of phrase used to embellish speech with an ornamental flourish, they are fundamental to how we perceive and think about the world. Metaphors help us to understand our experiences and create meaning—who we take ourselves to be, what the nature of our work is, how we orient in relationships, how we get stuck, what challenges feel like, and what feels possible (to name a few!). As [unique observers](https://methodandmatter.com/words-make-worlds/017/), we experience the world through the intersection of language, emotion, and the body. Our knowing is highly experiential and metaphor is one of the primary ways we create conceptual coherence across experiences.
+Metaphors are not just poetic turns of phrase used to embellish speech with an ornamental flourish, they are fundamental to how we perceive and think about the world. Metaphors help us to understand our experiences and create meaning—who we take ourselves to be, what the nature of our work is, how we orient in relationships, how we get stuck, what challenges feel like, and what feels possible (to name a few!). As [unique observers](https://methodandmatter.com/writing/essays/living-in-language), we experience the world through the intersection of language, emotion, and the body. Our knowing is highly experiential and metaphor is one of the primary ways we create conceptual coherence across experiences.
 
 ![What is a pige?](images/wmw/pig.jpg)
 What is the pig? via Garath Morgan

@@ -1,0 +1,28 @@
+# Netlify redirects file
+# https://docs.netlify.com/routing/redirects/
+
+# Legacy essay redirects
+/essays/building-a-relationship-with-change /writing/guides/building-a-relationship-with-change 301
+/essays/end-of-a-cycle /writing/guides/end-of-a-cycle 301
+
+# Words Make Worlds to Essays redirects
+/words-make-worlds/001 /writing/essays/welcome-to-coaching-leadership 301
+/words-make-worlds/002 /writing/essays/the-learning-container 301
+/words-make-worlds/003 /writing/essays/working-with-strengths 301
+/words-make-worlds/004 /writing/essays/the-loop-of-awareness 301
+/words-make-worlds/005 /writing/essays/optimism 301
+/words-make-worlds/006 /writing/essays/curiosity 301
+/words-make-worlds/007 /writing/essays/beginning-together 301
+/words-make-worlds/008 /writing/essays/asking-questions 301
+/words-make-worlds/009 /writing/essays/the-coaching-process 301
+/words-make-worlds/010 /writing/essays/noticing-and-exploring 301
+/words-make-worlds/011 /writing/essays/reflection-and-meaning-making 301
+/words-make-worlds/012 /writing/essays/taking-action 301
+/words-make-worlds/013 /writing/essays/ending-well 301
+/words-make-worlds/014 /writing/essays/soft-eyes 301
+/words-make-worlds/015 /writing/essays/presence 301
+/words-make-worlds/016 /writing/essays/seasons 301
+/words-make-worlds/017 /writing/essays/living-in-language 301
+/words-make-worlds/018 /writing/essays/listening 301
+/words-make-worlds/019 /writing/essays/distinctions 301
+/words-make-worlds/020 /writing/essays/metaphors 301
