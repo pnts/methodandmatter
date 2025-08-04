@@ -57,23 +57,6 @@ after_build do |builder|
   FileUtils.cp(src, dst) if File.exist?(src)
 end
 
-activate :blog do |blog|
-  blog.name = "notes"
-  blog.prefix = "writing/notes"
-  blog.sources = "{title}.html"
-  blog.permalink = "{title}"
-  blog.layout = "layouts/notes"
-
-  blog.default_extension = ".md"
-
-  blog.new_article_template = File.expand_path('../source/notes/template.yml', __FILE__)
-
-  #blog.tag_template = "tag.html"
-  #blog.calendar_template = "calendar.html"
-
-  # Enable pagination
-  #blog.paginate = true
-end
 
 activate :blog do |blog|
   blog.name = "the-becoming"
@@ -131,7 +114,6 @@ end
 
 # alternate layouts
 page "the-becoming/*", :layout => :newsletter
-page "notes/*", :layout => :essays
 page "essays/*", :layout => :essays
 page "words-make-worlds/*", :layout => :wmw
 page "writing/*", :layout => :essays

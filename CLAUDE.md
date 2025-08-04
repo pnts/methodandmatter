@@ -13,6 +13,15 @@ This is a **Middleman-based static site** for Method & Matter, a leadership coac
   - `essays` blog (writing/essays) - Long-form essays
   - `words-make-worlds` blog - Specialized newsletter content with wmw layout
 
+## Ruby Version
+
+This project requires **Ruby 2.7.8**. Ensure you're using the correct Ruby version before running any commands:
+
+```bash
+# Switch to Ruby 2.7.8 (using rvm)
+rvm use 2.7.8
+```
+
 ## Key Development Commands
 
 ```bash
