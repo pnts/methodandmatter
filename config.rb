@@ -50,6 +50,13 @@ configure :build do
    activate :minify_javascript
 end
 
+# Copy _redirects file for Netlify
+after_build do |builder|
+  src = File.join(root, "source", "_redirects")
+  dst = File.join(root, "build", "_redirects")
+  FileUtils.cp(src, dst) if File.exist?(src)
+end
+
 activate :blog do |blog|
   blog.name = "notes"
   blog.prefix = "writing/notes"
