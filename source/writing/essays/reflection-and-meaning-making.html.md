@@ -8,7 +8,7 @@ title: Reflection and Meaning Making
 subtitle: Transforming experience into learning.
 tags: coaching, CLS, methodology, process
 status: evergreen
-category: methodology
+category: Leader as Coach
 
 date: December 11th, 2023
 published: true
@@ -18,16 +18,16 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-> "Reflection, a key aspect of coaching, involves helping the individual stop and remember the action in which they have been engaged, think through the details, consider what worked and what did not work and consider the causes and implications of the same. Reflection seems to be most effective when done in the presence of others."
+> Reflection, a key aspect of coaching, involves helping the individual stop and remember the action in which they have been engaged, think through the details, consider what worked and what did not work and consider the causes and implications of the same. Reflection seems to be most effective when done in the presence of others.
 
-A quick summary of where we're at in the coaching process: you've set the focus of the conversation, you've done some exploration work to facilitate deeper awareness, and you've widened the field of inquiry to invite new perspectives by using open and honest questions. The conversation so far has shed light on the underlying dynamics, assumptions, or perceptions that supports the current behavior of the person you are working with, behavior they may want to change. Essentially what you have done up to this point is to increase the amount of _information_ available to be used as material in the coaching conversation.
+A quick summary of where we’re at in the coaching process: you’ve set the focus of the conversation, you’ve done some exploration work to facilitate deeper awareness, and you’ve widened the field of inquiry to invite new perspectives by using open and honest questions. The conversation so far has shed light on the underlying dynamics, assumptions, or perceptions that supports the current behavior of the person you are working with, behavior they may want to change. Essentially what you have done up to this point is to increase the amount of _information_ available to be used as material in the coaching conversation.
 
-What do you do with all of this new information? You facilitate a process of reflection and meaning making, creating space for the person you are working with to make new connections and insights from what they have uncovered. This is the "So What?" part of the process where people conceptually process what they are learning from the experience - both the experience itself and the new awareness that has been created through exploring the experience. Where they can make sense of what has happened and give it meaning. This is a crucial part of the process because meaning making is what transforms experience into learning.
+What do you do with all of this new information? You facilitate a process of reflection and meaning making, creating space for the person you are working with to make new connections and insights from what they have uncovered. This is the “So What?” part of the process where people conceptually process what they are learning from the experience—both the experience itself and the new awareness that has been created through exploring the experience. Where they can make sense of what has happened and give it meaning. This is a crucial part of the process because meaning making is what transforms experience into learning.
 
-As meaning making takes place, new stories emerge about how the person you are working with understands themselves, their relationships with the people around them, and their own role in creating the opportunities and outcomes they long for. The creation of new stories loosens the grip of the old ones, revealing them for what they are - stories rather than truths. Over time these new stories influence how a person experiences themselves, their colleagues, and their work. They invite new ways of thinking, doing, and being. Stories become recipes for structuring experience and meaning making is foundation on which new possibilities emerge.
+As meaning making takes place, new stories emerge about how the person you are working with understands themselves, their relationships with the people around them, and their own role in creating the opportunities and outcomes they long for. The creation of new stories loosens the grip of the old ones, revealing them for what they are-stories rather than truths. Over time these new stories influence how a person experiences themselves, their colleagues, and their work. They invite new ways of thinking, doing, and being. Stories become recipes for structuring experience and meaning making is foundation on which new possibilities emerge.
 
 ## The Practice
-We covered some questions for the "So What?" phase of the cycle, and I'll add a few new ones since we are explicitly focusing on reflection and meaning making this issue. The key idea to keep in mind here is that as a coach you are asking questions and creating space for the person you are working with to bring new insight and meaning to the information you have uncovered in the exploration phase.
+We covered some questions for the “So What?” phase of the cycle, and I’ll add a few new ones since we are explicitly focusing on reflection and meaning making this issue. The key idea to keep in mind here is that as a coach you are asking questions and creating space for the person you are working with to bring new insight and meaning to the information you have uncovered in the exploration phase.
 
 - What sense are you making of this?
 - How is your understanding of the situation changing?
@@ -48,6 +48,6 @@ Meaning making questions support another person to question their assumptions, r
 ---
 
 ## Quotes I ❤️
-> "Coaching is a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person. An effective coaching relationship creates a safe and challenging environment in which learning can take place. Coaches know that an oak tree already exists within an acorn. They have seen the one grow into the other, over time and under the right conditions, and are committed to providing those conditions to the best of their abilities. Successful coaches continually learn how best to "farm" the potential they are given to nurture."
+> Coaching is a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person. An effective coaching relationship creates a safe and challenging environment in which learning can take place. Coaches know that an oak tree already exists within an acorn. They have seen the one grow into the other, over time and under the right conditions, and are committed to providing those conditions to the best of their abilities. Successful coaches continually learn how best to “farm” the potential they are given to nurture.
 
 &mdash; Tim Gallowey, "[The Inner Game of Work: Building Capability in the Workplace](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)"

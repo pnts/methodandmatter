@@ -8,7 +8,7 @@ title: Taking Action
 subtitle: Moving from insight to application in coaching conversations.
 tags: coaching, CLS, methodology, process
 status: evergreen
-category: methodology
+category: Leader as Coach
 
 date: January 7th, 2024
 published: true
@@ -18,13 +18,13 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-> "When clients experience a new insight, they feel as if a door has opened to a new way of seeing. They have yet to walk through the door."  - Marcia Reynolds, [Coach the Person, Not the Problem](https://bookshop.org/p/books/coach-the-person-not-the-problem-a-guide-to-using-reflective-inquiry-marcia-reynolds/13045008?ean=9781523087839)
+> When clients experience a new insight, they feel as if a door has opened to a new way of seeing. They have yet to walk through the door.  - Marcia Reynolds, [Coach the Person, Not the Problem](https://bookshop.org/p/books/coach-the-person-not-the-problem-a-guide-to-using-reflective-inquiry-marcia-reynolds/13045008?ean=9781523087839)
 
-An technique in coaching conversations is to slow things down so that people can explore and reflect on their experience, a key part of the [noticing and exploring phase](https://methodandmatter.com/writing/essays/noticing-and-exploring/). The usefulness of this coaching move is that it asks people to critically assess and make visible what they think is going on and what assumptions, limiting beliefs, biases, and other factors might be at play. It guides them to look under the surface at what is going on in their inner world, wonder about what might be going on in others, and  think about what might be happening systemically that is contributing to the issue or situation they are exploring with you. The net result of raising awareness is an increase in the amount of information you have available for the next phase of the coaching process: [meaning making](https://methodandmatter.com/writing/essays/reflection-and-maining-making).
+An technique in coaching conversations is to slow things down so that people can explore and reflect on their experience, a key part of the [noticing and exploring phase](/writing/essays/noticing-and-exploring/). The usefulness of this coaching move is that it asks people to critically assess and make visible what they think is going on and what assumptions, limiting beliefs, biases, and other factors might be at play. It guides them to look under the surface at what is going on in their inner world, wonder about what might be going on in others, and  think about what might be happening systemically that is contributing to the issue or situation they are exploring with you. The net result of raising awareness is an increase in the amount of information you have available for the next phase of the coaching process: [meaning making](/writing/essays/reflection-and-maining-making).
 
-Meaning making is where you look at everything you have uncovered together and ask, "What sense can we make of all of this? What patterns are emerging? What from the past does this bring to mind? What no longer feels true? What new stories are emerging?" Meaning making is an act of knowledge creation&mdash;it is the process of developing new understanding and new ways of seeing so that the person being coached begins to experience themselves, their colleagues, and the situation in new ways.
+Meaning making is where you look at everything you have uncovered together and ask, “What sense can we make of all of this? What patterns are emerging? What from the past does this bring to mind? What no longer feels true? What new stories are emerging?” Meaning making is an act of knowledge creation&mdash;it is the process of developing new understanding and new ways of seeing so that the person being coached begins to experience themselves, their colleagues, and the situation in new ways.
 
-Okay, so you've increased awareness, surfaced new information, and made some meaning from what you've discovered. Now what? Precisely! The "Now What?" phase of the cycle brings us to the part of the conversation where new commitments are made towards future actions. Remember, it isn't a coaching conversation if it doesn't lead to action! The transformative power of coaching is both in the new knowledge it creates and how it asks people to _apply_ that knowledge directly in the real world.
+Okay, so you’ve increased awareness, surfaced new information, and made some meaning from what you've discovered. Now what? Precisely! The “Now What?” phase of the cycle brings us to the part of the conversation where new commitments are made towards future actions. Remember, it isn’t a coaching conversation if it doesn't lead to action! The transformative power of coaching is both in the new knowledge it creates and how it asks people to _apply_ that knowledge directly in the real world.
 
 Action might look like:
 
@@ -33,10 +33,10 @@ Action might look like:
 - Conducting self-observation throughout the week in service of ongoing awareness
 - Trying something new after the conversation is over
 
-Be sure that the person you are working with chooses the action they want to take (within reason - if you are their manager and see them choosing action that will clearly backfire or misses the mark of organizational goals, then put some guardrails in place). This encourages ownership of the learning journey and taps into intrinsic motivation tied to personal and professional goals.
+Be sure that the person you are working with chooses the action they want to take (within reason-if you are their manager and see them choosing action that will clearly backfire or misses the mark of organizational goals, then put some guardrails in place). This encourages ownership of the learning journey and taps into intrinsic motivation tied to personal and professional goals.
 
 ## The Practice
-You want to move into application questions after the person you are working with has some kind of shift in perspective or ah-ha moment. This is critical to create an opening for _new_ actions and behaviors&mdash;without the necessary perspective shift any commitments to action will be a rehash of the same behaviors that created the issue in the first place. Here are some questions that can facilitate commitments to future action in the "Now What?" part of the conversation:
+You want to move into application questions after the person you are working with has some kind of shift in perspective or ah-ha moment. This is critical to create an opening for _new_ actions and behaviors&mdash;without the necessary perspective shift any commitments to action will be a rehash of the same behaviors that created the issue in the first place. Here are some questions that can facilitate commitments to future action in the “Now What?” part of the conversation:
 
 - What will you do now?
 - How could you make this happen?
@@ -49,10 +49,10 @@ You want to move into application questions after the person you are working wit
 - What is another option?
 - What could you do to bring everything back in alignment?
 - Where haven't you looked for a solution yet?
-- What's the solution you've been too scared to try?
+- What’s the solution you've been too scared to try?
 - If you were to create an ideal situation, what is your goal? How would it work?
 
-You may find that the person you are coaching isn't sure what to do next. In this case, spend some time brainstorming together around what new actions might be possible. Once you've come up with a list, ask them to select the one or two that feel most applicable and doable.
+You may find that the person you are coaching isn’t sure what to do next. In this case, spend some time brainstorming together around what new actions might be possible. Once you've come up with a list, ask them to select the one or two that feel most applicable and doable.
 
 ---
 

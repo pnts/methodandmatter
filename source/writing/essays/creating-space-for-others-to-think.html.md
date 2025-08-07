@@ -8,6 +8,7 @@ title: Creating Space for Others to Think
 subtitle: On the impact of effective coaching conversations at work.
 tags: coaching
 status: evergreen
+category: Leader as Coach
 
 date: April 12th, 2023
 published: true

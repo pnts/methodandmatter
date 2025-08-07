@@ -8,6 +8,7 @@ title: "Navigating Life's Transitions"
 subtitle: "The only constant in life is change. - Heraclitus"
 tags: transitions, life
 status: evergreen
+category: Living
 
 date: September 28th, 2022
 published: true

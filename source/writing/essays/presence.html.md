@@ -8,7 +8,7 @@ title: Presence
 subtitle: The intentional use of self in coaching.
 tags: coaching, CLS, presence
 status: evergreen
-category: presence
+category: Leader as Coach
 
 date: March 3rd, 2024
 published: true
@@ -18,25 +18,25 @@ original: Words Make Worlds
 olink: "/words-make-worlds"
 ---
 
-> "As coaches or leaders, we can think of presence as a being intervention: simply "showing up" has an evocative effect, the first indication of whether or how people will work with us. Though we may not be able to predict how our presence will affect others, we are responsible for the self-work of reflection and asking to learn what we evoke in others." &mdash; Dorothy E. Siminovitch
+> As coaches or leaders, we can think of presence as a being intervention: simply "showing up" has an evocative effect, the first indication of whether or how people will work with us. Though we may not be able to predict how our presence will affect others, we are responsible for the self-work of reflection and asking to learn what we evoke in others." &mdash; Dorothy E. Siminovitch
 
-In "_[Use of Self in OD Consulting: What Matters is Presence](https://maraineyassociates.com/wp-content/uploads/2015/12/UseofSelf-Presence.pdf)_" Tolbert and Hanafin describe presence as representing "the translation of personal appearance, manner, values, knowledge, reputation, and other characteristics into interest and impact. Presence is not manufactured. Everyone possesses presence, regardless of the level of awareness of the impact of that presence. Presence is the use of self with intent."
+In “_[Use of Self in OD Consulting: What Matters is Presence](https://maraineyassociates.com/wp-content/uploads/2015/12/UseofSelf-Presence.pdf)_” Tolbert and Hanafin describe presence as representing “the translation of personal appearance, manner, values, knowledge, reputation, and other characteristics into interest and impact. Presence is not manufactured. Everyone possesses presence, regardless of the level of awareness of the impact of that presence. Presence is the use of self with intent.”
 
-If I could summarize in a pithy way what the coaching approach is all about I'd say something along the lines of "Do less, _be_ more." This is hard for managers&mdash;business requires a lot of doing and you don't make your way up the career ladder by sitting around staring at the clouds[^1]. Of course, we're not doing that in coaching either but the idea of _being_ is fairly elusive, let alone the idea that _being_ can have a positive impact, business or otherwise.
+If I could summarize in a pithy way what the coaching approach is all about I'd say something along the lines of “Do less, _be_ more.” This is hard for managers&mdash;business requires a lot of doing and you don't make your way up the career ladder by sitting around staring at the clouds[^1]. Of course, we’re not doing that in coaching either but the idea of _being_ is fairly elusive, let alone the idea that _being_ can have a positive impact, business or otherwise.
 
-With [Leader as Coach](https://maven.com/andrea-mignolo/leader-as-coach), presence and [awareness](https://methodandmatter.com/writing/essays/the-loop-of-awareness) are the first coaching tools I introduce to students. They are the foundations on which everything else is built. Think about the last time someone was fully present and attentive to you, when you felt really seen and heard by another. What was that like? How did it impact you? How did you feel?
+With [Leader as Coach](https://maven.com/andrea-mignolo/leader-as-coach), presence and [awareness](/writing/essays/the-loop-of-awareness) are the first coaching tools I introduce to students. They are the foundations on which everything else is built. Think about the last time someone was fully present and attentive to you, when you felt really seen and heard by another. What was that like? How did it impact you? How did you feel?
 
-In today's busy, fast-paced, multi-tasking society, the moments in which we are fully present with each other are few and far between. But when these moments do happen&mdash;when the past and future fall away and we open to the moment and the people we are with&mdash;something shifts. When we feel held in the attentiveness of awareness a kind of _completion_ starts to happen. What we have been holding on to, once witnessed, is ready to be released and energy becomes available for something new. I know this sounds a bit woo woo, but stay with me.
+In today’s busy, fast-paced, multi-tasking society, the moments in which we are fully present with each other are few and far between. But when these moments do happen&mdash;when the past and future fall away and we open to the moment and the people we are with&mdash;something shifts. When we feel held in the attentiveness of awareness a kind of _completion_ starts to happen. What we have been holding on to, once witnessed, is ready to be released and energy becomes available for something new. I know this sounds a bit woo woo, but stay with me.
 
 Presence is a precursor to [curiosity](https://methodandmatter.com/writing/essays/curiosity). Presence loosens the constricting grip of control and gives us access to a wide range of information beyond the content of what someone is sharing with us&mdash;body language, tone, energy, words left unsaid. When we are present we can receive others more fully, letting go of our own projections and holding patterns in order to build trust and safety in the relationship. We stay anchored and focused, less hooked by distractions and tangents like ruminating on the past or worrying about the future.
 
 Presence welcomes everything, and by welcoming everything coaches become more open to the reality of another without judgement or interpretation. What is the world like for them right now? What has them seeing things in this way? What  might unlock a new way of relating? What core values, unconscious beliefs, and unmet needs are contributing to how they experience themselves?
 
-Most coaching methodologies integrate the idea of presence in one shape or another&mdash;it's actually one of the [core competencies of coaching](https://coachingfederation.org/app/uploads/2021/03/ICF-Core-Competencies-updated.pdf) as defined by the International Coaching Federation: #5 - Maintains Presence. The ICF expects coaches to:
+Most coaching methodologies integrate the idea of presence in one shape or another&mdash;it’s actually one of the [core competencies of coaching](https://coachingfederation.org/app/uploads/2021/03/ICF-Core-Competencies-updated.pdf) as defined by the International Coaching Federation: #5 - Maintains Presence. The ICF expects coaches to:
 
 1. Remain focused, observant, empathetic and responsive to the client
 2. Demonstrate curiosity during the coaching process
-3. Manage one's emotions and to stay present with the client
+3. Manage one’s emotions and to stay present with the client
 4. Demonstrate confidence in working with strong client emotions during the coaching process
 5. Be comfortable working in a space of not knowing
 6. Create or allow space for silence, pause or reflection
@@ -47,10 +47,10 @@ The world of Gestalt outlines the skills and abilities of presence even further.
 - Separate data from interpretation and emphasize nonjudgmental observations. The closer to actual data, the less distortion of the client's experience.
 - State things succinctly, clearly, and directly.
 - Attend, observe, and selectively share observations of what is seen, heard, felt, and so forth.
-- Attend to one's own experience of feelings, sensations, and thoughts, and selectively share them.
-- Be aware of one's intentions at any moment; be clear about the priorities of the work.
+- Attend to one’s own experience of feelings, sensations, and thoughts, and selectively share them.
+- Be aware of one’s intentions at any moment; be clear about the priorities of the work.
 - Focus on what is most interesting to The Thinker; be aware of the emergence or lack of emergence of themes for which there is excitement
-- Make good connections with others and help others do the same; model clear and permeable boundaries, inﬂuence dialogue, and let go of being in control.
+- Make good connections with others and help others do the same; model clear and permeable boundaries, influence dialogue, and let go of being in control.
 - State observations in a way that can be heard and considered.
 - Use the client's language to heighten the capacity to be heard; using metaphors to paint a verbal picture.
 - Stay in the power of the here-and-now and focusing on the ongoing process.
@@ -58,9 +58,9 @@ The world of Gestalt outlines the skills and abilities of presence even further.
 
 Strong presence has an impact on what we say, how we say it, and how we impact others. I share all of these skills and competencies as a way to illustrate that entire professional bodies of practice dedicated to change and transformation take the capacity for presence very seriously. It is not woo woo at all.  
 
-In [_Simplifying Coaching_](https://bookshop.org/p/books/simplifying-coaching-how-to-have-more-transformational-conversations-by-doing-less-claire-pedrick/15769790?ean=9780335249077), Claire Pedrick reports that, "Marianne Woerkom interviewed managers who were coaches in the same organisation. The thinkers 'attributed the effectiveness of their coaching to a large part to the relationship they had with their coach. Receiving unconditional acceptance and respect from the coach was not only a facilitative condition, but also directly responsible for change'."
+In [_Simplifying Coaching_](https://bookshop.org/p/books/simplifying-coaching-how-to-have-more-transformational-conversations-by-doing-less-claire-pedrick/15769790?ean=9780335249077), Claire Pedrick reports that, “Marianne Woerkom interviewed managers who were coaches in the same organisation. The thinkers ‘attributed the effectiveness of their coaching to a large part to the relationship they had with their coach. Receiving unconditional acceptance and respect from the coach was not only a facilitative condition, but also directly responsible for change.’”
 
-_Presence facilitates change._ And through presence we can inhabit a state of unconditional acceptance and respect. An important nuance here&mdash;acceptance is about acknowledging the exact place someone is before supporting any kind of change. As Carl Rogers said, "The curious paradox is that when I accept myself just as I am, then I can change." When your presence as a coach invites this level acceptance in one of your direct reports, they can see themselves more clearly and mobilize the energy required for true and lasting change. I [wrote an article about this](https://methodandmatter.com/writing/guides/building-a-relationship-with-change/) if you are curious to go deeper on the paradoxical theory of change:
+_Presence facilitates change._ And through presence we can inhabit a state of unconditional acceptance and respect. An important nuance here&mdash;acceptance is about acknowledging the exact place someone is before supporting any kind of change. As Carl Rogers said, “The curious paradox is that when I accept myself just as I am, then I can change.” When your presence as a coach invites this level acceptance in one of your direct reports, they can see themselves more clearly and mobilize the energy required for true and lasting change. I [wrote an article about this](https://methodandmatter.com/writing/guides/building-a-relationship-with-change/) if you are curious to go deeper on the paradoxical theory of change:
 
 ### Cultivating Presence
 > "Cultivating presence requires a commitment to lifelong learning and development." - Mary Ann Rainey Tolbert and Jonno Hanafin
@@ -71,26 +71,26 @@ Cultivating presence is something we can do for the rest of our lives&mdash;ther
 The Six Elements of Cultivating Presence, created by Mary Ann Rainey Tolbert and Jonno Hanafin
 {: .caption}
 
-1. **Continuing to work on unresolved issues and unfinished business.** If we don't do our own work then we'll bring our own limiting beliefs, conditioned tendencies, and reactive patterns to coaching conversations. If we want to support others in accessing their full potential, we also have to spend time learning what gets in the way of doing this for ourselves.
+1. **Continuing to work on unresolved issues and unfinished business.** If we don’t do our own work then we’ll bring our own limiting beliefs, conditioned tendencies, and reactive patterns to coaching conversations. If we want to support others in accessing their full potential, we also have to spend time learning what gets in the way of doing this for ourselves.
 2. **Committing time and energy to active reflection.** Reflection is one of the primary ways we learn from experience. When we take the extra to reflect on our experience we generate new meaning that allows us to take new action.
 3. **Actively seek feedback from colleagues, direct reports, and friends.** To understand the impact our presence has on others, we have to ask them! What do we evoke in others when we work with them?
 4. **Live life fully.** If we only have one type of experience then our learning will be limited. To deepen our capacity for presence it is necessary to have a wide range of experiences to draw from. Personal development is professional development.
 5. **Investing in a broad worldview.** Traveling, building relationships with a wide range of people, exploring new countries and cultures increases our capacity to connect with and understand others.
 6. **Experimenting with new ways of being.** A way of being is about how we think, behave, and approach life cognitively, emotionally, and somatically. Most of us never wake up to our default way of being, but with some reflection and experimentation we can start to see the edges of this way of being, and begin to explore new ones.
 
-Each of the six areas could be an issue of Words Make Worlds in its own right 🧐. If it feels in alignment, spend some time reflecting and journaling around your own approach and experience in each of these areas. On a scale of 0 &mdash; 10, where would you rate yourself today? And what would it take to rate yourself one number higher?
+If it feels in alignment, spend some time reflecting and journaling around your own approach and experience in each of these areas. On a scale of 0-10, where would you rate yourself today? And what would it take to rate yourself one number higher?
 
 ## The Practice
 As you head into your week, identify one conversation  where you will consciously practice being fully present. This could be a 1-on-1 meeting with a direct report, a team meeting, or even a chat with someone at the grocery store.
 
-Before entering the conversation, take a few deep centering breaths and set the intention to be attentive and engaged without multi-tasking or mentally moving ahead to what you'll say next. Listen with [soft eyes](https://methodandmatter.com/writing/essays/soft-eyes), be [curious](https://methodandmatter.com/writing/essays/curiosity), [loop your awareness](https://methodandmatter.com/writing/essays/the-loop-of-awareness), and let go of stories you've previously told yourself about this person.
+Before entering the conversation, take a few deep centering breaths and set the intention to be attentive and engaged without multi-tasking or mentally moving ahead to what you’ll say next. Listen with [soft eyes](/writing/essays/soft-eyes), be [curious](/writing/essays/curiosity), [loop your awareness](/writing/essays/the-loop-of-awareness), and let go of stories you've previously told yourself about this person.
 
 Afterward, reflect on how it felt to anchor yourself in presence. Did you gain any new insights that may have been missed otherwise? Did the quality of connection shift at all? See if you can begin incorporating small presence experiments like this into your regular leadership practice. Who knows what unexpected wonders may unfold by simply showing up and giving someone your full attention.
 
 ---
 
 ## Quotes I ❤️
-> "When you coach as a thinking partner instead of an expert, your job is to catch and return what you are given by the client. You don't have to concoct a masterful question. You don't need to figure out if what you want to say is intuition or a blatant projection of your own needs. You don't have to have all the answers. You are a good coach if you share what you hear and see and maybe offer what you sense is happening with no attachment to being right." &mdash; Marcia Reynolds
+> When you coach as a thinking partner instead of an expert, your job is to catch and return what you are given by the client. You don't have to concoct a masterful question. You don't need to figure out if what you want to say is intuition or a blatant projection of your own needs. You don't have to have all the answers. You are a good coach if you share what you hear and see and maybe offer what you sense is happening with no attachment to being right. &mdash; Marcia Reynolds
 
 ---
 

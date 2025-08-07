@@ -8,6 +8,7 @@ title: Working with Discomfort
 subtitle: A short treatise on centering.
 tags: presence, centering
 status: evergreen
+category: Living
 
 date: January 5th, 2023
 published: true

@@ -8,6 +8,7 @@ title: "The Coaching Leadership Style: Developing Self and Developing Others"
 subtitle: "A high level overview of the Coaching Leadership Style."
 tags: coaching, CLS
 status: evergreen
+category: Leader as Coach
 
 date: July 11th, 2023
 published: true

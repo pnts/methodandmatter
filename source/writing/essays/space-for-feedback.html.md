@@ -8,6 +8,7 @@ title: "Creating the Right Space for Feedback"
 subtitle: "What happens outside the conversation is as important as what happens in it."
 tags: feedback, teamwork, leadership, management
 status: evergreen
+category: Feedback
 
 date: January 12th, 2021
 published: true

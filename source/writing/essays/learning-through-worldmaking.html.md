@@ -8,6 +8,7 @@ title: "Learning Through Worldmaking: The Design Way"
 subtitle: On the overlap between experiential learning and designing.
 tags: design, worlds
 status: evergreen
+category: Learning
 
 date: August 19th, 2019
 published: true

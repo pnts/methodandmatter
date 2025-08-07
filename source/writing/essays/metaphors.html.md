@@ -8,7 +8,7 @@ title: Metaphors
 subtitle: How metaphors shape our understanding and experience.
 tags: coaching, CLS, language, metaphors
 status: evergreen
-category: language
+category: Making Sense
 
 date: January 18th, 2025
 published: true
@@ -22,7 +22,7 @@ olink: "/words-make-worlds"
 
 > "The challenge facing modern managers is to become accomplished in the art of using metaphor to find new ways of seeing, understanding, and shaping their actions." — Gareth Morgan
 
-Metaphors are not just poetic turns of phrase used to embellish speech with an ornamental flourish, they are fundamental to how we perceive and think about the world. Metaphors help us to understand our experiences and create meaning—who we take ourselves to be, what the nature of our work is, how we orient in relationships, how we get stuck, what challenges feel like, and what feels possible (to name a few!). As [unique observers](https://methodandmatter.com/writing/essays/living-in-language), we experience the world through the intersection of language, emotion, and the body. Our knowing is highly experiential and metaphor is one of the primary ways we create conceptual coherence across experiences.
+Metaphors are not just poetic turns of phrase used to embellish speech with an ornamental flourish, they are fundamental to how we perceive and think about the world. Metaphors help us to understand our experiences and create meaning—who we take ourselves to be, what the nature of our work is, how we orient in relationships, how we get stuck, what challenges feel like, and what feels possible (to name a few!). As [unique observers](/writing/essays/living-in-language), we experience the world through the intersection of language, emotion, and the body. Our knowing is highly experiential and metaphor is one of the primary ways we create conceptual coherence across experiences.
 
 ![What is a pige?](images/wmw/pig.jpg)
 What is the pig? via Garath Morgan

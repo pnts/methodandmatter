@@ -8,6 +8,7 @@ title: "Both/And: Untangling the Relationship Between Management and Leadership"
 subtitle: "A closer look at management, leadership, and why it’s important to understand the differences between the two."
 tags: management, leadership
 status: evergreen
+category: Leadership
 
 date: September 3rd, 2020
 published: true

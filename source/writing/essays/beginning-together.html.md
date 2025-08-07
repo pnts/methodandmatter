@@ -8,7 +8,7 @@ title: Beginning Together
 subtitle: Setting the stage for successful coaching conversations.
 tags: coaching, CLS, methodology
 status: evergreen
-category: methodology
+category: Leader as Coach
 
 date: October 15th, 2023
 published: true
@@ -37,4 +37,4 @@ Beginning well is about knowing what the conversation is about, what is most imp
 	4. **Know:** How will you know that this conversation has been useful?
 6. **Begin.** If you both feel satisfied with the focus and the outcomes, ask them where they would like to start. Let them choose what feels important, and start the conversation with, "Where shall we start?"
 
-Once you begin the conversation, ​[curiosity](https://methodandmatter.com/essays/curiosity)​, [optimism](https://methodandmatter.com/essays/optimism)​, and ​[using your attention intentionally​](https://methodandmatter.com/essays/the-loop-of-awareness) will take you through the rest.
+Once you begin the conversation, ​[curiosity](/writing/essays/curiosity)​, [optimism](/writing/essays/optimism)​, and ​[using your attention intentionally​](/writing/essays/the-loop-of-awareness) will take you through the rest.

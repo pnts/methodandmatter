@@ -8,6 +8,7 @@ title: On Belonging
 subtitle: A story of coming home.
 tags: personal
 status: evergreen
+category: Living
 
 date: February 22nd, 2023
 published: true

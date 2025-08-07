@@ -8,7 +8,7 @@ title: The Coaching Process
 subtitle: A framework for facilitating learning and action.
 tags: coaching, CLS, methodology, process
 status: evergreen
-category: methodology
+category: Leader as Coach
 
 date: November 12th, 2023
 published: true
@@ -22,15 +22,15 @@ olink: "/words-make-worlds"
 
 The thing that distinguishes coaching from normal conversations is its focus on awareness, meaning, and action. Coaching facilitates learning that generates knowledge, uncovers fresh perspectives, and leads to new actions and behaviors. Each of these capacities can be thought of as a step in the coaching process that creates space for people to step into their own innate wisdom and understanding.
 
-So far we've talked about how to [begin a coaching conversation](https://methodandmatter.com/writing/essays/beginning-together) and looked at the specific [kinds of questions](https://methodandmatter.com/writing/essays/asking-questions/) that are inherent to a coaching approach. Today we're going to take a step back and look at the process side of things so you have an understanding of how to facilitate learning and can begin to experiment in your conversations at work.
+So far we’ve talked about how to [begin a coaching conversation](/writing/essays/beginning-together) and looked at the specific [kinds of questions](/writing/essays/asking-questions/) that are inherent to a coaching approach. Today we’re going to take a step back and look at the process side of things so you have an understanding of how to facilitate learning and can begin to experiment in your conversations at work.
 
-I prefer frameworks that are simple, easy to remember, and flexible enough to be able to respond to the unpredictable nature of human interaction in real-time. I find Dorothy Strachan's "What?&mdash; So What?&mdash;Now What?" framework fits the bill, providing enough structure to so that you know where you are and where to go, with openings to invite improvisation and creativity.
+I prefer frameworks that are simple, easy to remember, and flexible enough to be able to respond to the unpredictable nature of human interaction in real-time. I find Dorothy Strachan's “What?&mdash; So What?&mdash;Now What?” framework fits the bill, providing enough structure to so that you know where you are and where to go, with openings to invite improvisation and creativity.
 
 ![the process framework](images/wmw/process-framework.png)
 Process Framework for Enabling Action, via Dorothy Strachan
 {: .caption}
 
-There are three main phases in the process "What?&mdash;So What? &mdash;Now What?" (hence the name), illustrated in a cyclical relationship that reminds us that human interactions are nonlinear and that you'll find yourself moving between the phases in various ways throughout a single conversation.  
+There are three main phases in the process “What?&mdash;So What? &mdash;Now What?” (hence the name), illustrated in a cyclical relationship that reminds us that human interactions are nonlinear and that you’ll find yourself moving between the phases in various ways throughout a single conversation.  
 
 Each phase is associated with a type of question:
 
@@ -38,15 +38,15 @@ Each phase is associated with a type of question:
 - **Meaning questions** invite reflection on what has been uncovered through exploring the notice questions.
 - **Application questions** create commitments towards future actions, experiments, and next steps given what has emerged from the notice and meaning questions.
 
-For the sake of clarity we'll assume that the questions go in the order listed above&mdash;notice, make meaning, and application of the learnings&mdash;but in practice you'll frequently find yourself moving back and forth between a couple of phases until you reach enough clarity to continue on.
+For the sake of clarity we’ll assume that the questions go in the order listed above&mdash;notice, make meaning, and application of the learnings&mdash;but in practice you’ll frequently find yourself moving back and forth between a couple of phases until you reach enough clarity to continue on.
 
-Once you have determined the focus of the coaching conversation and figured out what you want to accomplish together, you can move into an exploration of the topic or issue at hand. This part of the process requires stepping into the unknown, which can feel challenging and uncomfortable for the coach. To do this successfully  requires letting go of the reins and being willing embrace uncertainty, truly not knowing what the outcome will be. [Curiosity](https://methodandmatter.com/writing/essays/curiosity) is a great friend in these moments.
+Once you have determined the focus of the coaching conversation and figured out what you want to accomplish together, you can move into an exploration of the topic or issue at hand. This part of the process requires stepping into the unknown, which can feel challenging and uncomfortable for the coach. To do this successfully requires letting go of the reins and being willing embrace uncertainty, truly not knowing what the outcome will be. [Curiosity](/writing/essays/curiosity) is a great friend in these moments.
 
 The process framework is your map, showing you the lay of the land and the direction of your journey. The first part of your journey begins by creating the space for new understanding through the use of _notice_ questions. This is an invitation to the person you are working with to gain a better understanding of what is both inside and outside of their awareness, asking them to get curious about what lies just beyond the visible horizon. Here you support them to clarify their perspective by articulating the details of what they notice and what makes that noticing so important to them.
 
-Once the issue has been brought into higher resolution through the noticing exploration, you can move into _meaning_ questions that invite reflection and deeper understanding. In this phase you are basically asking, "now that you know what you know, what do you understand that you didn't before?" Together you start to look for patterns, insights, importance, and significance of what was shared in the _noticing_ phase.
+Once the issue has been brought into higher resolution through the noticing exploration, you can move into _meaning_ questions that invite reflection and deeper understanding. In this phase you are basically asking, “now that you know what you know, what do you understand that you didn’t before?” Together you start to look for patterns, insights, importance, and significance of what was shared in the _noticing_ phase.
 
-Meaning making can lead to ah-ha moments big and small. When this happens you can shift into the application questions, moving the learning conversation from reflection to commitments for future action. The general gist of this phase is, "with this new understanding, what will you _do_ differently?" Make sure that whatever action plan arises that is doable in a short amount of time&mdash;encourage people to take small, immediate steps in order to create quick feedback loops for quick learning and insights to work with in future coaching conversations.  
+Meaning making can lead to ah-ha moments big and small. When this happens you can shift into the application questions, moving the learning conversation from reflection to commitments for future action. The general gist of this phase is, “with this new understanding, what will you _do_ differently?” Make sure that whatever action plan arises that is doable in a short amount of time&mdash;encourage people to take small, immediate steps in order to create quick feedback loops for quick learning and insights to work with in future coaching conversations.  
 
 
 ## The Practice
@@ -68,7 +68,7 @@ This week is less of a practice and more a bank of questions for each phase of t
 
 ### So What? The Meaning Questions
 
-- Based on what we've talked about, what's different for you now?
+- Based on what we’ve talked about, what’s different for you now?
 - What stands out for you?
 - What patterns are you starting to notice?
 - What does this remind you of?
