@@ -4,7 +4,7 @@ description: What transitions look like and how to navigate them.
 keywords: transitions
 image: "og/og-symbol.png"
 
-title: "Navigating Life's Transitions"
+title: "Navigating Life’s Transitions"
 subtitle: "The only constant in life is change. - Heraclitus"
 tags: transitions, life
 status: evergreen

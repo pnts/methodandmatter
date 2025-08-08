@@ -91,17 +91,42 @@ layout: content
 
 <section class="content training">
   <div class="col-1">
+    <div class="essay-filters">
+      <h4>CATEGORIES</h4>
+      <%
+        essays = sitemap.resources.select { |r| r.path.start_with?('writing/essays/') }
+        categories = essays.map { |e| e.data.category }.compact.uniq.sort
+        category_counts = categories.map do |cat|
+          [cat, essays.count { |e| e.data.category == cat }]
+        end
+      %>
+
+      <button class="filter-btn active" data-category="all">
+        All Essays (<%= essays.length %>)
+      </button>
+
+      <% category_counts.each do |category, count| %>
+        <button class="filter-btn" data-category="<%= category.downcase.gsub(/\s+/, '-') %>">
+          <%= category %> (<%= count %>)
+        </button>
+      <% end %>
+    </div>
   </div>
 
   <div class="col-2">
-    <% sitemap.resources.select { |r| r.path.start_with?('writing/essays/') }
-    .sort_by { |r| Date.parse(r.data.date) rescue Date.new(1970,1,1) }
-    .reverse
-    .each do |post| %>
-      <h3><%= link_to post.data.title, post.url %></h3>
-      <p><%= post.data.subtitle %></p>
-      <%#= post.render(layout: false) %>
-    <% end %>
+    <div class="essays-list">
+      <% sitemap.resources.select { |r| r.path.start_with?('writing/essays/') }
+      .sort_by { |r| Date.parse(r.data.date) rescue Date.new(1970,1,1) }
+      .reverse
+      .each do |post| %>
+        <div class="essay-item" data-category="<%= post.data.category.downcase.gsub(/\s+/, '-') if post.data.category %>">
+          <% if post.data.category %>
+            <span class="category-label"><%= post.data.category.upcase %></span>
+          <% end %>
+          <h3><%= link_to post.data.title, post.url %></h3>
+          <p><%= post.data.subtitle %></p>
+        </div>
+      <% end %>
+    </div>
   </div>
 </section>
-

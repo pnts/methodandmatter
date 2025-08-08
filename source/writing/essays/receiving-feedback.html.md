@@ -7,7 +7,8 @@ image: "og/og-symbol.png"
 title: "The Art of Receiving Feedback"
 subtitle: "Receiving feedback can be scary, but it doesn’t have to be."
 tags: feedback
-status: Feedback
+status: evergreen
+category: Feedback
 
 date: February 20th, 2021
 published: true

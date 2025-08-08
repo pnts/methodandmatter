@@ -1568,3 +1568,101 @@ article {
   }
   margin-bottom: -5rem;
 }
+
+// Essay Category Filtering Styles
+.essay-filters {
+  margin-top: 1.5rem;
+  h4 {
+    margin-bottom: 1rem;
+    color: $medium-gray;
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    
+    @include breakpoint(large) {
+      font-size: 0.75rem;
+    }
+  }
+  
+  .filter-btn {
+    display: block;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    padding: 0.6rem 1rem;
+    background: transparent;
+    border: none;
+    border-radius: 4px;
+    color: $main-text;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: $transition;
+    text-align: left;
+    
+    &:hover {
+      background: $warm-highlight;
+    }
+    
+    &.active {
+      background: $warm-highlight;
+      color: $main-text;
+    }
+    
+    @include breakpoint(large) {
+      font-size: 0.95rem;
+      padding: 0.7rem 1.2rem;
+    }
+  }
+}
+
+.essays-list {
+  margin-top: 1.5rem;
+  
+  .essay-item {
+    margin-bottom: 3rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid $lightest-gray;
+    
+    &:last-child {
+      border-bottom: none;
+    }
+    
+    .category-label {
+      display: block;
+      color: $medium-gray;
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      margin-bottom: 0.5rem;
+      
+      @include breakpoint(large) {
+        font-size: 0.75rem;
+      }
+    }
+    
+    h3 {
+      margin: 0 0 0.5rem 0;
+    }
+    
+    p {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
+}
+
+// Responsive adjustments for essay filtering
+@media (max-width: 29.9rem) {
+  .essay-filters {
+    margin-bottom: 2rem;
+  }
+  
+  .essays-list .essay-header {
+    flex-direction: column;
+    gap: 0.5rem;
+    
+    .category-label {
+      align-self: flex-start;
+      margin-top: 0;
+    }
+  }
+}
