@@ -351,10 +351,6 @@ footer {
   }
 }
 
-header {
-  background: #FCFCFC;
-}
-
 .btn {
   display: inline-block;
   border-bottom: 0;
@@ -1578,12 +1574,12 @@ article {
     font-size: 0.7rem;
     font-weight: 500;
     letter-spacing: 0.1em;
-    
+
     @include breakpoint(large) {
       font-size: 0.75rem;
     }
   }
-  
+
   .filter-btn {
     display: block;
     width: 100%;
@@ -1597,16 +1593,16 @@ article {
     cursor: pointer;
     transition: $transition;
     text-align: left;
-    
+
     &:hover {
       background: $warm-highlight;
     }
-    
+
     &.active {
       background: $warm-highlight;
       color: $main-text;
     }
-    
+
     @include breakpoint(large) {
       font-size: 0.95rem;
       padding: 0.7rem 1.2rem;
@@ -1616,16 +1612,16 @@ article {
 
 .essays-list {
   margin-top: 1.5rem;
-  
+
   .essay-item {
     margin-bottom: 3rem;
     padding-bottom: 2.5rem;
     border-bottom: 1px solid $lightest-gray;
-    
+
     &:last-child {
       border-bottom: none;
     }
-    
+
     .category-label {
       display: block;
       color: $medium-gray;
@@ -1633,16 +1629,16 @@ article {
       font-weight: 500;
       letter-spacing: 0.1em;
       margin-bottom: 0.5rem;
-      
+
       @include breakpoint(large) {
         font-size: 0.75rem;
       }
     }
-    
+
     h3 {
       margin: 0 0 0.5rem 0;
     }
-    
+
     p {
       margin-top: 0;
       margin-bottom: 0;
@@ -1655,11 +1651,11 @@ article {
   .essay-filters {
     margin-bottom: 2rem;
   }
-  
+
   .essays-list .essay-header {
     flex-direction: column;
     gap: 0.5rem;
-    
+
     .category-label {
       align-self: flex-start;
       margin-top: 0;
