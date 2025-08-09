@@ -88,3 +88,7 @@ Use Middleman's blog helpers or manually create files following the established 
 - SEO optimized with OpenGraph and Twitter Card meta tags
 - RSS feeds generated for each blog
 - No tracking or analytics implemented (privacy-focused)
+
+## CSS Guidelines
+
+- **Always comment CSS additions**: When adding new CSS styles, include a comment indicating the addition was made by Claude Code (e.g., `/* Added by Claude Code */` or `/* Claude addition */`)
