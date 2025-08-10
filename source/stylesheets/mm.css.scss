@@ -578,7 +578,7 @@ input[type=submit] {
   }
 }
 
-.mini-bio {
+.mini-bio, .e-book {
   img {
     @include breakpoint(large) {
       float: left;
@@ -589,6 +589,14 @@ input[type=submit] {
   }
   p {
     padding-top: .5rem;
+  }
+}
+
+.e-book {
+  img {
+    border: 1px solid #EEE;
+    border-radius: 0;
+    margin-bottom: 2.5rem;
   }
 }
 
