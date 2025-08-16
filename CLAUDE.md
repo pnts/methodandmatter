@@ -89,6 +89,12 @@ Use Middleman's blog helpers or manually create files following the established 
 - RSS feeds generated for each blog
 - No tracking or analytics implemented (privacy-focused)
 
-## CSS Guidelines
+## Code Change Guidelines
 
-- **Always comment CSS additions**: When adding new CSS styles, include a comment indicating the addition was made by Claude Code (e.g., `/* Added by Claude Code */` or `/* Claude addition */`)
+- **Always comment changes with attribution and date**: When making changes to CSS, HTML, or JavaScript files, include a comment indicating:
+  - The change was made by Claude Code
+  - The date of the change
+  - Examples:
+    - CSS: `/* Updated by Claude Code - 2025-08-16 */`
+    - HTML: `<!-- Updated by Claude Code - 2025-08-16 -->`
+    - JavaScript: `// Updated by Claude Code - 2025-08-16`

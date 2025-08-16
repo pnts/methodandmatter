@@ -101,15 +101,21 @@ layout: content
         end
       %>
 
-      <button class="filter-btn active" data-category="all">
-        All Essays (<%= essays.length %>)
-      </button>
+      <ul>
+        <li>
+          <a href="#" class="filter-link active" data-category="all">
+            All Essays (<%= essays.length %>)
+          </a>
+        </li>
 
-      <% category_counts.each do |category, count| %>
-        <button class="filter-btn" data-category="<%= category.downcase.gsub(/\s+/, '-') %>">
-          <%= category %> (<%= count %>)
-        </button>
-      <% end %>
+        <% category_counts.each do |category, count| %>
+          <li>
+            <a href="#" class="filter-link" data-category="<%= category.downcase.gsub(/\s+/, '-') %>">
+              <%= category %> (<%= count %>)
+            </a>
+          </li>
+        <% end %>
+      </ul>
     </div>
   </div>
 

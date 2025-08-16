@@ -2,17 +2,18 @@
 
 // Essay Category Filtering
 document.addEventListener('DOMContentLoaded', function() {
-  var filterButtons = document.querySelectorAll('.filter-btn');
+  var filterLinks = document.querySelectorAll('.filter-link');
   var essayItems = document.querySelectorAll('.essay-item');
   
-  // Handle filter button clicks
-  for (var i = 0; i < filterButtons.length; i++) {
-    filterButtons[i].addEventListener('click', function() {
+  // Handle filter link clicks
+  for (var i = 0; i < filterLinks.length; i++) {
+    filterLinks[i].addEventListener('click', function(e) {
+      e.preventDefault(); // Prevent default anchor behavior
       var category = this.dataset.category;
       
-      // Update active button
-      for (var j = 0; j < filterButtons.length; j++) {
-        filterButtons[j].classList.remove('active');
+      // Update active link
+      for (var j = 0; j < filterLinks.length; j++) {
+        filterLinks[j].classList.remove('active');
       }
       this.classList.add('active');
       
@@ -44,12 +45,12 @@ document.addEventListener('DOMContentLoaded', function() {
     var hash = window.location.hash;
     if (hash && hash.indexOf('#category-') === 0) {
       var category = hash.replace('#category-', '');
-      var targetButton = document.querySelector('[data-category="' + category + '"]');
-      if (targetButton) {
-        for (var i = 0; i < filterButtons.length; i++) {
-          filterButtons[i].classList.remove('active');
+      var targetLink = document.querySelector('[data-category="' + category + '"]');
+      if (targetLink) {
+        for (var i = 0; i < filterLinks.length; i++) {
+          filterLinks[i].classList.remove('active');
         }
-        targetButton.classList.add('active');
+        targetLink.classList.add('active');
         filterEssays(category);
       }
     }

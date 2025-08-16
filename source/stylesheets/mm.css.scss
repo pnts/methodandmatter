@@ -1578,6 +1578,7 @@ article {
 }
 
 // Essay Category Filtering Styles
+// Added by Claude
 .essay-filters {
   margin-top: 1.5rem;
   h4 {
@@ -1592,26 +1593,34 @@ article {
     }
   }
 
-  .filter-btn {
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+  }
+
+  .filter-link {
     display: block;
     width: 100%;
-    margin-bottom: 0.5rem;
     padding: 0.6rem 1rem;
-    background: transparent;
-    border: none;
+    background-color: transparent;
     border-radius: 4px;
-    color: $main-text;
+    color: $main-text !important;
     font-size: 0.9rem;
-    cursor: pointer;
-    transition: $transition;
-    text-align: left;
+    text-decoration: none !important;
+    transition: background-color .7s ease;
 
     &:hover {
-      background: $warm-highlight;
+      background-color: $warm-highlight;
     }
 
     &.active {
-      background: $warm-highlight;
+      background-color: $warm-highlight;
       color: $main-text;
     }
 
@@ -1659,6 +1668,7 @@ article {
 }
 
 // Responsive adjustments for essay filtering
+// Added by Claude
 @media (max-width: 29.9rem) {
   .essay-filters {
     margin-bottom: 2rem;
