@@ -1,25 +1,27 @@
 // This is where it all goes :)
 
 // Essay Category Filtering
+// Updated by Claude Code - 2025-09-01: Updated to work with semantic unordered list
 document.addEventListener('DOMContentLoaded', function() {
   var filterLinks = document.querySelectorAll('.filter-link');
   var essayItems = document.querySelectorAll('.essay-item');
-  
+
   // Handle filter link clicks
   for (var i = 0; i < filterLinks.length; i++) {
     filterLinks[i].addEventListener('click', function(e) {
       e.preventDefault(); // Prevent default anchor behavior
       var category = this.dataset.category;
-      
+
       // Update active link
+      // Updated by Claude Code - 2025-09-01: Fixed to work with filter-btn class
       for (var j = 0; j < filterLinks.length; j++) {
         filterLinks[j].classList.remove('active');
       }
       this.classList.add('active');
-      
+
       // Filter essays
       filterEssays(category);
-      
+
       // Update URL hash
       if (category === 'all') {
         history.replaceState(null, null, window.location.pathname);
@@ -28,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
   }
-  
+
   // Filter essays function
   function filterEssays(category) {
     for (var i = 0; i < essayItems.length; i++) {
@@ -39,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     }
   }
-  
+
   // Handle initial URL hash
   function handleInitialHash() {
     var hash = window.location.hash;
@@ -55,10 +57,10 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     }
   }
-  
+
   // Handle browser back/forward
   window.addEventListener('hashchange', handleInitialHash);
-  
+
   // Initialize with URL hash if present
   handleInitialHash();
 });

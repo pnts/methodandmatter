@@ -100,14 +100,13 @@ layout: content
           [cat, essays.count { |e| e.data.category == cat }]
         end
       %>
-
+      <!-- Updated by Claude Code - 2025-09-01: Changed from buttons to semantic unordered list -->
       <ul>
         <li>
           <a href="#" class="filter-link active" data-category="all">
             All Essays (<%= essays.length %>)
           </a>
         </li>
-
         <% category_counts.each do |category, count| %>
           <li>
             <a href="#" class="filter-link" data-category="<%= category.downcase.gsub(/\s+/, '-') %>">
