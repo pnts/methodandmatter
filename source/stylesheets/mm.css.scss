@@ -581,7 +581,7 @@ input[type=submit] {
   }
 }
 
-.mini-bio, .e-book {
+.mini-bio, .index .e-book {
   img {
     @include breakpoint(large) {
       float: left;
@@ -598,8 +598,22 @@ input[type=submit] {
 .e-book {
   img {
     border: 1px solid #EEE;
-    border-radius: 0;
+    border-radius: 0 !important;
     margin-bottom: 2.5rem;
+  }
+}
+
+.writing .e-book {
+  width: 25rem;
+  img {
+    padding-right: 0 !important;
+    margin-top: 2rem;
+    margin-bottom: 0;
+  }
+  ~ .box-2 {
+    h2 {
+      margin-top: 2rem;
+    }
   }
 }
 
@@ -1623,7 +1637,7 @@ article {
       background-color: $warm-highlight;
       color: $main-text;
     }
-    
+
     /* Updated by Claude Code - 2025-09-01: Reverted to semantic list structure */
 
     @include breakpoint(large) {
