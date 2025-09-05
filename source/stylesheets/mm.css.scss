@@ -681,7 +681,7 @@ input[type=submit] {
   }
   h3 {
     font-size: 1.4rem;
-    margin-bottom: -1rem;
+    //margin-bottom: -1rem;
     margin-top: 1rem;
   }
 }
@@ -1115,6 +1115,13 @@ p.teacher {
   }
 }
 
+.words-make-worlds article {
+  h4 {
+    font-size: 1.3rem;
+    margin-top: 2rem;
+  }
+}
+
 .words-make-worlds {
   .hero {
     background-image: url("/images/wmw/newsletter-bg-5.png");
@@ -1211,7 +1218,7 @@ p.teacher {
   //margin-bottom: -1rem;
 }
 
-.words-make-worlds .notes h4 {
+.words-make-worlds h4.lockup {
   line-height: 1.6rem;
   color: $medium-gray;
   background-image: url("/images/wmw/wmw-circle-transparent.png");
@@ -1365,7 +1372,7 @@ p.teacher {
   }
 }
 
-article {
+.writing article {
   margin-top: 4rem;
   max-width: 40.5rem;
   margin-left: auto;
@@ -1413,7 +1420,7 @@ article {
   }
 }
 
-.article-lockup {
+.writing .article-lockup {
   border-top: 1px solid #E0E0E0;
   p {
     font-size: .9rem;

@@ -4,7 +4,7 @@
 <main>
   <section class="content">
     <div class="col-1 notes">
-      <h4>
+      <h4 class="lockup">
         <%= link_to('Words Make Worlds', 'words-make-worlds') %><br />
         Issue <%= current_page.data.issue %> <br />
         <%= current_page.data.date %>
@@ -12,8 +12,9 @@
 
       <h1><%= current_page.data.title %></h1>
 
-      <%= yield %>
-
+      <article>
+        <%= yield %>
+      </article>
       <hr />
 
       <div class="mini">
