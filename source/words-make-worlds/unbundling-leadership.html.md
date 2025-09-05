@@ -55,17 +55,17 @@ It is worthwhile to note that the role of manager and leader can often be at odd
 ### Reflection Questions:
 
 #### Systems & Processes:
-- What friction points are slowing down our team's ability to deliver results?
+- What friction points are slowing down our team’s ability to deliver results?
 - How do I balance standardization with the need for flexibility?
 - Which meetings, reports, or processes could we eliminate without losing value?
 
 #### Performance & Accountability:
 - How quickly do I address performance gaps when they arise?
-- Am I giving people the tools and resources they need to succeed before holding them accountable?
+- Am I giving people the tools and resources they need to succeed?
 - What would happen if I wasn't here for a week—would things run smoothly?
 
 #### Resource Optimization:
-- Where am I over-investing or under-investing our team's time and energy?
+- Where am I over-investing or under-investing our team’s time and energy?
 - How effectively am I protecting my team from organizational noise and distractions?
 
 ## Coach
@@ -79,7 +79,7 @@ Mentorship also falls under the umbrella of coaching. The way I distinguish betw
 
 #### Development & Growth:
 - What assumptions am I making about what each person needs to grow?
-- How often do I ask "What do you think?" before offering my own perspective?
+- How often do I ask “What do you think?” before offering my own perspective?
 - When have I seen someone surprise themselves with their own capability?
 
 #### Creating Safety:
@@ -90,10 +90,10 @@ Mentorship also falls under the umbrella of coaching. The way I distinguish betw
 #### Letting Go:
 - Where am I solving problems that others could solve themselves?
 - How do I distinguish between when to step in and when to step back?
-- What would it look like to be less helpful in service of others' growth?
+- What would it look like to be less helpful in service of others’ growth?
 
 ---
 
 It is important to note that within each of these roles there is a wide range of variability. How you lead, manage, and coach will be shaped by your experiences, values, and beliefs about how good work gets done (and what qualifies as good work in the first place
 
-Give it a try this week—track each of your days and see where you lead, manage, and coach. You might find one role is more comfortable you or that certain contexts require one role over the others. There is no one right way, but I hope that unbundling these three roles gives you useful insight to be more impactful as a leader. 
+Give it a try this week—track each of your days and see where you lead, manage, and coach. You might find one role is more comfortable you or that certain contexts require one role over the others. There is no one right way, but I hope that unbundling these three roles gives you useful insight to be more impactful as a leader.
