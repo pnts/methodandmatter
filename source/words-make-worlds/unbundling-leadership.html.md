@@ -6,7 +6,7 @@ image: "og/og-words-make-worlds.png"
 title: Unbundling Leadership
 issue: 23
 tags: leadership, management, coaching
-category: Leader as Coach
+
 
 date: September 5th, 2025
 published: true
