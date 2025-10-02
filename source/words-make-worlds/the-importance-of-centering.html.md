@@ -3,7 +3,7 @@ description: Understanding the importance of centering in leadership practice.
 keywords: centering, embodiment, executive presence
 image: "og/og-words-make-worlds.png"
 
-title: The Importance of Centering
+title: Coming Back to Center
 issue: 24
 tags: leadership
 

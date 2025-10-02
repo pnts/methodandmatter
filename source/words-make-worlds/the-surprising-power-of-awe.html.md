@@ -8,26 +8,26 @@ issue: 25
 tags: leadership
 
 date: October 3rd, 2025
-published: false
+published: true
 ---
 
 I must have been around 10 or 11 years old the winter I realized how vast the universe was.
 
-A storm tumbled through our town leaving eight inches of snow in its wake. The next day the temperature warmed enough for rain and then rapidly dropped below zero, transforming the top inches of snow into a thick layer of ice—a hardy crust that you could walk on top of and not break through. For adults this was probably a pain in the butt, but for us kids it was a magical playground.
+A storm tumbled through our town leaving eight inches of snow in its wake. The next day the temperature warmed enough to rain and then rapidly dropped below zero, transforming the top inches of snow into a thick layer of ice—a hardy crust that you could walk on top of and not break through. For adults this was probably a pain in the butt, but for us kids it was a magical playground.
 
-It only took a few high speed sledding attempts down the hill in our back yard to realize how treacherous the situation was. Normally we could maneuver a controlled landing by dragging one or both arms in the snow, like a rudder, and easily avoid crashing into the pine trees lining the bottom. But with the ice there was no dragging, only careening, our tiny faces slapped with pine needles before an uncerimonious and sudden encounter with a tree trunk.
+It only took one stupidly fast and uncontrollable run down the hill in our back yard for my brother and I to realize how treacherous the situation was. Normally we could maneuver our sleds into a controlled landing by dragging one or both arms in the snow, like a rudder, and easily avoid crashing into the pine trees lining the bottom. But with the ice there was no dragging, only careening, our tiny faces slapped with pine needles before an uncerimonious and sudden encounter with a tree trunk.
 
-After the first run we couldn’t even make it back up the hill, everything was so slippery. We had to chip hand holes into the ice with sticks to create anchors so we wouldn't slide to the bottom and have to start the climb all over.
+We also realized we couldn’t make it back up the hill, everything was so slippery. We had to chip hand holes into the ice with sticks to create anchors so we wouldn't slide to the bottom and have to start the climb all over.
 
 Eventually we ditched our sleds and created a new game. We covered the ice in a grid of hand holds. Starting at the top of the hill, snowsuit stomach down, we launched ourselves. There was enough momentum that you could grab onto a hole and change your direction, spining around a few times before catching another. Kind of like if Plinko were etched into the side of a hill, with kids bonking around instead of a giant coin.
 
-It was stupidly fun and we stayed out well past dinner. Eventually my brother got tired and went inside. I stayed out to do a few more runs.
+It was such fun we stayed out well past dinner time. My brother was the first to get tired and go inside. I stayed out to do a few more runs.
 
 By this point it was dark, the night crisp. Halfway down the hill I flipped over and looked up. The spiral arm of the Milky Way slashed across the inky sky, stars twinkling in every direction.
 
-The warm light from the living room spilled down the hill, its meniscus stopping short of where I was sprawled. We had been learning about space at school (Jupiter was my favorite planet) and I knew that each point of light dotting the sky was incredibly far away.
+The warm light from the living room spilled down the hill, its meniscus stopping short of where I lay sprawled. We had been learning about space at school (Jupiter was my favorite planet) and I knew that each point of light dotting the sky was incredibly far away.
 
-So far away that what I was looking at might not be there any longer, the distance between us like a time machine turning the clock back a millennia. I had the sudden realization I was looking into the past.
+So far away that what I was looking at might not even be there any longer, the distance between us like a time machine turning the clock back a millennia. I had the sudden realization I was looking into the past.
 
 Everything inverted.
 
