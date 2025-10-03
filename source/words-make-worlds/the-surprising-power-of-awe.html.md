@@ -69,14 +69,6 @@ I also recorded a [short, guided meditation](https://drive.google.com/file/d/13R
 
 ---
 
-As always, thank you for being here. I’d love to hear about your memories and experience of awe! Just hit reply :).
-
-Until next time,
-
-Andi
-
----
-
 ### Additional Reading on Awe:
 
 - [Finding Awe Amid Everyday Splendor](https://www.noemamag.com/finding-awe-amid-everday-splendor/)
