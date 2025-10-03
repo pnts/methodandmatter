@@ -7,7 +7,7 @@ title: The Surprising Power of Awe
 issue: 25
 tags: leadership
 
-date: October 3rd, 2025
+date: October 2nd, 2025
 published: true
 ---
 
@@ -27,7 +27,7 @@ By this point it was dark, the night crisp. Halfway down the hill I flipped over
 
 The warm light from the living room spilled down the hill, its meniscus stopping short of where I lay sprawled. We had been learning about space at school (Jupiter was my favorite planet) and I knew that each point of light dotting the sky was incredibly far away.
 
-So far away that what I was looking at might not even be there any longer, the distance between us like a time machine turning the clock back a millennia. I had the sudden realization I was looking into the past.
+So far away that what I was looking at might not be there any longer, the distance between us like a time machine turning the clock back a millennia. I had the sudden realization I was looking into the past.
 
 Everything inverted.
 
