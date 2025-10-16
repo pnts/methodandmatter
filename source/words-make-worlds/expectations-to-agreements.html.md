@@ -7,7 +7,7 @@ title: Are you really on the same page?
 issue: 26
 tags: leadership
 
-date: October 17th, 2025
+date: October 16th, 2025
 published: true
 ---
 
