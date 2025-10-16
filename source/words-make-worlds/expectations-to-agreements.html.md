@@ -31,7 +31,7 @@ Here is an expectation I have: “I expect that people will arrive to meetings o
 
 Second, figure out if what you said has been understood the way you intended it. “Is this clear? What questions do you have?”
 
-In the case above, one question might be, “How should we let you know?” Another might be, “What if the meeting is on Monday morning?” Someone else might wonder about what being prepared for a meeting looks like.
+In the case above, one question might be, “How should we let you know?” Another might be, “What if the meeting is on Monday morning?” Someone else might wonder about what being prepared for a meeting looks like or what counts as “late”.
 
 See what I mean? What seems clear to you actually isn’t all that clear when tested against the perspective, experience, and work history of others.
 
