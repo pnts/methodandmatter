@@ -41,7 +41,7 @@ Whether they agree immediately or you spend some time workshopping it together, 
 
 ### From Expectations to Shared Agreements
 
-The process I described here is what is commonly referred to in the coaching world as going from expectations to shared agreements. Expectations exist in your head, and if you don’t share them you set yourself for continuous disappointment because _people can’t read your mind_.
+The process just described is what is commonly referred to in the coaching world as “expectations and agreements”. Expectations exist in your head, and if you don’t share them you set yourself up for continuous disappointment because _people can’t read your mind_.
 
 The alternative is to create a set of shared agreements—expectations that are shared out loud, agreed to or modified, and then written down for reference. Shared agreements usually exist as “living documents” that can be updated or modified at anytime, to keep the system responsive and flexible.
 
@@ -54,7 +54,7 @@ Here are some of the shared agreements I use with each cohort of Leader as Coach
 - Commitment: We are committed to each other and this learning container throughout our time together. This means active participation in sessions, completing weekly experiments, sharing reflections, and communicating proactively if challenges arise.
 - Psychological Safety: We are here to learn and support each other in that learning. We commit to supporting, listening, and giving space without judgement for people to share openly. We hold positive intent and give people the benefit of the doubt, and do our best to hold back from fixing, directing, and giving advice without consent.
 
-Creating a set of shared agreements with your team can be transformative. Not only are your expectations clear and out in the open, but because they are created collaboratively, everyone feels invested. They aren’t being told what to do, they are collectively shaping team behavior.  
+Creating a set of shared agreements with your team can be transformative. Not only are your expectations clear and out in the open, but because they are created collaboratively, everyone feels invested. People aren’t being told what to do, they are collectively shaping team behavior.  
 
 This also means you waste a lot less energy feeling frustrated and ruminating about why people aren’t doing or responding in ways you think they should. It’s a big world. We’ve all been shaped by different upbringings, education, cultures, and work experiences. Do yourself and your team a favor and say as clearly as you can what you want, and then explore that together.
 
