@@ -94,6 +94,6 @@ Mentorship also falls under the umbrella of coaching. The way I distinguish betw
 
 ---
 
-It is important to note that within each of these roles there is a wide range of variability. How you lead, manage, and coach will be shaped by your experiences, values, and beliefs about how good work gets done (and what qualifies as good work in the first place
+It is important to note that within each of these roles there is a wide range of variability. How you lead, manage, and coach will be shaped by your experiences, values, and beliefs about how good work gets done (and what qualifies as good work in the first place).
 
 Give it a try this week—track each of your days and see where you lead, manage, and coach. You might find one role is more comfortable for you or that certain contexts require one role over the others. There is no one right way, but I hope that unbundling these three roles gives you useful insight to be more impactful as a leader.
