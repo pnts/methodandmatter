@@ -157,7 +157,7 @@ layout: content
       <li>A coursebook with materials for each session to support your learning</li>
       <li>Videos of didactic sections (recording will be turned off for Q&A and sharebacks for confidentiality purposes)</li>
       <li>Hosted on the Maven platform</li>
-      <li>$1399, with discounts for folks in non-profits and government services</li>
+      <li>$1495, with discounts for folks in non-profits and government services</li>
     </ul>
 
   </div>
@@ -168,7 +168,21 @@ layout: content
 <div class="lac-signup">
   <div class="inner">
     <h3>Not ready to enroll? Sign up to receive updates about new cohorts, upcoming webinars, and free resources.</h3>
-    <%= partial "lac_form" %>
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/courses-and-offerings"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/courses-and-offerings', 'popupwindow')"
+      class="embeddable-buttondown-form"
+    >
+
+      <input type="hidden" name="tag" value="lac" />
+
+      <input type="email" name="email" id="bd-email" />
+
+      <input type="submit" value="Subscribe" />
+
+    </form>
   </div>
 </div>
 

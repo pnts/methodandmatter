@@ -127,7 +127,10 @@ hr {
 .writing .writing a,
 .research .research a,
 .leader-as-coach .courses a,
-.newsletters .newsletter a {
+.newsletters .newsletter a,
+.courses .courses a,
+.leadership-fluency .courses a,
+.deep-rest .courses a {
   text-decoration-color: $link-accent-color;
 }
 

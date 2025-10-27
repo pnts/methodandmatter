@@ -64,7 +64,7 @@
         <nav>
           <ul>
             <li class="coaching"><a href="/offerings/">offerings</a> </li>
-            <li class="courses"><a href="/leader-as-coach/">courses</a> </li>
+            <li class="courses"><a href="/courses/">courses</a> </li>
             <li class="writing"><a href="/writing/">resources</a> </li>
             <li class="about"><a href="/about/">about</a> </li>
           </ul>
@@ -226,7 +226,7 @@
       <li>A coursebook with materials for each session to support your learning</li>
       <li>Videos of didactic sections (recording will be turned off for Q&A and sharebacks for confidentiality purposes)</li>
       <li>Hosted on the Maven platform</li>
-      <li>$1399, with discounts for folks in non-profits and government services</li>
+      <li>$1495, with discounts for folks in non-profits and government services</li>
     </ul>
 
   </div>
@@ -238,19 +238,20 @@
   <div class="inner">
     <h3>Not ready to enroll? Sign up to receive updates about new cohorts, upcoming webinars, and free resources.</h3>
     <form
-  action="https://buttondown.email/api/emails/embed-subscribe/leader-as-coach-updates"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/leader-as-coach-updates', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
+      action="https://buttondown.email/api/emails/embed-subscribe/courses-and-offerings"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/courses-and-offerings', 'popupwindow')"
+      class="embeddable-buttondown-form"
+    >
 
-  <input type="email" name="email" id="bd-email" />
+      <input type="hidden" name="tag" value="lac" />
 
-  <input type="submit" value="Subscribe" />
-  
-</form>
+      <input type="email" name="email" id="bd-email" />
 
+      <input type="submit" value="Subscribe" />
+
+    </form>
   </div>
 </div>
 
@@ -311,9 +312,17 @@
         </div>
 
         <div class="collection">
-          <h3>Courses and Resources</h3>
+          <h3>Courses</h3>
           <ul>
             <li><a href="/leader-as-coach/">Leader as Coach</a></li>
+            <li><a href="/leadership-fluency/">Leadership Fluency</a></li>
+            <li><a href="/deep-rest/">Deep Rest for Deep Work</a></li>
+          </ul>
+        </div>
+
+        <div class="collection">
+          <h3>Miscellany</h3>
+          <ul>
             <li><a href="/words-make-worlds/">Words Make Worlds</a></li>
             <li><a href="/library/">Library</a></li>
             <li><a href="/writing/">Resources</a></li>
