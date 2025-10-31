@@ -49,7 +49,7 @@ The key to being green is being present and feeling what shows up, rather than f
 
 It is entirely possible to be green and sad. Or red and joyful.
 
-### Embodied Self Awareness
+### Embodied Self-Awareness
 To understand this, I want to briefly remap the definitions of the colors based on Alan Fogel’s research on Embodied Self-Awareness (ESA).
 
 The basic idea (and I am over simplifying for the sake of brevity) behind ESA is that it is the ability _feel_ ourselves as living, sensing beings that invokes the parasympathetic rest-and-digest response. When we _think_ about ourselves conceptually we are invoking various neural networks in the brain that rely on the sympathetic nervous system. It is only when we can drop fully into the experiencing self that we can access the restorative qualities of emotions.
@@ -95,6 +95,6 @@ Strong emotions, the ones typically classified as “negative” don’t have to
 
 If we stay tense and reactive, then we are easily knocked over. Our resources are always depleted and we don’t have enough to meet the moments that matter.  
 
-Green helps us connect to our emotions, we allow it all but we do this skillfully so that we can fully utilize the gifts of these emotions. If we do this unskillfully then we explode, collapse, or become lost in dogma. Such reactions aren’t in service of life and justice, and often they wind up perpetuating the status quo.
+Green helps us connect to our emotions, we allow them all but we do this skillfully so that we can fully utilize the gifts of these emotions. If we do this unskillfully then we explode, collapse, or become lost in dogma. Such reactions aren’t in service of life and justice, and often they wind up perpetuating the status quo.
 
 Being green is _exactly_ how you show up in a world on fire.
