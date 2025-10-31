@@ -3,7 +3,7 @@ description: Expectations are a recipe for disappointment. Instead, create share
 keywords: expectations, agreements, team communication, leadership
 image: "og/og-words-make-worlds.png"
 
-title: Are you really on the same page?
+title: Are You Really on the Same Page?
 issue: 26
 tags: leadership
 
