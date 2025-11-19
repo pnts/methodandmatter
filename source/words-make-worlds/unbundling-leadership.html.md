@@ -20,9 +20,9 @@ When you step into a leadership role you’re often expected to get on with the 
 
 Faced with this murkiness, leaders take a number of approaches—mirroring the leaders around them, becoming the type of leader they always wanted but never had, or staying heads down and focusing on the work.
 
-What I wish I had known, when I stepped into my first leadership role, is that leadership is a bundle of three different and somewhat distinct areas of responsibility: holding and communicating the vision, running the business, and developing talent. Each corresponds to a different role: leader, manager, and coach. While in practice the three blend together, it can be helpful to understand the distinct configuration of each.
+What I wish I had known, when I stepped into my first leadership role, is that leadership is a bundle of four different and somewhat distinct areas of responsibility: holding and communicating the vision, delivering outcomes, running the business, and developing talent. Each corresponds to a different role: leader, director, manager, and coach. While in practice the four blend together, it can be helpful to understand the distinct configuration of each.
 
-## Leader
+## Lead
 Leadership is the embodiment of vision and values in action. Leaders connect people to purpose, make meaning of challenges, and inspire collective movement towards shared goals. The mindset of a leader is oriented towards the future, possibility, and innovation.
 
 Key responsibilities include creating and communicating the vision, aligning efforts with core values, listening to what is happening in organization, helping people understand the “why”, and showing how individual and team work contributes to larger organizational goals.
@@ -45,7 +45,31 @@ Leaders must do this both for the people on the team/function/department they ar
 - How well do I understand the broader ecosystem my team operates within?
 - Where might I be inadvertently creating silos or barriers to collaboration?
 
-## Manager
+## Direct
+Directing is the practice of setting clear targets and making decisive choices about priorities and resource allocation. Directors focus on outcomes, establish boundaries, and make the calls that keep work moving forward. The mindset of directing orients towards clarity, decisiveness, and results.
+
+Key responsibilities include defining outcomes and what success looks like, establishing non-negotiables, making clear decisions about priorities, setting timelines and milestones, and ensuring accountability for outcomes.
+
+While directing shares some territory with managing, the distinction lies in focus: management is about systems and processes that create predictability, while directing is about outcomes and the decisions that drive toward specific results.
+
+### Reflection Questions:
+
+#### Clarity & Focus:
+- How clearly can my team articulate our top three priorities right now?
+- Where am I creating confusion by trying to accomplish too many things at once?
+- What decisions am I avoiding that are creating ambiguity for others?
+
+#### Decision-Making:
+- How quickly do I make decisions when the path forward is uncertain?
+- Where might my desire for consensus be slowing down necessary action?
+- When did I last change direction based on new information—and how clearly did I communicate why?
+
+#### Accountability & Outcomes:
+- Do people know exactly what they’re accountable for delivering?
+- How do I respond when outcomes aren’t being met?
+- Where might I be measuring activity instead of results?
+
+## Manage
 Management is the practice of running a business—orchestrating work systems and processes to achieve predictable outcomes. The mindset of a manager orients towards operational excellence and structured thinking.
 
 Key responsibilities include setting clear expectations in the form of shared agreements, establishing effective processes, identifying metrics of success, ensuring efficient resource allocation, and maintaining stability and consistency.
