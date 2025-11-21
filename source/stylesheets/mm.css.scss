@@ -1560,13 +1560,29 @@ p.teacher {
     max-width: 48rem;
     margin: 5rem auto 6rem auto;
     input#bd-email {
-      border: 1px solid #E0E0E0;
       width: 20rem;
       @include breakpoint(large) {
         width: 38rem;
       }
     }
   }
+}
+
+.lf {
+  input#bd-email {
+    width: 70%;
+  }
+}
+
+input#bd-email {
+  border: 1px solid #E0E0E0;
+}
+
+.writing .lf h2 {
+  font-family: "RomieRegular";
+  //margin-top: 3rem;
+  font-size: 2.5rem;
+  line-height: 3.5rem;
 }
 
 .welcome-to-coaching .col-2 a {
