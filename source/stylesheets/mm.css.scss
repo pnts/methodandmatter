@@ -532,6 +532,11 @@ input[type=submit] {
   .box-2 {
     grid-area: second;
   }
+  .slides {
+    margin-top: 1rem;
+    display: block;
+    text-align: right;
+  }
 }
 
 .three-col-grid {
@@ -717,7 +722,7 @@ input[type=submit] {
 }
 
 .writing .two-col-equal.videos {
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   padding-top: 1rem;
 
   .box-1 {
