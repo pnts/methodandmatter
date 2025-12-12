@@ -75,6 +75,6 @@ So for example, if someone says, “I’d like to see more data on that,” and 
 
 That’s pretty much it. Courageous teams can actually share the Left Hand Column with each other, though that requires some additional guidance and this issue has already gone long!  
 
-And when a thought comes up about how someone is seeing you and you suspect your story might be kinda skewed, pause and look at the observable data you have. And then assess how much that data can really tell you, and where you might be filling in with extra story. As a former colleague liked to say, “In the absence of information, people fill in the apocalypse.”
+So when a thought comes up about how someone is seeing you and you suspect your story might be kinda skewed, pause and look at the observable data you have. And then assess how much that data can really tell you, and where you might be filling in with extra story. As a former colleague liked to say, “In the absence of information, people fill in the apocalypse.”
 
 Of course, asking people directly or using tools like a well-designed 360 can give you useful information about how others perceive you. But remember! You can never _really_ know. Each person is a world, and their perception of you is filtered through their own stories. The best use of your energy is to stay grounded in your own experience, work with your own perceptive abilities, and trust that clarity within yourself creates clarity in how you show up for others.
