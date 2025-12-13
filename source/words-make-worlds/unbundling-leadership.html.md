@@ -8,7 +8,7 @@ issue: 23
 tags: leadership, management, coaching
 
 date: September 5th, 2025
-published: false
+published: true
 ---
 
 Unbundling is a business strategy that seeks to take things apart with the purpose of creating a more functional or competitive business. GE, under Jack Welch, spun off or sold underperforming business units in order to focus on the most profitable divisions, Craigslist unbundled classified ad revenue from traditional newspapers, and the shift to digital distribution unbundled songs from an album in the form of MP3s.  
