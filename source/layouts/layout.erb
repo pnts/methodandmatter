@@ -65,6 +65,77 @@
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6543216/6501012/css/fonts.css" />
     <%= stylesheet_link_tag "mm" %>
     <%= javascript_include_tag "mm" %>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Method & Matter",
+        "description": "Executive and leadership coaching for visionary leaders. Professional coaching services including executive coaching, team coaching, and leadership development programs.",
+        "url": "https://methodandmatter.com",
+        "logo": "https://methodandmatter.com/images/og/og-symbol.png",
+        "image": "https://methodandmatter.com/images/og/og-symbol.png",
+        "founder": {
+          "@type": "Person",
+          "name": "Andrea Mignolo",
+          "alternateName": "Andi Mignolo",
+          "url": "https://methodandmatter.com/about"
+        },
+        "sameAs": [
+          "https://github.com/pnts",
+          "https://andreamignolo.com",
+          "https://www.linkedin.com/in/mignolo"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "San Francisco",
+          "addressRegion": "CA",
+          "addressCountry": "US"
+        },
+        "areaServed": "Worldwide",
+        "serviceType": ["Executive Coaching", "Leadership Coaching", "Team Coaching", "Leadership Development Programs"]
+      }
+  </script>
+
+  <!-- Article schema for blog posts -->
+  <% if current_page.data.date %>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "<%= current_page.data.title %>",
+      "description": "<%= current_page.data.description %>",
+      "author": {
+        "@type": "Person",
+        "name": "Andrea Mignolo",
+        "url": "https://methodandmatter.com/about"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Method & Matter",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://methodandmatter.com/images/og/og-symbol.png"
+        }
+      },
+      "datePublished": "<%= current_page.data.date %>",
+      <% if current_page.data.updated %>
+      "dateModified": "<%= current_page.data.updated %>",
+      <% else %>
+      "dateModified": "<%= current_page.data.date %>",
+      <% end %>
+      "image": "https://methodandmatter.com/images/<%= current_page.data.image %>",
+      "url": "<%= 'https://methodandmatter.com' + current_page.url %>",
+      <% if current_page.data.keywords %>
+      "keywords": "<%= current_page.data.keywords %>",
+      <% end %>
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "<%= 'https://methodandmatter.com' + current_page.url %>"
+      }
+    }
+  </script>
+  <% end %>
   </head>
   <body class="<%= page_classes %>">
     <%#= partial "announcement" %>
