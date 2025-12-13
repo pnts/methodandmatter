@@ -1308,12 +1308,13 @@ p.teacher {
 }
 
 .words-make-worlds ul.issue-list {
+
   list-style-type: none;
-  margin-top: 3rem;
+  margin-top: 2rem;
   li {
     margin-left: 0;
     h3 {
-      font-size: 1.2rem;
+      font-size: 1.4rem;
       margin-bottom: 0;
     }
     h2 {
@@ -1324,6 +1325,12 @@ p.teacher {
 
 .words-make-worlds ul.extra-bottom-margin {
   margin-bottom: 3em;
+}
+
+.words-make-worlds_index {
+  h2 {
+    margin-bottom: 0;
+  }
 }
 
 

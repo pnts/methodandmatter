@@ -34,14 +34,15 @@ layout: content
 
     <hr />
 
-    <div class="relaunch-notice">
-      <h3>Issues</h3>
+
+      <h2>Issues</h2>
 
       <% blog('words-make-worlds').articles.each do |article| %>
-        <ul>
-          <li><%= link_to article.data.title, article %> </li>
+        <ul class="issue-list">
+          <li><h3><%= link_to article.data.title, article %></h3>
+          <h4><%= article.data.description %></h4> </li>
         </ul>
       <% end %>
-    </div>
+    
 
 </section>

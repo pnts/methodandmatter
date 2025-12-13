@@ -1,5 +1,5 @@
 ---
-description: Leadership actually consists of three different roles—leading, managing, and coaching. Understanding the difference can be helpful to your success.
+description: When you step into a leadership role, you’re actually stepping into four distinct roles—leader, director, manager, and coach. Understanding each one can clarify where to focus your energy.
 keywords: "leader vs manager, leader as coach, what is leadership"
 image: "og/og-words-make-worlds.png"
 
@@ -7,9 +7,8 @@ title: Unbundling Leadership
 issue: 23
 tags: leadership, management, coaching
 
-
 date: September 5th, 2025
-published: true
+published: false
 ---
 
 Unbundling is a business strategy that seeks to take things apart with the purpose of creating a more functional or competitive business. GE, under Jack Welch, spun off or sold underperforming business units in order to focus on the most profitable divisions, Craigslist unbundled classified ad revenue from traditional newspapers, and the shift to digital distribution unbundled songs from an album in the form of MP3s.  

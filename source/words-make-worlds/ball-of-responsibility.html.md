@@ -1,5 +1,6 @@
 ---
-description: Leaders sometimes take on too much responsbility and feel exhausted after 1:1s.
+description: Why do so many leaders leave 1:1s feeling exhausted? Often it’s because they’re holding all the conversational
+  weight—and creating dependency in the process.
 keywords: one on ones, management, responsibility
 image: "og/og-words-make-worlds.png"
 

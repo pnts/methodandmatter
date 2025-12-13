@@ -1,5 +1,6 @@
 ---
-description: Leaders sometimes take on too much responsbility and feel exhausted after 1:1s.
+description: The stories we hold about how others see us can be totally skewed. How do we get back to a clearer sense of how
+  we’re actually perceived?
 keywords: leadership, perception
 image: "og/og-words-make-worlds.png"
 

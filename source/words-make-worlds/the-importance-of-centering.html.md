@@ -1,5 +1,6 @@
 ---
-description: Understanding the importance of centering in leadership practice.
+description: Life grabs at us constantly—conflicts, news, criticism, uncertainty. Centering helps us see these grabs coming and
+  choose how we respond instead of just reacting.
 keywords: centering, embodiment, executive presence
 image: "og/og-words-make-worlds.png"
 

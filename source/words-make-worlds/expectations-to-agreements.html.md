@@ -1,5 +1,6 @@
 ---
-description: Expectations are a recipe for disappointment. Instead, create shared agreements for alignment and clarity regarding the behaviors that matter.
+description: Expectations live in your head. Until you share them out loud, get agreement, and write them down, you’re setting
+  yourself up for disappointment.
 keywords: expectations, agreements, team communication, leadership
 image: "og/og-words-make-worlds.png"
 

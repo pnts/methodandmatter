@@ -1,5 +1,6 @@
 ---
-description: Awe is unique amongst the rainbow of human emotions. It gives us direct access to states of rest, expansiveness, and connection.
+description: Awe is the only emotion that can short-circuit overwhelm and drop us directly into a restorative state. No
+  meditation required, just 15 minutes and a willingness to see things with fresh eyes.
 keywords: awe, embodied self-awareness, leadership
 image: "og/og-words-make-worlds.png"
 

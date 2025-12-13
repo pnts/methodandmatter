@@ -1,5 +1,6 @@
 ---
-description: The world is kinda crazy right now. How can caring leaders show up without burning out?
+description: Is it okay to be green—present, rested, responsive—when the world is on fire? Not only is it okay, it’s exactly how
+   caring leaders can show up without burning out.
 keywords: emotional regulation, polyvagal, restorative, embodied self awareness, emotions, leadership
 image: "og/og-words-make-worlds.png"
 
