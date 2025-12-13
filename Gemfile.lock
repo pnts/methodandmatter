@@ -12,6 +12,7 @@ GEM
     autoprefixer-rails (10.4.21.0)
       execjs (~> 2)
     backports (3.23.0)
+    builder (3.3.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -78,6 +79,9 @@ GEM
       toml
       uglifier (~> 3.0)
       webrick
+    middleman-search_engine_sitemap (1.4.0)
+      builder
+      middleman-core (~> 4.0)
     minitest (5.15.0)
     padrino-helpers (0.15.1)
       i18n (>= 0.6.7, < 2)
@@ -114,6 +118,7 @@ DEPENDENCIES
   middleman (~> 4.4.2)
   middleman-autoprefixer (~> 3.0)
   middleman-blog (~> 4.0)
+  middleman-search_engine_sitemap (~> 1.4)
   rack (>= 2.2.21)
   rexml (>= 3.3.9)
   tzinfo-data

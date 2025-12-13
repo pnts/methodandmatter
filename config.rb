@@ -117,3 +117,7 @@ page "the-becoming/*", :layout => :newsletter
 page "essays/*", :layout => :essays
 page "words-make-worlds/*", :layout => :wmw
 page "writing/*", :layout => :essays
+
+# Sitemap
+set :url_root, 'http://methodandmatter.com'
+activate :search_engine_sitemap
