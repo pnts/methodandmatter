@@ -1,0 +1,17 @@
+index:
+  prose: "Learn more about {how this works|executive-coaching} and {who I work with|who} (I also {coach teams|team-coaching})."
+
+executive-coaching:
+  prose: "Check out {team coaching|team-coaching}, {Leader as Coach|leader-as-coach}, and {read my writing|writing}."
+
+leader-as-coach:
+  prose: "Explore {Leadership Fluency|leadership-fluency}, learn more about {executive coaching|executive-coaching}, and {read my writing|writing}."
+
+leadership-fluency:
+  prose: "Check out {Leader as Coach|leader-as-coach}, learn more about {team coaching|team-coaching}, and {read my writing|writing}."
+
+deep-rest:
+  prose: "Explore {Leader as Coach|leader-as-coach}, learn more about {executive coaching|executive-coaching}, and {read my writing|writing}."
+
+offsites:
+  prose: "Check out {Leader as Coach|leader-as-coach}, learn more about {my approach|executive-coaching}, and {read my writing|writing}."

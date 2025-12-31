@@ -211,12 +211,14 @@ layout: content
 
 <section class="content">
   <div class="col-1">
+    <h2></h2>
   </div>
 
   <div class="col-2">
+    <%= partial "wmw_lockup" %>
 
-    <div class="nav-lockup">
-      <h4><strong>Where to next?</strong> Check out <%= link_to('Leader as Coach', 'leader-as-coach') %>, learn more about <%= link_to('my approach', 'executive-coaching') %>, and <%= link_to('read my writing', 'writing') %>. Ready to take the next step? <%= link_to('Get in touch.', 'conversation') %></h4>
-    </div>
+    <hr/>
+
+    <%= partial "nav_lockup" %>
   </div>
 </section>

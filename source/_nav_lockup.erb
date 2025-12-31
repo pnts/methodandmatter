@@ -1,0 +1,23 @@
+<%
+   # Get the current page's filename
+   page_key = current_page.path.gsub('.html', '').gsub('/', '')
+   nav_data = data.navigation[page_key]
+ %>
+
+ <% if nav_data && nav_data.prose %>
+ <div class="nav-lockup">
+   <h4><strong>Where to next?</strong>
+      <%
+      # Parse the prose and convert {text|url} into link_to helpers
+      parsed_prose = nav_data.prose.gsub(/\{([^|]+)\|([^}]+)\}/) do |match|
+        link_text = $1
+        link_url = $2
+          link_to(link_text, link_url)
+        end
+      %>
+
+      <%= parsed_prose %>
+      Ready to take the next step? <%= link_to 'Get in touch.', 'conversation' %>
+  </h4>
+</div>
+ <% end %>
