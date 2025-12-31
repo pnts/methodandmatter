@@ -32,7 +32,7 @@ Now picture that 1:1 again, but this time the ball is sitting on the floor betwe
 ### For example?
 What does this look like in practice? A familiar theme in 1:1s is interpersonal conflict:
 
-**Holding the ball:** “Alex and I keep butting heads on the technical approach. Every meeting turns into an argument.” The leader picks up the ball, already problem-solving. “This is slowing you both down. Let me talk to Alex and get his perspective, then I’ll meet with both of you separately and figure out a path forward. I’ll set something up for next week.” The conflict gets resolved, but the direct report hasn't learned how to navigate disagreement.
+**Holding the ball:** “Alex and I keep butting heads on the technical approach. Every meeting turns into an argument.” The leader picks up the ball, already problem-solving. “This is slowing you both down. Let me talk to Alex and get his perspective, then I’ll meet with both of you separately and figure out a path forward. I’ll set something up for next week.” The conflict gets resolved, but the direct report hasn’t learned how to navigate disagreement.
 
 **Shared responsibility**: “Alex and I aren’t aligned on the approach.” The leader resists the urge to mediate. “What have you already tried?” They listen as the direct report explains. “What would a productive conversation between you two look like? What would need to be different from how it’s been going?” The leader might offer coaching on how to have the conversation, but they’re not stepping in to have it for them.
 

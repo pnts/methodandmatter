@@ -36,7 +36,7 @@ In the case above, one question might be, “How should we let you know?” Anot
 
 See what I mean? What seems clear to you actually isn’t all that clear when tested against the perspective, experience, and work history of others.
 
-Once you've gotten clear together, the next step is to find out if folks agree with what you shared. Just because you expect people to behave a certain way doesn’t mean it will resonate or be acceptable to them. They might have some other ideas around meeting protocols.
+Once you’ve gotten clear together, the next step is to find out if folks agree with what you shared. Just because you expect people to behave a certain way doesn’t mean it will resonate or be acceptable to them. They might have some other ideas around meeting protocols.
 
 Whether they agree immediately or you spend some time workshopping it together, the finally step is to write down what you agreed to in a place everyone can easily refer to it when needed.
 

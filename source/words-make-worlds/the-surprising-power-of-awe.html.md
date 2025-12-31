@@ -18,7 +18,7 @@ A storm tumbled through our town leaving eight inches of snow in its wake. The n
 
 It only took one stupidly fast and uncontrollable run down the hill in our back yard for my brother and I to realize how treacherous the situation was. Normally we could maneuver our sleds into a controlled landing by dragging one or both arms in the snow, like a rudder, and easily avoid crashing into the pine trees lining the bottom. But with the ice there was no dragging, only careening, our tiny faces slapped with pine needles before an unceremonious and sudden encounter with a tree trunk.
 
-We also realized we couldn’t make it back up the hill, everything was so slippery. We had to chip hand holes into the ice with sticks to create anchors so we wouldn't slide to the bottom and have to start the climb all over.
+We also realized we couldn’t make it back up the hill, everything was so slippery. We had to chip hand holes into the ice with sticks to create anchors so we wouldn’t slide to the bottom and have to start the climb all over.
 
 Eventually we ditched our sleds and created a new game. We covered the ice in a grid of hand holds. Starting at the top of the hill, snowsuit stomach down, we launched ourselves. There was enough momentum that you could grab onto a hole and change your direction, spinning around a few times before catching another. Kind of like if Plinko were etched into the side of a hill, with kids bonking around instead of a giant coin.
 
@@ -52,7 +52,7 @@ When we’ve been pushing for so long, disconnected from the felt-sense of what 
 
 In my research I’ve come to learn that awe is rather unique when it comes to human emotion. It can act as a short cut for dropping the body into a restorative, expansive state. When awe is activated our thinking mind gets quiet, creating space to reconnect to something much greater than ourselves (which happens to be really good for us).
 
-Let's be clear, I'm not saying awe is a panacea that will fix everything, but it deserves some attention for at least cutting through the bullshit of our ego for a short bit of time.
+Let’s be clear, I’m not saying awe is a panacea that will fix everything, but it deserves some attention for at least cutting through the bullshit of our ego for a short bit of time.
 
 No other emotion can do this. Most emotions can be experienced in any state our nervous system is in—restorative where we feel the fullness of an emotion without editorializing, modulated where we both feel and analyze, or dysregulated where the emotion takes over and pushes us into fight or flight mode.
 

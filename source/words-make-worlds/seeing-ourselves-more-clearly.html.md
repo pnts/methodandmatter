@@ -35,7 +35,7 @@ I’ve been talking a bit abstractly here, so let’s look at an example of what
 
 Let’s say you are the head of a team and you are in a 1:1 with a direct report. We’ll call them Maggie. You say something that feels normal and everyday to you and you notice Maggie gets quiet and withdraws. Your mom also had a pattern of withdrawing and this activates in you a subtle fear you did something wrong.
 
-After the 1:1 you begin to wonder if you are a bad manager. Feeling the edges of shame, you disconnect from yourself and try to see through Maggie's eyes. The problem is that when you try to do this while gripped by shame (or another strong emotion), you project your own inner critic onto her—thinking she is judging you, when that harsh voice is actually yours.
+After the 1:1 you begin to wonder if you are a bad manager. Feeling the edges of shame, you disconnect from yourself and try to see through Maggie’s eyes. The problem is that when you try to do this while gripped by shame (or another strong emotion), you project your own inner critic onto her—thinking she is judging you, when that harsh voice is actually yours.
 
 Meanwhile, from Maggie’s perspective, you happened to use a phrase that a terrible manager from her past used a lot, and her brain just flashed back to that experience. Maggie’s body was in the meeting, but her mind was ruminating in the past. She was fully hooked into this experience and it wasn’t until after the meeting that she started to come back to present and get on with her day. At which point she felt grateful to be in a place with a much more caring and capable manager.
 

@@ -33,7 +33,7 @@ Leaders must do this both for the people on the team/function/department they ar
 #### Vision & Purpose:
 - How effectively am I translating abstract vision into concrete, relatable terms for my team?
 - What stories am I telling that help people see themselves in our shared future?
-- Does our vision still resonate with the team's evolving needs?
+- Does our vision still resonate with the team’s evolving needs?
 
 #### Influence & Inspiration:
 - Am I modeling the behaviors and values I want to see in others?
@@ -85,7 +85,7 @@ It is worthwhile to note that the role of manager and leader can often be at odd
 #### Performance & Accountability:
 - How quickly do I address performance gaps when they arise?
 - Am I giving people the tools and resources they need to succeed?
-- What would happen if I wasn't here for a week—would things run smoothly?
+- What would happen if I wasn’t here for a week—would things run smoothly?
 
 #### Resource Optimization:
 - Where am I over-investing or under-investing our team’s time and energy?
@@ -108,7 +108,7 @@ Mentorship also falls under the umbrella of coaching. The way I distinguish betw
 #### Creating Safety:
 - How comfortable do people feel bringing me problems or admitting mistakes?
 - What signals might I be sending that discourage open dialogue?
-- How do I respond when someone's approach differs from what I would do?
+- How do I respond when someone’s approach differs from what I would do?
 
 #### Letting Go:
 - Where am I solving problems that others could solve themselves?

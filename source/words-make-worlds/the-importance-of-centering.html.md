@@ -20,7 +20,7 @@ Even if the person who grabbed you did it in a “friendly” way, it demanded y
 
 ### Daily Grabs
 
-Now imagine being grabbed a hundred times a day, because that's what happens! Not physically, but mentally and emotionally. Work place conflicts, news cycles, inner critics, societal expectations, uncertainty—there are so many ways we can be grabbed. And the nervous system doesn't care what the source is, so it will respond in the same way it does to a physical grab.
+Now imagine being grabbed a hundred times a day, because that’s what happens! Not physically, but mentally and emotionally. Work place conflicts, news cycles, inner critics, societal expectations, uncertainty—there are so many ways we can be grabbed. And the nervous system doesn’t care what the source is, so it will respond in the same way it does to a physical grab.
 
 Let’s say you have an interaction with your boss that feels off. You have the thought that your boss doesn’t like you (which feels really threatening), and your body reacts—you tense up, constrict your breathing, pull away, and try and control your reaction. Which usually creates a negative feedback loop of increasing intensity—nervous system is activated, the physical sensations of discomfort become stronger, and the worry thoughts amp up.
 
