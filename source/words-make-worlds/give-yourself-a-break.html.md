@@ -16,7 +16,7 @@ But then the 3rd happened and I don’t know about you, but the world closed in 
 
 As leaders, navigating this shit is hard. The boundaries of an organization are porous to market dynamics but seemingly impenetrable to everything else going on in the world. And when we are in the flow of work, juggling the demand of our roles, it can be easy to forget this.
 
-I was talking to a client, a leader in a high-pressure, high-consequences, high-burnout industry, and they noted that morale has been pretty low. What I appreciate about this leader’s approach is that they were able to take a step back and look at the data—morale always dips in the winter months, and by the very nature of how demanding the work is, morale can often be a casualty.
+I was talking to a client, a leader in a high-pressure, high-consequences, high-burnout industry, and they noted that morale has been pretty low in recent months. What I appreciate about this leader’s approach is that they were able to take a step back and look at the data—morale always dips in the winter months, and by the very nature of how demanding the work is, morale can often be a casualty.
 
 ### Nested Systems
 The data often points to systems, like how this leader noticed that cyclical changes in the natural landscape were having an effect on the team. We live within an innumerable number of systems that shape our experience and perception of our own lives.
@@ -37,7 +37,7 @@ The first thing that I want to say, in light of all this, is that it is importan
 
 On many days of the week, people are going to show up and not be okay. This isn’t a reflection on your leadership or capabilities. People are exhausted and scared and angry, which makes it hard to feel good about anything we do, even if our work is important and meaningful.
 
-Sometimes just acknowledging this can go a long way, can let a group of collective bodies exhale into the shared understanding that yes, this is hard and people are suffering and we can honor that with our attention, our witnessing and being witnessed.  
+Sometimes just acknowledging this can go a long way, can let a group of bodies collectively exhale into the shared understanding that yes, this is hard and people are suffering and we can honor that with our attention, our witnessing, and willingness to be witnessed.  
 
 ### Give Yourself a Break
 The second thing that I want to say, the original thing I was writing about before all these awful new year shenanigans, is the importance of giving yourself a break.
