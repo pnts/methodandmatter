@@ -27,7 +27,7 @@ These systems are nested and can be described an infinite number of ways, so Iâ€
 Sites of Shaping / Sites of Change
 {: .figcaption}
 
-Each of these systems shapes and re-shapes us, and each of these systems are sites of potential change. Right now, at seemingly every systemic level, things are not well. 
+Each of these systems shapes and re-shapes us, and each of these systems are sites of potential change. Right now, at seemingly every systemic level, things are not well.
 
 Sometimes we know this explicitly when the brokenness touches our lives directly. Other times it manifests as a vague sense of foreboding, heaviness, and discomfort. Our bodies pick up on a lot more than our intellect does, and our bodies are carrying this not-wellness day in and day out.
 
