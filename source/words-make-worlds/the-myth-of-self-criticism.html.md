@@ -1,9 +1,9 @@
 ---
-description: The world is changing quickly, and it is easy to feel overwhelmed. To navigate this with intention, be sure to create time for breaks to come back to yourself and what matters most.
-keywords: leadership, change
+description:   Destructive self-criticism isn’t the engine of success many leaders believe it to be. Explore how self-judgment creates downward spirals and how self-compassion offers a path to healthier, more grounded leadership.
+keywords: leadership, inner critic
 image: "og/og-words-make-worlds.png"
 
-title: The Myth of Self Criticism
+title: The Myth of Self-criticism
 issue: 31
 tags: leadership
 
