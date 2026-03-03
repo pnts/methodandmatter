@@ -20,7 +20,7 @@ olink: "/words-make-worlds"
 
 > "An open question is one that expands rather than restricts your arena of exploration, one that does not push or even nudge you toward a particular way of framing the situation." - Parker Palmer
 
-One of the primary activities in a coaching conversation is asking questions. But the how and what of your asking will be different than what you might say in day to day conversations. I like to think of coaching conversations as learning conversations, a co-created space where the need to fix or analyze is suspended in favor of exploration and increased awareness. Questions do most of the work in facilitating this experience, and a great question can create clarity, surface insights, and lead us to deeper truths. There is a lot to say about the art of asking questions and we can't possibly get to it all in one issue, so today we’ll start by looking at what makes a good question.
+One of the primary activities in a coaching conversation is asking questions. But the how and what of your asking will be different than what you might say in day to day conversations. I like to think of coaching conversations as learning conversations, a co-created space where the need to fix or analyze is suspended in favor of exploration and increased awareness. Questions do most of the work in facilitating this experience, and a great question can create clarity, surface insights, and lead us to deeper truths. There is a lot to say about the art of asking questions and we can’t possibly get to it all in one issue, so today we’ll start by looking at what makes a good question.
 
 There is no shortage of available material when it comes to the topic of coaching questions. [The Coaching Habit](https://bookshop.org/p/books/the-coaching-habit-say-less-ask-more-change-the-way-you-lead-forever-michael-bungay-stanier/17315881?ean=9780978440749), a popular book by Michael Bungay Steiner, outlines seven specific questions to guide you through a coaching-style conversation, The Co-Active Training Institute has compiled a [list of powerful questions](https://cocoachingcircles.com/wp-content/uploads/2019/01/31-Powerful-Questions.pdf), and Tony Stoltzfus has written an entire book on the topic of [Coaching Questions](https://www.amazon.com/Coaching-Questions-Coachs-Powerful-Asking-ebook/dp/B00GR7AX1G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1698519710&sr=8-1). These kind of resources are useful when it comes to understanding what coaching questions sound like, getting a sense for the patterns in the structure, and seeing how questions can facilitate a learning experience. By all means read books, lists, articles, watch videos and listen to podcasts to help your understanding! But when it comes to asking good coaching questions, the best learning comes from practice and experience.
 
@@ -33,13 +33,13 @@ This kind of exploration and question asking is more akin to the art of dialogue
 An [open and honest question](https://couragerenewal.org/foundations-participant-portfolio-3/wp-content/uploads/sites/11/2022/08/22-08-18-Open-Honest-Questions-.pdf):
 
 - is one that the coach could not possibly anticipate the answer
-- assists a person to explore their concern rather than satisfying the coach's curiosity
+- assists a person to explore their concern rather than satisfying the coach’s curiosity
 - is brief and to the point
 - is not overloaded with background considerations and rationale
-- does not paraphrase what has been said, and instead uses the other's words as much as possible
+- does not paraphrase what has been said, and instead uses the other’s words as much as possible
 - asks about feelings as well as facts
 - can come from intuition
-- is not about you, so don't include storytelling or behaviors that draw attention to yourself
+- is not about you, so don’t include storytelling or behaviors that draw attention to yourself
 - does not have a yes/no right/wrong answer
 - often begins with what, when where, who, or how (try avoiding [why questions](https://medium.com/method-matter/the-paradox-of-why-77ee8a3b9cc3))
 
