@@ -12,9 +12,71 @@ layout: content
     <p>Let’s talk! Tell me a bit about you, what you’re looking for, and what you want to be different in your world. I do my best to respond to all inquiries within 48 hours.</p>
   </div>
 
-  <div class="col-2">
-      <p></p>
-      <iframe class="airtable-embed" src="https://airtable.com/embed/appo7ioBoVlZlRwGV/pagbxyooqibodXVWA/form" frameborder="0" onmousewheel="" width="100%" height="1100" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  <!-- Updated by Claude Code - 2026-03-07 -->
+   <div class="col-2">
+     <form name="contact" method="POST" action="/thank-you" data-netlify="true"
+ data-netlify-honeypot="bot-field" class="contact-form">
+       <input type="hidden" name="form-name" value="contact">
+       <p class="contact-honeypot">
+         <label>Don't fill this out: <input name="bot-field"></label>
+       </p>
 
-  </div>
-</section>
+       <div class="form-field">
+         <label for="name">Name <span class="required">*</span></label>
+         <input type="text" id="name" name="name" required>
+       </div>
+
+       <div class="form-field">
+         <label for="email">Email <span class="required">*</span></label>
+         <input type="email" id="email" name="email" required>
+       </div>
+
+       <div class="form-field">
+         <label for="pronouns">Pronouns</label>
+         <input type="text" id="pronouns" name="pronouns">
+       </div>
+
+       <div class="form-field">
+         <label for="location">Location <span class="required">*</span></label>
+         <input type="text" id="location" name="location" required>
+       </div>
+
+       <div class="form-field">
+         <label for="engagement">What type of engagement are you interested in? <span
+ class="required">*</span></label>
+         <select id="engagement" name="engagement" required>
+           <option value="" disabled selected>Select an option</option>
+           <option value="Executive Coaching">Executive Coaching</option>
+           <option value="Team Coaching">Team Coaching</option>
+           <option value="Coaching: Single Session">Coaching: Single Session</option>
+           <option value="Leadership Programs">Leadership Programs</option>
+           <option value="Offsites and Workshops">Offsites and Workshops</option>
+           <option value="Something Else!">Something Else!</option>
+         </select>
+       </div>
+
+       <div class="form-field">
+         <label for="brings-you">What brings you to contact me at this moment in time?
+ <span class="required">*</span></label>
+         <textarea id="brings-you" name="brings-you" rows="6" required></textarea>
+       </div>
+
+       <div class="form-field">
+         <label for="challenge">What is the biggest challenge or question in front of
+ you? <span class="required">*</span></label>
+         <textarea id="challenge" name="challenge" rows="6" required></textarea>
+       </div>
+
+       <div class="form-field">
+         <label for="six-months">Imagine yourself 6 months from now—in what ways has
+ your world changed? What is different? And what is still the same? <span
+ class="required">*</span></label>
+         <textarea id="six-months" name="six-months" rows="6" required></textarea>
+       </div>
+
+       <div class="form-field">
+         <input type="submit" value="Let's Talk!">
+       </div>
+     </form>
+   </div>
+ </section>
