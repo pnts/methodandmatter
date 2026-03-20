@@ -38,7 +38,7 @@ Collectively we are billions of minds and hearts, trillions of eyes and hands, e
 
 Silicon Valley and Washington DC are busy trying to revive the 19th century’s [“Great Man” theory](https://en.wikipedia.org/wiki/Great_man_theory), doing their best to convince us that if we just let them do what they want, the future will be bright. There is nothing special about the visions these people hold (many of which I find anemic and daringly uncreative), but they’d like you to think otherwise.
 
-Leadership is about making the future, but that future doesn’t belong to just a handful of people. Leadership is a birthright, something that is latent in all of us, and now is the time for us claim it for ourselves. To recognize the profoundly personal ways the future beckons and the collective dimension in which emerging futures are enacted.  
+Leadership is about making the future, but that future doesn’t belong to just a handful of people. Leadership is a birthright, something that is latent in all of us, and now is the time to claim it for ourselves. To recognize the profoundly personal ways the future beckons and the collective dimension in which emerging futures are enacted.  
 
 ### The profoundly personal
 > We have to do the work to discover how we are incoherent, what tensions exist, so that we can bring ourselves into deeper coherence. As we do our sense of purpose in the world becomes more clear, we have a sense of what matters, what we are.  
@@ -91,7 +91,7 @@ This requires that we stay profoundly attuned to ourselves, while also tending t
 
 Leadership is so much more than we’ve understood it to be. It is not something that can be claimed by an individual for purposes of power and control, but something that lives in the collective that can amplified by each of us in our own unique ways.
 
-Stay connected to your heart, and do not give your power away. You are the leader you have been waiting for.   
+Stay connected to your heart, and do not give your power away. You are the leader you have been waiting for.  
 
 ---
 
