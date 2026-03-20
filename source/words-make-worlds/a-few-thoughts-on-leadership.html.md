@@ -14,7 +14,7 @@ published: true
 I talk a lot in this here newsletter about leading teams and organizations, but today I want to step into a different conversation—one about leadership in uncertain times—and explore what is being asked of us as old worlds fall away and new ones emerge.
 
 ![A tapestry of lights. Photographed at the San Francisco botanical gardens.](wmw/botanical-lights.jpg)
-A tapestry of lights. Photographed at the San Francisco botanical gardens.
+A tapestry of lights at the San Francisco botanical gardens.
 {: .caption}
 
 
@@ -32,7 +32,7 @@ The natural response to bad news is to look around for someone who knows what to
 
 We built a world of certainty on bed of sand, and now the foundations are eroding beneath us.
 
-On the one hand, this is pretty terrifying. On the other hand, it is very liberating! Sure, none of us have the answers, but I bet a lot of us together can sense, know, and figure out quite a lot. Not in the old way of “fixing” things, but in different, more collaborative ways of “shifting” things.
+On the one hand, this is pretty terrifying. On the other, quite liberating! Sure, none of us have the answers, but I bet a lot of us together can sense, know, and figure out quite a lot. Not in the old way of “fixing” things, but in different, more collaborative ways of “shifting” things.
 
 Collectively we are billions of minds and hearts, trillions of eyes and hands, each one of us holding a unique view of the world from our specific location within it. Each of these views, due to the nature of being human, are incomplete, including the views of “leaders”. And if all our views are incomplete, all our visions are too.
 
@@ -77,7 +77,7 @@ And yet this knowing quickly disappears when we talk about leaders more specific
 
 Writing over a century ago, management visionary Mary Parker Follett talked about leadership as _the capacity to find the unifying thread in constantly changing circumstances_.  I’ve always liked this definition because it captures the essence of leadership without endowing it with special status or power.
 
-What I take this to mean, this whole bit about the unifying thread in changing circumstances, is that leadership is the process of cultivating responsive purpose. We take action in the world in service of bringing a desired futures into the present. Through these actions we shape the world. But the world also responds, and we must be open to this, allow ourselves to be shaped by what the changing circumstances ask of us.
+What I take this to mean, this whole bit about the unifying thread in changing circumstances, is that leadership is the process of cultivating responsive purpose. We take action in the world in service of bringing desired futures into the present. Through these actions we shape the world. But the world also responds, and we must be open to this, allow ourselves to be shaped by what the changing circumstances ask of us.
 
 Cultivating purpose in this way might sometimes be done by folks in formally designated leadership positions, while other times those with special knowledge, skills, or abilities might be the ones doing the work.
 
@@ -85,9 +85,7 @@ What is important to note is that purpose arises from the desires and activities
 
 Our individual ways of knowing are also alive in the group. The collective purpose isn’t some watered-down average of each person’s desire, but a shimmering, faceted, dynamic sense of direction that is always in conversation with the changing circumstances.
 
-Sometimes the combination of thread-finding, direction, and changing circumstances will be well-suited to people with a certain way of sensing and moving in the world. Other times this will call for a different set of folks to keep the sense of direction alive.
-
-This requires that we stay profoundly attuned to ourselves, while also tending to the collective. We do not need to look outside ourselves for a leader because it lives within each and every one of us. We can listen for the resonance between our heart and the common purpose, and work together in fractals of connection and belonging to steward a more just and meaningful world.
+This requires that we stay profoundly attuned to ourselves while also tending to the collective. We do not need to look outside ourselves for a leader because it lives within each and every one of us. We can listen for the resonance between our heart and the common purpose, and work together in fractals of connection and belonging to steward a more just and meaningful world.
 
 Leadership is so much more than we’ve understood it to be. It is not something that can be claimed by an individual for purposes of power and control, but something that lives in the collective that can amplified by each of us in our own unique ways.
 
