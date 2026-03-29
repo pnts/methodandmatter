@@ -48,8 +48,12 @@
         <%= link_to(current_page.data.original, current_page.data.olink) %>.
       <% end %>
 
-      <% if current_page.data.updated %>
+      <% if current_page.data.updated && current_page.data.original %>
         It now lives at <%= link_to('METHOD & MATTER', '/') %> and was last updated on <%= current_page.data.updated %>
+      <% end %>
+
+      <% if current_page.data.updated && !current_page.data.original %>
+        and was last updated on <%= current_page.data.updated %>.
       <% end %>
   <% end %>
 
