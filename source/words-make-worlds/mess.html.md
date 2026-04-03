@@ -45,7 +45,7 @@ A murmuration of starlings.
 
 But leaders can’t do this if they are resisting the mess. A relaxed and open body supports curiosity and experimentation. There is more access to creativity and a willingness to try new things.  
 
-Letting the mess be messy gets you off the hook for trying to tame or fix everything. Let your structures and processes act like positive attractors that anchor your organization, and let the mess invite creative energy that potentially results in something new, different, unexpected.
+Letting the mess be messy gets you off the hook for trying to tame or fix everything. Let your structures and processes act like positive attractors that anchor your organization, and let the mess invite creative energy that potentially results in something new and different.
 
 Don’t get pulled in by it, don’t let it overwhelm you. Know that your job is to manage messes, not to fix them or untangle them because that is a Sisyphean project.
 
