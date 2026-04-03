@@ -17,15 +17,15 @@ If you work in an organization that’s been around for a while, you’ve probab
 A mess of magnetic tapes as a metaphor for organizational mess. Photo courtesy of [Zoshua Cola](https://unsplash.com/@zoshuacolah).
 {: .caption}
 
-Those of you in early-stage start-ups don’t have to worry about stability—you’re all in on innovation as you look for product-market fit—but once you find it you’ll operationalize what you’ve created to consistently deliver value and build your business, until one day you wake up and realize you are one of the organizations that’s been around for a while.
+Those of you in early-stage start-ups don’t have to worry about stability—you’re all in on innovation as you look for product-market fit—but once you find it you will start to operationalize what you’ve created to consistently deliver value and build your business, until one day you wake up and realize you are one of the organizations that’s been around for a while.
 
 Innovation can be fun and exhilarating—moving fast, going wide, running experiments, figuring things out, making abductive leaps to create something new and unexpected.
 
-It can be equally satisfying, once you’ve honed in on your offering, to set up the infrastructure to scale what you’ve got. At this point you’re also hiring more people (maybe less than you would have now that LLMs are on the scene). But, as I mentioned at the beginning of this piece, a tension starts to arise between innovation and stability.
+It can be equally satisfying, once you’ve honed in on your offering, to set up the infrastructure to scale what you’ve got. At this point you’re also hiring more people (maybe less than you would have now that LLMs are on the scene) and increasing the complexity of the business. But, as I mentioned at the beginning of this piece, a tension starts to arise between innovation and stability.
 
 Within this tension, which let me be very clear **_is not resolvable_**, lives a mess. A roiling, dynamic, network of people, agents, ideas, desires, and opinions all pushing and pulling the business in various directions. Layer in a very uncertain macro-environment, both economically and geopolitically, and you’ll find that nothing feels very grounded.
 
-The desire to get back to stability is a survival instinct—change disrupts homeostasis which is why we resist it. Even if, on the surface of things everyone seems on board with change, there are often hidden undercurrents that are pulling in the opposite direction.
+The desire to get back to stability is a survival instinct—change disrupts homeostasis which is why we resist it. Even if on the surface of things everyone seems on board with change, there are often hidden undercurrents that are pulling in the opposite direction.
 
 Your job as a leader is not to fix the mess, but manage it. It is unavoidable and persistent. It will change forms over time depending on the make-up of the organization, but it will never go away.
 
@@ -47,6 +47,6 @@ But leaders can’t do this if they are resisting the mess. A relaxed and open b
 
 Letting the mess be messy gets you off the hook for trying to tame or fix everything. Let your structures and processes act like positive attractors that anchor your organization, and let the mess invite creative energy that potentially results in something new and different.
 
-Don’t get pulled in by it, don’t let it overwhelm you. Know that your job is to manage messes, not to fix them or untangle them because that is a Sisyphean project.
+Don’t get pulled in by it, don’t let it overwhelm you. Know that your job is to manage messes, not engage in the Sisyphean project of untangling them (or heaven forbid, trying to fix them). 
 
 I find that many of my clients, once they reorient themselves towards mess, feel less anxious. They have more capacity to step outside the mess and be an observer, to let the mess roil around for a bit while they think about the best action to take. They are less impacted by the movement of the mess because they embrace it for what it is. A group of humans working together to achieve something big.
