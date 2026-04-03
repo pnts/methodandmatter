@@ -1,6 +1,6 @@
 ---
 description: Old certainties are crumbling and no one really has the answers. So what do we do? We turn inward, find what's ours to do, and do it together.
-keywords: leadership, inner critic
+keywords: leadership, organizations, futures
 image: "og/og-words-make-worlds.png"
 
 title: A Few Thoughts on Leadership
