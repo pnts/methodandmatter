@@ -26,6 +26,7 @@ When we set goals intellectually without tapping into other sources of knowledge
 
 If you are feeling stuck or misaligned, like something is off or missing, this exercise can help you presence the future that is waiting for you.
 
+---
 
 ## The Setting
 
@@ -35,6 +36,8 @@ Have a few of your favorite tools ready to capture thoughts and images at the en
 
 Grab a cup of coffee or tea, your [favorite playlist](https://www.youtube.com/watch?v=jfKfPfyJRdk) (if music is your jam), and get ready to start listening.
 
+
+---
 
 ## Settling In
 Take a few deep breaths and feel your body settling into the chair, floor, or whatever is supporting you.
@@ -49,7 +52,14 @@ Bring your attention into your heart space, and let your awareness settle there.
 
 Let what you love come forward—this isn’t an intellectual exercise but a way of feeling into what your heart holds, what whispers of your path are wanting to speak to you.
 
+---
+
 ## The Emerging Future
+
+![illustration of a cylinder colony's endcap](essays/space-colony-2.jpg)
+Don Davis illustration of a cylinder colony's endcap, 1970.
+{: .caption}
+
 Think about a time in the future, whatever time frame feels right for you, and connect with the you that is living there.
 
 Imagine that everything has worked out and that any challenges you are currently facing have all be resolved. In this future you are living your fullest and most fulfilling life.
@@ -72,6 +82,8 @@ Keep going until you have climbed into bed for the night, lights out, and are dr
 
 Give yourself as much time as you need to do this.
 
+---
+
 ## Capture It
 
 Once you have completed the visualization, take a few moments to let all the sensations and emotions settle into your body so that you can imprint what you have experienced.
@@ -88,6 +100,8 @@ With your first pass, just capture as much as possible. Afterwards, you may want
 
 The intention is to create something that contains the seeds of inner knowing that you connected with during the visualization. You can come back to this artifact to remind you of what is calling and to help guide you on your path.
 
+---
+
 ## Reflection Questions
 
 - What parts of my Emerging Future have special resonance? What words, images, situations, excited or scared me? These are important seeds, clues to pay special attention to in the days and weeks ahead.
@@ -97,11 +111,15 @@ The intention is to create something that contains the seeds of inner knowing th
 - What current limiting beliefs do I need to let go of to make room for the future I long for?
 - What will I do with what I have learned in this exercise?
 
+---
+
 ## Next Steps
 
 - Keep your artifact and answers to the first reflection question above somewhere handy. These are the clues and breadcrumbs that will be important as you cultivate ways of being that call to your Emerging Future.
 - If there are aspects of your Emerging Future that you are already living today, look for ways to deepen that just a little more each day.
 - Create a learning plan: what can you do in the next week, month, and year to set the foundations for the future that is calling to you? The actions you take now will be the calling card for the people, companies, places, and interactions that you want to bring into your life.
+
+---
 
 ## Wrapping Up
 You have just explored your most alive and fulfilling future. From this exploration you have collected a list of clues and maybe even the beginnings of a map of the terrain. Allow your experience and the clues you uncovered to continue to guide you.
