@@ -18,9 +18,13 @@ published: true
 updated: March 27th, 2026
 ---
 
-## An exercise for slowing down, listening, and sensing the path in front of you.
+## Presencing the emerging future: An exercise for those who feel uncertain.
 
 Goal-setting, achievement, and productivity are hallmarks of how many of us are taught to move through life. But what we _think_ we want is frequently at odds with the deeper longings of the soul.
+
+![illustration of a cylinder colony's endcap](essays/space-colony-3.jpg)
+Don Davis illustration, solar eclipse viewed from a space colony.
+{: .caption}
 
 When we set goals intellectually without tapping into other sources of knowledge—feelings, emotions, synchronicities, symbols, intuition—we miss rich sources of vital information that can guide us to realize our unique path.
 
@@ -57,7 +61,7 @@ Let what you love come forward—this isn’t an intellectual exercise but a way
 ## The Emerging Future
 
 ![illustration of a cylinder colony's endcap](essays/space-colony-2.jpg)
-Don Davis illustration of a cylinder colony's endcap, 1970.
+Don Davis illustration, cylinder colony endcap.
 {: .caption}
 
 Think about a time in the future, whatever time frame feels right for you, and connect with the you that is living there.
