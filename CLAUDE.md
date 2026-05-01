@@ -89,6 +89,50 @@ Use Middleman's blog helpers or manually create files following the established 
 - RSS feeds generated for each blog
 - No tracking or analytics implemented (privacy-focused)
 
+## HTML Guidelines
+
+- **Semantic markup**: Use the right element for the job — `<article>`, `<section>`, `<nav>`, `<aside>`, `<header>`, `<footer>`, `<main>`, `<figure>`, `<time>`, etc. Don't reach for `<div>` when a semantic element fits.
+- **No superfluous nesting**: Don't add wrapper `<div>`s or extra container elements unless they serve a clear layout purpose. Keep the DOM shallow.
+- **Navigation uses `<ul>`**: All nav patterns use `<ul>/<li>` — never bare `<a>` tags, `<span>`s, or other ad-hoc markup for navigation.
+- **Layout structure**: The canonical two-column layout is `<section class="content">` with `<div class="col-1">` and `<div class="col-2">`. Use this before reaching for any new grid pattern.
+- **Element roles**:
+  - `<section>` for major content areas (`.hero`, `.content`, `.essay`)
+  - `<div>` for non-semantic containers (`.inner`, `.col-1`, `.col-2`, `.text`)
+  - `<article>` for editorial/blog content (used in essays and newsletter layouts)
+  - `<main>` wraps the page body at the layout level — don't nest `<main>` inside content sections
+- **`.inner`** is the established centering/padding wrapper used inside `header` and `footer`. Reuse it — don't invent `.wrapper`, `.container`, or similar.
+- **No inline styles**: The essays masthead uses inline styles because the color comes from frontmatter data. Everywhere else, styles belong in `mm.css.scss`.
+
+## CSS Guidelines
+
+- **Reuse before adding**: Before writing new styles, check `mm.css.scss` and the partials for existing classes, variables, and mixins that already do the job. Prefer extending or composing existing styles.
+- **Page context scoping**: Use Middleman's `<%= page_classes %>` body classes (e.g., `.writing .hero`) to scope page-specific overrides rather than adding new one-off classes.
+- **No utility classes**: This codebase uses semantic, purpose-driven class names — not utility classes like `.mt-2` or `.flex`. Follow that convention.
+- **IDs are for forms only**: Never use IDs as CSS selectors. IDs are reserved for form inputs and JavaScript targets.
+- **Avoid redundant CSS**: Don't duplicate rules that already exist. If something looks similar to an existing pattern, reuse or extend it.
+
+### Always use SCSS variables — never hardcode values
+
+- **Colors**: Use `$dark-gray`, `$pink`, `$white`, `$medium-gray`, `$light-gray`, `$lightest-gray`, `$warm-highlight`, `$cool-highlight`, `$yellow` from `_variables.scss`. Don't introduce bare hex values for colors that already have variables.
+- **Font sizes**: Use `$font-size-x-x-large` through `$font-size-x-small` from `_fonts.scss`. Don't hardcode `rem` values that match an existing variable.
+- **Font families**: Use `$font-heading` (Ideal Sans), `$font-heading-serif` (Chronicle), or the Romie face names (`RomieRegular`, `RomieItalic`, `RomieMedium`). Never hardcode font names.
+- **Spacing and transitions**: Use `$main-padding` (3rem) and `$transition` (all .15s ease) where applicable.
+
+### Responsive rules
+
+- **Mobile-first**: Write base styles for mobile, then override inside `@include breakpoint(large)` for desktop. The `large` breakpoint (55rem) is where the main layout shifts happen.
+- **`medium`** (30rem) is for subtle tweaks only. **`xlarge`** (75rem) is rarely needed.
+- Use the `@include breakpoint()` mixin — don't write raw `@media` queries.
+
+### Existing components — reuse, don't recreate
+
+- `.btn` — the styled CTA button (pink, pill shape). Use it for calls to action.
+- `.mini` — the pattern for secondary sections like newsletter signups and small CTAs.
+- `.section-label` — uppercase category/section labels.
+- `.mini-bio` — author bio block with floated image.
+- `.newsletter-lockup` and `.nav-lockup` — grouped headline + supporting copy blocks.
+- `.collection` + `<ul>/<li>` — the footer link group pattern. Already fully styled.
+
 ## Code Change Guidelines
 
 - **Always comment changes with attribution and date**: When making changes to CSS, HTML, or JavaScript files, include a comment indicating:
