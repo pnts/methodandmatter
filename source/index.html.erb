@@ -23,24 +23,34 @@ layout: content
 
       <hr />
 
-      <div class="mini-bio">
-        <%= image_tag("amignolo-profile-web-square.jpg") %>
-        <p>👋 Hi! I’m <%= link_to('Andi', 'about') %> (she/her) a leadership coach who helps executives navigate complex challenges while staying true to who they are. With extensive training in integral and somatic coaching plus real-world leadership experience, I guide leaders to stop hiding their gifts and start leading from their center.</p>
-      </div>
+
+      <div class="about-company"><h2>METHOD & MATTER is a leadership and work coaching company based in San Francisco, offering executive coaching for <%= link_to('leaders', 'executive-coaching') %> and <%= link_to('teams', 'team-coaching') %>, cohort-based <%= link_to('leadership programs', 'leadership-programs') %>, and in-person experiential <%= link_to('offsites', 'offsites') %>.</h2></div>
+
       <hr />
 
-      <%= partial "wmw_lockup" %>
+      <%= partial "wmw_recent" %>
+
+      <%= partial "wmw_lockup_home" %>
 
       <hr/>
 
       <div class="e-book">
+        <span class="subheading">EBOOK</span>
         <%= image_tag("ebook.png") %>
-        <p>I wrote this short eBook after working with 100s of leaders who wanted to have more effective and purposeful conversations at work. This isn’t so much a framework about what to say, but how to show up relationally with both yourself and the people around you. It’s about being present, believing in the capacity of others, and letting go of having all the answers. <br/><br/>
-        <%= link_to('Grab your copy', 'https://drive.google.com/file/d/1ncG0Ym1sj0BMt4gV_2sDjUEIXtjOE5Gx/view?usp=share_link') %> &rarr;
-        </p>
+          <p>I wrote this short eBook after working with 100s of leaders who wanted to have more effective and purposeful conversations at work. This isn’t so much a framework about what to say, but how to show up relationally with both yourself and the people around you. It’s about being present, believing in the capacity of others, and letting go of having all the answers. <br/><br/>
+          <%= link_to('Grab your copy', 'https://drive.google.com/file/d/1ncG0Ym1sj0BMt4gV_2sDjUEIXtjOE5Gx/view?usp=share_link') %> &rarr;
+          </p>
       </div>
 
       <hr />
+
+      <div class="mini-bio">
+        <%= image_tag("amignolo-profile-web-square.jpg") %>
+        <p>👋 Hi! I’m <%= link_to('Andi', 'about') %> (she/her) a leadership coach who helps executives navigate complex challenges with intention, clarity, and creativity. With extensive training in integral and somatic coaching plus real-world leadership experience, I guide leaders to stop hiding their gifts and start leading from their center.</p>
+      </div>
+      <hr />
+
+
 
       <%= partial "nav_lockup" %>
     </div>

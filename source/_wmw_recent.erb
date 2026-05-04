@@ -1,0 +1,12 @@
+<div class="recent-issues">
+  <span class="subheading">NEWSLETTER</span>
+  <h3><%= link_to 'Words Make Worlds', 'words-make-worlds' %> is a bi-weekly newsletter for leaders navigating complexity with presence, curiosity, and creativity. Recent issues:</h3>
+    <ul>
+      <% blog('words-make-worlds').articles.select { |a| a.data.published }.first(3).each do |article| %>
+      <li>
+        <h3><%= link_to article.data.title, article %></h3>
+        <p><%= article.data.description %></p>
+      </li>
+      <% end %>
+    </ul>
+</div>

@@ -609,6 +609,13 @@ input[type=submit] {
   }
 }
 
+.index .mini-bio {
+  margin: 3rem 0;
+  img {
+    margin-top: .5rem;
+  }
+}
+
 .words-make-worlds .mini-bio {
   margin-bottom: 2.5rem;
   p {
@@ -623,10 +630,20 @@ input[type=submit] {
 }
 
 .e-book {
+  p {
+    padding-top: 0 !important;
+  }
+  span {
+    margin-bottom: 2rem;
+  }
   img {
     border: 1px solid #EEE;
     border-radius: 0 !important;
     margin-bottom: 2.5rem;
+  }
+  .subheading {
+    margin-bottom: 1.5rem;
+    margin-top: 2.5rem;
   }
 }
 
@@ -1846,3 +1863,62 @@ input#bd-email {
       margin-top: .5rem;
     }
   }
+
+.about-company {
+  font-family: "RomieRegular";
+  margin: 3rem 0;
+  h2 {
+    font-size: 2.3rem;
+    line-height: 3.4rem;
+  }
+}
+
+.recent-issues {
+  h3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  ~ .mini {
+    margin-bottom: 3rem;
+    .subheading {
+      margin-bottom: 1rem;
+    }
+  }
+  ul {
+    //margin-bottom: 2.5rem;
+    //border-top: 1px dashed #CCC;
+    //padding-top: .5rem;
+    margin-left: 0rem;
+
+    li::marker {
+      font-size: 1.2rem;
+      line-height: .5rem;
+    }
+    li {
+      margin-bottom: .5rem;
+      border-bottom: 1px dashed #CCC;
+      padding: .7rem 2rem 1.7rem 0;
+      //margin-left: 1.5rem;
+      //list-style-type: "§";
+      h3 {
+        margin-bottom: .25rem;
+        font-size: 1.2rem;
+        margin-top: 0;
+        font-weight: $font-weight-medium;
+      }
+      p {
+        margin: 0;
+        line-height: 1.6rem;
+        color: $medium-gray;
+      }
+      p {
+        font-size: 1.2rem;
+      }
+    }
+  }
+}
+
+.subheading {
+  display: block;
+  margin-top: 3rem;
+}

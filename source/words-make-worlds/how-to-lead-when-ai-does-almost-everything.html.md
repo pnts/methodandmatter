@@ -1,5 +1,5 @@
 ---
-description: What is the role of leadership when AI is increasingly integrated into business practices? For leaders caught in the pressure for rapid AI adoption, this framework can bring clarity and purpose to how you think about the work of leadership in an AI world.
+description: What is the role of leadership when AI is increasingly integrated into business practices? This framework can bring clarity and purpose to how you think about the work of leadership in an AI world.
 keywords: leadership, organizations
 image: "og/og-words-make-worlds.png"
 
@@ -19,11 +19,11 @@ It can also create what some refer to as “the frozen middle”, the layer of m
 
 Squeezed between executive ambition and individual experimentation, many in management roles are feeling an existential fear and wondering if their work is now irrelevant.
 
-If this sounds like you, take a deep breath with me. In through the nose and all the way down to the belly. Let your shoulders soften, and exhale slowly. Unclench your jaw. Feel the support of the ground, of the chair you are sitting in. 
+If this sounds like you, take a deep breath with me. In through the nose and all the way down to the belly. Let your shoulders soften, and exhale slowly. Unclench your jaw. Feel the support of the ground, of the chair you are sitting in.
 
 You’ve got this.
 
-Through conversations, teaching, and my own reflections, I have an emerging idea of how to support leaders in thinking clearly and intentionally about the role of AI in leadership work, where it makes sense for AI to play and where human decisions, judgement, and accountability are critical—it relies on an updated understanding of what leadership does and a reframe of what leadership roles actually are. 
+Through conversations, teaching, and my own reflections, I have an emerging idea of how to support leaders in thinking clearly and intentionally about the role of AI in leadership work, where it makes sense for AI to play and where human decisions, judgement, and accountability are critical—it relies on an updated understanding of what leadership does and a reframe of what leadership roles actually are.
 
 To articulate my thoughts, I’m going to use a framework that I’ve been developing over the last few years to support leaders in bringing more intention, clarity, and purpose to their work. I’ve also found it useful for making distinctions that enable more structured thinking about what human + AI collaboration might look like when it comes to the art of leadership.
 
@@ -34,7 +34,7 @@ I’d love for this to turn into a conversation—I want to be clear I’m not p
 ## The Framework
 Leadership Fluency is an organizational framework. It was designed to illuminate meaningful distinctions in how organizations function and the role that leaders play given these distinctions.
 
-So. Let’s start at the beginning, with WHY. 
+So. Let’s start at the beginning, with WHY.
 
 Thanks to Simon Sinek, the phrase “start with why” is probably ingrained at a subconscious level in every leader’s brain, and Leadership Fluency is no exception. For a business to exist, it is essential to know its purpose, the role it will play in the world, and the future it aims to bring into existence.
 
@@ -72,12 +72,12 @@ Let’s look at this role by role:
 ### Leading
 Leading connects the business dimensions of WHERE and WHO. It is the work of communicating the vision with enough purpose and clarity that others want to come along. Without enrollment, vision is just a destination that nobody is moving toward.
 
-Leading makes vision a shared reality across the full ecosystem of stakeholders, translating it for different audiences and creating alignment, making it a deeply _relational_ practice. 
+Leading makes vision a shared reality across the full ecosystem of stakeholders, translating it for different audiences and creating alignment, making it a deeply _relational_ practice.
 
 ### Directing
-Directing connects the dimensions of WHERE and WHAT and is responsible for the contextual interpretation of vision. 
+Directing connects the dimensions of WHERE and WHAT and is responsible for the contextual interpretation of vision.
 
-Vision on its own is simply a statement of direction. And decisions on their own, without the connection to vision, may work well for the team or department making them, but run the risk of running counter to business goals. 
+Vision on its own is simply a statement of direction. And decisions on their own, without the connection to vision, may work well for the team or department making them, but run the risk of running counter to business goals.
 
 In order to make vision actionable, the act of directing must do the work to interpret the vision asking, “what does this mean for us here, now, at this particular moment in time?” The answer to that question becomes the decisions, commitments, and priorities that create the container for the team’s work.
 
@@ -85,20 +85,20 @@ In order to make vision actionable, the act of directing must do the work to int
 Managing connects WHAT and HOW and creates the conditions in which decisions are enacted. What this reveals is that decisions become real through the environment that facilitates actual work. Managing encodes the commitments made through directing into repeatable, reliable structures that deliver results.
 
 ### Coaching
-Coaching is the relational side of managing, connecting the HOW and the WHO. 
+Coaching is the relational side of managing, connecting the HOW and the WHO.
 
-Until recently, coaching was bundled into the role of managing, with folks like Henry Mintzberg describing management as the interpersonal communication through which things get done. 
+Until recently, coaching was bundled into the role of managing, with folks like Henry Mintzberg describing management as the interpersonal communication through which things get done.
 
 The problem with this is that, without an explicit coaching role, people apply the activities of managing to people, treating them as variables to be optimized rather than human beings with interiority, developmental edges, and meaning-making capacity. Within this framework, we can now see that coaching is an explicit role, separate from the act of managing, that addresses gaps between the conditions in which work is achieved and people’s capacity to meet those conditions.
 
 ### All four roles together
-The practice of leadership is the mastery of these four roles which exist in the connection between various dimensions of the business. AI can handle many aspects within a dimension, but is not well-suited for the work that lives in the connective roles—this work requires human-led ownership, accountability, and judgement. 
+The practice of leadership is the mastery of these four roles which exist in the connection between various dimensions of the business. AI can handle many aspects within a dimension, but is not well-suited for the work that lives in the connective roles—this work requires human-led ownership, accountability, and judgement.
 
 ## Leadership + AI
 
 ![The full Leadership Fluency Model](wmw/lf-framework-ai.png)
 
-It’s important for leaders to be clear about how and where they are integrating AI, and what remains within their own leadership purview. 
+It’s important for leaders to be clear about how and where they are integrating AI, and what remains within their own leadership purview.
 
 ### Leading + AI
 
@@ -109,7 +109,7 @@ AI can be integrated to bring refinement to the vision and to develop communicat
 If directing is the contextual interpretation of vision, then we already see the importance of human judgement and understanding in this role. AI can do a lot in the business dimension of WHAT, with its ability to generate options, model scenarios, surface trade-offs, and recommend priorities, but it can’t do the work of directing—of choosing and owning the specific interpretation, decisions, and commitments that create the container for what needs to happen to achieve the vision.
 
 ### Managing + AI
-Managing creates the conditions through which decisions become real and enacted. AI has a clear role to play here when it comes to tracking, measuring, reporting, coordinating, scheduling, monitoring, etc. 
+Managing creates the conditions through which decisions become real and enacted. AI has a clear role to play here when it comes to tracking, measuring, reporting, coordinating, scheduling, monitoring, etc.
 
 This means the role of managing, enacted by humans, shifts from overseeing processes to focusing on whether or not current conditions are encoding the right decisions. This is where a lot of change management fails—the decisions get made but processes stay the same, retaining old organizational memory when new ones are required.
 
@@ -118,9 +118,9 @@ AI is useful in identifying performance patterns, supporting people to reflect o
 
 ---
 
-What I am sitting with is the way AI can be used to enable various business dimensions with bounded, optimizable work, while the roles of leadership live in the interpretive, relational work between dimensions. 
+What I am sitting with is the way AI can be used to enable various business dimensions with bounded, optimizable work, while the roles of leadership live in the interpretive, relational work between dimensions.
 
-In a world where AI does (almost) everything, leading is in the connections, it is the work that requires human ownership, accountability, and judgement. 
+In a world where AI does (almost) everything, leading is in the connections, it is the work that requires human ownership, accountability, and judgement.
 
 My hope in writing this is that these distinctions bring some clarity to leaders caught in the whirlwind of AI adoption and help them see the places AI is well suited for integration, and where things remain importantly human.
 
