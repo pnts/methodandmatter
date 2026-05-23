@@ -37,7 +37,7 @@ This guide is not an answer to these very real and important challenges that we 
 
 Yoga Nidra, a form of non-sleep deep rest, is a restorative practice that allows the body to become more and more relaxed while the mind stays alert, moving through different frequencies of brainwaves. This process of relaxation brings insight to the multi-layered, multi-dimensional aspects of our very being, and rejuvenates the body and mind.  
 
-What I love most about Yoga Nidra is that it is simple and effective. You don't have to get away for a fancy spa weekend, you can simply practice the art of deep rest right where you are, weaving the experience into the rhythm of daily life.
+What I love most about Yoga Nidra is that it is simple and effective. You don’t have to get away for a fancy spa weekend, you can simply practice the art of deep rest right where you are, weaving the experience into the rhythm of daily life.
 
 ---
 
