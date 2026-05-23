@@ -79,6 +79,29 @@ Use Middleman's blog helpers or manually create files following the established 
 - Custom fonts loaded from Typography.com
 - Images organized by content type (books/, essays/, og/, etc.)
 - SCSS with modular partial structure
+- **Large static assets** (MP3s, PDFs) are hosted on Bunny.net CDN at `https://assets.methodandmatter.com`. Organized into `audio/` and `pdf/` folders. Do not commit large binary files to git — upload to Bunny.net instead.
+
+### Guide Frontmatter — Audio
+Guides can have an `audio:` frontmatter field (URL to an MP3) in addition to or instead of `download:` (URL to a PDF). The `audio:` field renders a headphones icon and "Audio guide" link in the masthead via `essays.erb`. Example:
+
+```yaml
+audio: "https://assets.methodandmatter.com/audio/filename.mp3"
+download: "/writing/guides/pdf/filename.pdf"
+```
+
+### Audio Player Embed
+To embed an audio player inline within guide or essay content, use this raw HTML block in the `.html.md` file (blank lines above and below required):
+
+```html
+<div class="audio-player">
+  <p class="audio-label">Listen: Title of Recording</p>
+  <audio controls>
+    <source src="https://assets.methodandmatter.com/audio/filename.mp3" type="audio/mpeg">
+  </audio>
+</div>
+```
+
+The `audio-label` paragraph is optional. Styled via `.audio-player` in `mm.css.scss`.
 
 ## Development Notes
 

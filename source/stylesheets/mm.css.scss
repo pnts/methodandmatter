@@ -765,6 +765,25 @@ input[type=submit] {
   }
 }
 
+/* Updated by Claude Code - 2026-05-22 */
+.audio-player {
+  margin: 2rem 0;
+
+  .audio-label {
+    font-family: $font-heading;
+    font-size: $font-size-x-small;
+    color: $medium-gray;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 0 0 0.5rem;
+  }
+
+  audio {
+    width: 100%;
+    display: block;
+  }
+}
+
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
@@ -1419,12 +1438,14 @@ p.teacher {
       display: inline-block;
       margin-bottom: -2rem;
     }
+    /* Updated by Claude Code - 2026-05-22 */
     img {
       width: 1rem;
-      position: absolute;
+      vertical-align: middle;
     }
     a {
-      margin-left: 1.5rem;
+      margin-left: 0.5rem;
+      vertical-align: middle;
     }
   }
   .caption {

@@ -12,9 +12,15 @@
         <h2><%= current_page.data.subtitle %></h2>
       <% end %>
 
+      <!-- Updated by Claude Code - 2026-05-22 -->
       <% if current_page.data.download %>
         <div class="download">
-        <%= image_tag("images/essays/file-pdf-solid.svg", style: "color: #FFFFFF;") %> <%= link_to('Download the guide', current_page.data.download) %>
+          <%= image_tag("images/essays/file-pdf-solid.svg", style: "color: #FFFFFF;") %> <%= link_to('Download the guide', current_page.data.download) %>
+        </div>
+      <% end %>
+      <% if current_page.data.audio %>
+        <div class="download">
+          <%= image_tag("images/essays/headphones-solid.svg", style: "color: #FFFFFF;") %> <%= link_to('Audio guide', current_page.data.audio) %>
         </div>
       <% end %>
     </div>
