@@ -6,7 +6,7 @@ image: "images/essays/web.jpg"
 
 masthead: "url(/images/essays/web.jpg) no-repeat"
 masthead_text: "#FFF"
-download: "/writing/guides/pdf/emerging-future.pdf"
+download: "https://assets.methodandmatter.com/docs/emerging-future.pdf"
 
 title: Notes from the Emerging Future
 tags: "reflection"
