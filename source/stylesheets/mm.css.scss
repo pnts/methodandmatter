@@ -333,7 +333,23 @@ footer {
       text-decoration-color: $light-gray;
     }
   }
-  .footer-menu {
+  .newsletter {
+    border-bottom: 1px solid #333;
+    padding-bottom: 3rem;
+    padding-left: 2rem;
+    h3 {
+      margin-top: 2rem;
+      font-size: 1rem;
+      text-transform: uppercase;
+    }
+    input[type="email"] {
+      width: 23rem;
+      @include breakpoint(large) {
+        width: 40rem;
+      }
+    }
+  }
+  .footer-menu, .newsletter {
     @include breakpoint(large) {
       padding-left: 3rem;
     }
