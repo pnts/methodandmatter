@@ -10,6 +10,6 @@ Over at [The Beautiful Mess](https://cutlefish.substack.com), John Cutler writes
 
 In [Leader as Coach](https://methodandmatter.com/leader-as-coach/), one of the early assignments I give to people is to stop helping. When folks hear this, they balk. What? How could that even be a thing? I share with them Rachel Remen’s piece, “Helping, Fixing, or Serving?” that exquisitely illuminates the power imbalance hidden within the posture of helping. 
 
-She write, “Helping is not a relationship between equals. A helper may see others as weaker than they are, needier than they are, and people often feel this inequality. The danger in helping is that we may inadvertently take away from people more than we could ever give them; we may diminish their self-esteem, their sense of worth, integrity or even wholeness.”
+She writes, “Helping is not a relationship between equals. A helper may see others as weaker than they are, needier than they are, and people often feel this inequality. The danger in helping is that we may inadvertently take away from people more than we could ever give them; we may diminish their self-esteem, their sense of worth, integrity or even wholeness.”
 
-What to do instead? Serve. Trade mastery for mystery and sink into the power of our shared humanity.   
+What to do instead? Serve. Trade mastery for mystery and sink into the power of our shared humanity.  
