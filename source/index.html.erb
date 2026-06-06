@@ -60,41 +60,41 @@ layout: content
         card_title_size = ->(title, card_size) {
           len = title.to_s.length
           case card_size
-          when :essay
+          when :essay   # 2-col × 7 rows
             case len
-            when  0..8  then "clamp(2.5rem, 5.5vw, 9rem)"
-            when  9..16 then "clamp(2rem, 4.5vw, 7rem)"
-            when 17..30 then "clamp(1.8rem, 3.5vw, 6rem)"
-            else             "clamp(1.4rem, 2.5vw, 4.5rem)"
+            when  0..8  then "clamp(2.5rem, 5.5vw, 6rem)"
+            when  9..16 then "clamp(2rem, 4.5vw, 5rem)"
+            when 17..30 then "clamp(1.8rem, 3.5vw, 4rem)"
+            else             "clamp(1.4rem, 2.5vw, 3rem)"
             end
-          when :note
+          when :note    # 2-col × 3 rows, italic pull quote
             case len
-            when  0..8  then "clamp(3rem, 8vw, 12rem)"
-            when  9..16 then "clamp(2.5rem, 6vw, 9rem)"
-            when 17..25 then "clamp(2rem, 4.5vw, 7rem)"
-            else             "clamp(1.5rem, 3.5vw, 5rem)"
+            when  0..8  then "clamp(2.5rem, 4.5vw, 4.5rem)"
+            when  9..16 then "clamp(2rem, 3.5vw, 3.5rem)"
+            when 17..25 then "clamp(1.8rem, 3vw, 3rem)"
+            else             "clamp(1.5rem, 2.5vw, 2.5rem)"
             end
-          when :article
+          when :article # 2-col × 3 rows
             case len
-            when  0..8  then "clamp(2.5rem, 5vw, 8rem)"
-            when  9..20 then "clamp(1.8rem, 3.5vw, 5.5rem)"
-            when 21..35 then "clamp(1.4rem, 2.5vw, 4rem)"
-            else             "clamp(1.1rem, 2vw, 3rem)"
+            when  0..8  then "clamp(2.5rem, 5vw, 5rem)"
+            when  9..20 then "clamp(1.8rem, 3.5vw, 4rem)"
+            when 21..35 then "clamp(1.4rem, 2.5vw, 3rem)"
+            else             "clamp(1.1rem, 2vw, 2.5rem)"
             end
-          when :guide
+          when :guide   # 2-col × 7 rows, image background
             case len
-            when  0..16 then "clamp(1.5rem, 2.8vw, 4.5rem)"
-            when 17..30 then "clamp(1.2rem, 2.2vw, 3.5rem)"
-            else             "clamp(1rem, 1.8vw, 2.8rem)"
+            when  0..16 then "clamp(1.5rem, 2.8vw, 3.5rem)"
+            when 17..30 then "clamp(1.2rem, 2.2vw, 3rem)"
+            else             "clamp(1rem, 1.8vw, 2.5rem)"
             end
-          when :strip
+          when :strip   # 4-col × 2 rows (essay secondary)
             case len
-            when  0..10 then "clamp(3rem, 6vw, 10rem)"
-            when 11..20 then "clamp(2.5rem, 5vw, 8rem)"
-            when 21..35 then "clamp(2rem, 4vw, 6rem)"
-            else             "clamp(1.5rem, 3vw, 5rem)"
+            when  0..10 then "clamp(2.5rem, 5vw, 5rem)"
+            when 11..20 then "clamp(2rem, 4vw, 4.5rem)"
+            when 21..35 then "clamp(1.8rem, 3vw, 4rem)"
+            else             "clamp(1.4rem, 2.5vw, 3rem)"
             end
-          when :small
+          when :small   # 1-col × 3 rows (WMW secondary)
             case len
             when  0..6  then "clamp(2rem, 2.5vw, 3.5rem)"
             when  7..15 then "clamp(1.5rem, 2vw, 2.8rem)"
