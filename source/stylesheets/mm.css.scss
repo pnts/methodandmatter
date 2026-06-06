@@ -1157,40 +1157,7 @@ p.teacher {
 //////
 //////
 
-.words-make-worlds, .the-becoming {
-  .hero, .hero h1, .hero .text, .hero .text p {
-    max-width: 100%;
-    background: none;
-    text-align: center;
-  }
-  .hero h1 {
-    margin-top: 5rem;
-  }
-  .hero {
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 2rem;
-    .mini {
-      max-width: 50rem;
-      margin: 0 auto;
-    }
-  }
-  .formkit-form {
-    margin: 0 auto;
-  }
-  .mini {
-    margin-bottom: 1rem;
-    padding-bottom: 6rem;
-  }
-  .text {
-    padding: 0;
-  }
-  .figcaption {
-    text-align: center;
-    font-size: 1rem;
-    color: #999;
-  }
-}
+
 
 .words-make-worlds article {
   margin-bottom: 3rem;
@@ -1203,20 +1170,6 @@ p.teacher {
   }
 }
 
-.words-make-worlds {
-  .hero {
-    background-image: url("/images/wmw/newsletter-bg-5.png");
-    color: $white;
-    margin-bottom: 2rem;
-  }
-}
-
-.the-becoming {
-  .hero {
-    background-image: url("/images/the-becoming/newsletter-header.jpg");
-    color: $white;
-  }
-}
 
 .col-1.notes {
   p {
@@ -1238,14 +1191,10 @@ p.teacher {
 
 .words-make-worlds,
 .words-make-worlds .notes  {
-  background: #FCFCFC;
+  //background: #FCFCFC;
 }
 
-.words-make-worlds header, .words-make-worlds footer {
-  hr {
-    background-color: $lightest-gray;
-  }
-}
+
 
 .words-make-worlds .notes {
   color: #222;
@@ -1269,6 +1218,24 @@ p.teacher {
 .words-make-worlds_index {
   h2 {
     margin-bottom: 3rem;
+  }
+}
+
+.words-make-worlds .short .notes {
+  h1 {
+    font-size: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    line-height: 3rem;
+  }
+  .date {
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+  .wmw {
+    display: inline-block;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
   }
 }
 
@@ -1358,18 +1325,28 @@ p.teacher {
 }
 
 .words-make-worlds ul.issue-list {
-
   list-style-type: none;
   margin-top: 2rem;
   li {
     margin-left: 0;
+    padding: 1rem 0 2rem 0;
+    border-bottom: 1px solid #CCC;
     h3 {
-      font-size: 1.4rem;
+      font-size: 2rem;
+      line-height: 2.6rem;
       margin-bottom: 0;
     }
     h2 {
       margin-top: 0;
     }
+  }
+  .issue-note p, .issue-note a {
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+  }
+  .issue-note .permalink {
+    display: inline-block;
+    margin-bottom: 1.5rem;
   }
 }
 

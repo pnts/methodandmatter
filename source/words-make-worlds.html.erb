@@ -8,11 +8,12 @@ layout: content
 
 <section class="hero">
   <div class="text">
-    <h1>Words Make Worlds</h1> <p>A newsletter for leaders trying to do good and not burn out, in a topsy turvy-world.</p>
-
-    <div class="mini"><%= partial "wmw_form" %></div>
+    <h1>Words Make Worlds</h1>
+    <p></p>
   </div>
 </section>
+
+<hr />
 
 <section class="content">
   <div class="col-1">
@@ -20,7 +21,7 @@ layout: content
 
   <div class="col-2">
 
-    <p>The systems we live in today feel shaky at all levels—from the global down to the personal—and impact our bodies, minds and emotions, shaping how we live and lead. It’s simply not possible to show up at work focused purely on business. To pretend otherwise means appearing out of touch and inauthentic. </p>
+<!--    <p>The systems we live in today feel shaky at all levels—from the global down to the personal—and impact our bodies, minds and emotions, shaping how we live and lead. It’s simply not possible to show up at work focused purely on business. To pretend otherwise means appearing out of touch and inauthentic. </p>
 
     <p>It can be exhausting to navigate this uncertainty using old ideas of leadership. The certain leader with all the answers lacks responsiveness in constantly changing circumstances. Today’s leaders are required to be sense makers and facilitators, experts at navigating complexity with clear eyes, curiosity, and creativity.  </p>
 
@@ -35,14 +36,23 @@ layout: content
     <hr />
 
 
-      <h2>Issues</h2>
+    <h2>Issues</h2> -->
 
       <% blog('words-make-worlds').articles.each do |article| %>
         <ul class="issue-list">
-          <li><h3><%= link_to article.data.title, article %></h3>
-          <h4><%= article.data.description %></h4> </li>
+          <% if article.data.kind == 'note' %>
+            <li class="issue-note">
+              <%= article.body %>
+              <%= link_to '∞ permalink', article, :class=>"permalink" %>
+            </li>
+          <% else %>
+            <li>
+              <h3><%= link_to article.data.title, article %></h3>
+              <h4><%= article.data.description %></h4>
+            </li>
+          <% end %>
         </ul>
       <% end %>
-    
+
 
 </section>

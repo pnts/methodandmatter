@@ -1,5 +1,5 @@
 ---
-description: Old certainties are crumbling and no one really has the answers. So what do we do? We turn inward, find what's ours to do, and do it together.
+description: Old certainties are crumbling and no one really has the answers. Finding our way through this requires both deeply personal work as well as attunement to the collective.
 keywords: leadership, organizations, futures
 image: "og/og-words-make-worlds.png"
 
