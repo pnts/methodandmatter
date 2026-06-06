@@ -6,7 +6,7 @@ layout: wmw-note
 image: "og/og-words-make-worlds.png"
 ---
 
-Over at [The Beautiful Mess](https://cutlefish.substack.com), John Cutler writes about [the desire to help](https://cutlefish.substack.com/p/tbm-424-why-we-help-and-how-to-stay) as both an attunement to what needs attention as well as a source of pain and overwhelm. He breaks the impulse to help into four distinct impulses connected to personal identity, and links them to personal and relational power. It’s a great read with a lot of nuance, but it preserves the illusion that helping is a useful approach to begin with. 
+Over at [The Beautiful Mess](https://cutlefish.substack.com), John Cutler writes about [the desire to help](https://cutlefish.substack.com/p/tbm-424-why-we-help-and-how-to-stay) as both an attunement to what needs attention, as well as a source of pain and overwhelm. He breaks the impulse to help into four distinct impulses connected to personal identity, and links them to personal and relational power. It’s a great read with a lot of nuance, but it preserves the illusion that helping is a useful approach to begin with. 
 
 In [Leader as Coach](https://methodandmatter.com/leader-as-coach/), one of the early assignments I give to people is to stop helping. When folks hear this, they balk. What? How could that even be a thing? I share with them Rachel Remen’s piece, “Helping, Fixing, or Serving?” that exquisitely illuminates the power imbalance hidden within the posture of helping. 
 
