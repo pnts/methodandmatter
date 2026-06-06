@@ -1,0 +1,407 @@
+/* Featured content bento grid
+ * Added by Claude Code - 2026-06-06
+ * Updated by Claude Code - 2026-06-06
+ *
+ * Layout (4 cols, 8 auto rows of 3.5rem each):
+ *
+ *   Left  (cols 1-2): WMW [3 rows] + Guide [7 rows] = 10
+ *   Right (cols 3-4): Essay [7 rows] + WMW secondary [3 rows] = 10
+ *
+ * Both sides sum to 10 rows so the bottom edge is flush.
+ * The left seam falls after row 3, the right seam after row 7 —
+ * a 4-row offset that creates the bento asymmetry.
+ * Dense auto-flow places items into the correct gaps automatically.
+ */
+
+.index .featured-content {
+  //max-width: 85rem;
+  padding: 0;
+  @include breakpoint(large) {
+    padding-left: $main-padding;
+    padding-right: $main-padding;
+  }
+
+  .featured-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+
+    @include breakpoint(medium) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include breakpoint(large) {
+      grid-template-columns: repeat(4, 1fr);
+      grid-auto-rows: 3.5rem;
+      grid-auto-flow: dense;
+    }
+  }
+
+  // ─── Base card ──────────────────────────────────────────────────────────────
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    padding: 1.75rem 2rem;
+    border-radius: 0.75rem;
+    text-decoration: none;
+    overflow: hidden;
+    color: $dark-gray;
+    transition: $transition;
+
+    &:visited {
+      color: $dark-gray;
+    }
+
+    &:hover {
+      text-decoration: none;
+      opacity: 0.8;
+      color: $dark-gray;
+    }
+  }
+
+  .card-label {
+    font-size: $font-size-x-small;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: $light-gray;
+    display: block;
+  }
+
+  .card-title {
+    margin: 0;
+    font-weight: $font-weight-light;
+    color: $dark-gray;
+  }
+
+  .card-issue {
+    font-family: RomieItalic, $font-heading-serif;
+    color: $dark-gray;
+    display: block;
+    line-height: 1;
+  }
+
+  .card-description {
+    color: $medium-gray;
+    margin: 0;
+    flex-grow: 1;
+  }
+
+  .card-date {
+    font-size: $font-size-x-small;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    display: block;
+    margin-top: auto;
+    padding-top: 1.5rem;
+  }
+
+  // ─── Words Make Worlds — primary (article with issue number) ────────────────
+  // Issue number is a quiet label-level detail; title is the visual anchor.
+
+  .card--wmw.card--primary {
+    background: $cool-highlight;
+    min-height: 10rem;
+    justify-content: flex-start;
+
+    .card-label {
+      margin-bottom: 0.25rem;
+    }
+
+    .card-issue {
+      font-size: $font-size-x-small;
+      font-family: RomieItalic, $font-heading-serif;
+      color: $light-gray;
+      letter-spacing: 0.04em;
+      margin: 0 0 0;
+      line-height: 1.4;
+    }
+
+    .card-title {
+      font-family: RomieRegular, $font-heading-serif;
+      font-size: clamp(1.5rem, 6.5vw, 10rem);
+      line-height: 1.05;
+      margin-top: auto;
+    }
+
+    .card-description {
+      display: none;
+    }
+
+    @include breakpoint(large) {
+      grid-column: span 2;
+      grid-row: span 3;
+    }
+  }
+
+  // ─── Words Make Worlds — note ───────────────────────────────────────────────
+  // Short-form, no issue number. Italic serif title acts as a pull quote.
+
+  .card--wmw.card--note {
+    background: $white;
+    border: 1px solid #D8D8D8;
+    //border-left: 3px solid $warm-highlight;
+    min-height: 8rem;
+    justify-content: flex-start;
+
+    .card-label {
+      // label stays at top; title's margin-top:auto pushes it to the bottom
+    }
+
+    .card-title {
+      font-family: RomieItalic, $font-heading-serif;
+      font-size: clamp(1.5rem, 6.5vw, 10rem);
+      line-height: 1.05;
+      margin-top: auto;
+    }
+
+    @include breakpoint(large) {
+      grid-column: span 2;
+      grid-row: span 3;
+    }
+  }
+
+  // ─── Words Make Worlds — secondary ──────────────────────────────────────────
+  // Compact 1-col cards. Two appear side by side in the bottom-right of band 2.
+
+  .card--wmw.card--secondary {
+    background: $white;
+    border: 1px solid #D8D8D8;
+    min-height: 8rem;
+    justify-content: flex-start;
+
+    .card-label {
+      // anchored at top naturally
+    }
+
+    .card-issue {
+      font-size: $font-size-x-small;
+      font-family: RomieItalic, $font-heading-serif;
+      color: $light-gray;
+      letter-spacing: 0.04em;
+      margin-top: auto;
+      margin-bottom: 0.3rem;
+      line-height: 1.4;
+    }
+
+    .card-title {
+      font-family: RomieRegular, $font-heading-serif;
+      line-height: 1.2;
+      color: $dark-gray;
+    }
+
+    @include breakpoint(large) {
+      grid-column: span 1;
+      grid-row: span 3;
+    }
+  }
+
+
+  // ─── Essay — primary ────────────────────────────────────────────────────────
+  // Tall card. Large Romie serif title does the editorial work.
+
+  .card--essay.card--primary {
+    background: $dark-gray;
+    border: none;
+    min-height: 14rem;
+    justify-content: flex-end;
+
+    .card-label {
+      margin-bottom: auto;
+      color: rgba(255, 255, 255, 0.5);
+    }
+
+    .card-title {
+      font-family: RomieRegular, $font-heading-serif;
+      font-size: clamp(1.5rem, 8vw, 14rem);
+      line-height: 1.05;
+      color: $white;
+    }
+
+    &:hover {
+      color: $white;
+      opacity: 0.85;
+    }
+
+    &:visited {
+      color: $white;
+    }
+
+    .card-description {
+      font-size: 1.1rem;
+      line-height: 1.8rem;
+      margin-top: 1rem;
+    }
+
+    @include breakpoint(large) {
+      grid-column: span 2;
+      grid-row: span 7;
+    }
+  }
+
+  // ─── Essay — secondary ──────────────────────────────────────────────────────
+  // Full-width strip closing out the grid. Horizontal layout: label left,
+  // title filling the right. Type sized to the short card height.
+
+  .card--essay.card--secondary {
+    background: $white;
+    border: 1px solid #D8D8D8;
+    min-height: 6rem;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+
+    .card-label {
+      flex-shrink: 0;
+      writing-mode: vertical-lr;
+      text-orientation: mixed;
+      transform: rotate(180deg);
+      margin-bottom: 0;
+    }
+
+    .card-title {
+      font-family: RomieRegular, $font-heading-serif;
+      font-size: clamp(2rem, 4.5vw, 7rem);
+      line-height: 1.1;
+    }
+
+    @include breakpoint(large) {
+      grid-column: span 4;
+      grid-row: span 2;
+    }
+  }
+
+  // ─── Guide ──────────────────────────────────────────────────────────────────
+  // Featured card, spans 2 cols × 5 rows. When a masthead image is present
+  // (.card--has-image), a bottom gradient overlays the image and text turns white.
+
+  .card--guide {
+    background: $warm-highlight;
+    min-height: 12rem;
+    justify-content: center;
+
+    .card-label {
+      margin-bottom: 0.75rem;
+    }
+
+    .card-title {
+      font-family: RomieRegular, $font-heading-serif;
+      font-size: clamp(2rem, 5vw, 9rem);
+      line-height: 1.1;
+    }
+
+    .card-description {
+      font-family: RomieItalic, $font-heading-serif;
+      font-size: $font-size-regular;
+      line-height: 2rem;
+      margin-top: 0.5rem;
+      display: none;
+
+      @include breakpoint(large) {
+        display: block;
+      }
+    }
+
+    @include breakpoint(large) {
+      grid-column: span 2;
+      grid-row: span 7;
+    }
+  }
+
+  /* Updated by Claude Code - 2026-06-06 */
+  .card--guide.card--has-image {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    min-height: 28rem;
+    justify-content: center;
+
+    // Gradient darkens the bottom so white text is readable
+    &::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.82) 0%,
+        rgba(0, 0, 0, 0.45) 45%,
+        rgba(0, 0, 0, 0.05) 100%
+      );
+      pointer-events: none;
+    }
+
+    .guide-description {
+      position: relative;
+      width: 100%;
+    }
+
+    .card-label {
+      color: rgba(255, 255, 255, 0.6);
+      margin-bottom: 0.5rem;
+    }
+
+    .card-title {
+      color: $white;
+      line-height: 1.2;
+    }
+
+    .card-description {
+      color: rgba(255, 255, 255, 0.85);
+      margin-top: 0.5rem;
+    }
+
+    &:hover {
+      opacity: 0.9;
+      color: $white;
+    }
+
+    &:visited {
+      color: $white;
+    }
+  }
+
+  // ─── Announcement ───────────────────────────────────────────────────────────
+  // Full-width, dark background. Appears only when data/announcements.yml has entries.
+
+  .card--announcement {
+    background: $dark-gray;
+    min-height: 8rem;
+
+    .card-label {
+      color: rgba(255, 255, 255, 0.5);
+      margin-bottom: 0.75rem;
+    }
+
+    .card-title {
+      font-size: $font-size-quote;
+      line-height: 2.2rem;
+      color: $white;
+      font-weight: $font-weight-medium;
+    }
+
+    .card-description {
+      color: rgba(255, 255, 255, 0.75);
+      font-size: $font-size-small;
+      line-height: 1.7rem;
+      margin-top: 0.75rem;
+    }
+
+    .card-date {
+      color: rgba(255, 255, 255, 0.5);
+    }
+
+    &:hover {
+      opacity: 0.9;
+      color: $white;
+    }
+
+    &:visited {
+      color: $white;
+    }
+
+    @include breakpoint(large) {
+      grid-column: span 4;
+      grid-row: span 3;
+    }
+  }
+}

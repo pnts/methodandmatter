@@ -31,24 +31,155 @@ layout: content
     </div>
 
     <hr />
+</section>
 
-    <div class="nav-paragraphs">
-      <%= partial "wmw_recent" %>
+    <!-- Featured content grid — Added by Claude Code - 2026-06-06 -->
+    <div class="featured-content">
+      <%
+        wmw_articles   = blog("words-make-worlds").articles.select { |a| a.data.published != false }.first(3)
+        essay_articles = blog("essays").articles.select { |a| a.data.published != false }.sample(2)
 
-      <%= partial "wmw_lockup_home" %>
+        guide_resources = sitemap.resources.select { |r|
+          r.path =~ /^writing\/guides\/.+\.html$/ &&
+          r.data.respond_to?(:published) &&
+          r.data.published != false
+        }.sort_by { |g| g.data.title.to_s }
+
+        featured_guide = guide_resources.find { |g| g.data.respond_to?(:featured) && g.data.featured } ||
+                         (guide_resources.any? ? guide_resources[Date.today.yday % guide_resources.length] : nil)
+
+        announcements = begin
+          data.announcements ? Array(data.announcements) : []
+        rescue
+          []
+        end
+
+        # Dynamic title sizing: font scales inversely with title length, calibrated per card type.
+        # card_size: :essay (2-col tall), :note (2-col short italic), :article (2-col short),
+        #            :guide (2-col tall, image), :strip (4-col short), :small (1-col short)
+        card_title_size = ->(title, card_size) {
+          len = title.to_s.length
+          case card_size
+          when :essay
+            case len
+            when  0..8  then "clamp(2.5rem, 5.5vw, 9rem)"
+            when  9..16 then "clamp(2rem, 4.5vw, 7rem)"
+            when 17..30 then "clamp(1.8rem, 3.5vw, 6rem)"
+            else             "clamp(1.4rem, 2.5vw, 4.5rem)"
+            end
+          when :note
+            case len
+            when  0..8  then "clamp(3rem, 8vw, 12rem)"
+            when  9..16 then "clamp(2.5rem, 6vw, 9rem)"
+            when 17..25 then "clamp(2rem, 4.5vw, 7rem)"
+            else             "clamp(1.5rem, 3.5vw, 5rem)"
+            end
+          when :article
+            case len
+            when  0..8  then "clamp(2.5rem, 5vw, 8rem)"
+            when  9..20 then "clamp(1.8rem, 3.5vw, 5.5rem)"
+            when 21..35 then "clamp(1.4rem, 2.5vw, 4rem)"
+            else             "clamp(1.1rem, 2vw, 3rem)"
+            end
+          when :guide
+            case len
+            when  0..16 then "clamp(1.5rem, 2.8vw, 4.5rem)"
+            when 17..30 then "clamp(1.2rem, 2.2vw, 3.5rem)"
+            else             "clamp(1rem, 1.8vw, 2.8rem)"
+            end
+          when :strip
+            case len
+            when  0..10 then "clamp(3rem, 6vw, 10rem)"
+            when 11..20 then "clamp(2.5rem, 5vw, 8rem)"
+            when 21..35 then "clamp(2rem, 4vw, 6rem)"
+            else             "clamp(1.5rem, 3vw, 5rem)"
+            end
+          when :small
+            case len
+            when  0..6  then "clamp(2rem, 2.5vw, 3.5rem)"
+            when  7..15 then "clamp(1.5rem, 2vw, 2.8rem)"
+            when 16..30 then "clamp(1.2rem, 1.5vw, 2.2rem)"
+            else             "clamp(1.1rem, 1.3vw, 1.8rem)"
+            end
+          end
+        }
+      %>
+
+      <div class="featured-grid">
+        <% announcements.each do |item| %>
+          <a href="<%= item.url %>" class="card card--announcement">
+            <span class="card-label"><%= item.type || "Announcement" %></span>
+            <h3 class="card-title"><%= item.title %></h3>
+            <% if item.description %><p class="card-description"><%= item.description %></p><% end %>
+            <% if item.date %><time class="card-date"><%= item.date %></time><% end %>
+          </a>
+        <% end %>
+
+        <% if wmw_articles[0] %>
+          <% wmw_is_article = wmw_articles[0].data.respond_to?(:issue) && wmw_articles[0].data.issue %>
+          <a href="<%= wmw_articles[0].url %>" class="card card--wmw <%= wmw_is_article ? 'card--primary' : 'card--note' %>">
+            <span class="card-label"><%= wmw_is_article ? 'Words Make Worlds' : 'Note' %></span>
+            <% if wmw_is_article %>
+              <span class="card-issue">№&nbsp;<%= wmw_articles[0].data.issue %></span>
+              <h3 class="card-title" style="font-size: <%= card_title_size.(wmw_articles[0].title, :article) %>"><%= wmw_articles[0].title %></h3>
+            <% else %>
+              <h3 class="card-title" style="font-size: <%= card_title_size.(wmw_articles[0].title, :note) %>"><%= wmw_articles[0].title %></h3>
+            <% end %>
+          </a>
+        <% end %>
+
+        <% if essay_articles[0] %>
+          <a href="<%= essay_articles[0].url %>" class="card card--essay card--primary">
+            <span class="card-label">Essay</span>
+            <h3 class="card-title" style="font-size: <%= card_title_size.(essay_articles[0].title, :essay) %>"><%= essay_articles[0].title %></h3>
+          </a>
+        <% end %>
+
+        <% if featured_guide %>
+          <% guide_bg = featured_guide.data.masthead.to_s[/url\([^)]+\)/] if featured_guide.data.masthead %>
+          <a href="<%= featured_guide.url %>"
+             class="card card--guide<%= guide_bg ? ' card--has-image' : '' %>"
+             <%= "style=\"background-image: #{guide_bg};\"".html_safe if guide_bg %>>
+            <div class="guide-description">
+              <span class="card-label">Guide</span>
+              <h3 class="card-title" style="font-size: <%= card_title_size.(featured_guide.data.title, guide_bg ? :guide : :essay) %>"><%= featured_guide.data.title %></h3>
+              <% if featured_guide.data.respond_to?(:subtitle) && featured_guide.data.subtitle %>
+                <p class="card-description"><%= featured_guide.data.subtitle %></p>
+                <% end %>
+            </div>
+          </a>
+        <% end %>
+
+        <% wmw_articles[1..2].compact.each do |article| %>
+          <a href="<%= article.url %>" class="card card--wmw card--secondary">
+            <span class="card-label">Words Make Worlds</span>
+            <% if article.data.issue %>
+              <span class="card-issue">№&nbsp;<%= article.data.issue %></span>
+            <% end %>
+            <h3 class="card-title" style="font-size: <%= card_title_size.(article.title, :small) %>"><%= article.title %></h3>
+          </a>
+        <% end %>
+
+        <% if essay_articles[1] %>
+          <a href="<%= essay_articles[1].url %>" class="card card--essay card--secondary">
+            <span class="card-label">Essay</span>
+            <h3 class="card-title" style="font-size: <%= card_title_size.(essay_articles[1].title, :strip) %>"><%= essay_articles[1].title %></h3>
+          </a>
+        <% end %>
+      </div>
     </div>
 
     <hr/>
 
-    <div class="e-book nav-paragraphs">
+<section class="full-width">
+  <!--  <div class="e-book nav-paragraphs">
       <span class="subheading">EBOOK</span>
       <%= image_tag("ebook.png") %>
         <p>This small ebook is the product of working with 100s of leaders in organizations to have more effective and purposeful conversations at work.   <br/><br/>
         <%= link_to('Grab your copy', 'https://assets.methodandmatter.com/docs/8-competencies.pdf') %> &rarr;
         </p>
-    </div>
+    </div> -->
 
-    <hr />
 
     <div class="mini-bio nav-paragraphs">
       <%= image_tag("amignolo-profile-web-square.jpg") %>

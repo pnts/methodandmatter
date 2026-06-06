@@ -1,0 +1,16 @@
+# Featured grid announcements and events.
+# Each entry renders as a full-width card at the top of the featured content grid.
+# Remove or comment out entries when they are no longer relevant.
+#
+# Fields:
+#   title:       (required) Headline for the card
+#   url:         (required) Link destination
+#   description: (optional) Supporting text
+#   date:        (optional) Event date or deadline, displayed on the card
+#   type:        (optional) Label shown on the card — defaults to "Announcement"
+#
+# - title: "Workshop: Leading Through Change"
+#   description: "A half-day workshop for senior leaders navigating organizational complexity."
+#   url: "/events/workshop"
+#   date: "June 20, 2026"
+#   type: Event

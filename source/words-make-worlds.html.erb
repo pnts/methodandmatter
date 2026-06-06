@@ -20,30 +20,12 @@ layout: content
   </div>
 
   <div class="col-2">
-
-<!--    <p>The systems we live in today feel shaky at all levels—from the global down to the personal—and impact our bodies, minds and emotions, shaping how we live and lead. It’s simply not possible to show up at work focused purely on business. To pretend otherwise means appearing out of touch and inauthentic. </p>
-
-    <p>It can be exhausting to navigate this uncertainty using old ideas of leadership. The certain leader with all the answers lacks responsiveness in constantly changing circumstances. Today’s leaders are required to be sense makers and facilitators, experts at navigating complexity with clear eyes, curiosity, and creativity.  </p>
-
-    <p>Words Make Worlds is a newsletter dedicated to leaders who are ready to navigate complexity without getting swept away, who know the importance of caring for people and remembering what is truly important.</p>
-
-    <p><strong>When you sign up, in addition to the regular newsletter, you’ll receive a series of five emails sharing simple practices that can bring more ease and authenticity to how you show up at work.</strong></p>
-
-    <hr />
-
-    <p class="archive-note"><em>Words Make Worlds was relaunched in September, 2025. Previous issues from the original Words Make Worlds series have been archived as <a href="/writing">essays</a> in the writing section, where they continue to be available as evergreen resources for leaders developing their coaching skills.</em></p>
-
-    <hr />
-
-
-    <h2>Issues</h2> -->
-
       <% blog('words-make-worlds').articles.each do |article| %>
         <ul class="issue-list">
           <% if article.data.kind == 'note' %>
             <li class="issue-note">
               <%= article.body %>
-              <%= link_to '∞ permalink', article, :class=>"permalink" %>
+              <%= link_to '∞ note permalink', article, :class=>"permalink" %>
             </li>
           <% else %>
             <li>

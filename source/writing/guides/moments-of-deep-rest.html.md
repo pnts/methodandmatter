@@ -10,6 +10,7 @@ audio: "https://assets.methodandmatter.com/audio/28-yoga-nidra-5.mp3"
 
 
 title: Moments of Deep Rest
+featured: true
 subtitle: A guided meditation to relax the body and mind.
 tags: "practice"
 status: evergreen

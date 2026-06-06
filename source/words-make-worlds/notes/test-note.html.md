@@ -4,7 +4,6 @@ date: June 6th, 2026
 kind: note
 layout: wmw-note
 image: "og/og-words-make-worlds.png"
-published: true
 ---
 
 Over at [The Beautiful Mess](https://cutlefish.substack.com), John Cutler writes about [the desire to help](https://cutlefish.substack.com/p/tbm-424-why-we-help-and-how-to-stay) as both an attunement to what needs attention as well as a source of pain and overwhelm. He breaks the impulse to help into four distinct impulses connected to personal identity, and links them to personal and relational power. It’s a great read with a lot of nuance, but it preserves the illusion that helping is a useful approach to begin with. 

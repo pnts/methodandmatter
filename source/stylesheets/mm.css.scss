@@ -3,6 +3,7 @@
 @import 'partials/fonts';
 @import 'partials/scaffolding';
 @import 'partials/normalize';
+@import 'partials/featured-grid'; /* Added by Claude Code - 2026-06-06 */
 
 
 body {
@@ -132,7 +133,8 @@ hr {
 .newsletters .newsletter a,
 .courses .courses a,
 .leadership-fluency .courses a,
-.deep-rest .courses a {
+.deep-rest .courses a,
+.words-make-worlds .blog a {
   text-decoration-color: $link-accent-color;
 }
 
@@ -1342,7 +1344,7 @@ p.teacher {
 
 .words-make-worlds ul.issue-list {
   list-style-type: none;
-  margin-top: 2rem;
+  //margin-top: 2rem;
   li {
     margin-left: 0;
     padding: 1rem 0 2rem 0;
