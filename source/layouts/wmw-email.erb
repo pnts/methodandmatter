@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!-- wmw-email.erb — Words Make Worlds email template -->
+<!-- Added by Claude Code - 2026-06-08 -->
+<!-- Updated by Claude Code - 2026-06-08 -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= title %></title>
+  <style>
+    <%= styles %>
+  </style>
+</head>
+
+<!-- Email HTML uses tables for layout because modern CSS (flexbox/grid) doesn't work reliably across email clients -->
+<!-- Styles are defined in source/stylesheets/email-wmw.scss and inlined by Premailer -->
+
+<body>
+
+  <!-- TEST BANNER — comment out before real sends -->
+  <!--
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td style="background-color:#F0B600;padding:10px 20px;font-family:'Helvetica Neue',Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:0.08em;color:#222222;">
+        TEST EMAIL — This is a development preview. If you received this by mistake, please ignore it.
+      </td>
+    </tr>
+  </table>
+  -->
+  <!-- END TEST BANNER -->
+
+  <!-- Outer wrapper: left-aligned with a small left margin so text doesn't flush against screen edge -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" class="email-wrapper">
+    <tr>
+      <td class="email-wrapper-cell">
+
+        <!-- Main content container: max 600px, left-aligned -->
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" class="email-container">
+          <tr>
+            <td class="email-container-cell">
+
+              <!-- HEADER SECTION -->
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td class="header-section">
+
+                    <!-- Lockup: circle image + newsletter name / issue / date -->
+                    <!-- Replicates h4.lockup from the web layout as a two-cell table row -->
+                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" class="lockup-table">
+                      <tr>
+                        <td class="lockup-image-cell" valign="middle">
+                          <img src="<%= circle_image_url %>" width="80" height="80" alt="" class="lockup-image" />
+                        </td>
+                        <td class="lockup-text-cell" valign="middle">
+                          <span class="lockup-newsletter-name">Words Make Worlds</span>
+                          <% if issue %>
+                          <span class="lockup-meta">Issue <%= issue %></span>
+                          <% end %>
+                          <% if date && !date.empty? %>
+                          <span class="lockup-meta"><%= date %></span>
+                          <% end %>
+                        </td>
+                      </tr>
+                    </table>
+
+                    <!-- Issue title -->
+                    <h1 class="issue-title"><a href="<%= web_url %>" class="issue-title-link"><%= title %></a></h1>
+
+                  </td>
+                </tr>
+              </table>
+              <!-- END HEADER SECTION -->
+
+              <!-- CONTENT SECTION -->
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td class="content-section">
+                    <%= content %>
+                  </td>
+                </tr>
+              </table>
+              <!-- END CONTENT SECTION -->
+
+              <!-- RECENT NOTES SECTION -->
+              <% if recent_notes && !recent_notes.empty? %>
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td class="notes-section">
+                    <p class="notes-label">Recent Notes</p>
+                    <ul class="notes-list">
+                      <% recent_notes.each do |note| %>
+                      <li><a href="<%= note[:url] %>"><%= note[:title] %></a></li>
+                      <% end %>
+                    </ul>
+                  </td>
+                </tr>
+              </table>
+              <% end %>
+              <!-- END RECENT NOTES SECTION -->
+
+              <!-- FOOTER SECTION -->
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" class="footer-section">
+                <tr>
+                  <td class="footer-content">
+                    <p class="footer-tagline">
+                      Words Make Worlds is a newsletter exploring the changing role of leadership in an uncertain world, written by <a href="https://methodandmatter.com/about/">Andrea (Andi) Mignolo</a>.
+                    </p>
+                    <p class="footer-manage">
+                      <a href="<%= web_url %>">view online</a> • <a href="{{unsubscribe_url}}">unsubscribe</a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <!-- END FOOTER SECTION -->
+
+            </td>
+          </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>

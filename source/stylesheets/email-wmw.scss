@@ -1,0 +1,370 @@
+// email-wmw.scss — Words Make Worlds email styles
+// Added by Claude Code - 2026-06-08
+// Updated by Claude Code - 2026-06-08
+//
+// Self-contained — no @imports from site SCSS.
+// Premailer inlines these into element style attributes.
+
+// ─── Variables ──────────────────────────────────────────────────────────────
+
+$font:           -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+$font-serif:     Georgia, 'Times New Roman', Times, serif;
+
+$white:          #ffffff;
+$text:           #222222;
+$text-secondary: #444444;
+$text-meta:      #666666;
+$text-muted:     #888888;
+$text-subtle:    #999999;
+$text-faint:     #bbbbbb;
+$border:         #e4e4e4;
+$border-mid:     #cccccc;
+$border-faint:   #dddddd;
+$link:           #EE3460;
+
+// ─── Reset ──────────────────────────────────────────────────────────────────
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $white;
+  font-family: $font;
+  color: $text;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+h1 {
+  font-family: $font-serif;
+  padding-top: 30px !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+h1 a {
+  color: $text !important;
+}
+
+table {
+  border-collapse: collapse;
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+}
+
+img {
+  border: 0;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  outline: 0;
+  text-decoration: none;
+  -ms-interpolation-mode: bicubic;
+}
+
+// ─── Outer wrapper ──────────────────────────────────────────────────────────
+
+.email-wrapper {
+  width: 100%;
+  background-color: $white;
+}
+
+.email-wrapper-cell {
+  padding: 0 0 0 20px; // left margin keeps text off the screen edge on mobile
+}
+
+// ─── Container ──────────────────────────────────────────────────────────────
+
+.email-container {
+  width: 600px;
+  max-width: 600px;
+}
+
+.email-container-cell {
+  background-color: $white;
+  overflow: hidden;
+}
+
+// ─── Header ─────────────────────────────────────────────────────────────────
+
+.header-section {
+  background-color: $white;
+  padding: 36px 20px 0;
+}
+
+// ─── Lockup ─────────────────────────────────────────────────────────────────
+// Email-safe version of .words-make-worlds h4.lockup from mm.css.scss.
+// The web version uses background-image + padding-left; here we use a
+// two-cell table row (image cell | text cell) to the same visual effect.
+
+.lockup-table {
+  margin-bottom: 28px;
+}
+
+.lockup-image-cell {
+  width: 96px;
+  padding-right: 16px;
+  vertical-align: middle;
+}
+
+.lockup-image {
+  width: 80px;
+  height: 80px;
+  display: block;
+}
+
+.lockup-text-cell {
+  vertical-align: middle;
+}
+
+.lockup-newsletter-name {
+  display: block;
+  font-family: $font;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: $text-secondary;
+  line-height: 2;
+}
+
+.lockup-meta {
+  display: block;
+  font-family: $font;
+  font-size: 13px;
+  color: $text-meta;
+  line-height: 2;
+}
+
+// ─── Issue title ────────────────────────────────────────────────────────────
+
+.issue-title-link {
+  color: $text;
+  text-decoration: none;
+}
+
+.issue-title {
+  font-family: $font-serif;
+  font-size: 34px;
+  font-weight: normal;
+  line-height: 1.2;
+  color: $text;
+  margin: 56px 0 0;
+  padding: 0 0 10px;
+}
+
+// ─── Content ────────────────────────────────────────────────────────────────
+
+.content-section {
+  padding: 0 20px 24px;
+  background-color: $white;
+}
+
+.content-section img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid $border;
+  margin: 28px 0;
+}
+
+p {
+  font-family: $font;
+  font-size: 17px;
+  line-height: 1.6;
+  color: $text;
+  margin: 0 0 22px;
+}
+
+a {
+  color: $link;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: $font;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.3;
+  color: $text;
+  margin: 36px 0 14px;
+  padding: 0;
+}
+
+h3 {
+  font-family: $font;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.35;
+  color: $text;
+  margin: 28px 0 10px;
+  padding: 0;
+}
+
+h4, h5 {
+  font-family: $font;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $text-subtle;
+  margin: 28px 0 10px;
+  padding: 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid $border;
+  margin: 36px 0;
+}
+
+ul, ol {
+  font-family: $font;
+  font-size: 17px;
+  line-height: 1.75;
+  color: $text;
+  margin: 0 0 22px;
+  padding-left: 28px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+blockquote {
+  margin: 28px 0;
+  padding: 0 0 0 24px;
+  border-left: 3px solid $text-meta;
+  font-style: italic;
+  color: $text-secondary;
+
+  p {
+    margin: 0;
+  }
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+p.caption {
+  font-family: $font;
+  font-size: 14px;
+  line-height: 1.5;
+  color: $text-meta;
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 22px;
+}
+
+p.center {
+  text-align: center;
+}
+
+// Redcarpet wraps footnotes in a div.footnotes preceded by its own <hr>.
+// Hide that auto-generated <hr> — the article's own --- divider already
+// separates the body from the footnotes.
+.footnotes {
+  margin-top: 0;
+
+  hr {
+    display: none;
+  }
+
+  ol {
+    font-size: 13px;
+    line-height: 1.6;
+    color: $text-muted;
+    padding-left: 0;
+    list-style-position: inside;
+  }
+}
+
+// ─── Recent Notes ───────────────────────────────────────────────────────────
+
+.notes-section {
+  padding: 0 20px 32px;
+}
+
+.notes-label {
+  font-family: $font;
+  font-size: 10px !important;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: $text-subtle;
+  margin: 0 0 14px;
+  border-top: 1px solid $border;
+  padding-top: 28px;
+}
+
+.notes-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    font-family: $font;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 9px 0;
+    margin: 0;
+    border-bottom: 1px solid $border;
+
+    &:first-child {
+      padding-top: 0;
+    }
+
+    &:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+  }
+
+  a {
+    color: $link;
+    text-decoration: underline;
+  }
+}
+
+// ─── Footer ─────────────────────────────────────────────────────────────────
+
+.footer-section {
+}
+
+.footer-content {
+  padding: 0 20px 36px;
+}
+
+.footer-tagline {
+  font-family: $font;
+  font-size: 14px !important;
+  line-height: 1.5;
+  color: $text-muted;
+  margin: 0 0 16px;
+  border-top: 1px solid $border;
+  padding-top: 28px;
+
+  a {
+    color: $text-muted;
+    text-decoration: none;
+    border-bottom: 1px solid $border-mid;
+  }
+}
+
+.footer-manage {
+  font-family: $font;
+  font-size: 14px !important;
+  //letter-spacing: 0.04em;
+  color: $text-faint;
+  margin: 0;
+
+  a {
+    color: $text-faint;
+    text-decoration: none;
+    border-bottom: 1px solid $border-faint;
+  }
+}

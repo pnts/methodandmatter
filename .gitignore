@@ -17,3 +17,7 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+# Email pipeline — Added by Claude Code - 2026-06-08
+.env
+source/email_preview.html

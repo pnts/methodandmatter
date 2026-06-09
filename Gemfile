@@ -11,3 +11,10 @@ gem 'rexml', '>= 3.3.9'
 gem 'webrick', '~> 1.8.2'
 gem 'base64'
 #gem 'middleman-search_engine_sitemap', '~> 1.4'
+
+# Email pipeline — Added by Claude Code - 2026-06-08
+gem 'redcarpet', '~> 3.6'
+gem 'sassc', '~> 2.4'
+gem 'premailer', '~> 1.21'
+gem 'nokogiri'
+gem 'dotenv', '~> 3.1'
