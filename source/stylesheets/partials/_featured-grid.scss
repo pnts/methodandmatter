@@ -190,6 +190,10 @@
       color: $dark-gray;
     }
 
+    &.card--note .card-title {
+      margin-top: 1rem;
+    }
+
     @include breakpoint(large) {
       grid-column: span 1;
       grid-row: span 3;

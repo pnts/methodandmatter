@@ -151,9 +151,10 @@ layout: content
         <% end %>
 
         <% wmw_articles[1..2].compact.each do |article| %>
-          <a href="<%= article.url %>" class="card card--wmw card--secondary">
-            <span class="card-label">Words Make Worlds</span>
-            <% if article.data.issue %>
+          <% is_article = article.data.respond_to?(:issue) && article.data.issue %>
+          <a href="<%= article.url %>" class="card card--wmw card--secondary<%= ' card--note' unless is_article %>">
+            <span class="card-label"><%= is_article ? 'Words Make Worlds' : 'Note' %></span>
+            <% if is_article %>
               <span class="card-issue">№&nbsp;<%= article.data.issue %></span>
             <% end %>
             <h3 class="card-title" style="font-size: <%= card_title_size.(article.title, :small) %>"><%= article.title %></h3>
