@@ -40,7 +40,7 @@ And now I’d like to share it with you!
 
 There is still an endless list of updates I want to make to the site and newsletter, but I think I’m back in a place where I can flow again. 
 
-I’m forever trying to find the right balance between structure and openness that facilitates a generative creative space. Where my work with clients cross-pollinates with what I am reading, writing, and thinking to create meaningful stories and impactful insights that trickle into a stream of sharing. Too much structure and everything feels too heavy, too much openness and I get lost in possibilities. 
+I’m forever trying to find the right balance between structure and openness that facilitates a generative creative space. Where my work with clients cross-pollinates with what I am reading, writing, and thinking to create meaningful stories and impactful insights that trickle into a stream of sharing. Too much structure and everything feels heavy, too much openness and I get lost in possibilities. 
 
 
 
