@@ -9,6 +9,7 @@ masthead_text: "#FFF"
 download: "https://assets.methodandmatter.com/docs/end-of-a-cycle.pdf"
 
 title: At the End of a Cycle
+featured: false
 subtitle: Guided reflections across transitional thresholds.
 tags: "reflection"
 status: evergreen
