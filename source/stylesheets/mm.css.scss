@@ -1011,6 +1011,12 @@ blockquote {
   }
 }
 
+.words-make-worlds_index {
+  blockquote::before {
+    top: 2.5rem;
+  }
+}
+
 //////
 //////
 ////// Styling for certification list
