@@ -223,7 +223,7 @@ def send_to_buttondown(filepath, all_article_files)
   req['Content-Type']  = 'application/json'
   # Prepend editor-mode hint so Buttondown treats this as raw HTML (no template wrapper)
   raw_html = "<!-- buttondown-editor-mode: html -->#{html}"
-  req.body = JSON.generate(subject: subject, body: raw_html, status: 'draft', template: nil)
+  req.body = JSON.generate(subject: subject, body: raw_html, status: 'draft')
 
   puts "Posting..."
   res = http.request(req)
