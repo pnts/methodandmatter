@@ -43,13 +43,13 @@ Thanks to Simon Sinek, the phrase “start with why” is probably ingrained at 
 
 Now we add four additional dimensions that build on the WHY: WHO, WHERE, WHAT, and HOW. All five of these dimensions are essential to define for the success of any business. They bring clarity, direction, coordination, and focus.
 
-![Five dimensions of business: WHY, WHERE, WHO, WHAT, HOW](wmw/lf-five-dimensions.png)
+![Five dimensions of business: WHY, WHERE, WHO, WHAT, HOW](wmw/lf-five-dimensions-2.png)
 
 WHO is the dimension that represents the people critical to the success of the business—employees, customers, users, partners, investors, the board.
 
 WHERE is about the vision, and works to answer the question, “where are we going and what does the world look like when we get there?”
 
-WHAT are the decisions required to achieve the vision. Trade-offs, priorities, commitments, and focus are all live here.
+WHAT are the outcomes that mark progress towards the vision. The milestones and goals we need to achieve along the way that will bring the vision closer to reality.  
 
 HOW are the processes and ways of working that encode decisions and create the reliability and structure to deliver consistent business outcomes.
 
@@ -65,7 +65,7 @@ But if the roles aren’t directly correlated with dimensions of the business, t
 
 ## The Four Roles of Leadership
 
-![The full Leadership Fluency Model](wmw/lf-framework.png)
+![The full Leadership Fluency Model](wmw/lf-framework-2.png)
 
 Let’s look at this role by role:
 
@@ -77,7 +77,7 @@ Leading makes vision a shared reality across the full ecosystem of stakeholders,
 ### Directing
 Directing connects the dimensions of WHERE and WHAT and is responsible for the contextual interpretation of vision.
 
-Vision on its own is simply a statement of direction. And decisions on their own, without the connection to vision, may work well for the team or department making them, but run the risk of running counter to business goals.
+Vision on its own is simply a statement of direction. And outcomes on their own, without the connection to vision, may work well for the team or department making them, but run the risk of running counter to business goals.
 
 In order to make vision actionable, the act of directing must do the work to interpret the vision asking, “what does this mean for us here, now, at this particular moment in time?” The answer to that question becomes the decisions, commitments, and priorities that create the container for the team’s work.
 
@@ -118,7 +118,7 @@ AI is useful in identifying performance patterns, supporting people to reflect o
 
 ---
 
-What I am sitting with is the way AI can be used to enable various business dimensions with bounded, optimizable work, while the roles of leadership live in the interpretive, relational work between dimensions.
+AI can be used to enable various business dimensions with bounded, optimizable work, while the roles of leadership live in the interpretive, relational work between dimensions.
 
 In a world where AI does (almost) everything, leading is in the connections, it is the work that requires human ownership, accountability, and judgement.
 
