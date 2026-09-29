@@ -1,10 +1,10 @@
 # Updated by Claude Code - 2026-09-29
 # All crawlers (including AI crawlers) are welcome, except on a few utility/private pages.
 User-agent: *
-Allow: /
 Disallow: /confirmed/
 Disallow: /subscribing/
 Disallow: /welcome/
+Disallow: /welcome-to-coaching/
 Disallow: /logistics/
 Disallow: /quotes/
 
