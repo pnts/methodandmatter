@@ -3,6 +3,7 @@ title: Quotes I love.
 keywords: quotes
 image: "og/mm-simple.png"
 layout: newsletter
+robots: true # Added by Claude Code - 2026-09-29
 ---
 
 > Each must discover and contribute that which distinguishes him from others, his difference. The only use for my difference is to join it with other differences. The unifying of opposites is the eternal process. We must have an imagination which will leap from the particular to the universal. Our joy, our satisfaction, must always be in the more inclusive aspect of our problem.

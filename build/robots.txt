@@ -1,4 +1,11 @@
 # Updated by Claude Code - 2026-09-29
-# All crawlers (including AI crawlers) are welcome. This file is intentionally permissive.
+# All crawlers (including AI crawlers) are welcome, except on a few utility/private pages.
 User-agent: *
 Allow: /
+Disallow: /confirmed/
+Disallow: /subscribing/
+Disallow: /welcome/
+Disallow: /logistics/
+Disallow: /quotes/
+
+Sitemap: https://methodandmatter.com/sitemap.xml

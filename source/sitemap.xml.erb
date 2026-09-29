@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Added by Claude Code - 2026-09-29 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<%# email_preview.html is generated locally by the newsletter preview script, so it can't carry frontmatter %>
+<% sitemap.resources
+     .select { |r| r.ext == ".html" && !r.data.robots && r.data.published != false }
+     .reject { |r| r.path == "email_preview.html" }
+     .sort_by(&:url)
+     .each do |r| %>
+  <url>
+    <loc>https://methodandmatter.com<%= r.url %></loc>
+<% if r.respond_to?(:date) %>
+    <lastmod><%= r.date.strftime("%Y-%m-%d") %></lastmod>
+<% end %>
+  </url>
+<% end %>
+</urlset>
